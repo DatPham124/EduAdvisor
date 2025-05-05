@@ -1,6 +1,36 @@
 {
+  "name": "edu-advisor-backend",
+  "version": "1.0.0",
+  "description": "Develop a web application for educational advising",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "dev": "nodemon server.js",
+    "import": "node importData.js",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "prettier": "prettier --write .",
+    "prettier:check": "prettier --check ."
+  },
+  "author": "Nguyen Thi Cam Tu",
+  "license": "ISC",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DatPham124/EduAdvisor.git"
+  },
+  "keywords": [
+    "web",
+    "application",
+    "educational",
+    "advising"
+  ],
   "dependencies": {
+    "axios": "^1.9.0",
     "brcypt": "^1.0.1",
+    "cheerio": "^1.0.0",
     "cookie-parser": "^1.4.7",
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
@@ -11,6 +41,8 @@
     "validator": "^13.15.0"
   },
   "devDependencies": {
+    "eslint": "^9.26.0",
+    "eslint-config-prettier": "^10.1.2",
     "nodemon": "^3.1.10",
     "prettier": "^3.5.3"
   }

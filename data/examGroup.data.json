@@ -1,0 +1,842 @@
+[
+  {
+    "code": "A00",
+    "subjects": "Toán, Vật lý, Hóa học"
+  },
+  {
+    "code": "A01",
+    "subjects": "Toán, Vật lý, Tiếng Anh"
+  },
+  {
+    "code": "A02",
+    "subjects": "Toán, Vật lí , Sinh học"
+  },
+  {
+    "code": "A03",
+    "subjects": "Toán, Vật lý, Lịch sử"
+  },
+  {
+    "code": "A04",
+    "subjects": "Toán, Vật lý, Địa lí"
+  },
+  {
+    "code": "A05",
+    "subjects": "Toán, Hóa học, Lịch sử"
+  },
+  {
+    "code": "A06",
+    "subjects": "Toán, Hóa học, Địa lí"
+  },
+  {
+    "code": "A07",
+    "subjects": "Toán, Lịch sử, Địa lí"
+  },
+  {
+    "code": "A08",
+    "subjects": "Toán, Lịch sử, Giáo dục công dân"
+  },
+  {
+    "code": "A09",
+    "subjects": "Toán, Địa lí, Giáo dục công dân"
+  },
+  {
+    "code": "A10",
+    "subjects": "Toán, Vật lý, Giáo dục công dân"
+  },
+  {
+    "code": "A11",
+    "subjects": "Toán, Hóa học, Giáo dục công dân"
+  },
+  {
+    "code": "A12",
+    "subjects": "Toán, Khoa học tự nhiên, Khoa học xã hội"
+  },
+  {
+    "code": "A14",
+    "subjects": "Toán, Khoa học tự nhiên, Địa lí"
+  },
+  {
+    "code": "A15",
+    "subjects": "Toán, Khoa học tự nhiên, Giáo dục công dân"
+  },
+  {
+    "code": "A16",
+    "subjects": "Toán, Khoa học tự nhiên, Văn"
+  },
+  {
+    "code": "A17",
+    "subjects": "Toán, Khoa học xã hội, Vật lý"
+  },
+  {
+    "code": "A18",
+    "subjects": "Toán, Khoa học xã hội, Hóa học"
+  },
+  {
+    "code": "B00",
+    "subjects": "Toán, Hóa học, Sinh học"
+  },
+  {
+    "code": "B01",
+    "subjects": "Toán, Sinh học, Lịch sử"
+  },
+  {
+    "code": "B02",
+    "subjects": "Toán, Sinh học, Địa lí"
+  },
+  {
+    "code": "B03",
+    "subjects": "Toán, Sinh học, Văn"
+  },
+  {
+    "code": "B04",
+    "subjects": "Toán, Sinh học, Giáo dục công dân"
+  },
+  {
+    "code": "B05",
+    "subjects": "Toán, Sinh học, Khoa học xã hội"
+  },
+  {
+    "code": "B08",
+    "subjects": "Toán, Sinh học, Tiếng Anh"
+  },
+  {
+    "code": "C00",
+    "subjects": "Văn, Lịch sử, Địa lí"
+  },
+  {
+    "code": "C01",
+    "subjects": "Văn, Toán, Vật lí"
+  },
+  {
+    "code": "C02",
+    "subjects": "Văn, Toán, Hóa học"
+  },
+  {
+    "code": "C03",
+    "subjects": "Văn, Toán, Lịch sử"
+  },
+  {
+    "code": "C04",
+    "subjects": "Văn, Toán, Địa lí"
+  },
+  {
+    "code": "C05",
+    "subjects": "Văn, Vật lí, Hóa học"
+  },
+  {
+    "code": "C06",
+    "subjects": "Văn, Vật lí, Sinh học"
+  },
+  {
+    "code": "C07",
+    "subjects": "Văn, Vật lí, Lịch sử"
+  },
+  {
+    "code": "C08",
+    "subjects": "Văn, Hóa học, Sinh"
+  },
+  {
+    "code": "C09",
+    "subjects": "Văn, Vật lí, Địa lí"
+  },
+  {
+    "code": "C10",
+    "subjects": "Văn, Hóa học, Lịch sử"
+  },
+  {
+    "code": "C12",
+    "subjects": "Văn, Sinh học, Lịch sử"
+  },
+  {
+    "code": "C13",
+    "subjects": "Văn, Sinh học, Địa"
+  },
+  {
+    "code": "C14",
+    "subjects": "Văn, Toán, Giáo dục công dân"
+  },
+  {
+    "code": "C15",
+    "subjects": "Văn, Toán, Khoa học xã hội"
+  },
+  {
+    "code": "C16",
+    "subjects": "Văn, Vật lí, Giáo dục công dân"
+  },
+  {
+    "code": "C17",
+    "subjects": "Văn, Hóa học, Giáo dục công dân"
+  },
+  {
+    "code": "C18",
+    "subjects": "Văn, Sinh học, Giáo dục công dân"
+  },
+  {
+    "code": "C19",
+    "subjects": "Văn, Lịch sử, Giáo dục công dân"
+  },
+  {
+    "code": "C20",
+    "subjects": "Văn, Địa lí, Giáo dục công dân"
+  },
+  {
+    "code": "D01",
+    "subjects": "Văn, Toán, Tiếng Anh"
+  },
+  {
+    "code": "D02",
+    "subjects": "Văn, Toán, Tiếng Nga"
+  },
+  {
+    "code": "D03",
+    "subjects": "Văn, Toán, Tiếng Pháp"
+  },
+  {
+    "code": "D04",
+    "subjects": "Văn, Toán, Tiếng Trung"
+  },
+  {
+    "code": "D05",
+    "subjects": "Văn, Toán, Tiếng Đức"
+  },
+  {
+    "code": "D06",
+    "subjects": "Văn, Toán, Tiếng Nhật"
+  },
+  {
+    "code": "D07",
+    "subjects": "Toán, Hóa học, Tiếng Anh"
+  },
+  {
+    "code": "D08",
+    "subjects": "Toán, Sinh học, Tiếng Anh"
+  },
+  {
+    "code": "D09",
+    "subjects": "Toán, Lịch sử, Tiếng Anh"
+  },
+  {
+    "code": "D10",
+    "subjects": "Toán, Địa lí, Tiếng Anh"
+  },
+  {
+    "code": "D11",
+    "subjects": "Văn, Vật lí, Tiếng Anh"
+  },
+  {
+    "code": "D12",
+    "subjects": "Văn, Hóa học, Tiếng Anh"
+  },
+  {
+    "code": "D13",
+    "subjects": "Văn, Sinh học, Tiếng Anh"
+  },
+  {
+    "code": "D14",
+    "subjects": "Văn, Lịch sử, Tiếng Anh"
+  },
+  {
+    "code": "D15",
+    "subjects": "Văn, Địa lí, Tiếng Anh"
+  },
+  {
+    "code": "D16",
+    "subjects": "Toán, Địa lí, Tiếng Đức"
+  },
+  {
+    "code": "D17",
+    "subjects": "Toán, Địa lí, Tiếng Nga"
+  },
+  {
+    "code": "D18",
+    "subjects": "Toán, Địa lí, Tiếng Nhật"
+  },
+  {
+    "code": "D19",
+    "subjects": "Toán, Địa lí, Tiếng Pháp"
+  },
+  {
+    "code": "D20",
+    "subjects": "Toán, Địa lí, Tiếng Trung"
+  },
+  {
+    "code": "D21",
+    "subjects": "Toán, Hóa học, Tiếng Đức"
+  },
+  {
+    "code": "D22",
+    "subjects": "Toán, Hóa học, Tiếng Nga"
+  },
+  {
+    "code": "D23",
+    "subjects": "Toán, Hóa học, Tiếng Nhật"
+  },
+  {
+    "code": "D24",
+    "subjects": "Toán, Hóa học, Tiếng Pháp"
+  },
+  {
+    "code": "D25",
+    "subjects": "Toán, Hóa học, Tiếng Trung"
+  },
+  {
+    "code": "D26",
+    "subjects": "Toán, Vật lí, Tiếng Đức"
+  },
+  {
+    "code": "D27",
+    "subjects": "Toán, Vật lí, Tiếng Nga"
+  },
+  {
+    "code": "D28",
+    "subjects": "Toán, Vật lí, Tiếng Nhật"
+  },
+  {
+    "code": "D29",
+    "subjects": "Toán, Vật lí, Tiếng Pháp"
+  },
+  {
+    "code": "D30",
+    "subjects": "Toán, Vật lí, Tiếng Trung"
+  },
+  {
+    "code": "D31",
+    "subjects": "Toán, Sinh học, Tiếng Đức"
+  },
+  {
+    "code": "D32",
+    "subjects": "Toán, Sinh học, Tiếng Nga"
+  },
+  {
+    "code": "D33",
+    "subjects": "Toán, Sinh học, Tiếng Nhật"
+  },
+  {
+    "code": "D34",
+    "subjects": "Toán, Sinh học, Tiếng Pháp"
+  },
+  {
+    "code": "D35",
+    "subjects": "Toán, Sinh học, Tiếng Trung"
+  },
+  {
+    "code": "D41",
+    "subjects": "Văn, Địa lí, Tiếng Đức"
+  },
+  {
+    "code": "D42",
+    "subjects": "Văn, Địa lí, Tiếng Nga"
+  },
+  {
+    "code": "D43",
+    "subjects": "Văn, Địa lí, Tiếng Nhật"
+  },
+  {
+    "code": "D44",
+    "subjects": "Văn, Địa lí, Tiếng Pháp"
+  },
+  {
+    "code": "D45",
+    "subjects": "Văn, Địa lí, Tiếng Trung"
+  },
+  {
+    "code": "D52",
+    "subjects": "Văn, Vật lí, Tiếng Nga"
+  },
+  {
+    "code": "D54",
+    "subjects": "Văn, Vật lí, Tiếng Pháp"
+  },
+  {
+    "code": "D55",
+    "subjects": "Văn, Vật lí, Tiếng Trung"
+  },
+  {
+    "code": "D61",
+    "subjects": "Văn, Lịch sử, Tiếng Đức"
+  },
+  {
+    "code": "D62",
+    "subjects": "Văn, Lịch sử, Tiếng Nga"
+  },
+  {
+    "code": "D63",
+    "subjects": "Văn, Lịch sử, Tiếng Nhật"
+  },
+  {
+    "code": "D64",
+    "subjects": "Văn, Lịch sử, Tiếng Pháp"
+  },
+  {
+    "code": "D65",
+    "subjects": "Văn, Lịch sử, Tiếng Trung"
+  },
+  {
+    "code": "D66",
+    "subjects": "Văn, Giáo dục công dân, Tiếng Anh"
+  },
+  {
+    "code": "D68",
+    "subjects": "Văn, Giáo dục công dân, Tiếng Nga"
+  },
+  {
+    "code": "D69",
+    "subjects": "Văn, Giáo dục công dân, Tiếng Nhật"
+  },
+  {
+    "code": "D70",
+    "subjects": "Văn, Giáo dục công dân, Tiếng Pháp"
+  },
+  {
+    "code": "D72",
+    "subjects": "Văn, Khoa học tự nhiên, Tiếng Anh"
+  },
+  {
+    "code": "D73",
+    "subjects": "Văn, Khoa học tự nhiên, Tiếng Đức"
+  },
+  {
+    "code": "D74",
+    "subjects": "Văn, Khoa học tự nhiên, Tiếng Nga"
+  },
+  {
+    "code": "D75",
+    "subjects": "Văn, Khoa học tự nhiên, Tiếng Nhật"
+  },
+  {
+    "code": "D76",
+    "subjects": "Văn, Khoa học tự nhiên, Tiếng Pháp"
+  },
+  {
+    "code": "D77",
+    "subjects": "Văn, Khoa học tự nhiên, Tiếng Trung"
+  },
+  {
+    "code": "D78",
+    "subjects": "Văn, Khoa học xã hội, Tiếng Anh"
+  },
+  {
+    "code": "D79",
+    "subjects": "Văn, Khoa học xã hội, Tiếng Đức"
+  },
+  {
+    "code": "D80",
+    "subjects": "Văn, Khoa học xã hội, Tiếng Nga"
+  },
+  {
+    "code": "D81",
+    "subjects": "Văn, Khoa học xã hội, Tiếng Nhật"
+  },
+  {
+    "code": "D82",
+    "subjects": "Văn, Khoa học xã hội, Tiếng Pháp"
+  },
+  {
+    "code": "D83",
+    "subjects": "Văn, Khoa học xã hội, Tiếng Trung"
+  },
+  {
+    "code": "D84",
+    "subjects": "Toán, Giáo dục công dân, Tiếng Anh"
+  },
+  {
+    "code": "D85",
+    "subjects": "Toán, Giáo dục công dân, Tiếng Đức"
+  },
+  {
+    "code": "D86",
+    "subjects": "Toán, Giáo dục công dân, Tiếng Nga"
+  },
+  {
+    "code": "D87",
+    "subjects": "Toán, Giáo dục công dân, Tiếng Pháp"
+  },
+  {
+    "code": "D88",
+    "subjects": "Toán, Giáo dục công dân, Tiếng Nhật"
+  },
+  {
+    "code": "D90",
+    "subjects": "Toán, Khoa học tự nhiên, Tiếng Anh"
+  },
+  {
+    "code": "D91",
+    "subjects": "Toán, Khoa học tự nhiên, Tiếng Pháp"
+  },
+  {
+    "code": "D92",
+    "subjects": "Toán, Khoa học tự nhiên, Tiếng Đức"
+  },
+  {
+    "code": "D93",
+    "subjects": "Toán, Khoa học tự nhiên, Tiếng Nga"
+  },
+  {
+    "code": "D94",
+    "subjects": "Toán, Khoa học tự nhiên, Tiếng Nhật"
+  },
+  {
+    "code": "D95",
+    "subjects": "Toán, Khoa học tự nhiên, Tiếng Trung"
+  },
+  {
+    "code": "D96",
+    "subjects": "Toán, Khoa học xã hội, Anh"
+  },
+  {
+    "code": "D97",
+    "subjects": "Toán, Khoa học xã hội, Tiếng Pháp"
+  },
+  {
+    "code": "D98",
+    "subjects": "Toán, Khoa học xã hội, Tiếng Đức"
+  },
+  {
+    "code": "D99",
+    "subjects": "Toán, Khoa học xã hội, Tiếng Nga"
+  },
+  {
+    "code": "DD0",
+    "subjects": "Toán, Khoa học xã hội, Tiếng Nhật"
+  },
+  {
+    "code": "DD2",
+    "subjects": "Ngữ văn, Toán, Tiếng Hàn"
+  },
+  {
+    "code": "DH1",
+    "subjects": "Ngữ văn, Địa lí, Tiếng Hàn"
+  },
+  {
+    "code": "H00",
+    "subjects": "Văn, Năng khiếu vẽ 1, Năng khiếu vẽ 2"
+  },
+  {
+    "code": "H01",
+    "subjects": "Toán, Văn, Vẽ"
+  },
+  {
+    "code": "H02",
+    "subjects": "Toán, Vẽ Hình họa mỹ thuật, Vẽ trang trí màu"
+  },
+  {
+    "code": "H03",
+    "subjects": "Toán, Khoa học tự nhiên, Vẽ Năng khiếu"
+  },
+  {
+    "code": "H04",
+    "subjects": "Toán, Tiếng Anh, Vẽ Năng khiếu"
+  },
+  {
+    "code": "H05",
+    "subjects": "Văn, Khoa học xã hội, Vẽ Năng khiếu"
+  },
+  {
+    "code": "H06",
+    "subjects": "Văn, Tiếng Anh,Vẽ mỹ thuật"
+  },
+  {
+    "code": "H07",
+    "subjects": "Toán, Hình họa, Trang trí"
+  },
+  {
+    "code": "H08",
+    "subjects": "Văn, Lịch sử, Vẽ mỹ thuật"
+  },
+  {
+    "code": "V00",
+    "subjects": "Toán, Vật lí, Vẽ Hình họa mỹ thuật"
+  },
+  {
+    "code": "V01",
+    "subjects": "Toán, Văn, Vẽ Hình họa mỹ thuật"
+  },
+  {
+    "code": "V02",
+    "subjects": "Vẽ mỹ thuật, Toán, Tiếng Anh"
+  },
+  {
+    "code": "V03",
+    "subjects": "Vẽ mỹ thuật, Toán, Hóa học"
+  },
+  {
+    "code": "V05",
+    "subjects": "Văn, Vật lí, Vẽ mỹ thuật"
+  },
+  {
+    "code": "V06",
+    "subjects": "Toán, Địa lí, Vẽ mỹ thuật"
+  },
+  {
+    "code": "V07",
+    "subjects": "Toán, Tiếng Đức, Vẽ mỹ thuật"
+  },
+  {
+    "code": "V08",
+    "subjects": "Toán, Tiếng Nga, Vẽ mỹ thuật"
+  },
+  {
+    "code": "V09",
+    "subjects": "Toán, Tiếng Nhật, Vẽ mỹ thuật"
+  },
+  {
+    "code": "V10",
+    "subjects": "Toán, Tiếng Pháp, Vẽ mỹ thuật"
+  },
+  {
+    "code": "V11",
+    "subjects": "Toán, Tiếng Trung, Vẽ mỹ thuật"
+  },
+  {
+    "code": "R00",
+    "subjects": "Văn, sử, Năng khiếu nghệ thuật"
+  },
+  {
+    "code": "R01",
+    "subjects": "Văn, địa, Năng khiếu nghệ thuật"
+  },
+  {
+    "code": "R02",
+    "subjects": "Văn, toán, Năng khiếu nghệ thuật"
+  },
+  {
+    "code": "R03",
+    "subjects": "Văn, Anh, Năng khiếu nghệ thuật"
+  },
+  {
+    "code": "R04",
+    "subjects": "Văn, Biểu diễn nghệ thuật, Năng khiếu văn hóa nghệ thuật"
+  },
+  {
+    "code": "R05",
+    "subjects": "Văn, Anh, Năng khiếu báo chí"
+  },
+  {
+    "code": "R06",
+    "subjects": "Văn, Khoa học tự nhiên, Năng khiếu báo chí"
+  },
+  {
+    "code": "R07",
+    "subjects": "Văn, Toán, Năng khiếu ảnh báo chí"
+  },
+  {
+    "code": "R08",
+    "subjects": "Văn, Anh, Năng khiếu ảnh báo chí"
+  },
+  {
+    "code": "R09",
+    "subjects": "Văn, Khoa học tự nhiên, Năng khiếu ảnh báo chí"
+  },
+  {
+    "code": "R11",
+    "subjects": "Văn, toán, Năng khiếu quay phim truyền hình"
+  },
+  {
+    "code": "R12",
+    "subjects": "Văn, Anh, Năng khiếu quay phim truyền hình"
+  },
+  {
+    "code": "R13",
+    "subjects": "Văn, Khoa học tự nhiên, Năng khiếu quay phim truyền hình"
+  },
+  {
+    "code": "R15",
+    "subjects": "Văn, toán, Năng khiếu báo chí"
+  },
+  {
+    "code": "R16",
+    "subjects": "Văn, khoa học xã hội, Năng khiếu báo chí"
+  },
+  {
+    "code": "R17",
+    "subjects": "Văn, khoa học xã hội, Năng khiếu ảnh báo chí"
+  },
+  {
+    "code": "R18",
+    "subjects": "Văn, khoa học xã hội, Năng khiếu quay phim truyền hình"
+  },
+  {
+    "code": "R19",
+    "subjects": "Văn, điểm quy đổi chứng chỉ Tiếng Anh, Năng khiếu báo chí"
+  },
+  {
+    "code": "R20",
+    "subjects": "Văn, điểm quy đổi chứng chỉ Tiếng Anh, Năng khiếu ảnh báo chí"
+  },
+  {
+    "code": "R21",
+    "subjects": "Văn, điểm quy đổi chứng chỉ Tiếng Anh, Năng khiếu quay phim truyền hình"
+  },
+  {
+    "code": "R22",
+    "subjects": "Văn, toán, điểm quy đổi chứng chỉ Tiếng Anh"
+  },
+  {
+    "code": "R23",
+    "subjects": "Văn, sử, điểm quy đổi chứng chỉ Tiếng Anh"
+  },
+  {
+    "code": "R24",
+    "subjects": "Văn, toán, điểm quy đổi chứng chỉ Tiếng Anh"
+  },
+  {
+    "code": "R25",
+    "subjects": "Văn, Khoa học tự nhiên, điểm quy đổi chứng chỉ Tiếng Anh"
+  },
+  {
+    "code": "R26",
+    "subjects": "Văn, khoa học xã hội, điểm quy đổi chứng chỉ Tiếng Anh"
+  },
+  {
+    "code": "M00",
+    "subjects": "Ngữ văn, Toán, Đọc diễn cảm, Hát"
+  },
+  {
+    "code": "M01",
+    "subjects": "Ngữ văn, Lịch sử, Năng khiếu"
+  },
+  {
+    "code": "M02",
+    "subjects": "Toán, Năng khiếu 1, Năng khiếu 2"
+  },
+  {
+    "code": "M03",
+    "subjects": "Văn, Năng khiếu 1, Năng khiếu 2"
+  },
+  {
+    "code": "M04",
+    "subjects": "Toán, Đọc kể diễn cảm, Hát - Múa"
+  },
+  {
+    "code": "M10",
+    "subjects": "Toán, Tiếng Anh, NK1"
+  },
+  {
+    "code": "M11",
+    "subjects": "Ngữ văn, Năng khiếu báo chí, Tiếng Anh"
+  },
+  {
+    "code": "M13",
+    "subjects": "Toán, Sinh học, Năng khiếu"
+  },
+  {
+    "code": "M14",
+    "subjects": "Ngữ văn, Năng khiếu báo chí, Toán"
+  },
+  {
+    "code": "M15",
+    "subjects": "Ngữ văn, Năng khiếu báo chí, Tiếng Anh"
+  },
+  {
+    "code": "M16",
+    "subjects": "Ngữ văn, Năng khiếu báo chí, Vật lý"
+  },
+  {
+    "code": "M17",
+    "subjects": "Ngữ văn, Năng khiếu báo chí, Lịch sử"
+  },
+  {
+    "code": "M18",
+    "subjects": "Ngữ văn, Năng khiếu Ảnh báo chí, Toán"
+  },
+  {
+    "code": "M19",
+    "subjects": "Ngữ văn, Năng khiếu Ảnh báo chí, Tiếng Anh"
+  },
+  {
+    "code": "M20",
+    "subjects": "Ngữ văn, Năng khiếu Ảnh báo chí, Vật lý"
+  },
+  {
+    "code": "M21",
+    "subjects": "Ngữ văn, Năng khiếu Ảnh báo chí, Lịch sử"
+  },
+  {
+    "code": "M22",
+    "subjects": "Ngữ văn, Năng khiếu quay phim truyền hình, Toán"
+  },
+  {
+    "code": "M23",
+    "subjects": "Ngữ văn, Năng khiếu quay phim truyền hình, Tiếng Anh"
+  },
+  {
+    "code": "M24",
+    "subjects": "Ngữ văn, Năng khiếu quay phim truyền hình, Vật lý"
+  },
+  {
+    "code": "M25",
+    "subjects": "Ngữ văn, Năng khiếu quay phim truyền hình, Lịch sử"
+  },
+  {
+    "code": "N00",
+    "subjects": "Văn, Năng khiếu Âm nhạc 1, Năng khiếu Âm nhạc 2"
+  },
+  {
+    "code": "N01",
+    "subjects": "Văn, Hát xướng âm, Biểu diễn nghệ thuật"
+  },
+  {
+    "code": "N02",
+    "subjects": "Văn, Ký xướng âm, Hát hoặc Biểu diễn nhạc cụ"
+  },
+  {
+    "code": "N03",
+    "subjects": "Văn, Ghi âm- xướng âm, chuyên môn"
+  },
+  {
+    "code": "N04",
+    "subjects": "Văn, Năng khiếu thuyết trình, Năng khiếu"
+  },
+  {
+    "code": "N05",
+    "subjects": "Văn, Xây dựng kịch bản sự kiện, Năng khiếu"
+  },
+  {
+    "code": "N06",
+    "subjects": "Văn, Ghi âm- xướng âm, chuyên môn"
+  },
+  {
+    "code": "N07",
+    "subjects": "Văn, Ghi âm- xướng âm, chuyên môn"
+  },
+  {
+    "code": "N08",
+    "subjects": "Văn, Hòa thanh, Phát triển chủ đề và phổ thơ"
+  },
+  {
+    "code": "N09",
+    "subjects": "Văn, Hòa thanh, Chỉ huy tại chỗ"
+  },
+  {
+    "code": "T00",
+    "subjects": "Toán, Sinh, Năng khiếu Thể dục thể thao"
+  },
+  {
+    "code": "T01",
+    "subjects": "Toán, Văn, Năng khiếu thể dục thể thao"
+  },
+  {
+    "code": "T02",
+    "subjects": "Văn, Sinh, Năng khiếu thể dục thể thao"
+  },
+  {
+    "code": "T03",
+    "subjects": "Văn, Địa, Năng khiếu thể dục thể thao"
+  },
+  {
+    "code": "T04",
+    "subjects": "Toán, Lý, Năng khiếu thể dục thể thao"
+  },
+  {
+    "code": "T05",
+    "subjects": "Văn, Giáo dục công dân, Năng khiếu thể dục thể thao"
+  },
+  {
+    "code": "T07",
+    "subjects": "Văn, Địa, Năng khiếu thể dục thể thao"
+  },
+  {
+    "code": "T08",
+    "subjects": "Toán, Giáo dục công dân, Năng khiếu thể dục thể thao"
+  }
+]

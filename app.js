@@ -3,6 +3,8 @@ const cors = require('cors');
 const cookieParser = require('cookie-parser');
 
 const ApiError = require('./app/utils/error.util');
+const MajorRoute = require('./app/router/major.route');
+const examGroup = require('./app/router/examGroup.route');
 
 const app = express();
 
@@ -12,6 +14,7 @@ app.use(cors({
 }));
 console.log(`Allow CORS: ${process.env.CLIENT_URI.split(',').map(url => url.trim())}`);
 
+app.use(cookieParser());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static(`${__dirname}/public`));
@@ -19,10 +22,14 @@ app.use(express.static(`${__dirname}/public`));
 
 
 //Use Routers
-app.use('/api/v1', require('./app/routes/index'));
+app.use('/api/v1/major', MajorRoute);
+app.use('/api/v1/examGroup', examGroup);
 
 
-//handle Errors
+//Catch undefined routes
+app.use((req, res, next) => {
+    next(new ApiError(404, `Không tìm thấy đường dẫn ${req.originalUrl}`));
+});
 
 
 module.exports = app;
