@@ -181,19 +181,19 @@
   },
   {
     "code": "D01",
-    "subjects": "Văn, Toán, Tiếng Anh"
+    "subjects": "Văn, Toán, tiếng Anh"
   },
   {
     "code": "D02",
-    "subjects": "Văn, Toán, Tiếng Nga"
+    "subjects": "Văn, Toán, tiếng Nga"
   },
   {
     "code": "D03",
-    "subjects": "Văn, Toán, Tiếng Pháp"
+    "subjects": "Văn, Toán, tiếng Pháp"
   },
   {
     "code": "D04",
-    "subjects": "Văn, Toán, Tiếng Trung"
+    "subjects": "Văn, Toán, tiếng Trung"
   },
   {
     "code": "D05",
@@ -569,122 +569,122 @@
   },
   {
     "code": "V07",
-    "subjects": "Toán, Tiếng Đức, Vẽ mỹ thuật"
+    "subjects": "Toán, tiếng Đức, Vẽ mỹ thuật"
   },
   {
     "code": "V08",
-    "subjects": "Toán, Tiếng Nga, Vẽ mỹ thuật"
+    "subjects": "Toán, tiếng Nga, Vẽ mỹ thuật"
   },
   {
     "code": "V09",
-    "subjects": "Toán, Tiếng Nhật, Vẽ mỹ thuật"
+    "subjects": "Toán, tiếng Nhật, Vẽ mỹ thuật"
   },
   {
     "code": "V10",
-    "subjects": "Toán, Tiếng Pháp, Vẽ mỹ thuật"
+    "subjects": "Toán, tiếng Pháp, Vẽ mỹ thuật"
   },
   {
     "code": "V11",
-    "subjects": "Toán, Tiếng Trung, Vẽ mỹ thuật"
+    "subjects": "Toán, tiếng Trung, Vẽ mỹ thuật"
   },
   {
-    "code": "R00",
-    "subjects": "Văn, sử, Năng khiếu nghệ thuật"
+    "code": "Khối R00",
+    "subjects": "Văn, sử, năng khiếu nghệ thuật"
   },
   {
-    "code": "R01",
-    "subjects": "Văn, địa, Năng khiếu nghệ thuật"
+    "code": "Khối R01",
+    "subjects": "Văn, địa, năng khiếu nghệ thuật"
   },
   {
-    "code": "R02",
-    "subjects": "Văn, toán, Năng khiếu nghệ thuật"
+    "code": "Khối R02",
+    "subjects": "Văn, toán, năng khiếu nghệ thuật"
   },
   {
-    "code": "R03",
-    "subjects": "Văn, Anh, Năng khiếu nghệ thuật"
+    "code": "Khối R03",
+    "subjects": "Văn, anh, năng khiếu nghệ thuật"
   },
   {
-    "code": "R04",
-    "subjects": "Văn, Biểu diễn nghệ thuật, Năng khiếu văn hóa nghệ thuật"
+    "code": "Khối R04",
+    "subjects": "Văn, biểu diễn nghệ thuật, năng khiếu văn hóa nghệ thuật"
   },
   {
-    "code": "R05",
-    "subjects": "Văn, Anh, Năng khiếu báo chí"
+    "code": "Khối R05",
+    "subjects": "Văn, anh, năng khiếu báo chí"
   },
   {
-    "code": "R06",
-    "subjects": "Văn, Khoa học tự nhiên, Năng khiếu báo chí"
+    "code": "Khối R06",
+    "subjects": "Văn, khoa học tự nhiên, năng khiếu báo chí"
   },
   {
-    "code": "R07",
-    "subjects": "Văn, Toán, Năng khiếu ảnh báo chí"
+    "code": "Khối R07",
+    "subjects": "Văn, toán, năng khiếu ảnh báo chí"
   },
   {
-    "code": "R08",
-    "subjects": "Văn, Anh, Năng khiếu ảnh báo chí"
+    "code": "Khối R08",
+    "subjects": "Văn, anh, năng khiếu ảnh báo chí"
   },
   {
-    "code": "R09",
-    "subjects": "Văn, Khoa học tự nhiên, Năng khiếu ảnh báo chí"
+    "code": "Khối R09",
+    "subjects": "Văn, khoa học tự nhiên, năng khiếu ảnh báo chí"
   },
   {
-    "code": "R11",
-    "subjects": "Văn, toán, Năng khiếu quay phim truyền hình"
+    "code": "Khối R11",
+    "subjects": "Văn, toán, năng khiếu quay phim truyền hình"
   },
   {
-    "code": "R12",
-    "subjects": "Văn, Anh, Năng khiếu quay phim truyền hình"
+    "code": "Khối R12",
+    "subjects": "Văn, anh, năng khiếu quay phim truyền hình"
   },
   {
-    "code": "R13",
-    "subjects": "Văn, Khoa học tự nhiên, Năng khiếu quay phim truyền hình"
+    "code": "Khối R13",
+    "subjects": "Văn, khoa học tự nhiên, năng khiếu quay phim truyền hình"
   },
   {
-    "code": "R15",
-    "subjects": "Văn, toán, Năng khiếu báo chí"
+    "code": "Khối R15",
+    "subjects": "Văn, toán, năng khiếu báo chí"
   },
   {
-    "code": "R16",
-    "subjects": "Văn, khoa học xã hội, Năng khiếu báo chí"
+    "code": "Khối R16",
+    "subjects": "Văn, khoa học xã hội, năng khiếu báo chí"
   },
   {
-    "code": "R17",
-    "subjects": "Văn, khoa học xã hội, Năng khiếu ảnh báo chí"
+    "code": "Khối R17",
+    "subjects": "Văn, khoa học xã hội, năng khiếu ảnh báo chí"
   },
   {
-    "code": "R18",
-    "subjects": "Văn, khoa học xã hội, Năng khiếu quay phim truyền hình"
+    "code": "Khối R18",
+    "subjects": "Văn, khoa học xã hội, năng khiếu quay phim truyền hình"
   },
   {
-    "code": "R19",
-    "subjects": "Văn, điểm quy đổi chứng chỉ Tiếng Anh, Năng khiếu báo chí"
+    "code": "Khối R19",
+    "subjects": "Văn, điểm quy đổi chứng chỉ Tiếng Anh, năng khiếu báo chí"
   },
   {
-    "code": "R20",
-    "subjects": "Văn, điểm quy đổi chứng chỉ Tiếng Anh, Năng khiếu ảnh báo chí"
+    "code": "Khối R20",
+    "subjects": "Văn, điểm quy đổi chứng chỉ Tiếng Anh, năng khiếu ảnh báo chí"
   },
   {
-    "code": "R21",
-    "subjects": "Văn, điểm quy đổi chứng chỉ Tiếng Anh, Năng khiếu quay phim truyền hình"
+    "code": "Khối R21",
+    "subjects": "Văn, điểm quy đổi chứng chỉ Tiếng Anh, năng khiếu quay phim truyền hình"
   },
   {
-    "code": "R22",
+    "code": "Khối R22",
     "subjects": "Văn, toán, điểm quy đổi chứng chỉ Tiếng Anh"
   },
   {
-    "code": "R23",
+    "code": "Khối R23",
     "subjects": "Văn, sử, điểm quy đổi chứng chỉ Tiếng Anh"
   },
   {
-    "code": "R24",
+    "code": "Khối R24",
     "subjects": "Văn, toán, điểm quy đổi chứng chỉ Tiếng Anh"
   },
   {
-    "code": "R25",
-    "subjects": "Văn, Khoa học tự nhiên, điểm quy đổi chứng chỉ Tiếng Anh"
+    "code": "Khối R25",
+    "subjects": "Văn, khoa học tự nhiên, điểm quy đổi chứng chỉ Tiếng Anh"
   },
   {
-    "code": "R26",
+    "code": "Khối R26",
     "subjects": "Văn, khoa học xã hội, điểm quy đổi chứng chỉ Tiếng Anh"
   },
   {
@@ -777,7 +777,7 @@
   },
   {
     "code": "N02",
-    "subjects": "Văn, Ký xướng âm, Hát hoặc Biểu diễn nhạc cụ"
+    "subjects": "Văn, Ký xướng âm, Hát hoặc biểu diễn nhạc cụ"
   },
   {
     "code": "N03",

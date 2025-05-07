@@ -41,9 +41,32 @@ const majorSchema = new mongoose.Schema(
             min: [0, 'Học phí không được âm'],
 
         },
+        quantity: {
+            type: Number,
+            required: [true, 'Số lượng là bắt buộc'],
+            min: [0, 'Số lượng không được âm'],
+        },
+        tilte: {
+            type: String,
+            required: [true, 'Danh hiệu là bắt buộc'],
+            enum: {
+                values: ['Tiến sĩ', 'Thạc sĩ', 'Cử nhân', 'Kỹ sư'],
+                message: 'Danh hiệu không hợp lệ',
+            },
+        },
+        duration: {
+            type: Number,
+            required: [true, 'Thời gian đào tạo là bắt buộc'],
+            min: [1, 'Thời gian đào tạo không được nhỏ hơn 1 năm'],
+            max: [10, 'Thời gian không được lớn hơn 10 năm'],
+        },
         isActive: {
             type: Boolean,
             default: true,
+        },
+        isPopular: {
+            type: Boolean,
+            default: false,
         },
         createdAt: {
             type: Date,

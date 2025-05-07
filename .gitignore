@@ -138,3 +138,10 @@ dist
 
 # crawler
 crawler/
+
+# data
+link.data.json
+
+# example
+example.data.json
+example.crawler.js
