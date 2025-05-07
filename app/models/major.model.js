@@ -15,8 +15,8 @@ const majorSchema = new mongoose.Schema(
             required: [true, 'Mã chuyên ngành là bắt buộc'],
             unique: true,
             trim: true,
-            minlength: [2, 'Mã chuyên ngành phải có ít nhất 2 ký tự'],
-            maxlength: [10, 'Mã chuyên ngành không được vượt quá 10 ký tự'],
+            minlength: [5, 'Mã chuyên ngành phải có ít nhất 5 ký tự'],
+            maxlength: [5, 'Mã chuyên ngành không được vượt quá 5 ký tự'],
             validate: {
                 validator: function (value) {
                     return /^[A-Z0-9]+$/.test(value); // Chỉ cho phép chữ hoa và số
@@ -28,13 +28,7 @@ const majorSchema = new mongoose.Schema(
             type: String,
             trim: true,
         },
-        falculty: {
-            type: String,
-            required: [true, 'Khoa là bắt buộc'],
-            trim: true,
-            minlength: [2, 'Khoa phải có ít nhất 2 ký tự'],
-            maxlength: [255, 'Khoa không được vượt quá 255 ký tự'],
-        },
+
         fee: {
             type: Number,
             required: [true, 'Học phí là bắt buộc'],
@@ -50,7 +44,7 @@ const majorSchema = new mongoose.Schema(
             type: String,
             required: [true, 'Danh hiệu là bắt buộc'],
             enum: {
-                values: ['Tiến sĩ', 'Thạc sĩ', 'Cử nhân', 'Kỹ sư'],
+                values: ['Cử nhân', 'Kỹ sư'],
                 message: 'Danh hiệu không hợp lệ',
             },
         },
@@ -60,13 +54,25 @@ const majorSchema = new mongoose.Schema(
             min: [1, 'Thời gian đào tạo không được nhỏ hơn 1 năm'],
             max: [10, 'Thời gian không được lớn hơn 10 năm'],
         },
-        isActive: {
-            type: Boolean,
-            default: true,
+        position: {
+            type: String,
+            required: false,
+        },
+        knowledge: {
+            type: String,
+            required: false,
+        },
+        skill: {
+            type: String,
+            required: false,
         },
         isPopular: {
             type: Boolean,
             default: false,
+        },
+        isActive: {
+            type: Boolean,
+            default: true,
         },
         createdAt: {
             type: Date,
@@ -78,6 +84,6 @@ const majorSchema = new mongoose.Schema(
         },
     });
 
-const Major = mongoose.model('Majors', majorSchema);
+const Major = mongoose.model('majors', majorSchema);
 
 module.exports = Major;

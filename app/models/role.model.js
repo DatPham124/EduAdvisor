@@ -1,14 +1,10 @@
 const mongoose = require('mongoose');
 
-const examGroupSchema = new mongoose.Schema({
-    code: {
+const roleSchema = new mongoose.Schema({
+    name: {
         type: String,
         required: true,
         unique: true,
-    },
-    subjects: {
-        type: String,
-        required: true,
     },
     isActive: {
         type: Boolean,
@@ -24,6 +20,6 @@ const examGroupSchema = new mongoose.Schema({
     },
 });
 
-const ExamGroup = mongoose.model('examgroups', examGroupSchema);
+const Role = mongoose.model('roles', roleSchema);
 
-module.exports = ExamGroup;
+module.exports = Role;
