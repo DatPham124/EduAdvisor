@@ -42,14 +42,13 @@ const userSchema = new mongoose.Schema({
     required: [true, "Mật khẩu là bắt buộc"],
     minlength: [8, "Mật khẩu phải có ít nhất 8 ký tự"],
   },
-  role_id: {
-    type: mongoose.Schema.Types.ObjectId,
-    ref: "roles",
-    required: [true, "Mã vai trò là bắt buộc"],
+  school: {
+    type: String,
+    trim: true,
   },
-  isActive: {
-    type: Boolean,
-    default: true,
+  favorite: {
+    type: String,
+    trim: true,
   },
   createdAt: {
     type: Date,
