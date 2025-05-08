@@ -1,0 +1,15 @@
+[
+{
+    "name" : "Phương thức 1: Tuyển thẳng",
+    "description": "Tuyển thẳng và ưu tiên xét tuyển vào đại học chính quy các đối tượng được quy định tại Quy chế tuyển sinh trình độ đại học của Bộ GD&ĐT.<br>Thời gian ĐKXT: theo quy định của Bộ GD&ĐT"
+},
+
+{
+    "name" : "Phương thức 2: Xét tuyển điểm Kỳ thi tốt nghiệp THPT",
+    "description": "Xét tuyển dựa vào điểm của Kỳ thi tốt nghiệp THPT năm 2025 theo tổ hợp 3 môn ứng với ngành do thí sinh đăng ký.<br> Ngành xét tuyển: tất cả các ngành.<br>Đối tượng: thí sinh tốt nghiệp THPT từ năm 2025 trở về trước. Thí sinh tốt nghiệp trình độ cao đẳng trở lên học liên thông trình độ đại học.<br>Điều kiện ĐKXT: Thí sinh đạt ngưỡng đảm bảo chất lượng đầu vào năm 2025 do Trường ĐHCT xác định và không có môn nào từ 1,0 điểm trở xuống (thang điểm 10), riêng môn năng khiếu phải đạt từ 5,0 điểm trở lên.<br>Thời gian ĐKXT: đăng ký trên Cổng tuyển sinh theo quy định của Bộ GD&ĐT."
+},
+{
+    "name" : "Phương thức 3: Xét điểm học bạ THPT",
+    "description": "Xét tuyển dựa vào Điểm trung bình môn cả năm lớp 10, lớp 11 và lớp 12 của 3 môn trong tổ hợp ứng với ngành do thí sinh đăng ký.<br> Ngành xét tuyển: tất cả các ngành.<br>Đối tượng: thí sinh tốt nghiệp THPT từ năm 2025 trở về trước. Thí sinh tốt nghiệp trình độ cao đẳng trở lên học liên thông trình độ đại học.<br>Điều kiện ĐKXT: Thí sinh đạt ngưỡng đảm bảo chất lượng đầu vào năm 2025 do Trường ĐHCT xác định và không có môn nào từ 1,0 điểm trở xuống (thang điểm 10).<br>Thời gian ĐKXT: đăng ký trên Cổng tuyển sinh theo quy định của Bộ GD&ĐT."
+}
+]
