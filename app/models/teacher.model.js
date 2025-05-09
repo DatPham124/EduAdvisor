@@ -13,9 +13,9 @@ const teacherSchema = new mongoose.Schema({
     trim: true,
   },
 
-  tilte: {
+  degree: {
     type: String,
-    required: [true, "Danh hiệu là bắt buộc"],
+    required: [true, "Học vị là bắt buộc"],
     trim: true,
   },
 });
