@@ -13,12 +13,6 @@ const dualMajorSchema = new mongoose.Schema({
     type: String,
     trim: true,
   },
-
-  fee: {
-    type: Number,
-    required: [true, "Học phí là bắt buộc"],
-    min: [0, "Học phí không được âm"],
-  },
   quantity: {
     type: Number,
     required: [true, "Số lượng là bắt buộc"],
@@ -30,15 +24,6 @@ const dualMajorSchema = new mongoose.Schema({
     required: [true, "Thời gian đào tạo là bắt buộc"],
     min: [1, "Thời gian đào tạo không được nhỏ hơn 1 năm"],
     max: [10, "Thời gian không được lớn hơn 10 năm"],
-  },
-  position: {
-    type: String,
-    required: false,
-  },
-
-  isPopular: {
-    type: Boolean,
-    default: false,
   },
 
   createdAt: {
