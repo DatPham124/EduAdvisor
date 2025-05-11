@@ -67,3 +67,7 @@ exports.login = async (req, res, next) => {
     return next(new ApiError(500, `Đăng nhập thất bại: ${error}`));
   }
 };
+
+exports.logout = (req, res) => {
+  res.status(200).json({ message: "Đăng xuất thành công" });
+};
