@@ -1,7 +1,9 @@
+import Header from "./views/partials/Header";
+
 const App = () => {
   return (
     <div className="App">
-      <h1>Welcome to React</h1>
+      <Header />
     </div>
   );
 };
