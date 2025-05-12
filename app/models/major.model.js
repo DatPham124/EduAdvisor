@@ -40,10 +40,6 @@ const majorSchema = new mongoose.Schema({
   tilte: {
     type: String,
     required: [true, "Danh hiệu là bắt buộc"],
-    enum: {
-      values: ["Cử nhân", "Kỹ sư"],
-      message: "Danh hiệu không hợp lệ",
-    },
   },
   duration: {
     type: String,

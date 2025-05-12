@@ -20,10 +20,8 @@ const dualMajorSchema = new mongoose.Schema({
   },
 
   duration: {
-    type: Number,
+    type: String,
     required: [true, "Thời gian đào tạo là bắt buộc"],
-    min: [1, "Thời gian đào tạo không được nhỏ hơn 1 năm"],
-    max: [10, "Thời gian không được lớn hơn 10 năm"],
   },
 
   createdAt: {
