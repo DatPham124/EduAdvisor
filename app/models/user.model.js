@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-const bcrypt = require("bcryptjs");
+const bcrypt = require("bcrypt");
 const validator = require("validator");
 
 const salt = bcrypt.genSaltSync(10); // Tạo salt với độ khó 10
