@@ -3,5 +3,5 @@ export default {
   theme: {
     extend: {}, // Tùy chỉnh theme nếu cần
   },
-  plugins: [], // Thêm plugin nếu cần
+  plugins: []
 };

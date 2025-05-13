@@ -1,5 +1,10 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
+import { useLocation } from 'react-router-dom';
+
 const Header = () => {
+  const location = useLocation();
+
   return (
     <header className="ic-navbar absolute left-0 top-0 z-40 flex w-full items-center bg-transparent sticky"role='banner' aria-label='Navigation bar'>
       <div class="container">
@@ -18,11 +23,19 @@ const Header = () => {
               <nav id="navbarMenu" class="ic-navbar-collapse absolute right-4 top-[80px] w-full max-w-[250px] rounded-lg hidden bg-primary-light-1 py-5 shadow-lg dark:bg-primary-dark-1 lg:static lg:block lg:w-full lg:max-w-full lg:bg-transparent lg:py-0 lg:shadow-none dark:lg:bg-transparent xl:px-6">
                 <ul class="block lg:flex" role="menu" aria-label="Navigation menu">
                   <li class="group relative">
-                    <a href="#home" class="ic-page-scroll mx-8 flex py-2 text-base font-medium text-body-light-12 group-hover:text-primary dark:text-body-dark-12 lg:mx-0 lg:inline-flex lg:px-0 lg:py-6 lg:text-primary-color lg:dark:text-primary-color lg:group-hover:text-primary-color lg:group-hover:opacity-70 active" role="menuitem">Trang chủ</a>
+                    <Link to="/home" class={`ic-page-scroll mx-8 flex py-2 text-base font-medium text-body-light-12 group-hover:text-primary dark:text-body-dark-12 lg:mx-0 lg:inline-flex lg:px-0 lg:py-6 lg:text-primary-color lg:dark:text-primary-color lg:group-hover:text-primary-color lg:group-hover:opacity-70 
+                      ${location.pathname === '/home' ? 'active' : ''}`}
+                      onClick={() => window.scrollTo(0, 0)}
+                      role="menuitem">
+                      Trang chủ
+                    </Link>
                   </li>
 
                   <li class="group relative">
-                    <a href="#major" class="ic-page-scroll mx-8 flex py-2 text-base font-medium text-body-light-12 group-hover:text-primary dark:text-body-dark-12 lg:mr-0 lg:inline-flex lg:px-0 lg:py-6 lg:text-primary-color lg:dark:text-primary-color lg:group-hover:text-primary-color lg:group-hover:opacity-70" role="menuitem">Chuyên ngành đào tạo</a>
+                    <Link to="/major" class={`ic-page-scroll mx-8 flex py-2 text-base font-medium text-body-light-12 group-hover:text-primary dark:text-body-dark-12 lg:mr-0 lg:inline-flex lg:px-0 lg:py-6 lg:text-primary-color lg:dark:text-primary-color lg:group-hover:text-primary-color lg:group-hover:opacity-70
+                      ${location.pathname === '/major' ? 'active' : ''}`}
+                      onClick={() => window.scrollTo(0, 0)}
+                      role="menuitem">Chuyên ngành đào tạo</Link>
                   </li>
 
                   <li class="group relative">
