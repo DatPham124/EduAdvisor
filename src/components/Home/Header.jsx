@@ -32,7 +32,6 @@ const Header = () => {
               </nav>
             </div>
             <div class="flex items-center justify-end pr-[52px] lg:pr-0">
-              <button type="button" class="inline-flex items-center text-primary-color text-[24px]/none" aria-label="Switch theme" data-web-trigger="web-theme"><i class="lni lni-night"></i></button>
               <div class="hidden sm:flex">
                 <a href="javascript:void(0)" class="btn-navbar ml-5 px-6 py-3 rounded-md bg-primary-color bg-opacity-20 text-base font-medium text-primary-color hover:bg-opacity-100 hover:text-primary" role="button">Đăng nhập</a>
               </div>

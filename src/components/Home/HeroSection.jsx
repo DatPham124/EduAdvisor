@@ -27,11 +27,11 @@ const HeroSection = () => {
               </figure>
 
               <div class="absolute -left-9 bottom-0 z-[-1]">
-                <img src="/images/dots.svg" alt class="w-[120px] opacity-75" />
+                <img src="/images/dots.svg" class="w-[120px] opacity-75" />
               </div>
 
               <div class="absolute -right-6 -top-6 z-[-1]">
-                <img src="/images/dots.svg" alt class="w-[120px] opacity-75" />
+                <img src="/images/dots.svg" class="w-[120px] opacity-75" />
               </div>
             </div>
           </div>

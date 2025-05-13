@@ -1,4 +1,5 @@
 import React from 'react'
+import { useEffect } from "react";
 import AboutSection from "../components/Home/AboutSection";
 import AdmissionInfo from "../components/Home/AdmissionInfo";
 import CallSection from "../components/Home/CallSection";
@@ -8,6 +9,16 @@ import Testimonials from "../components/Home/Testimonials";
 
 
 const Home = () => {
+     useEffect(() => {
+    const script = document.createElement("script");
+    script.src = "/src/assets/js/main.js";
+    script.async = false;
+    document.body.appendChild(script);
+
+    return () => {
+      document.body.removeChild(script);
+    };
+  }, []);
     return (
         <main class="main relative">
             <HeroSection />
