@@ -1,91 +1,77 @@
-#### This file contains tests to evaluate that your bot behaves as expected.
-#### If you want to learn more, please see the docs: https://rasa.com/docs/rasa-pro/nlu-based-assistants/testing-your-assistant
+version: "3.1"
 
 stories:
-- story: happy path 1
-  steps:
-  - user: |
-      hello there!
-    intent: greet
-  - action: utter_greet
-  - user: |
-      amazing
-    intent: mood_great
-  - action: utter_happy
 
-- story: happy path 2
+- story: Test hỏi về ngành học
   steps:
-  - user: |
-      hello there!
-    intent: greet
-  - action: utter_greet
-  - user: |
-      amazing
-    intent: mood_great
-  - action: utter_happy
-  - user: |
-      bye-bye!
-    intent: goodbye
-  - action: utter_goodbye
+    - user: |
+        Xin chào
+      intent: greet
+    - action: utter_greet
+    - user: |
+        Trường có những ngành nào vậy?
+      intent: ask_program
+    - action: utter_ask_program
 
-- story: sad path 1
+- story: Test hỏi điều kiện tuyển sinh
   steps:
-  - user: |
-      hello
-    intent: greet
-  - action: utter_greet
-  - user: |
-      not good
-    intent: mood_unhappy
-  - action: utter_cheer_up
-  - action: utter_did_that_help
-  - user: |
-      yes
-    intent: affirm
-  - action: utter_happy
+    - user: |
+        Điều kiện tuyển sinh như thế nào?
+      intent: ask_admission_criteria
+    - action: utter_ask_admission_criteria
 
-- story: sad path 2
+- story: Test hỏi học phí
   steps:
-  - user: |
-      hello
-    intent: greet
-  - action: utter_greet
-  - user: |
-      not good
-    intent: mood_unhappy
-  - action: utter_cheer_up
-  - action: utter_did_that_help
-  - user: |
-      not really
-    intent: deny
-  - action: utter_goodbye
+    - user: |
+        Học phí bao nhiêu một năm?
+      intent: ask_tuition_fee
+    - action: utter_ask_tuition_fee
 
-- story: sad path 3
+- story: Test hỏi học bổng
   steps:
-  - user: |
-      hi
-    intent: greet
-  - action: utter_greet
-  - user: |
-      very terrible
-    intent: mood_unhappy
-  - action: utter_cheer_up
-  - action: utter_did_that_help
-  - user: |
-      no
-    intent: deny
-  - action: utter_goodbye
+    - user: |
+        Trường có học bổng không?
+      intent: ask_scholarship
+    - action: utter_ask_scholarship
 
-- story: say goodbye
+- story: Test hỏi ký túc xá
   steps:
-  - user: |
-      bye-bye!
-    intent: goodbye
-  - action: utter_goodbye
+    - user: |
+        Ký túc xá có tiện nghi không?
+      intent: ask_accommodation
+    - action: utter_ask_accommodation
 
-- story: bot challenge
+- story: Test hỏi thông tin liên hệ
   steps:
-  - user: |
-      are you a bot?
-    intent: bot_challenge
-  - action: utter_iamabot
+    - user: |
+        Tôi muốn biết thông tin liên hệ
+      intent: ask_contact_info
+    - action: utter_ask_contact_info
+
+- story: Test hỏi hạn nộp hồ sơ
+  steps:
+    - user: |
+        Hạn nộp hồ sơ là khi nào?
+      intent: ask_application_deadline
+    - action: utter_ask_application_deadline
+
+- story: Test hỏi sự kiện tuyển sinh
+  steps:
+    - user: |
+        Có sự kiện tuyển sinh nào sắp tới không?
+      intent: ask_event
+    - action: utter_ask_event
+
+- story: Test hỏi về thực tập
+  steps:
+    - user: |
+        Sinh viên có được đi thực tập không?
+      intent: ask_internship
+    - action: utter_ask_internship
+
+- story: Test hỏi chuyển ngành
+  steps:
+    - user: |
+        Tôi có thể chuyển ngành sau khi học không?
+      intent: ask_transfer
+    - action: utter_ask_transfer

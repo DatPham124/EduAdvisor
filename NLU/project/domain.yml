@@ -7,19 +7,17 @@ intents:
   - ask_admission_criteria
   - ask_tuition_fee
   - ask_scholarship
-  - ask_accommodation
   - ask_contact_info
   - ask_application_deadline
   - ask_event
   - ask_internship
   - ask_transfer
-
+  -  ask_about_cusc
 entities:
   - program
   - admission_criteria
   - tuition_fee
   - scholarship
-  - accommodation
   - contact_info
   - application_deadline
   - event
@@ -34,8 +32,6 @@ entities:
 #   tuition_fee:
 #     type: text
 #   scholarship:
-#     type: text
-#   accommodation:
 #     type: text
 #   contact_info:
 #     type: text
@@ -67,9 +63,6 @@ responses:
   utter_ask_scholarship:
     - text: "CUSC cung cấp các học bổng cho sinh viên xuất sắc và sinh viên khó khăn. Bạn quan tâm loại nào?"
 
-  utter_ask_accommodation:
-    - text: "CUSC có ký túc xá với giá từ 1 triệu đến 3 triệu mỗi tháng."
-
   utter_ask_contact_info:
     - text: "Bạn có thể liên hệ CUSC qua số điện thoại 0123456789 hoặc email: tuyensinh@cusc.vn."
 
@@ -85,12 +78,19 @@ responses:
   utter_ask_transfer:
     - text: "Sinh viên có thể chuyển ngành nếu đáp ứng đủ điều kiện học tập và số tín chỉ."
 
+  utter_ask_about_cusc:
+    - text: 
+        "CUSC là Trung tâm Công nghệ Phần mềm trực thuộc Trường Đại học Cần Thơ, chuyên đào tạo các ngành công nghệ thông tin như Lập trình, Thiết kế đồ họa, Quản trị mạng... với phương châm đào tạo gắn liền thực tiễn và doanh nghiệp."
+  utter_ask_accommodation:
+    - text:
+        "CUSC không có ký túc xá"
+
+
 # actions:
 #   - action_ask_program
 #   - action_ask_admission_criteria
 #   - action_ask_tuition_fee
 #   - action_ask_scholarship
-#   - action_ask_accommodation
 #   - action_ask_contact_info
 #   - action_ask_application_deadline
 #   - action_ask_event

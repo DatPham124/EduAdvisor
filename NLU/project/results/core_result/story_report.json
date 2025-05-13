@@ -1,105 +1,99 @@
 {
-  "ask_contact_info": {
+  "utter_ask_transfer": {
     "precision": 1.0,
     "recall": 1.0,
     "f1-score": 1.0,
-    "support": 4,
-    "confused_with": {}
+    "support": 1
   },
-  "ask_admission_criteria": {
+  "utter_ask_accommodation": {
     "precision": 1.0,
     "recall": 1.0,
     "f1-score": 1.0,
-    "support": 4,
-    "confused_with": {}
+    "support": 1
   },
-  "goodbye": {
+  "utter_ask_program": {
     "precision": 1.0,
     "recall": 1.0,
     "f1-score": 1.0,
-    "support": 4,
-    "confused_with": {}
+    "support": 1
   },
-  "ask_scholarship": {
+  "utter_ask_contact_info": {
     "precision": 1.0,
     "recall": 1.0,
     "f1-score": 1.0,
-    "support": 4,
-    "confused_with": {}
+    "support": 1
   },
-  "ask_internship": {
+  "utter_ask_application_deadline": {
     "precision": 1.0,
     "recall": 1.0,
     "f1-score": 1.0,
-    "support": 4,
-    "confused_with": {}
+    "support": 1
   },
-  "ask_accommodation": {
+  "utter_greet": {
     "precision": 1.0,
     "recall": 1.0,
     "f1-score": 1.0,
-    "support": 4,
-    "confused_with": {}
+    "support": 1
   },
-  "ask_transfer": {
+  "utter_ask_admission_criteria": {
     "precision": 1.0,
     "recall": 1.0,
     "f1-score": 1.0,
-    "support": 4,
-    "confused_with": {}
+    "support": 1
   },
-  "ask_program": {
+  "utter_ask_tuition_fee": {
     "precision": 1.0,
     "recall": 1.0,
     "f1-score": 1.0,
-    "support": 4,
-    "confused_with": {}
+    "support": 1
   },
-  "ask_tuition_fee": {
+  "utter_ask_scholarship": {
     "precision": 1.0,
     "recall": 1.0,
     "f1-score": 1.0,
-    "support": 4,
-    "confused_with": {}
+    "support": 1
   },
-  "greet": {
+  "utter_ask_internship": {
     "precision": 1.0,
     "recall": 1.0,
     "f1-score": 1.0,
-    "support": 4,
-    "confused_with": {}
+    "support": 1
   },
-  "ask_event": {
+  "utter_ask_event": {
     "precision": 1.0,
     "recall": 1.0,
     "f1-score": 1.0,
-    "support": 4,
-    "confused_with": {}
+    "support": 1
   },
-  "ask_application_deadline": {
+  "action_listen": {
     "precision": 1.0,
     "recall": 1.0,
     "f1-score": 1.0,
-    "support": 4,
-    "confused_with": {}
+    "support": 11
   },
   "accuracy": 1.0,
   "macro avg": {
     "precision": 1.0,
     "recall": 1.0,
     "f1-score": 1.0,
-    "support": 48
+    "support": 22
   },
   "weighted avg": {
     "precision": 1.0,
     "recall": 1.0,
     "f1-score": 1.0,
-    "support": 48
+    "support": 22
   },
   "micro avg": {
     "precision": 1.0,
     "recall": 1.0,
     "f1-score": 1.0,
-    "support": 48
+    "support": 22
+  },
+  "conversation_accuracy": {
+    "accuracy": 1.0,
+    "correct": 10,
+    "with_warnings": 0,
+    "total": 10
   }
 }

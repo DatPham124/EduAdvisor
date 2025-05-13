@@ -9,9 +9,30 @@ nlu:
       - hello
       - hi
       - hey
-      - Rất vui được gặp bạn
-      - Mình cần tư vấn về tuyển sinh
-      - Xin chào, mình có thể hỏi gì về CUSC không?
+      - rất vui được gặp bạn
+      - mình cần tư vấn tuyển sinh
+      - xin chào, mình có thể hỏi về CUSC không
+      - Xin chào, có ai ở đây không
+      - Không biết có ai trả lời câu hỏi của mình không ta
+      - Xin chào, mình có thể hỏi vài điều được không?
+      - Chào bạn, mình quan tâm đến tuyển sinh
+      - Hello, có ai hỗ trợ mình không?
+
+
+  - intent: ask_accommodation
+    examples: |
+      - CUSC có ký túc xá không?
+      - ký túc xá bao nhiêu tiền?
+      - có phòng trọ gần CUSC không?
+      - ký túc xá có điều hòa không?
+      - có ký túc xá cho nữ không?
+      - phòng ký túc xá chứa bao nhiêu người?
+      - đăng ký ký túc xá như thế nào?
+      - Ký túc xá có máy giặt không?
+      - Phòng ký túc có bao nhiêu người?
+      - Mình muốn biết điều kiện ở ký túc xá
+      - Ký túc xá có giờ giới nghiêm không?
+      - Có được nấu ăn trong ký túc không?
 
   - intent: goodbye
     examples: |
@@ -19,104 +40,122 @@ nlu:
       - chào nhé
       - hẹn gặp lại
       - bye
-      - Cảm ơn bạn, mình sẽ quay lại sau
-      - Ok, mình sẽ liên hệ sau
-      - Rất hữu ích, cảm ơn nhé
+      - cảm ơn bạn, mình sẽ quay lại sau
+      - ok, mình sẽ liên hệ sau
+      - rất hữu ích, cảm ơn nhé
 
   - intent: ask_program
     examples: |
-      - Các ngành đào tạo của CUSC là gì?
+      - các ngành đào tạo của CUSC là gì?
       - CUSC có những chương trình đào tạo nào?
-      - Cho mình biết về các ngành học tại CUSC
-      - CUSC có đào tạo lập trình không?
-      - Những ngành học hot tại CUSC là gì?
-      - Ngành thiết kế đồ họa có không?
-      - Ngành nào phù hợp với nữ?
-      - Có ngành quản trị mạng không?
+      - cho mình biết về ngành học tại CUSC
+      - CUSC có ngành lập trình không?
+      - ngành học nổi bật tại CUSC là gì?
+      - ngành thiết kế đồ họa có không?
+      - ngành nào phù hợp với nữ giới?
+      - có ngành quản trị mạng không?
+      - CUSC có chương trình đào tạo về dữ liệu không?
+      - Ngành học nào thiên về kỹ thuật phần mềm?
+      - Các ngành học thiên về sáng tạo ở CUSC là gì?
+      - Học thiết kế đồ họa thì học những môn gì?
+
 
   - intent: ask_admission_criteria
     examples: |
-      - Điều kiện xét tuyển tại CUSC là gì?
+      - điều kiện xét tuyển CUSC là gì?
       - CUSC yêu cầu điểm số bao nhiêu?
-      - Yêu cầu xét tuyển cho ngành thiết kế đồ họa là gì?
-      - Có xét học bạ không?
-      - Điểm chuẩn ngành lập trình phần mềm là bao nhiêu?
-      - Muốn đăng ký ngành quản trị mạng thì cần điều kiện gì?
-      - CUSC có xét tuyển thẳng không?
-      - Cần giấy tờ gì để nộp hồ sơ?
+      - điều kiện vào ngành thiết kế đồ họa là gì?
+      - có xét tuyển học bạ không?
+      - điểm chuẩn lập trình phần mềm bao nhiêu?
+      - muốn học quản trị mạng thì cần điều kiện gì?
+      - CUSC có tuyển thẳng không?
+      - cần giấy tờ gì để đăng ký?
 
   - intent: ask_tuition_fee
     examples: |
-      - Học phí tại CUSC là bao nhiêu?
-      - CUSC có học phí cao không?
-      - Học phí của ngành lập trình phần mềm là bao nhiêu?
-      - Mỗi kỳ học tại CUSC mất bao nhiêu tiền?
-      - Mức học phí của từng ngành học?
-      - Có chính sách miễn giảm học phí không?
-      - Học phí cho sinh viên quốc tế là bao nhiêu?
+      - học phí CUSC bao nhiêu?
+      - CUSC học phí cao không?
+      - học phí ngành lập trình là bao nhiêu?
+      - mỗi học kỳ mất bao nhiêu tiền?
+      - học phí từng ngành học thế nào?
+      - có chính sách miễn học phí không?
+      - sinh viên quốc tế phải đóng bao nhiêu học phí?
+      - Tổng học phí 1 năm là bao nhiêu?
+      - Học phí bao gồm các khoản nào?
+      - Học phí có thay đổi theo ngành không?
+
 
   - intent: ask_scholarship
     examples: |
-      - CUSC có chương trình học bổng không?
-      - Điều kiện nhận học bổng tại CUSC là gì?
-      - Mình có thể xin học bổng không?
-      - Học bổng toàn phần có không?
-      - Học bổng cho sinh viên giỏi là bao nhiêu?
-      - Học bổng cho sinh viên khó khăn thì sao?
-      - Cần GPA bao nhiêu để được học bổng?
+      - CUSC có học bổng không?
+      - điều kiện nhận học bổng là gì?
+      - mình có thể xin học bổng không?
+      - học bổng toàn phần có không?
+      - học bổng cho sinh viên giỏi bao nhiêu?
+      - sinh viên khó khăn có học bổng không?
+      - cần GPA bao nhiêu để nhận học bổng?
+      - Học bổng có hỗ trợ học phí toàn phần không?
+      - Học bổng giảm bao nhiêu % học phí?
+      - Học sinh giỏi có được hỗ trợ tài chính không?
 
-  - intent: ask_accommodation
-    examples: |
-      - CUSC có ký túc xá không?
-      - Giá phòng ký túc xá là bao nhiêu?
-      - Có phòng trọ gần CUSC không?
-      - Ký túc xá có điều hòa không?
-      - Có ký túc xá cho sinh viên nữ không?
-      - Phòng ký túc xá có bao nhiêu người?
-      - Mình có thể đăng ký ký túc xá như thế nào?
 
   - intent: ask_contact_info
     examples: |
-      - Số điện thoại tư vấn tuyển sinh CUSC là gì?
-      - Mình muốn liên hệ với CUSC
-      - Địa chỉ CUSC ở đâu?
-      - Email hỗ trợ tuyển sinh CUSC là gì?
-      - Có thể liên hệ qua Zalo không?
-      - Hotline của phòng tuyển sinh là số nào?
-      - Mình muốn gặp tư vấn viên, làm sao để hẹn?
+      - số điện thoại tuyển sinh CUSC là gì?
+      - mình muốn liên hệ với CUSC
+      - địa chỉ CUSC ở đâu?
+      - email hỗ trợ tuyển sinh CUSC?
+      - có thể liên hệ qua Zalo không?
+      - hotline tuyển sinh là gì?
+      - làm sao để hẹn gặp tư vấn viên?
 
   - intent: ask_application_deadline
     examples: |
-      - Khi nào hết hạn nộp hồ sơ tại CUSC?
-      - Thời gian đăng ký xét tuyển là khi nào?
-      - Mình nộp hồ sơ muộn được không?
-      - Có đợt xét tuyển bổ sung không?
-      - Nếu nộp hồ sơ muộn thì có cơ hội xét tuyển không?
-      - Đợt 2 xét tuyển vào thời gian nào?
+      - khi nào hết hạn nộp hồ sơ?
+      - thời gian đăng ký xét tuyển?
+      - mình nộp hồ sơ muộn được không?
+      - có xét tuyển bổ sung không?
+      - nộp trễ có được xét tuyển không?
+      - đợt 2 xét tuyển diễn ra khi nào?
 
   - intent: ask_event
     examples: |
       - CUSC có sự kiện tuyển sinh không?
-      - Khi nào có ngày hội tư vấn tuyển sinh?
-      - Sự kiện tuyển sinh sắp tới là gì?
-      - Có buổi giao lưu với sinh viên không?
-      - Ngày hội sinh viên mới là ngày nào?
-      - Có chương trình tham quan CUSC không?
+      - khi nào tổ chức ngày hội tư vấn tuyển sinh?
+      - sự kiện tuyển sinh sắp diễn ra?
+      - có buổi giao lưu với sinh viên không?
+      - ngày hội sinh viên mới là khi nào?
+      - có chương trình tham quan CUSC không?
 
   - intent: ask_internship
     examples: |
-      - Sinh viên CUSC có được thực tập không?
-      - Trường có hỗ trợ thực tập không?
-      - Thực tập vào học kỳ nào?
-      - Mình có thể xin thực tập sớm không?
-      - CUSC có đối tác thực tập là công ty nào?
-      - Điều kiện để được đi thực tập là gì?
+      - sinh viên CUSC có được thực tập không?
+      - trường có hỗ trợ thực tập không?
+      - thực tập vào học kỳ nào?
+      - có thể thực tập sớm không?
+      - đối tác thực tập của CUSC là công ty nào?
+      - điều kiện để được đi thực tập là gì?
 
   - intent: ask_transfer
     examples: |
-      - Mình muốn chuyển ngành tại CUSC
-      - Điều kiện chuyển ngành là gì?
-      - Có được chuyển từ lập trình sang thiết kế không?
-      - Có mất học phí khi chuyển ngành không?
-      - Nếu học chưa hết năm nhất thì có chuyển ngành được không?
-      - Muốn chuyển từ chương trình liên kết sang chương trình chính quy được không?
+      - mình muốn chuyển ngành tại CUSC
+      - điều kiện để chuyển ngành là gì?
+      - có được chuyển từ lập trình sang thiết kế không?
+      - có mất học phí khi chuyển ngành không?
+      - học chưa hết năm nhất có chuyển ngành được không?
+      - muốn chuyển từ chương trình liên kết sang chính quy được không?
+
+  - intent: ask_about_cusc
+    examples: |
+      - CUSC là gì?
+      - CUSC có phải là trường đại học không?
+      - Trung tâm CUSC trực thuộc đơn vị nào?
+      - CUSC thuộc Đại học Cần Thơ đúng không?
+      - Giới thiệu về CUSC
+      - CUSC có uy tín không?
+      - CUSC dạy những gì?
+      - CUSC khác gì so với đại học?
+      - Trung tâm CUSC hoạt động như thế nào?
+      - Học ở CUSC có phải học đại học không?
+      - CUSC có cấp bằng không?
+      - CUSC đào tạo chính quy hay nghề?
