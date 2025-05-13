@@ -10,7 +10,7 @@ Sử dụng Rasa open source, phiên bản 3.6.21
 python3.8 -m venv .venv
 ```
 
-- Cài đặt Rasa và transformer, torch
+- Cài đặt Rasa và transformer, torch, vào thư mục dự án để chạy lệnh (/NLU/project)s
 
 ```
     pip install rasa
@@ -42,7 +42,6 @@ Theo đường dẫn, NLU/project
 
 ```
 rasa train
-
 ```
 
 - Chạy mô hình qua dòng lệnh
