@@ -1,0 +1,122 @@
+version: "3.1"
+
+nlu:
+  - intent: greet
+    examples: |
+      - xin chào
+      - chào bạn
+      - chào CUSC
+      - hello
+      - hi
+      - hey
+      - Rất vui được gặp bạn
+      - Mình cần tư vấn về tuyển sinh
+      - Xin chào, mình có thể hỏi gì về CUSC không?
+
+  - intent: goodbye
+    examples: |
+      - tạm biệt
+      - chào nhé
+      - hẹn gặp lại
+      - bye
+      - Cảm ơn bạn, mình sẽ quay lại sau
+      - Ok, mình sẽ liên hệ sau
+      - Rất hữu ích, cảm ơn nhé
+
+  - intent: ask_program
+    examples: |
+      - Các ngành đào tạo của CUSC là gì?
+      - CUSC có những chương trình đào tạo nào?
+      - Cho mình biết về các ngành học tại CUSC
+      - CUSC có đào tạo lập trình không?
+      - Những ngành học hot tại CUSC là gì?
+      - Ngành thiết kế đồ họa có không?
+      - Ngành nào phù hợp với nữ?
+      - Có ngành quản trị mạng không?
+
+  - intent: ask_admission_criteria
+    examples: |
+      - Điều kiện xét tuyển tại CUSC là gì?
+      - CUSC yêu cầu điểm số bao nhiêu?
+      - Yêu cầu xét tuyển cho ngành thiết kế đồ họa là gì?
+      - Có xét học bạ không?
+      - Điểm chuẩn ngành lập trình phần mềm là bao nhiêu?
+      - Muốn đăng ký ngành quản trị mạng thì cần điều kiện gì?
+      - CUSC có xét tuyển thẳng không?
+      - Cần giấy tờ gì để nộp hồ sơ?
+
+  - intent: ask_tuition_fee
+    examples: |
+      - Học phí tại CUSC là bao nhiêu?
+      - CUSC có học phí cao không?
+      - Học phí của ngành lập trình phần mềm là bao nhiêu?
+      - Mỗi kỳ học tại CUSC mất bao nhiêu tiền?
+      - Mức học phí của từng ngành học?
+      - Có chính sách miễn giảm học phí không?
+      - Học phí cho sinh viên quốc tế là bao nhiêu?
+
+  - intent: ask_scholarship
+    examples: |
+      - CUSC có chương trình học bổng không?
+      - Điều kiện nhận học bổng tại CUSC là gì?
+      - Mình có thể xin học bổng không?
+      - Học bổng toàn phần có không?
+      - Học bổng cho sinh viên giỏi là bao nhiêu?
+      - Học bổng cho sinh viên khó khăn thì sao?
+      - Cần GPA bao nhiêu để được học bổng?
+
+  - intent: ask_accommodation
+    examples: |
+      - CUSC có ký túc xá không?
+      - Giá phòng ký túc xá là bao nhiêu?
+      - Có phòng trọ gần CUSC không?
+      - Ký túc xá có điều hòa không?
+      - Có ký túc xá cho sinh viên nữ không?
+      - Phòng ký túc xá có bao nhiêu người?
+      - Mình có thể đăng ký ký túc xá như thế nào?
+
+  - intent: ask_contact_info
+    examples: |
+      - Số điện thoại tư vấn tuyển sinh CUSC là gì?
+      - Mình muốn liên hệ với CUSC
+      - Địa chỉ CUSC ở đâu?
+      - Email hỗ trợ tuyển sinh CUSC là gì?
+      - Có thể liên hệ qua Zalo không?
+      - Hotline của phòng tuyển sinh là số nào?
+      - Mình muốn gặp tư vấn viên, làm sao để hẹn?
+
+  - intent: ask_application_deadline
+    examples: |
+      - Khi nào hết hạn nộp hồ sơ tại CUSC?
+      - Thời gian đăng ký xét tuyển là khi nào?
+      - Mình nộp hồ sơ muộn được không?
+      - Có đợt xét tuyển bổ sung không?
+      - Nếu nộp hồ sơ muộn thì có cơ hội xét tuyển không?
+      - Đợt 2 xét tuyển vào thời gian nào?
+
+  - intent: ask_event
+    examples: |
+      - CUSC có sự kiện tuyển sinh không?
+      - Khi nào có ngày hội tư vấn tuyển sinh?
+      - Sự kiện tuyển sinh sắp tới là gì?
+      - Có buổi giao lưu với sinh viên không?
+      - Ngày hội sinh viên mới là ngày nào?
+      - Có chương trình tham quan CUSC không?
+
+  - intent: ask_internship
+    examples: |
+      - Sinh viên CUSC có được thực tập không?
+      - Trường có hỗ trợ thực tập không?
+      - Thực tập vào học kỳ nào?
+      - Mình có thể xin thực tập sớm không?
+      - CUSC có đối tác thực tập là công ty nào?
+      - Điều kiện để được đi thực tập là gì?
+
+  - intent: ask_transfer
+    examples: |
+      - Mình muốn chuyển ngành tại CUSC
+      - Điều kiện chuyển ngành là gì?
+      - Có được chuyển từ lập trình sang thiết kế không?
+      - Có mất học phí khi chuyển ngành không?
+      - Nếu học chưa hết năm nhất thì có chuyển ngành được không?
+      - Muốn chuyển từ chương trình liên kết sang chương trình chính quy được không?

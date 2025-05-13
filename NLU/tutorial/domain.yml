@@ -1,0 +1,71 @@
+version: "3.1"
+
+intents:
+  - hỏi_tên
+
+entities: []
+
+slots:
+  recipient:
+    type: text
+    mappings:
+      - type: from_llm
+
+  amount:
+    type: float
+    mappings:
+      - type: from_llm
+
+  final_confirmation:
+    type: bool 
+    mappings:
+      - type: from_llm
+
+  has_sufficient_funds:
+    type: bool
+    mappings:
+      - type: controlled
+
+  user_name:
+    type: text
+    mappings:
+      - type: from_text
+
+responses:
+  utter_ask_recipient:
+    - text: "Bạn muốn chuyển tiền đến ai?"
+
+  utter_ask_amount:
+    - text: "Bạn muốn chuyển bao nhiêu?"
+
+  utter_transfer_complete:
+    - text: "Đã xong. {amount} đã được chuyển đến {recipient}."
+
+  utter_insufficient_funds:
+    - text: "Bạn không đủ số dư để thực hiện giao dịch."
+
+  utter_free_chitchat_response:
+    - text: "placeholder"
+      metadata:
+        rephrase: True
+        rephrase_prompt: |
+          The following is a conversation with an AI assistant built with Rasa.
+          The assistant can help the user transfer money.
+          The assistant is helpful, creative, clever, and very friendly.
+          The user is making small talk, and the assistant should respond, keeping things light.
+          Context / previous conversation with the user:
+          {{history}}
+          {{current_input}}
+          Suggested AI Response:
+
+  utter_ask_final_confirmation:
+    - text: "Hãy xác nhận: bạn muốn chuyển {amount} tới {recipient}?"
+
+  utter_transfer_cancelled:
+    - text: "Giao dịch đã hủy."
+
+  utter_ask_name:
+    - text: "Mình tên là RasaBot! Còn bạn tên gì?"
+
+actions:
+  - action_check_sufficient_funds

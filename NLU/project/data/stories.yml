@@ -1,0 +1,54 @@
+version: "3.1"
+
+stories:
+  - story: Hỏi về ngành học
+    steps:
+      - intent: greet
+      - action: utter_greet
+      - intent: ask_program
+      - action: utter_ask_program
+
+  - story: Hỏi về điều kiện tuyển sinh
+    steps:
+      - intent: ask_admission_criteria
+      - action: utter_ask_admission_criteria
+
+  - story: Hỏi về học phí
+    steps:
+      - intent: ask_tuition_fee
+      - action: utter_ask_tuition_fee
+
+  - story: Hỏi về học bổng
+    steps:
+      - intent: ask_scholarship
+      - action: utter_ask_scholarship
+
+  - story: Hỏi về ký túc xá
+    steps:
+      - intent: ask_accommodation
+      - action: utter_ask_accommodation
+
+  - story: Hỏi về liên hệ
+    steps:
+      - intent: ask_contact_info
+      - action: utter_ask_contact_info
+
+  - story: Hỏi về hạn nộp hồ sơ
+    steps:
+      - intent: ask_application_deadline
+      - action: utter_ask_application_deadline
+
+  - story: Hỏi về sự kiện tuyển sinh
+    steps:
+      - intent: ask_event
+      - action: utter_ask_event
+
+  - story: Hỏi về thực tập
+    steps:
+      - intent: ask_internship
+      - action: utter_ask_internship
+
+  - story: Hỏi về chuyển ngành
+    steps:
+      - intent: ask_transfer
+      - action: utter_ask_transfer

@@ -1,0 +1,7 @@
+.venv
+test.py
+test2.py
+NLU/project/.rasa
+NLU/tutorial/.rasa
+NLU/project/models
+NLU/tutorial/models

@@ -1,0 +1,170 @@
+[
+  {
+    "text": "Xin chào, có ai ở đây không?",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "ask_contact_info",
+      "confidence": 0.3224031627178192
+    }
+  },
+  {
+    "text": "Hello CUSC",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "ask_contact_info",
+      "confidence": 0.3637559413909912
+    }
+  },
+  {
+    "text": "Hey, cho mình hỏi về học phí",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "ask_tuition_fee",
+      "confidence": 0.3641798794269562
+    }
+  },
+  {
+    "text": "Tạm biệt nhé",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "ask_tuition_fee",
+      "confidence": 0.44915148615837097
+    }
+  },
+  {
+    "text": "CUSC có chương trình nào dành cho lập trình viên không?",
+    "intent": "ask_program",
+    "intent_prediction": {
+      "name": "ask_tuition_fee",
+      "confidence": 0.26604506373405457
+    }
+  },
+  {
+    "text": "Ngành học thiết kế đồ họa yêu cầu gì?",
+    "intent": "ask_program",
+    "intent_prediction": {
+      "name": "ask_tuition_fee",
+      "confidence": 0.23973262310028076
+    }
+  },
+  {
+    "text": "Có ngành học về AI không?",
+    "intent": "ask_program",
+    "intent_prediction": {
+      "name": "ask_tuition_fee",
+      "confidence": 0.3197031021118164
+    }
+  },
+  {
+    "text": "Điều kiện xét tuyển của ngành CNTT là gì?",
+    "intent": "ask_admission_criteria",
+    "intent_prediction": {
+      "name": "ask_contact_info",
+      "confidence": 0.27329495549201965
+    }
+  },
+  {
+    "text": "CUSC có xét học bạ không?",
+    "intent": "ask_admission_criteria",
+    "intent_prediction": {
+      "name": "ask_scholarship",
+      "confidence": 0.3848334550857544
+    }
+  },
+  {
+    "text": "Muốn nộp hồ sơ thì cần chuẩn bị những gì?",
+    "intent": "ask_admission_criteria",
+    "intent_prediction": {
+      "name": "ask_contact_info",
+      "confidence": 0.5460200905799866
+    }
+  },
+  {
+    "text": "Học bổng hỗ trợ học phí bao nhiêu phần trăm?",
+    "intent": "ask_scholarship",
+    "intent_prediction": {
+      "name": "ask_tuition_fee",
+      "confidence": 0.5097804665565491
+    }
+  },
+  {
+    "text": "CUSC có xét tuyển bổ sung không?",
+    "intent": "ask_application_deadline",
+    "intent_prediction": {
+      "name": "ask_contact_info",
+      "confidence": 0.3879348933696747
+    }
+  },
+  {
+    "text": "Đợt xét tuyển tiếp theo là khi nào?",
+    "intent": "ask_application_deadline",
+    "intent_prediction": {
+      "name": "ask_contact_info",
+      "confidence": 0.42684391140937805
+    }
+  },
+  {
+    "text": "Nộp hồ sơ muộn có được không?",
+    "intent": "ask_application_deadline",
+    "intent_prediction": {
+      "name": "ask_scholarship",
+      "confidence": 0.28034892678260803
+    }
+  },
+  {
+    "text": "CUSC có tổ chức ngày hội tuyển sinh không?",
+    "intent": "ask_event",
+    "intent_prediction": {
+      "name": "ask_scholarship",
+      "confidence": 0.22933517396450043
+    }
+  },
+  {
+    "text": "Khi nào có chương trình tư vấn tuyển sinh?",
+    "intent": "ask_event",
+    "intent_prediction": {
+      "name": "ask_contact_info",
+      "confidence": 0.48354458808898926
+    }
+  },
+  {
+    "text": "Có buổi tham quan CUSC không?",
+    "intent": "ask_event",
+    "intent_prediction": {
+      "name": "ask_scholarship",
+      "confidence": 0.3032039701938629
+    }
+  },
+  {
+    "text": "Sự kiện tuyển sinh gần nhất là gì?",
+    "intent": "ask_event",
+    "intent_prediction": {
+      "name": "ask_contact_info",
+      "confidence": 0.22659361362457275
+    }
+  },
+  {
+    "text": "Sinh viên năm nhất có được thực tập không?",
+    "intent": "ask_internship",
+    "intent_prediction": {
+      "name": "ask_scholarship",
+      "confidence": 0.29523301124572754
+    }
+  },
+  {
+    "text": "CUSC có hỗ trợ thực tập cho sinh viên không?",
+    "intent": "ask_internship",
+    "intent_prediction": {
+      "name": "ask_scholarship",
+      "confidence": 0.4108177721500397
+    }
+  },
+  {
+    "text": "Thực tập có bắt buộc không?",
+    "intent": "ask_internship",
+    "intent_prediction": {
+      "name": "ask_scholarship",
+      "confidence": 0.37964147329330444
+    }
+  }
+]

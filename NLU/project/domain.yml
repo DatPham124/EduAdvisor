@@ -1,0 +1,102 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - ask_program
+  - ask_admission_criteria
+  - ask_tuition_fee
+  - ask_scholarship
+  - ask_accommodation
+  - ask_contact_info
+  - ask_application_deadline
+  - ask_event
+  - ask_internship
+  - ask_transfer
+
+entities:
+  - program
+  - admission_criteria
+  - tuition_fee
+  - scholarship
+  - accommodation
+  - contact_info
+  - application_deadline
+  - event
+  - internship
+  - transfer
+
+# slots:
+#   program:
+#     type: text
+#   admission_criteria:
+#     type: text
+#   tuition_fee:
+#     type: text
+#   scholarship:
+#     type: text
+#   accommodation:
+#     type: text
+#   contact_info:
+#     type: text
+#   application_deadline:
+#     type: text
+#   event:
+#     type: text
+#   internship:
+#     type: text
+#   transfer:
+#     type: text
+
+responses:
+  utter_greet:
+    - text: "Xin chào! Mình có thể giúp gì cho bạn về tuyển sinh tại CUSC?"
+
+  utter_goodbye:
+    - text: "Tạm biệt! Nếu cần tư vấn thêm, hãy quay lại nhé."
+
+  utter_ask_program:
+    - text: "CUSC hiện đang đào tạo các ngành: Lập trình phần mềm, Thiết kế đồ họa, Quản trị mạng. Bạn muốn tìm hiểu ngành cụ thể nào?"
+
+  utter_ask_admission_criteria:
+    - text: "Điều kiện xét tuyển tại CUSC bao gồm xét học bạ và điểm thi THPT. Bạn muốn biết chi tiết ngành nào?"
+
+  utter_ask_tuition_fee:
+    - text: "Học phí tại CUSC dao động từ 8 triệu đến 15 triệu mỗi học kỳ tùy ngành học."
+
+  utter_ask_scholarship:
+    - text: "CUSC cung cấp các học bổng cho sinh viên xuất sắc và sinh viên khó khăn. Bạn quan tâm loại nào?"
+
+  utter_ask_accommodation:
+    - text: "CUSC có ký túc xá với giá từ 1 triệu đến 3 triệu mỗi tháng."
+
+  utter_ask_contact_info:
+    - text: "Bạn có thể liên hệ CUSC qua số điện thoại 0123456789 hoặc email: tuyensinh@cusc.vn."
+
+  utter_ask_application_deadline:
+    - text: "Thời gian nộp hồ sơ đợt 1 từ 1/6 đến 30/6. Đợt 2 từ 15/7 đến 31/7."
+
+  utter_ask_event:
+    - text: "CUSC sẽ tổ chức ngày hội tư vấn tuyển sinh vào ngày 20/5."
+
+  utter_ask_internship:
+    - text: "Sinh viên năm 3 tại CUSC sẽ được hỗ trợ thực tập tại các doanh nghiệp liên kết."
+
+  utter_ask_transfer:
+    - text: "Sinh viên có thể chuyển ngành nếu đáp ứng đủ điều kiện học tập và số tín chỉ."
+
+# actions:
+#   - action_ask_program
+#   - action_ask_admission_criteria
+#   - action_ask_tuition_fee
+#   - action_ask_scholarship
+#   - action_ask_accommodation
+#   - action_ask_contact_info
+#   - action_ask_application_deadline
+#   - action_ask_event
+#   - action_ask_internship
+#   - action_ask_transfer
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

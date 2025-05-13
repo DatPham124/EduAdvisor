@@ -1,0 +1,86 @@
+version: "3.1"
+
+nlu:
+  - intent: greet
+    examples: |
+      - Chào bạn, mình cần hỏi chút về tuyển sinh
+      - Xin chào, có ai ở đây không?
+      - Hello CUSC
+      - Hey, cho mình hỏi về học phí
+
+  - intent: goodbye
+    examples: |
+      - Tạm biệt nhé
+      - Cảm ơn bạn nhiều
+      - Hẹn gặp lại sau
+      - Mình sẽ quay lại sau
+
+  - intent: ask_program
+    examples: |
+      - Các ngành học hot nhất tại CUSC là gì?
+      - CUSC có chương trình nào dành cho lập trình viên không?
+      - Ngành học thiết kế đồ họa yêu cầu gì?
+      - Có ngành học về AI không?
+
+  - intent: ask_admission_criteria
+    examples: |
+      - Điều kiện xét tuyển của ngành CNTT là gì?
+      - Điểm chuẩn để vào ngành quản trị mạng là bao nhiêu?
+      - CUSC có xét học bạ không?
+      - Muốn nộp hồ sơ thì cần chuẩn bị những gì?
+
+  - intent: ask_tuition_fee
+    examples: |
+      - Học phí một năm tại CUSC là bao nhiêu?
+      - Ngành thiết kế đồ họa học phí thế nào?
+      - Có chính sách hỗ trợ học phí không?
+      - Mình muốn biết chi tiết học phí từng ngành
+
+  - intent: ask_scholarship
+    examples: |
+      - CUSC có học bổng cho sinh viên giỏi không?
+      - Điều kiện nhận học bổng là gì?
+      - Mình muốn xin học bổng toàn phần
+      - Học bổng hỗ trợ học phí bao nhiêu phần trăm?
+
+  - intent: ask_accommodation
+    examples: |
+      - Giá phòng ký túc xá bao nhiêu mỗi tháng?
+      - CUSC có ký túc xá cho nữ không?
+      - Mình muốn đăng ký ký túc xá
+      - Ký túc xá có điều hòa không?
+
+  - intent: ask_contact_info
+    examples: |
+      - CUSC có hotline hỗ trợ tư vấn không?
+      - Mình cần email liên hệ của phòng tuyển sinh
+      - Địa chỉ CUSC ở đâu?
+      - Số điện thoại tư vấn tuyển sinh là gì?
+
+  - intent: ask_application_deadline
+    examples: |
+      - Khi nào hết hạn nộp hồ sơ?
+      - CUSC có xét tuyển bổ sung không?
+      - Đợt xét tuyển tiếp theo là khi nào?
+      - Nộp hồ sơ muộn có được không?
+
+  - intent: ask_event
+    examples: |
+      - CUSC có tổ chức ngày hội tuyển sinh không?
+      - Khi nào có chương trình tư vấn tuyển sinh?
+      - Có buổi tham quan CUSC không?
+      - Sự kiện tuyển sinh gần nhất là gì?
+
+  - intent: ask_internship
+    examples: |
+      - Sinh viên năm nhất có được thực tập không?
+      - CUSC có hỗ trợ thực tập cho sinh viên không?
+      - Mình có thể thực tập ở công ty nào?
+      - Thực tập có bắt buộc không?
+
+  - intent: ask_transfer
+    examples: |
+      - Điều kiện để chuyển ngành là gì?
+      - Mình muốn chuyển từ ngành CNTT sang thiết kế đồ họa
+      - Có mất học phí khi chuyển ngành không?
+      - Mình có thể chuyển ngành vào cuối năm nhất không?
