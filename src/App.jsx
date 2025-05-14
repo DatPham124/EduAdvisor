@@ -1,23 +1,24 @@
-import React from "react";
-import {Routes, Route} from "react-router-dom";
+import React from 'react';
+import { Routes, Route } from 'react-router-dom';
 
-import Header from "./components/Home/Header";
-import Footer from "./components/Home/Footer";
+import Header from './components/Home/Header';
+import Footer from './components/Home/Footer';
 
-import Home from "./views/Home";
-import Major from "./views/Major";
-
+import Login from './views/Login';
+import Home from './views/Home';
+import Major from './views/Major';
 
 const App = () => {
   return (
     <div className="App">
-      <Header/>
+      <Header />
       <Routes>
-        <Route path="/" element={<Home/>}/>
-        <Route path="/home" element={<Home/>}/>
-        <Route path="/major" element={<Major/>}/>
+        <Route path="/" element={<Home />} />
+        <Route path="/home" element={<Home />} />
+        <Route path="/major" element={<Major />} />
+        <Route path="/login" element={<Login />} />
       </Routes>
-      <Footer/>
+      <Footer />
     </div>
   );
 };
