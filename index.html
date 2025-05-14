@@ -9,7 +9,6 @@
     href="https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2:wght@400..800&family=Dosis:wght@200..800&family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Manrope:wght@200..800&family=Righteous&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap"
     rel="stylesheet" />
   <link rel="icon" type="image/png" href="/image/logo.png" />
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" />
   <link rel="stylesheet" href="https://cdn.lineicons.com/4.0/lineicons.css" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -18,11 +17,10 @@
 
 <body>
   <div id="root"></div>
-  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-
-  <script type="module" src="/src/main.jsx"></script>
   <script src="https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js"></script>
   <script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
+  <script type="module" src="/src/main.jsx"></script>
+
   <script>
     // Scroll Reveal
     const sr = ScrollReveal({
@@ -35,30 +33,11 @@
     sr.reveal(`.scroll-revealed`, {
       cleanup: true,
     });
-    // Testimonial
-    const testimonialSwiper = new Swiper(".testimonial-carousel", {
-      slidesPerView: 1,
-      spaceBetween: 30,
-      navigation: {
-        nextEl: ".swiper-button-next",
-        prevEl: ".swiper-button-prev",
-      },
 
-      breakpoints: {
-        640: {
-          slidesPerView: 2,
-          spaceBetween: 30,
-        },
-        1024: {
-          slidesPerView: 3,
-          spaceBetween: 30,
-        },
-        1280: {
-          slidesPerView: 3,
-          spaceBetween: 30,
-        },
-      },
-    });
+  </script>
+
+
+
   </script>
 </body>
 
