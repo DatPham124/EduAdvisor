@@ -43,7 +43,7 @@ const DualMajorSection = () => {
           <div className="w-4xl">
             <table className="table table-lg bg-neutral-50 text-black w-full">
               {/* head */}
-              <thead className="text-sm">
+              <thead className="text-sm text-black">
                 <tr>
                   <th className='w-4/12'>Tên ngành</th>
                   <th className="text-center w-1/12">Chỉ tiêu</th>
