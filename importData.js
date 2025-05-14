@@ -3,8 +3,8 @@ const fs = require("fs");
 require("dotenv").config({ path: "config.env" });
 
 // Modify the path to your model file as needed
-const model = require("./app/models/teacher.model.js");
-const file = "data/teacher.data.json";
+const model = require("./app/models/dualMajor.model.js");
+const file = "data/dualMajor.data.json";
 
 async function importFromFile() {
   try {

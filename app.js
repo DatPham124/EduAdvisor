@@ -4,6 +4,7 @@ const cookieParser = require("cookie-parser");
 
 const ApiError = require("./app/utils/error.util");
 const MajorRoute = require("./app/router/major.route");
+const DualMajorRoute = require("./app/router/dualMajor.route");
 const examGroupRoute = require("./app/router/examGroup.route");
 const admissionInfoRoute = require("./app/router/admissionInfo.route");
 const admissionTypeRoute = require("./app/router/admissionType.route");
@@ -30,6 +31,7 @@ app.use(express.static(`${__dirname}/public`));
 
 //Use Routers
 app.use("/api/eduadvisor/major", MajorRoute);
+app.use("/api/eduadvisor/dualmajor", DualMajorRoute);
 app.use("/api/eduadvisor/exam_group", examGroupRoute);
 app.use("/api/eduadvisor/admission_type", admissionInfoRoute);
 app.use("/api/eduadvisor/admission_type", admissionTypeRoute);

@@ -23,7 +23,10 @@ const dualMajorSchema = new mongoose.Schema({
     type: String,
     required: [true, "Thời gian đào tạo là bắt buộc"],
   },
-
+  degree: {
+    type: String,
+    require: true,
+  },
   createdAt: {
     type: Date,
     default: Date.now,

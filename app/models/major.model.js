@@ -55,6 +55,11 @@ const majorSchema = new mongoose.Schema({
     default: false,
   },
 
+  image: {
+    type: String,
+    require: true,
+  },
+
   createdAt: {
     type: Date,
     default: Date.now,

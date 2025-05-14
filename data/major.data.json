@@ -8,6 +8,7 @@
     "quantity": 90,
     "tilte": "Kỹ sư",
     "duration": "4,5 năm",
+    "image": "truyenthong.jpg",
     "position": "Chuyên viên biên tập, quản trị báo điện tử, các kênh truyền thông số, tiếp thị số. Kỹ sư, lập trình phần mềm; phát triển các ứng dụng Web, ứng dụng trên thiết bị di động. Chuyên viên thiết kế, tư vấn quảng cáo, thiết kế bao bì, nhãn hiệu sản phẩm, thiết kế logo, làm phim quảng cáo, … hoặc một hệ thống nhận dạng thương hiệu (tại các công ty quảng cáo, PR). Chuyên viên/Giám đốc tổ chức sự kiện, chuyên viên truyền thông trực tiếp và trực tuyến. Giám đốc sản xuất, biên tập viên truyền hình, phóng viên (truyền thông đa phương tiện); xử lý âm thanh, hình ảnh trước khi phát sóng, thiết kế các nội dung truyền hình (tại các công ty truyền hình, hãng sản xuất phim). Giảng viên dạy tại các trường đại học, cao đẳng, trung cấp, … đào tạo về Truyền thông đa phương tiện. "
 },
 {
@@ -18,6 +19,7 @@
     "quantity": 80,
     "tilte": "Kỹ sư",
     "duration": "4,5 năm",
+    "image": "kythuatpm.jpg",
     "position": "Kỹ sư phát triển phần mềm. Kỹ sư kiểm thử phần mềm. Kỹ sư phân tích và thiết kế phần mềm. Kỹ sư bảo trì phần mềm. Trưởng nhóm lập trình, trưởng dự án và các vị trí điều hành các cấp trong dự án phần mềm. Chủ doanh nghiệp sản xuất phần mềm. Cán bộ nghiên cứu và ứng dụng Công nghệ thông tin. Giảng viên các trường đại học, cao đẳng, trung cấp đào tạo về Công nghệ thông tin."
 },
 {
@@ -28,6 +30,7 @@
     "quantity": 80,
     "tilte": "Kỹ sư",
     "duration": "4,5 năm",
+    "image": "it.jpg",
     "position": "Nhà tư vấn, giám sát, nhà lãnh đạo lĩnh vực công nghệ thông tin cho các tổ chức, doanh nghiệp hay cá nhân. Lập trình viên, kỹ thuật viên, quản trị viên hệ thống công nghệ thông tin cho các tổ chức, doanh nghiệp hay cá nhân. Cán bộ nghiên cứu, phân tích trong lĩnh vực công nghệ thông tin tại các viện nghiên cứu hay các trường đại học Giảng viên giảng dạy ở các trường đại học, cao đẳng, trung học chuyên nghiệp, trung học phổ thông."
 },
 
@@ -39,6 +42,7 @@
     "quantity": 90,
     "tilte": "Cử nhân",
     "duration": "4 năm",
+    "image": "logistics.jpg",
     "position": "Quản lý và lập kế hoạch sản xuất. Quản lý các hệ thống vận tải. Quản lý hệ thống kho và phân phối.  Quản lý nhà cung cấp. Quản lý các hoạt động, quy trình xuất nhập khẩu. Chuyên viên tư vấn và phân tích chuỗi cung ứng và hệ thống logistics.Về lâu dài, với kiến thức, kinh nghiệm tích lũy, cử nhân Logistics và Quản lý chuỗi cung ứng có thể trở thành các chuyên gia, nhà tư vấn, hay nhà quản lý trong các lĩnh vực liên quan đến logistics và chuỗi cung ứng trong các công ty, tổ chức trong và ngoài nước."
 },
 {
@@ -49,6 +53,7 @@
     "quantity": 100,
     "tilte": "Cử nhân",
     "duration": "4 năm",
+    "image": "hdv.jpg",
     "position": "Chuyên viên tại các Trung tâm xúc tiến đầu tư thương mại và du lịch: sinh viên tốt nghiệp có khả năng làm việc tại các trung tâm phụ trách các hoạt động liên quan đến công tác xúc tiến đầu tư thương mại du lịch cho địa phương nói chung và các đơn vị kinh tế trong lĩnh vực đầu tư và thương mại du lịch nói riêng. Chuyên viên tại các cơ quan quản lý du lịch tại địa phương. Nhân viên, giám sát, quản lý tại các bộ phận trong các đơn vị kinh doanh lưu trú, nhà hàng, lữ hành, và giải trí. Nghiên cứu viên, giảng viên tại các cơ sở nghiên cứu, viện trường có hoạt động nghiên cứu và đào tạo liên quan đến lĩnh vực dịch vụ du lịch"
 }
 ]
