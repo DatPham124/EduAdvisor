@@ -33,7 +33,7 @@ const MajorSection = () => {
     }
 
     return (
-        <section className="major-section mt-40">
+        <section className="major-section mt-10 mb-20">
             <div className="section-header">
                 <p className="text-3xl font-bold text-center uppercase">chuyên ngành đào tạo</p>
                 <p className="text-large w-1/2 mx-auto text-center mt-4">
@@ -43,7 +43,7 @@ const MajorSection = () => {
             <div className="section-content mt-10">
                 <div className="flex flex-col items-center">
                     <div className="w-4xl">
-                        <table className="table bg-neutral-100">
+                        <table className="table bg-base-100 text-black">
                             {/* head */}
                             <thead className="text-sm">
                             <tr>
@@ -67,7 +67,7 @@ const MajorSection = () => {
                                         <td className="text-center">{major.duration}</td>
                                         <td className="text-center">{major.tilte}</td>
                                         <td>
-                                            <Link to={`/major/${major.id}`} className="text-blue-500 hover:text-blue-700 italic underline" >
+                                            <Link to={`/major/${major.code}`} className="text-blue-500 hover:text-blue-700 italic underline" >
                                                 Xem chi tiết
                                             </Link>
                                         </td>

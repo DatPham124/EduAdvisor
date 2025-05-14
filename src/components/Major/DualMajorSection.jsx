@@ -43,7 +43,7 @@ const DualMajorSection = () => {
             <div className="section-content mt-10">
                 <div className="flex flex-col items-center">
                     <div className="w-4xl">
-                        <table className="table bg-neutral-100">
+                        <table className="table bg-neutral-50 text-black">
                             {/* head */}
                             <thead className="text-sm">
                             <tr>
