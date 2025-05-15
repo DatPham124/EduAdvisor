@@ -1,6 +1,30 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
+
+import admissionInfoService from '../../services/admissionInfo.service';
+import { Link } from 'react-router-dom';
 
 const AdmissionInfo = () => {
+  const [infos, setInfo] = useState([]);
+      const [loading, setLoading] = useState(true);
+      const [error, setError] = useState(null);
+    
+      useEffect(() => {
+        const fetchInfo = async () => {
+          try {
+            const response = await admissionInfoService.getAllInfo();
+             setInfo(response?.data.adInfo || []);
+          } catch (err) {
+            setError(err);
+          } finally {
+            setLoading(false);
+          }
+        };
+    
+        fetchInfo();
+      }, []);
+    if (loading || error) {
+      return <div className='flex items-center justify-center'><span className="loading loading-infinity loading-xl"></span></div>;
+    }   
   return (
     <section id="services" class="section-area">
       <div class="container">
@@ -11,7 +35,7 @@ const AdmissionInfo = () => {
             và thiết kế chưa bao giờ dễ dàng hơn.
           </p>
         </div>
-
+      {infos.map((info) => (
         <div class="row">
           <div class="scroll-revealed col-12 ">
             <div class="group hover:-translate-y-1">
@@ -23,11 +47,7 @@ const AdmissionInfo = () => {
                   Đối tượng
                 </h4>
                 <p>
-                  Học sinh tốt nghiệp Trung học phổ thông (sau đây viết tắt là
-                  THPT) hoặc tương đương. Lưu ý: Thí sinh tốt nghiệp các chương
-                  trình do tổ chức giáo dục nước ngoài cấp bằng cần hoàn thiện
-                  thủ tục công nhận tương đương tốt nghiệp THPT theo quy định
-                  của Bộ GD & ĐT Việt Nam.
+                  {info.object}
                 </p>
               </div>
             </div>
@@ -42,16 +62,8 @@ const AdmissionInfo = () => {
                 <h4 class="text-[1.25rem]/tight font-semibold mb-5">
                   Hình thức
                 </h4>
-                <p>Phương thức 1: Tuyển thẳng, ưu tiên xét tuyển.</p>
                 <p>
-                  Phương thức 2: Xét tuyển dựa vào điểm của Kỳ thi tốt nghiệp
-                  THPT năm 2025 theo tổ hợp 3 môn ứng với ngành do thí sinh đăng
-                  ký.
-                </p>
-                <p>
-                  Phương thức 3: Xét tuyển dựa vào Điểm trung bình môn cả năm
-                  lớp 10, lớp 11 và lớp 12 của 3 môn trong tổ hợp ứng với ngành
-                  do thí sinh đăng ký.
+                  {info.form}
                 </p>
               </div>
             </div>
@@ -66,15 +78,13 @@ const AdmissionInfo = () => {
                   Học bổng
                 </h4>
                 <p>
-                  Quỹ học bổng trị giá 150 tỷ VNĐ trao nhiều suất học bổng cho
-                  thí sinh nhập học năm 2025 có thành tích xuất sắc trong quá
-                  trình học tập:1. Học bổng Talent: 30 - 100% học phí toàn
-                  chương trình.{' '}
+                 {info.scholarship}
                 </p>
               </div>
             </div>
           </div>
         </div>
+        ))}
       </div>
     </section>
   );
