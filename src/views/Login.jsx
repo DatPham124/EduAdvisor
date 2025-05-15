@@ -37,6 +37,17 @@ const Login = () => {
         <div className="container relative z-10">
           <div className="flex flex-col items-center justify-center bg-neutral-100 rounded-box w-xs mx-auto p-6 shadow-md mb-10 !z-10">
             <fieldset className="fieldset w-full">
+              <div className="flex items-center justify-center logo mt-3">
+              <img
+                src="/images/logo.png"
+                alt="Logo"
+                className="h-14"
+              />
+              </div>
+              <p className="!text-2xl font-bold text-primary uppercase flex items-center justify-center mb-3">
+              đăng nhập
+              </p>
+              
               <label className="input input-md input-primary validator shadow-md">
                 <svg
                   className="h-[1em] text-gray-400"
@@ -122,13 +133,7 @@ const Login = () => {
                 Chưa có tài khoản? Đăng ký ngay
               </Link>
             </div>
-            <div className="logo mt-3">
-              <img
-                src="/images/logo_name.png"
-                alt="Logo"
-                className="h-10"
-              />
-            </div>
+            
           </div>
         </div>
         <div className="absolute bottom-5 left-96 z-0">

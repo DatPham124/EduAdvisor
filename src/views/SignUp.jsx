@@ -27,19 +27,26 @@ const SignUp = () => {
         id="home"
         className="relative overflow-hidden bg-primary text-primary-color pt-[120px] md:pt-[130px] lg:pt-[160px]"
       >
-        <div className="container tilte mb-10">
+        <div className="container tilte mb-5">
           <div className="flex flex-col items-center justify-center">
-            {/* <p className="!text-4xl font-bold text-white uppercase">
+            <p className="!text-4xl font-bold text-white uppercase">
               đại học ninh kiều
-            </p> */}
-            {/* <div className="logo mt-1">
-              <img src="/images/logo.png" alt="logo" className="w-12 h-12" />
-            </div> */}
+            </p>
           </div>
         </div>
         <div className="container relative z-10">
           <div className="flex flex-col items-center justify-center bg-neutral-50 rounded-box w-2xl mx-auto p-6 shadow-md mb-10">
             <fieldset className="fieldset w-full">
+                 <div className="flex items-center justify-center logo mt-3">
+              <img
+                src="/images/logo.png"
+                alt="Logo"
+                className="h-14"
+              />
+            </div>
+              <p className="!text-2xl font-bold text-primary uppercase flex items-center justify-center mb-3">
+              đăng ký
+            </p>
               <div className="flex flex-row items-center mb-4 mt-2">
                 <label className="label !text-gray-500 ml-3 flex flex-1/7">
                   Họ tên<span className="text-red-500">*</span>
@@ -167,9 +174,7 @@ const SignUp = () => {
             >
               Đã có tài khoản? Đăng nhập ngay!
             </Link>
-            <div className="logo mt-8">
-              <img src="/images/logo_name.png" alt="logo" className="h-12" />
-            </div>
+            
           </div>
         </div>
         <div className="absolute bottom-10 right-40 z-0">

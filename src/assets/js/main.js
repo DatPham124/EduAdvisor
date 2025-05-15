@@ -1,4 +1,3 @@
-'use strict';
 // Page loading
 var pageLoading = document.querySelector('.page-loading');
 
