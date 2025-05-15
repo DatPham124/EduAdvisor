@@ -75,7 +75,7 @@ const MajorSection = () => {
                     <td className="text-center">{major.tilte}</td>
                     <td>
                       <Link
-                        to={`/major/${major.code}`}
+                        to={`/major/${major._id}`}
                         className="text-blue-500 hover:text-blue-700 italic underline"
                       >
                         Xem chi tiết

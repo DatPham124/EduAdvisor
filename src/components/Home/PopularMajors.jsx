@@ -52,12 +52,12 @@ const PopularMajors = () => {
                 <div className="absolute top-0 left-0 w-full aspect-[4/3] flex items-center justify-center bg-body-light-1/75 scale-[0.15] rounded-xl opacity-0 invisible group-hover:scale-95 group-hover:opacity-100 group-hover:visible">
                   <div className="flex flex-wrap  p-4">
                     <div className="inline-block relative">
-                      <a
-                        href="./assets/img/portfolio/portfolio-1.jpg"
+                      <Link
+                        to={`/major/${major._id}`}
                         className="portfolio-box text-[1.75rem] text-primary-color bg-primary z-10 w-[60px] aspect-square rounded-lg text-center inline-flex items-center justify-center hover:bg-primary-light-10 hover:text-primary-color dark:hover:bg-primary-dark-10 dark:hover:text-primary-color focus:bg-primary-light-10 focus:text-primary-color dark:focus:bg-primary-dark-10 dark:focus:text-primary-color"
                       >
                         <i className="lni lni-eye"></i>
-                      </a>
+                      </Link>
                     </div>
                   </div>
                 </div>

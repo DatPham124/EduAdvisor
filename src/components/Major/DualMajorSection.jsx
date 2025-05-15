@@ -65,7 +65,7 @@ const DualMajorSection = () => {
                     <td className="text-center">{dualMajor.degree}</td>
                     <td>
                       <Link
-                        to={`/major/${dualMajor.id}`}
+                        to={`/major/${dualMajor._id}`}
                         className="text-blue-500 hover:text-blue-700 italic"
                       >
                         Xem chi tiết

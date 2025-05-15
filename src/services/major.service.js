@@ -16,7 +16,13 @@ class MajorService {
   }
 
   async getMajor(id) {
-    return this.api.get(id);
+    try {
+      const response = await this.api.json.get(id);
+      return response.data;
+    } catch (error) {
+      console.error(error);
+      return [];
+    }
   }
 
   async createMajor(data) {
