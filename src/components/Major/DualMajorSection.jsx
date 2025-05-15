@@ -1,31 +1,8 @@
-import React, { useEffect, useState } from 'react';
-
-import dualMajorService from '../../services/dualMajor.service';
+import React from 'react';
 import { Link } from 'react-router-dom';
 
-const DualMajorSection = () => {
-  const [dualMajors, setDualMajors] = useState([]);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
-
-  useEffect(() => {
-    const fetchDualMajors = async () => {
-      try {
-        const response = await dualMajorService.getAllDualMajors();
-        setDualMajors(response.data.dualMajors);
-      } catch (err) {
-        setError(err);
-      } finally {
-        setLoading(false);
-      }
-    };
-
-    fetchDualMajors();
-  }, []);
-
-  if (loading || error) {
-    return <div className='flex items-center justify-center'><span className="loading loading-infinity loading-xl"></span></div>;
-  }
+const DualMajorSection = (props) => {
+  console.log(props);
 
   return (
     <section className="major-section mt-40 mb-40">
@@ -43,23 +20,23 @@ const DualMajorSection = () => {
           <div className="w-4xl">
             <table className="table table-lg bg-neutral-50 text-black w-full">
               {/* head */}
-              <thead className="text-sm text-black">
+              <thead className="text-sm">
                 <tr>
-                  <th className='w-4/12'>Tên ngành</th>
+                  <th className="w-4/12">Tên ngành</th>
                   <th className="text-center w-1/12">Chỉ tiêu</th>
                   <th className="text-center w-1/12">Thời gian đào tạo</th>
                   <th className="text-center 4/12">Danh hiệu</th>
-                  <th className='w-2/12'></th>
+                  <th className="w-2/12"></th>
                 </tr>
               </thead>
               <tbody>
                 {/* row 1 */}
-                {dualMajors.map((dualMajor) => (
+                {props.dualMajors.map((dualMajor) => (
                   <tr
                     key={dualMajor.id}
                     className="!border-t-1 border-gray-400 text-xs"
                   >
-                    <td className=''>{dualMajor.name}</td>
+                    <td className="">{dualMajor.name}</td>
                     <td className="text-center">{dualMajor.quantity}</td>
                     <td className="text-center">{dualMajor.duration}</td>
                     <td className="text-center">{dualMajor.degree}</td>

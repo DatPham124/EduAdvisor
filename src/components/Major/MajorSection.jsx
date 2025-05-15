@@ -1,38 +1,7 @@
-import React, { useEffect, useState } from 'react';
-
-import majorService from '../../services/major.service';
+import React from 'react';
 import { Link } from 'react-router-dom';
 
-const MajorSection = () => {
-  const [majors, setMajors] = useState([]);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
-
-  useEffect(() => {
-    const fetchMajors = async () => {
-      try {
-        const response = await majorService.getAllMajors();
-        setMajors(response.data.majors);
-      } catch (err) {
-        setError(err);
-      } finally {
-        setLoading(false);
-      }
-    };
-
-    fetchMajors();
-  }, []);
-
-  if (loading || error) {
-    return <div className='flex items-center justify-center'><span className="loading loading-infinity loading-xl"></span></div>;
-  } 
-
-  // if (error) {
-  //   return (
-  //     <div className="text-center text-red-500">Error: {error.message}</div>
-  //   );
-  // }
-
+const MajorSection = (props) => {
   return (
     <section className="major-section mt-2 mb-20">
       <div className="section-header">
@@ -62,7 +31,7 @@ const MajorSection = () => {
               </thead>
               <tbody>
                 {/* row 1 */}
-                {majors.map((major) => (
+                {props.majors.map((major) => (
                   <tr
                     key={major._id}
                     className="!border-t-1 border-gray-400 text-xs rounded-lg"
@@ -75,7 +44,7 @@ const MajorSection = () => {
                     <td className="text-center">{major.tilte}</td>
                     <td>
                       <Link
-                        to={`/major/${major.code}`}
+                        to={`/major/${major._id}`}
                         className="text-blue-500 hover:text-blue-700 italic underline"
                       >
                         Xem chi tiết
