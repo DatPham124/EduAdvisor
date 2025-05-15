@@ -25,24 +25,19 @@ exports.getAll = catchAsync(async (req, res, next) => {
   });
 });
 
-exports.getByExanGroup = catchAsync(async (req, res, next) => {
-  const majorExGps = await MajorExGp.find()
-    .populate("majors")
-    .populate("examgroups");
+exports.getById = catchAsync(async (req, res, next) => {
+  const { id } = req.params;
 
-  const majors = majorExGps
-    .filter((item) => item.examgroups.name === req.params)
-    .map((item) => item.major);
+  const major = await Major.findById(id);
 
-  if (!majors) {
+  if (!major) {
     return next(new ApiError("No majors found", 404));
   }
 
   res.status(200).json({
     status: "success",
-    results: majors.length,
     data: {
-      majors,
+      major,
     },
   });
 });

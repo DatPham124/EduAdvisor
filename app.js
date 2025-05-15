@@ -27,13 +27,13 @@ app.use(cookieParser());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static(`${__dirname}/public`));
-// app.use('/uploads', express.static(`${__dirname}/uploads`));
+app.use("/uploads", express.static(`${__dirname}/app/uploads`));
 
 //Use Routers
 app.use("/api/eduadvisor/major", MajorRoute);
 app.use("/api/eduadvisor/dualmajor", DualMajorRoute);
 app.use("/api/eduadvisor/exam_group", examGroupRoute);
-app.use("/api/eduadvisor/admission_type", admissionInfoRoute);
+app.use("/api/eduadvisor/admission_info", admissionInfoRoute);
 app.use("/api/eduadvisor/admission_type", admissionTypeRoute);
 app.use("/api/eduadvisor/teacher", teacherRoute);
 app.use("/api/eduadvisor/user", userRoute);
