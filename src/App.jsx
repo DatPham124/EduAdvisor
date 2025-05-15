@@ -5,6 +5,7 @@ import Header from './components/Home/Header';
 import Footer from './components/Home/Footer';
 
 import Login from './views/Login';
+import Signup from './views/Signup';
 import Home from './views/Home';
 import Major from './views/Major';
 import MajorDetail from './views/MajorDetail'
@@ -19,6 +20,7 @@ const App = () => {
         <Route path="/major" element={<Major />} />
         <Route path="/major/:id" element={<MajorDetail />} />
         <Route path="/login" element={<Login />} />
+        <Route path="/signup" element={<Signup />} />
       </Routes>
       <Footer />
     </div>

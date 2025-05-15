@@ -1,0 +1,186 @@
+import React, { useState } from 'react';
+
+import { Link } from 'react-router-dom';
+
+const SignUp = () => {
+  const [formData, setFormData] = useState({
+    name: '',
+    email: '',
+    phone: '',
+    password: '',
+    province: '',
+    district: '',
+    school: '',
+    hobby: '',
+  });
+
+  const handleChange = (e) => {
+    const { name, value } = e.target;
+    setFormData((prevData) => ({
+      ...prevData,
+      [name]: value,
+    }));
+  };
+  return (
+    <main className="main relative">
+      <div
+        id="home"
+        className="relative overflow-hidden bg-primary text-primary-color pt-[120px] md:pt-[130px] lg:pt-[160px]"
+      >
+        <div className="container tilte mb-10">
+          <div className="flex flex-col items-center justify-center">
+            {/* <p className="!text-4xl font-bold text-white uppercase">
+              đại học ninh kiều
+            </p> */}
+            {/* <div className="logo mt-1">
+              <img src="/images/logo.png" alt="logo" className="w-12 h-12" />
+            </div> */}
+          </div>
+        </div>
+        <div className="container relative z-10">
+          <div className="flex flex-col items-center justify-center bg-neutral-50 rounded-box w-2xl mx-auto p-6 shadow-md mb-10">
+            <fieldset className="fieldset w-full">
+              <div className="flex flex-row items-center mb-4 mt-2">
+                <label className="label !text-gray-500 ml-3 flex flex-1/7">
+                  Họ tên<span className="text-red-500">*</span>
+                </label>
+                <input
+                  type="text"
+                  placeholder="Nguyễn Văn A"
+                  className="!input !input-sm !input-primary !border-neutral-400 flex-5/7"
+                  value={formData.name}
+                  name="name"
+                  onChange={handleChange}
+                  required
+                />
+              </div>
+              <div className="flex flex-row items-center mb-4">
+                <label className="label !text-gray-500 ml-3 flex flex-1/7">
+                  Email <span className="text-red-500">*</span>
+                </label>
+                <input
+                  type="email"
+                  placeholder="nguyenvana@gmail.com"
+                  className="!input !input-sm !input-primary !border-neutral-400 w-full flex-5/7"
+                  value={formData.email}
+                  name="email"
+                  onChange={handleChange}
+                  required
+                />
+              </div>
+              <div className="flex flex-row items-center mb-4">
+                <label className="label !text-gray-500 ml-3 flex flex-1/7">
+                  Số điện thoại <span className="text-red-500">*</span>
+                </label>
+                <input
+                  type="text"
+                  placeholder="0123456789"
+                  className="!input !input-sm !input-primary !border-neutral-400 w-full flex-5/7"
+                  value={formData.phone}
+                  name="phone"
+                  onChange={handleChange}
+                  required
+                />
+              </div>
+              <div className="flex flex-row items-center mb-4">
+                <label className="label !text-gray-500 ml-3 flex flex-1/7">
+                  Mật khẩu <span className="text-red-500">*</span>
+                </label>
+                <input
+                  type="password"
+                  placeholder="********"
+                  className="!input !input-sm !input-primary !border-neutral-400 w-full flex-5/7"
+                  value={formData.password}
+                  name="password"
+                  onChange={handleChange}
+                  required
+                />
+              </div>
+              <div className="flex md:flex-row sm:flex-col justify-between gap-1">
+                <div className="flex flex-row items-center mb-4 flex-5/12">
+                  <label className="label !text-gray-500 ml-3 flex flex-3/6">
+                    Tỉnh/Thành phố <span className="text-red-500">*</span>
+                  </label>
+                  <input
+                    type="text"
+                    placeholder="Cần Thơ"
+                    className="!input !input-sm !input-primary !border-neutral-400 w-full flex-4/6"
+                    value={formData.province}
+                    name="province"
+                    onChange={handleChange}
+                    required
+                  />
+                </div>
+                <div className="flex flex-row items-center mb-4 flex-5/12 gap-4">
+                  <label className="label !text-gray-500 ml-3 flex flex-3/6 justify-end">
+                    Quận/Huyện <span className="text-red-500">*</span>
+                  </label>
+                  <input
+                    type="text"
+                    placeholder="Ninh Kiều"
+                    className="!input !input-sm !input-primary !border-neutral-400 w-full flex-4/6"
+                    value={formData.district}
+                    name="district"
+                    onChange={handleChange}
+                    required
+                  />
+                </div>
+              </div>
+              <div className="flex flex-row items-center mb-4">
+                <label className="label !text-gray-500 ml-3 flex flex-1/7">
+                  Trường <span className="text-red-500">*</span>
+                </label>
+                <input
+                  type="text"
+                  placeholder="Trường THPT Chuyên Lê Quý Đôn"
+                  className="!input !input-sm !input-primary !border-neutral-400 w-full flex-5/7"
+                  value={formData.school}
+                  name="school"
+                  onChange={handleChange}
+                  required
+                />
+              </div>
+              <div className="flex flex-row items-start mb-4">
+                <label className="label !text-gray-500 ml-3 flex flex-1/7">
+                  Sở thích nghề nghiệp
+                </label>
+                <textarea
+                  className="!textarea !textarea-sm !textarea-primary !border-neutral-400 flex-5/7"
+                  placeholder="Lập trình viên, Thiết kế đồ họa, ..."
+                  value={formData.hobby}
+                  name="hobby"
+                  onChange={handleChange}
+                ></textarea>
+              </div>
+              <button
+                type="submit"
+                className="btn bg-primary btn-md w-full mt-4 text-white text-md shadow-md hover:bg-neutral-50 hover:text-primary!"
+                // onClick={handleSubmit}
+              >
+                Đăng ký tài khoản
+              </button>
+            </fieldset>
+            {/* login link */}
+            <Link
+              to="/login"
+              className="mt-7 !mb-1 !link !link-hover italic underline text-xs"
+            >
+              Đã có tài khoản? Đăng nhập ngay!
+            </Link>
+            <div className="logo mt-8">
+              <img src="/images/logo_name.png" alt="logo" className="h-12" />
+            </div>
+          </div>
+        </div>
+        <div className="absolute bottom-10 right-40 z-0">
+            <img src="/images/dots.svg" alt="Dot" className=" w-50 opacity-75" />
+          </div>
+          <div className='absolute top-45 left-47 z-0'>
+              <img src='/images/dots.svg' alt="Dot" className="w-50 opacity-75" />
+          </div>
+      </div>
+    </main>
+  );
+};
+
+export default SignUp;
