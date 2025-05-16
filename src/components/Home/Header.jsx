@@ -73,7 +73,7 @@ const Header = () => {
 
                   <li class="group relative">
                     <Link
-                      to="/chatbot"
+                     to="/signup"
                       class={`ic-page-scroll mx-8 flex py-2 text-base font-medium text-body-light-12 group-hover:text-primary dark:text-body-dark-12 lg:mr-0 lg:inline-flex lg:px-0 lg:py-6 lg:text-primary-color lg:dark:text-primary-color lg:group-hover:text-primary-color lg:group-hover:opacity-70
                       ${location.pathname === '/chatbot' ? 'active' : ''}`}
                       onClick={() => window.scrollTo(0, 0)}
@@ -85,26 +85,7 @@ const Header = () => {
                 </ul>
               </nav>
             </div>
-            <div class="flex items-center justify-end pr-[52px] lg:pr-0">
-              <div class="hidden sm:flex">
-                <Link
-                  to="/login"
-                  class="btn-navbar ml-5 px-6 py-3 rounded-md bg-primary-color bg-opacity-20 text-base font-medium text-primary-color hover:bg-opacity-100 hover:text-primary"
-                  role="button"
-                >
-                  Đăng nhập
-                </Link>
-              </div>
-              <div class="hidden sm:flex">
-                <Link
-                  to="/signup"
-                  class="btn-navbar ml-5 px-6 py-3 rounded-md bg-primary-color bg-opacity-20 text-base font-medium text-primary-color hover:bg-opacity-100 hover:text-primary"
-                  role="button"
-                >
-                  Đăng ký
-                </Link>
-              </div>
-            </div>
+          
           </div>
         </div>
       </div>
