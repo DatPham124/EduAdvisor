@@ -6,6 +6,7 @@ import CallSection from '../components/Home/CallSection';
 import HeroSection from '../components/Home/HeroSection';
 import PopularMajors from '../components/Home/PopularMajors';
 import Testimonials from '../components/Home/Testimonials';
+import DualMajors from '../components/Home/DualMajors';
 
 const Home = () => {
   useEffect(() => {
@@ -23,6 +24,7 @@ const Home = () => {
       <HeroSection />
       <AboutSection />
       <PopularMajors />
+      <DualMajors/>
       <AdmissionInfo />
       <CallSection />
       <Testimonials />

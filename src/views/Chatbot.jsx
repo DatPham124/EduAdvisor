@@ -35,6 +35,12 @@ const Chatbot = () => {
              
           </div>
         </div>
+        <div className="absolute bottom-5 left-96 z-0">
+            <img src="/images/dots.svg" alt="Dot" className=" w-25 opacity-75" />
+          </div>
+          <div className='absolute top-50 right-96 z-0'>
+              <img src='/images/dots.svg' alt="Dot" className="w-25 opacity-75" />
+          </div>
       </div>
     </main>
   );

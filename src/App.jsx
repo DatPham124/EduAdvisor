@@ -10,6 +10,7 @@ import Home from './views/Home';
 import Major from './views/Major';
 import MajorDetail from './views/MajorDetail'
 import Chatbot from './views/Chatbot'
+import DualMajorDetail from './views/DualMajorDetail'
 
 const App = () => {
   return (
@@ -21,6 +22,7 @@ const App = () => {
         <Route path="/major" element={<Major />} />
         <Route path="/chatbot" element={<Chatbot />} />
         <Route path="/major/:id" element={<MajorDetail />} />
+         <Route path="/dualmajor/:id" element={<DualMajorDetail />} />
         <Route path="/login" element={<Login />} />
         <Route path="/signup" element={<Signup />} />
       </Routes>
