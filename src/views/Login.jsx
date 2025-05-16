@@ -48,7 +48,7 @@ const Login = () => {
               đăng nhập
               </p>
               
-              <label className="input input-md input-primary validator shadow-md">
+              <label className="input input-md input-primary validator shadow-md !bg-neutral-50 !border-1">
                 <svg
                   className="h-[1em] text-gray-400"
                   xmlns="http://www.w3.org/2000/svg"
@@ -78,7 +78,7 @@ const Login = () => {
               <div className="validator-hint hidden">
                 Enter valid email address
               </div>
-              <label className="input input-md validator shadow-md mt-4">
+              <label className="input input-md validator shadow-md mt-4 !bg-neutral-50 !border-1">
                 <svg
                   className="h-[1em] text-gray-400"
                   xmlns="http://www.w3.org/2000/svg"

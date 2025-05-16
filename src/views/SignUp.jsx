@@ -54,7 +54,7 @@ const SignUp = () => {
                 <input
                   type="text"
                   placeholder="Nguyễn Văn A"
-                  className="!input !input-sm !input-primary !border-neutral-400 flex-5/7"
+                  className="input-custom !input-sm focus:border-primary text-black  !border-neutral-400 flex-5/7"
                   value={formData.name}
                   name="name"
                   onChange={handleChange}
@@ -68,7 +68,7 @@ const SignUp = () => {
                 <input
                   type="email"
                   placeholder="nguyenvana@gmail.com"
-                  className="!input !input-sm !input-primary !border-neutral-400 w-full flex-5/7"
+                  className="input-custom !input-sm focus:border-primary text-black !border-1 !border-neutral-400 w-full flex-5/7"
                   value={formData.email}
                   name="email"
                   onChange={handleChange}
@@ -82,7 +82,7 @@ const SignUp = () => {
                 <input
                   type="text"
                   placeholder="0123456789"
-                  className="!input !input-sm !input-primary !border-neutral-400 w-full flex-5/7"
+                  className="input-custom !input-sm focus:border-primary text-black  !border-neutral-400 w-full flex-5/7"
                   value={formData.phone}
                   name="phone"
                   onChange={handleChange}
@@ -96,7 +96,7 @@ const SignUp = () => {
                 <input
                   type="password"
                   placeholder="********"
-                  className="!input !input-sm !input-primary !border-neutral-400 w-full flex-5/7"
+                  className="input-custom !input-sm focus:border-primary text-black  !border-neutral-400 w-full flex-5/7"
                   value={formData.password}
                   name="password"
                   onChange={handleChange}
@@ -111,7 +111,7 @@ const SignUp = () => {
                   <input
                     type="text"
                     placeholder="Cần Thơ"
-                    className="!input !input-sm !input-primary !border-neutral-400 w-full flex-4/6"
+                    className="input-custom !input-sm focus:border-primary text-black  !border-neutral-400 w-full flex-4/6"
                     value={formData.province}
                     name="province"
                     onChange={handleChange}
@@ -125,7 +125,7 @@ const SignUp = () => {
                   <input
                     type="text"
                     placeholder="Ninh Kiều"
-                    className="!input !input-sm !input-primary !border-neutral-400 w-full flex-4/6"
+                    className="input-custom !input-sm focus:border-primary text-black  !border-neutral-400 w-full flex-4/6"
                     value={formData.district}
                     name="district"
                     onChange={handleChange}
@@ -140,7 +140,7 @@ const SignUp = () => {
                 <input
                   type="text"
                   placeholder="Trường THPT Chuyên Lê Quý Đôn"
-                  className="!input !input-sm !input-primary !border-neutral-400 w-full flex-5/7"
+                  className="input-custom !input-sm focus:border-primary text-black  !border-neutral-400 w-full flex-5/7"
                   value={formData.school}
                   name="school"
                   onChange={handleChange}
@@ -152,7 +152,7 @@ const SignUp = () => {
                   Sở thích nghề nghiệp
                 </label>
                 <textarea
-                  className="!textarea !textarea-sm !textarea-primary !border-neutral-400 flex-5/7"
+                  className="textarea-custom !textarea-sm text-black  !border-neutral-400 flex-5/7"
                   placeholder="Lập trình viên, Thiết kế đồ họa, ..."
                   value={formData.hobby}
                   name="hobby"
