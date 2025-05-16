@@ -22,3 +22,20 @@ exports.getAll = catchAsync(async (req, res, next) => {
     },
   });
 });
+
+exports.getById = catchAsync(async (req, res, next) => {
+  const { id } = req.params;
+
+  const dualMajor = await DualMajor.findById(id);
+
+  if (!dualMajor) {
+    return next(new ApiError("No dual major found", 404));
+  }
+
+  res.status(200).json({
+    status: "success",
+    data: {
+      dualMajor,
+    },
+  });
+});
