@@ -9,6 +9,7 @@ import Signup from './views/Signup';
 import Home from './views/Home';
 import Major from './views/Major';
 import MajorDetail from './views/MajorDetail'
+import Chatbot from './views/Chatbot'
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
         <Route path="/" element={<Home />} />
         <Route path="/home" element={<Home />} />
         <Route path="/major" element={<Major />} />
+        <Route path="/chatbot" element={<Chatbot />} />
         <Route path="/major/:id" element={<MajorDetail />} />
         <Route path="/login" element={<Login />} />
         <Route path="/signup" element={<Signup />} />
