@@ -4,8 +4,7 @@ import { Routes, Route } from 'react-router-dom';
 import Header from './components/Home/Header';
 import Footer from './components/Home/Footer';
 
-import Login from './views/Login';
-import Signup from './views/Signup';
+import Register from './views/Register';
 import Home from './views/Home';
 import Major from './views/Major';
 import MajorDetail from './views/MajorDetail'
@@ -22,9 +21,8 @@ const App = () => {
         <Route path="/major" element={<Major />} />
         <Route path="/chatbot" element={<Chatbot />} />
         <Route path="/major/:id" element={<MajorDetail />} />
-         <Route path="/dualmajor/:id" element={<DualMajorDetail />} />
-        <Route path="/login" element={<Login />} />
-        <Route path="/signup" element={<Signup />} />
+        <Route path="/dualmajor/:id" element={<DualMajorDetail />} />
+        <Route path="/register" element={<Register />} />
       </Routes>
       <Footer />
     </div>

@@ -73,9 +73,9 @@ const Header = () => {
 
                   <li class="group relative">
                     <Link
-                     to="/signup"
+                     to="/register"
                       class={`ic-page-scroll mx-8 flex py-2 text-base font-medium text-body-light-12 group-hover:text-primary dark:text-body-dark-12 lg:mr-0 lg:inline-flex lg:px-0 lg:py-6 lg:text-primary-color lg:dark:text-primary-color lg:group-hover:text-primary-color lg:group-hover:opacity-70
-                      ${location.pathname === '/chatbot' ? 'active' : ''}`}
+                      ${location.pathname === '/register' ? 'active' : ''}`}
                       onClick={() => window.scrollTo(0, 0)}
                       role="menuitem"
                     >

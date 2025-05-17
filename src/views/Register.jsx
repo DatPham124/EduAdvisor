@@ -1,8 +1,11 @@
 import React, { useState } from 'react';
 
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 
-const SignUp = () => {
+
+const Register = () => {
+  const navigate = useNavigate();
+  const [loading, setLoading] = useState(false);
   const [formData, setFormData] = useState({
     name: '',
     email: '',
@@ -21,6 +24,37 @@ const SignUp = () => {
       [name]: value,
     }));
   };
+
+  // const handleReset = () => {
+  //   setFormData({
+  //     name: '',
+  //     email: '',
+  //     phone: '',
+  //     password: '',
+  //     province: '',
+  //     district: '',
+  //     school: '',
+  //     hobby: '',
+  //   });
+  // };
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    // Check if all required fields are filled
+    const isFormValid = Object.values(formData).every((value) => value.trim() !== '');
+    if (isFormValid) {
+      setLoading(true);
+      // delay(2000) // Simulate a delay
+      setTimeout(() => {
+        setLoading(false);
+        navigate({pathname: '/chatbot'});
+      }
+      , 2000);
+    } else {
+      alert('Hãy điền đầy đủ thông tin để được tư vấn');
+    }
+  }
+
   return (
     <main className="main relative">
       <div
@@ -45,7 +79,7 @@ const SignUp = () => {
               />
             </div>
               <p className="!text-2xl font-bold text-primary uppercase flex items-center justify-center mb-3">
-              đăng ký
+              đăng ký để được tư vấn
             </p>
               <div className="flex flex-row items-center mb-4 mt-2">
                 <label className="label !text-gray-500 ml-3 flex flex-1/7">
@@ -161,20 +195,21 @@ const SignUp = () => {
               </div>
               <button
                 type="submit"
-                className="btn bg-primary btn-md w-full mt-4 text-white text-md shadow-md hover:bg-neutral-50 hover:text-primary!"
-                // onClick={handleSubmit}
+                className={`btn btn-md w-full mt-4 bg-primary text-white text-md shadow-md
+                  ${loading ? 'cursor-not-allowed' : ''}`}
+                disabled={loading}
+                onClick={handleSubmit}
               >
-                Đăng ký tài khoản
+                {loading ? (
+                  <div className="flex items-center justify-center">
+                    <span className="loading loading-spinner loading-sm"></span>
+                    &nbsp;Đang xử lý...
+                  </div>
+                ) : (
+                  'Đăng ký tư vấn'
+                )}
               </button>
             </fieldset>
-            {/* login link */}
-            <Link
-              to="/login"
-              className="mt-7 !mb-1 !link !link-hover italic underline text-xs"
-            >
-              Đã có tài khoản? Đăng nhập ngay!
-            </Link>
-            
           </div>
         </div>
         <div className="absolute bottom-10 right-40 z-0">
@@ -188,4 +223,4 @@ const SignUp = () => {
   );
 };
 
-export default SignUp;
+export default Register;
