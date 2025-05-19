@@ -1,11 +1,12 @@
 import React, { useState } from 'react';
 
+import userService from '../services/register.service';
 import { Link, useNavigate } from 'react-router-dom';
 
 
 const Register = () => {
   const navigate = useNavigate();
-  const [loading, setLoading] = useState(false);
+  const [loading] = useState(false);
   const [formData, setFormData] = useState({
     name: '',
     email: '',
@@ -14,7 +15,7 @@ const Register = () => {
     province: '',
     district: '',
     school: '',
-    hobby: '',
+    favorite: '',
   });
 
   const handleChange = (e) => {
@@ -38,22 +39,30 @@ const Register = () => {
   //   });
   // };
 
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    // Check if all required fields are filled
-    const isFormValid = Object.values(formData).every((value) => value.trim() !== '');
-    if (isFormValid) {
-      setLoading(true);
-      // delay(2000) // Simulate a delay
-      setTimeout(() => {
-        setLoading(false);
-        navigate({pathname: '/chatbot'});
-      }
-      , 2000);
-    } else {
-      alert('Hãy điền đầy đủ thông tin để được tư vấn');
-    }
+ const handleSubmit = async (e) => {
+  e.preventDefault();
+
+  // Kiểm tra dữ liệu hợp lệ
+  const isFormValid =
+    formData.name.trim() !== '' &&
+    formData.phone.trim() !== '' &&
+    formData.favorite.trim() !== '';
+
+  if (!isFormValid) {
+    alert('Hãy điền đầy đủ thông tin để được tư vấn');
+    return;
   }
+
+  try {
+     const registerAd = await userService.register(formData);
+     console.log("print: ", registerAd);
+     navigate({pathname: '/chatbot'});
+  } catch (error) {
+    console.error('Lỗi khi đăng ký:', error);
+    alert('Đã xảy ra lỗi. Vui lòng thử lại sau.');
+  }
+};
+
 
   return (
     <main className="main relative">
@@ -97,7 +106,7 @@ const Register = () => {
               </div>
               <div className="flex flex-row items-center mb-4">
                 <label className="label !text-gray-500 ml-3 flex flex-1/7">
-                  Email <span className="text-red-500">*</span>
+                  Email 
                 </label>
                 <input
                   type="email"
@@ -123,24 +132,11 @@ const Register = () => {
                   required
                 />
               </div>
-              <div className="flex flex-row items-center mb-4">
-                <label className="label !text-gray-500 ml-3 flex flex-1/7">
-                  Mật khẩu <span className="text-red-500">*</span>
-                </label>
-                <input
-                  type="password"
-                  placeholder="********"
-                  className="input-custom !input-sm focus:border-primary text-black  !border-neutral-400 w-full flex-5/7"
-                  value={formData.password}
-                  name="password"
-                  onChange={handleChange}
-                  required
-                />
-              </div>
+              
               <div className="flex md:flex-row sm:flex-col justify-between gap-1">
                 <div className="flex flex-row items-center mb-4 flex-5/12">
                   <label className="label !text-gray-500 ml-3 flex flex-3/6">
-                    Tỉnh/Thành phố <span className="text-red-500">*</span>
+                    Tỉnh/Thành phố 
                   </label>
                   <input
                     type="text"
@@ -154,7 +150,7 @@ const Register = () => {
                 </div>
                 <div className="flex flex-row items-center mb-4 flex-5/12 gap-4">
                   <label className="label !text-gray-500 ml-3 flex flex-3/6 justify-end">
-                    Quận/Huyện <span className="text-red-500">*</span>
+                    Quận/Huyện 
                   </label>
                   <input
                     type="text"
@@ -169,7 +165,7 @@ const Register = () => {
               </div>
               <div className="flex flex-row items-center mb-4">
                 <label className="label !text-gray-500 ml-3 flex flex-1/7">
-                  Trường <span className="text-red-500">*</span>
+                  Trường 
                 </label>
                 <input
                   type="text"
@@ -183,13 +179,13 @@ const Register = () => {
               </div>
               <div className="flex flex-row items-start mb-4">
                 <label className="label !text-gray-500 ml-3 flex flex-1/7">
-                  Sở thích nghề nghiệp
+                  Sở thích nghề nghiệp <span className="text-red-500">*</span>
                 </label>
                 <textarea
                   className="textarea-custom !textarea-sm text-black  !border-neutral-400 flex-5/7"
                   placeholder="Lập trình viên, Thiết kế đồ họa, ..."
-                  value={formData.hobby}
-                  name="hobby"
+                  value={formData.favorite}
+                  name="favorite"
                   onChange={handleChange}
                 ></textarea>
               </div>
