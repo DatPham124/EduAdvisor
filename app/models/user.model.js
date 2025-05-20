@@ -16,14 +16,12 @@ const userSchema = new mongoose.Schema({
   },
   email: {
     type: String,
-    unique: true,
     lowercase: true,
     validate: [validator.isEmail, "Vui lòng nhập địa chỉ email hợp lệ"],
   },
   phone: {
     type: String,
     required: [true, "Số điện thoại là bắt buộc"],
-    unique: true,
     validate: {
       validator: function (value) {
         return /^(0[3|5|7|8|9]|01[2|6|8|9])[0-9]{8}$/.test(value); // Kiểm tra số điện thoại

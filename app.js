@@ -10,6 +10,7 @@ const admissionInfoRoute = require("./app/router/admissionInfo.route");
 const admissionTypeRoute = require("./app/router/admissionType.route");
 const teacherRoute = require("./app/router/teacher.route");
 const userRoute = require("./app/router/user.route");
+const messageRoute = require("./app/router/message.route");
 
 const app = express();
 
@@ -37,6 +38,7 @@ app.use("/api/eduadvisor/admission_info", admissionInfoRoute);
 app.use("/api/eduadvisor/admission_type", admissionTypeRoute);
 app.use("/api/eduadvisor/teacher", teacherRoute);
 app.use("/api/eduadvisor/user", userRoute);
+app.use("/api/eduadvisor/chatbot", messageRoute);
 
 //Catch undefined routes
 app.use((req, res, next) => {
