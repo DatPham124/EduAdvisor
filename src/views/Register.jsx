@@ -55,8 +55,7 @@ const Register = () => {
 
   try {
      const registerAd = await userService.register(formData);
-     console.log("print: ", registerAd);
-     navigate({pathname: '/chatbot'});
+     navigate('/chatbot', { state: { registerAd } });
   } catch (error) {
     console.error('Lỗi khi đăng ký:', error);
     alert('Đã xảy ra lỗi. Vui lòng thử lại sau.');
