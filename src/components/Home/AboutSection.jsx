@@ -20,7 +20,7 @@ const AboutSection = () => {
               <h6 class="mb-2 block text-lg font-semibold text-primary">
                 Đôi chút về
               </h6>
-              <h2 class="mb-6">Đại học Ninh Kiều</h2>
+              <h2 class="mb-6">Trung tâm công nghệ phần mềm -CUSC</h2>
             </div>
 
             <div class="tabs scroll-revealed">
@@ -74,7 +74,7 @@ const AboutSection = () => {
                 aria-labelledby="tabs-list-profile"
               >
                 <p>
-                  Trường Đại học Ninh Kiều, tọa lạc tại trái tim vùng đất Tây
+                  Trung tâm công nghệ phần mềm -CUSC, tọa lạc tại trái tim vùng đất Tây
                   Đô, là một cơ sở giáo dục đại học trẻ trung và đầy khát vọng,
                   được thành lập với sứ mệnh tiên phong trong đào tạo nguồn nhân
                   lực chất lượng cao trong lĩnh vực công nghệ và thiết kế. Với
@@ -97,13 +97,13 @@ const AboutSection = () => {
                 aria-labelledby="tabs-list-vision"
               >
                 <p>
-                  Trong thập kỷ tới, Trường Đại học Ninh Kiều hướng đến mục tiêu
+                  Trong thập kỷ tới, Trung tâm công nghệ phần mềm -CUSC hướng đến mục tiêu
                   trở thành một trong những trường đại học hàng đầu khu vực Đồng
                   bằng sông Cửu Long và vươn tầm quốc gia trong lĩnh vực công
                   nghệ và thiết kế. Chúng tôi cam kết xây dựng một môi trường
                   giáo dục sáng tạo, nơi giảng viên và sinh viên cùng nhau kiến
                   tạo tri thức, thúc đẩy nghiên cứu ứng dụng và chuyển giao công
-                  nghệ. Trường Đại học Ninh Kiều mong muốn đóng góp tích cực vào
+                  nghệ. Trung tâm công nghệ phần mềm -CUSC mong muốn đóng góp tích cực vào
                   sự phát triển kinh tế - xã hội của địa phương và cả nước,
                   thông qua việc cung cấp nguồn nhân lực chất lượng cao, có khả
                   năng thích ứng linh hoạt với những thay đổi của thời đại công
@@ -119,7 +119,7 @@ const AboutSection = () => {
                 aria-labelledby="tabs-list-history"
               >
                 <p>
-                  Trường Đại học Ninh Kiều chính thức được thành lập vào năm
+                  Trung tâm công nghệ phần mềm -CUSC chính thức được thành lập vào năm
                   [Năm thành lập, ví dụ: 2015], đánh dấu một bước tiến quan
                   trọng trong sự phát triển giáo dục bậc cao của tỉnh [Tên
                   tỉnh/thành phố, ví dụ: Cần Thơ]. Từ những ngày đầu thành lập,

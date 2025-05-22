@@ -11,10 +11,10 @@ const Testimonials = () => {
           <h6 className="mb-2 block text-lg font-semibold text-primary">
             Đôi lời đến từ
           </h6>
-          <h2 className="mb-6">Cựu sinh viên Đại học Ninh Kiều</h2>
+          <h2 className="mb-6">Cựu sinh viên Trung tâm công nghệ phần mềm -CUSC</h2>
           <p>
             Hãy lắng nghe những chia sẻ chân thực từ những người đã từng là một
-            phần của Đại học Ninh Kiều - nơi kiến tạo nên những thành công ngày
+            phần của Trung tâm công nghệ phần mềm -CUSC - nơi kiến tạo nên những thành công ngày
             hôm nay.
           </p>
         </div>

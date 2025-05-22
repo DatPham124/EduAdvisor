@@ -72,7 +72,7 @@ const Register = () => {
         <div className="container tilte mb-5">
           <div className="flex flex-col items-center justify-center">
             <p className="!text-4xl font-bold text-white uppercase">
-              đại học ninh kiều
+              Trung tâm công nghệ phần mềm -CUSC
             </p>
           </div>
         </div>

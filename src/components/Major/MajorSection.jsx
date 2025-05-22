@@ -10,7 +10,7 @@ const MajorSection = (props) => {
         </p>
         <p className="text-md w-1/2 mx-auto text-center !mt-1 !p-0">
           Mở cánh cửa tương lai với những chuyên ngành công nghệ và thiết kế
-          tiên phong tại Đại học Ninh Kiều.
+          tiên phong tại Trung tâm công nghệ phần mềm -CUSC.
         </p>
       </div>
       <div className="section-content mt-10">

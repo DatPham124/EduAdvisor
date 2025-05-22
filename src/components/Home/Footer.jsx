@@ -8,7 +8,7 @@ const Footer = () => {
           <div class="col-12 order-first lg:col-4">
             <div class="w-full">
               <p class="mb-8 text-body-dark-11">
-                Tại Đại học Ninh Kiều, chúng tôi cam kết mang đến cho sinh viên
+                Tại Trung tâm công nghệ phần mềm -CUSC, chúng tôi cam kết mang đến cho sinh viên
                 một nền giáo dục chất lượng, kết hợp giữa lý thuyết và thực hành
               </p>
 

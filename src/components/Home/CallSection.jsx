@@ -9,11 +9,11 @@ const CallSection = () => {
       <div class="container">
         <div class="scroll-revealed text-center max-w-[550px] mx-auto">
           <h2 class="mb-8 text-inherit">
-            KHÁT VỌNG VƯƠN XA? CHINH PHỤC TƯƠNG LAI CÙNG ĐẠI HỌC NINH KIỀU!
+            KHÁT VỌNG VƯƠN XA? CHINH PHỤC TƯƠNG LAI CÙNG TRUNG TÂM CÔNG NGHỆ PHẦN MỀM - CUSC!
           </h2>
           <p>
             Đừng bỏ lỡ cơ hội trở thành thế hệ tiên phong trong lĩnh vực công
-            nghệ và thiết kế! Đại học Ninh Kiều mở ra cánh cửa tri thức vững
+            nghệ và thiết kế! Trung tâm công nghệ phần mềm -CUSC mở ra cánh cửa tri thức vững
             chắc, trang bị cho bạn những kỹ năng vượt trội để tự tin khẳng định
             bản thân và kiến tạo sự nghiệp thành công.
           </p>

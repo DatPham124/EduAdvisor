@@ -137,12 +137,12 @@ const Chatbot = () => {
               {messages.map((msg, idx) => (
                 <div key={idx}>
                   <div className="flex justify-end">
-                    <div className="px-4 py-2 rounded-xl shadow max-w-[80%] break-words whitespace-pre-wrap bg-primary text-white rounded-br-none">
+                    <div className="px-4 py-2 my-2 rounded-xl shadow max-w-[80%] break-words whitespace-pre-wrap bg-primary text-white rounded-br-none">
                       <p>{msg.question}</p>
                     </div>
                   </div>
                   <div className="flex justify-start">
-                    <div className="px-4 py-2 rounded-xl shadow max-w-[80%] break-words whitespace-pre-wrap bg-white text-black rounded-br-none">
+                    <div className="px-4 py-2 my-2 rounded-xl shadow max-w-[80%] break-words whitespace-pre-wrap bg-white text-black rounded-br-none">
                       <p>{msg.anwser}</p>
                     </div>
                     <div className="ms-4"></div>
