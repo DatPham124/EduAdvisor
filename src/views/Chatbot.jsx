@@ -9,7 +9,7 @@ const Chatbot = () => {
   const [messages, setMessages] = useState([]);
   const [isSending, setIsSending] = useState(false);
   const [isRecording, setIsRecording] = useState(false);
-  //const [interimTranscript, setInterimTranscript] = useState('');
+  const [interimTranscript, setInterimTranscript] = useState('');
   const messagesEndRef = useRef(null);
   const recognitionRef = useRef(null);
 
@@ -85,12 +85,30 @@ const Chatbot = () => {
     };
 
     recognition.onresult = (event) => {
-      let transcript = '';
+      let interim = '';
+      let final = '';
+
+      // Duyệt qua các kết quả từ vị trí mới nhất (event.resultIndex)
       for (let i = event.resultIndex; i < event.results.length; i++) {
-        transcript += event.results[i][0].transcript; //event.result là mảng phương án khác nhau mà hệ thống nghĩ người dùng có thể đã nói, được sắp xếp theo độ tin cậy.
+        const transcript = event.results[i][0].transcript; //event.result là mảng phương án khác nhau mà hệ thống nghĩ người dùng có thể đã nói, được sắp xếp theo độ tin cậy.
+        if (event.results[i].isFinal) {
+          final += transcript;
+        } else {
+          interim += transcript;
+        }
       }
-      setInput(transcript);
+
+      setInput(final + interim); // Gộp kết quả để hiển thị
+      setInterimTranscript(interim);
     };
+
+    // recognition.onresult = (event) => {
+    //   let transcript = '';
+    //   for (let i = event.resultIndex; i < event.results.length; i++) {
+    //     transcript += event.results[i][0].transcript; //event.result là mảng phương án khác nhau mà hệ thống nghĩ người dùng có thể đã nói, được sắp xếp theo độ tin cậy.
+    //   }
+    //   setInput(transcript);
+    // };
 
     recognition.onerror = (event) => {
       console.error('Lỗi nhận dạng giọng nói:', event.error);
@@ -182,7 +200,7 @@ const Chatbot = () => {
               <input
                 type="text"
                 name="message"
-                value={input}
+                value={input || interimTranscript}
                 onChange={(e) => setInput(e.target.value)}
                 className="inline-block flex-grow px-5 py-3 rounded-md rounded-e-none border border-solid border-alpha-light dark:border-alpha-dark text-black text-base focus:border-primary"
                 placeholder="Nhập thắc mắc của bạn tại đây..."
