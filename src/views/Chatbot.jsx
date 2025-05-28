@@ -1,7 +1,11 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { useLocation } from 'react-router-dom';
 import ChatbotService from '../services/chatbot.service';
+import { franc } from 'franc'
 
+const langMap = {
+  eng: 'en-US',
+}
 const Chatbot = () => {
   const location = useLocation();
   const registerAd = location.state?.registerAd;
@@ -10,6 +14,7 @@ const Chatbot = () => {
   const [isSending, setIsSending] = useState(false);
   const [isRecording, setIsRecording] = useState(false);
   const [interimTranscript, setInterimTranscript] = useState('');
+  const [detectedLang, setDetectedLang] = useState('vi-VN');
   const messagesEndRef = useRef(null);
   const recognitionRef = useRef(null);
 
@@ -73,7 +78,7 @@ const Chatbot = () => {
     }
 
     const recognition = new SpeechRecognition();
-    recognition.lang = 'vi-VN';
+    recognition.lang = detectedLang;
     recognition.interimResults = true; // Cho phép kết quả tạm thời
 
     recognition.onstart = () => {
@@ -100,6 +105,14 @@ const Chatbot = () => {
 
       setInput(final + interim); // Gộp kết quả để hiển thị
       setInterimTranscript(interim);
+
+      // đoán ngôn ngữ khi input đỉ dài
+      if (input.length > 20) {
+        const langCode = franc(input);
+        if (langMap[langCode] && langMap[langCode] !== detectedLang) {
+          setDetectedLang(langMap[langCode]); // sẽ trigger useEffect chạy lại
+        }
+      }
     };
 
     // recognition.onresult = (event) => {
@@ -116,7 +129,7 @@ const Chatbot = () => {
     };
 
     recognitionRef.current = recognition;
-  }, []);
+  }, [detectedLang]); // khi setDetectedLang sẽ chạy lại useEffect()
 
   const toggleListening = () => {
     if (!recognitionRef.current) return;
