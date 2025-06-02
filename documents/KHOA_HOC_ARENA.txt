@@ -10,4 +10,4 @@ Học kỳ 3: Film Making & Game Design. Chương trình bao gồm quy trình s�
 
 Học kỳ 4: 3D Animation. Sinh viên học quy trình sản xuất phim hoạt hình, dựng mô hình nhân vật 3D với Maya, tạo chất liệu bằng Substance Painter, chiếu sáng nhân vật và môi trường, tạo chuyển động và kết xuất bằng Arnold Renderer trong Maya, biên tập hậu kỳ với Blackmagic Fusion.
 ---
-Năm 2011, CUSC đã hợp tác với Tập đoàn Aptech (Ấn Độ) để triển khai chương trình đào tạo Mỹ thuật Đa phương tiện quốc tế - ARENA. Đây là bước đi chiến lược nhằm đón đầu xu hướng phát triển của ngành công nghiệp nội dung số tại Việt Nam.
+Năm 2011, CUSC bắt đầu triển khai chương trình đào tạo Mỹ thuật đa phương tiện quốc tế ARENA hợp tác với Tập đoàn Aptech (Ấn Độ).

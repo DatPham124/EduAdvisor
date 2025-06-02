@@ -4,6 +4,8 @@ tokenizer = get_token()
 
 max_tokens = get_max_token()
 
+print(max_tokens)
+
 def split_chunk_by_delimiter(text, delimiter="---"):
     chunks  =[chunk.replace('\n', ' ').strip() for chunk in text.split(delimiter) if chunk.strip()]
     return chunks

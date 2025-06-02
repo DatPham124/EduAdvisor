@@ -29,7 +29,8 @@ for idx, case in enumerate(test_cases):
         "query": query,
         "expected_keywords": expected_keywords,
         "status": status,
-        "top_3_result": [hit.payload.get("Originals", "") for hit in hits]
+        "top_3_result": [hit.payload.get("Originals", "") for hit in hits],
+        "Category": [hit.payload.get("Category", "") for hit in hits]
     })
 
 accuracy = correct / len(test_cases)
@@ -42,5 +43,6 @@ for result in results:
         print(f"  ➤ Kỳ vọng chứa: {result['expected_keywords']}")
         print(f"  ➤ Kết quả trả về:")
         for i, text in enumerate(result['top_3_result']):
-            print(f"     {i+1}. {text[:150]}...")  # chỉ in 150 ký tự đầu
+            print(f"     {i+1}. {text[:150]}...")
+        print(result['Category'])
         print("-" * 60)

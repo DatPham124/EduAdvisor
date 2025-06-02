@@ -1,10 +1,12 @@
 
-ACNPRO cung cấp chương trình đào tạo chuyên sâu trong lĩnh vực Trí tuệ nhân tạo (AI) và Máy học (Machine Learning). Các khóa học được thiết kế nhằm trang bị kiến thức từ cơ bản đến nâng cao về AI, Machine Learning và Phân tích dữ liệu. Học viên sẽ được làm quen với các ngôn ngữ lập trình phổ biến trong lĩnh vực này như Python và R.
+CUSC có chương trình đào tạo chuyên sâu về Trí tuệ nhân tạo (AI) và Máy học (Machine Learning) thông qua chương trình ACNPRO. Chương trình bao gồm hai khóa: Khóa "Phân tích dữ liệu" (162 giờ) và khóa "Chuyên gia AI và Machine Learning" (346 giờ). Học viên sẽ học các kiến thức từ cơ bản đến nâng cao về AI, Machine Learning, Deep Learning, và phát triển dự án thực tế như Chatbot và Recommendation Engine.
 ---
+ACNPRO là chương trình đào tạo chuyên sâu trong lĩnh vực Trí tuệ nhân tạo (AI) và Máy học (Machine Learning).
+Các khóa học được thiết kế để cung cấp kiến thức từ cơ bản đến nâng cao về AI, Machine Learning và Phân tích dữ liệu.
+Học viên sẽ học các ngôn ngữ lập trình phổ biến như Python và R để ứng dụng vào lĩnh vực này.
 ACNPRO có 2 khóa học chính: Khóa học 1 là Chuyên viên về Phân tích dữ liệu (Proficiency in Data Analysis) và Khóa học 2 là Chuyên gia Trí tuệ nhân tạo và Máy học (Artificial Intelligence and Machine Learning). Mục tiêu chung là đào tạo học viên về các lĩnh vực AI, machine learning, phân tích dữ liệu từ cơ bản tới nâng cao và làm quen lập trình với Python.
 ---
 Khóa học Chuyên viên về Phân tích dữ liệu dành cho học sinh yêu thích lập trình, sinh viên đại học cao đẳng các ngành, cựu sinh viên Aptech, người làm việc trong lĩnh vực Tài chính, Marketing, Quản lý sản phẩm, Quản lý bán hàng, và người làm CNTT muốn cập nhật kiến thức về AI, Machine Learning, Big Data, Software Testing.
----
 Khóa học Chuyên viên về Phân tích dữ liệu có thời gian đào tạo 162 giờ. Học viên sẽ nhận được Certificate of Proficiency in Data Analysis sau khi hoàn thành khóa học.
 ---
 Chương trình khóa Phân tích dữ liệu bao gồm: Phân tích dữ liệu với MS Excel, Truy vấn dữ liệu với SQL, Quản lý dữ liệu lớn với MongoDB, Phân tích thống kê suy luận và khai phá dữ liệu, Phân tích dữ liệu khoa học sử dụng R, Phát triển ứng dụng với Python, và Đồ án phân tích dữ liệu với R.
@@ -14,7 +16,6 @@ Sau khóa học Phân tích dữ liệu, học viên sẽ làm việc và phân 
 Sau hoàn thành khóa Chuyên viên Phân tích dữ liệu, học viên có thể làm các vị trí: Data Analyst (Nhà phân tích dữ liệu), Business Analyst (Nhà phân tích nghiệp vụ), Digital Marketer (Tiếp thị số), Product Manager (Nhà quản lý sản phẩm).
 ---
 Khóa học Chuyên gia Trí tuệ nhân tạo và Máy học dành cho học sinh yêu thích lập trình, sinh viên đại học cao đẳng, cựu sinh viên Aptech, và người làm CNTT muốn cập nhật kiến thức AI và Machine Learning. Điều kiện xét tuyển là tốt nghiệp THPT (ưu tiên nộp sớm) và đã học khóa Foundation in Data Science hoặc có kiến thức Python, R.
----
 Khóa học Chuyên gia Trí tuệ nhân tạo và Máy học có thời gian đào tạo 346 giờ. Học viên sẽ nhận được Professional Diploma in AI and Machine Learning sau khi hoàn thành khóa học.
 ---
 Khóa AI và Machine Learning gồm 2 phần: Phần 1 là Nền tảng về Khoa học dữ liệu (146 giờ) bao gồm Excel, SQL, MongoDB, thống kê, R và Python. Phần 2 là Chuyên gia AI và Machine Learning (200 giờ) bao gồm nền tảng AI, xử lý ngôn ngữ tự nhiên, Machine Learning, Deep Learning và dự án Chatbot.

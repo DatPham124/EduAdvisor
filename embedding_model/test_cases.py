@@ -17,15 +17,15 @@ test_cases = [
     },
     {
         "query": "Ai là giảng viên ngành lập trình viên quốc tế?",
-        "expected_keyword": ["Giảng viên", "Lê Hoàng Thảo", "Trương Xuân Việt"]
+        "expected_keyword": ["giảng viên", "Lê Hoàng Thảo", "Trương Xuân Việt"]
     },
     {
         "query": "Ai dạy ngành Mỹ thuật đa phương tiện ARENA?",
-        "expected_keyword": ["Giảng viên", "Nguyễn Việt Nga", "Nguyễn Trung Kiên"]
+        "expected_keyword": ["giảng viên", "Nguyễn Việt Nga", "Nguyễn Trung Kiên"]
     },
     {
         "query": "Giảng viên nào dạy chương trình STEAM?",
-        "expected_keyword": ["Giảng viên", "Lê Thị Diễm Kiều", "Nguyễn Hoàng Việt"]
+        "expected_keyword": ["giảng viên", "Lê Thị Diễm Kiều", "Nguyễn Hoàng Việt"]
     },
     {
         "query": "Trung tâm CUSC được thành lập khi nào?",
@@ -41,7 +41,7 @@ test_cases = [
     },
     {
         "query": "Chương trình đào tạo Mỹ thuật đa phương tiện của CUSC bắt đầu từ khi nào?",
-        "expected_keyword": ["ARENA", "2011", "Mỹ thuật đa phương tiện"]
+        "expected_keyword": ["ARENA", "2011", "Mỹ thuật Đa phương tiện"]
     },
     {
         "query": "Chương trình lập trình công nghệ 4.0 tại CUSC gồm những môn nào?",
@@ -49,7 +49,7 @@ test_cases = [
     },
     {
         "query": "Khóa học ACNPRO là gì?",
-        "expected_keyword": ["chuong trình đào tạo chuyên sâu"]
+        "expected_keyword": ["chương trình đào tạo chuyên sâu"]
     },
     {
         "query": "CUSC có đào tạo trí tuệ nhân tạo không?",
