@@ -1,5 +1,0 @@
-rules:
-  - rule: Bắt đầu hỏi tên
-    steps:
-      - intent: hỏi_tên
-      - action: Ask_name
