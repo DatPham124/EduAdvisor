@@ -1,0 +1,46 @@
+Lịch trình học, ngày khai giảng của trung tâm CUSC.
+
+KHÓA HỌC LẬP TRÌNH VIÊN QUỐC TẾ
+Ngày khai giảng 28/05/2024.
+Giờ học thứ 3, 5, 7 từ 18h-21h.
+Thời gian đăng ký KHÓA HỌC APTECH: 11/01/2023-28/05/2024.
+
+
+KHOÁ HỌC MỸ THUẬT ĐA PHƯƠNG TIỆN
+Ngày khai giảng: 04/07/2024.
+Giờ học: Thứ 2,4, 6,từ 18h - 21h.
+Thời gian đăng ký KHÓA HỌC APTECH: 02/01/2024 - 04/07/2024.
+
+KHÓA HỌC Phát triển tư duy với Python
+Ngày khai giảng: 06/2024.
+Giờ học: 13h30-16h30, Thứ 2,4,6.
+Đăng ký khóa học tại Steam.
+
+KHÓA HỌC Thiết kế Web sáng tạo
+Ngày khai giảng: 06/2024.
+Giờ học: 13h30-16h30, Thứ 3,5,7.
+Đăng ký khóa học tại Steam.
+
+KHÓA HỌC Phát triển tư duy với lập trình Arduino - Scratch
+Ngày khai giảng: 06/2024
+Giờ học: 13h30-16h30, Thứ 2,4,6.
+Đăng ký khóa học tại Steam.
+
+KHÓA HỌC THIẾT KẾ WEB & LẬP TRÌNH FRONT-END
+Ngày khai giảng: 18/06/2024.
+Giờ học: Thứ 3,5,7 từ 19h30 - 21h30.
+Thời gian đăng ký KHÓA HỌC APTECH: 29/12/2023 - 18/06/2024.
+
+KHÓA HỌC KIỂM THỬ PHẦN MỀM CHUYÊN NGHIỆP - MODULE 1
+Thời gian đào tạo: 12/06/2024.
+
+KHÓA HỌC QUẢN TRỊ VÀ AN NINH MẠNG
+Ngày khai giảng: 30/06/2024.
+ Giờ học: Thứ 3,5,7 từ 19h30 - 21h30.
+Thời gian đăng ký : 21/03/2024 - 27/06/2024.
+Học phí: 2.500.00 đồng
+
+KHÓA HỌC THIẾT KẾ ĐỒ HỌA CHO QUẢNG CÁO
+Ngày khai giảng: 18/06/2024.
+Giờ học: Thứ 2,4,6 từ 19h30 - 21h30.
+Thời gian đăng ký: 29/12/2023 - 26/06/2024.
