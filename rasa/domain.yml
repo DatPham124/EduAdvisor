@@ -1,0 +1,55 @@
+version: "3.1"
+
+intents:
+  - DANG_KY
+  - GIAI_THUONG
+  - GIANG_VIEN
+  - GIOI_THIEU
+  - KHOA_HOC_ACNPRO
+  - KHOA_HOC_APTECH
+  - KHOA_HOC_ARENA
+  - KHOA_HOC_NGAN_HAN
+  - KHOA_HOC_STEAM
+  - NGAYKHAIGIANG
+  - XIN_CHAO
+  - TAM_BIET
+
+responses:
+  utter_DANG_KY:
+    - text: "Để đăng ký khóa học, bạn vui lòng truy cập trang đăng ký hoặc liên hệ trực tiếp với CUSC để được hướng dẫn chi tiết."
+
+  utter_GIAI_THUONG:
+    - text: "CUSC đã nhận nhiều giải thưởng uy tín trong lĩnh vực đào tạo CNTT, bao gồm các chứng nhận chất lượng quốc gia và quốc tế."
+
+  utter_GIANG_VIEN:
+    - text: "Đội ngũ giảng viên của CUSC gồm các chuyên gia có nhiều năm kinh nghiệm thực tiễn trong ngành CNTT và được đào tạo bài bản."
+
+  utter_GIOI_THIEU:
+    - text: "Trung tâm Công nghệ Phần mềm Đại học Cần Thơ (CUSC) được thành lập năm 2001 với sứ mệnh đào tạo CNTT chất lượng cao tại ĐBSCL và cung cấp dịch vụ phần mềm."
+
+  utter_KHOA_HOC_ACNPRO:
+    - text: "Khóa ACN Pro là chương trình đào tạo gần 700 giờ chia thành ba phân môn: Khoa học dữ liệu, Trí tuệ nhân tạo và Kiểm thử phần mềm, nhằm đáp ứng yêu cầu 4.0."
+
+  utter_KHOA_HOC_APTECH:
+    - text: "Khóa Lập trình viên Quốc tế APTECH tại CUSC giúp bạn nắm vững kiến thức lập trình, được cấp chứng chỉ quốc tế công nhận tại hơn 40 quốc gia."
+
+  utter_KHOA_HOC_ARENA:
+    - text: "Khóa Mỹ thuật Đa phương tiện Arena Multimedia tại CUSC trang bị kỹ năng thiết kế và sản xuất nội dung đa phương tiện chuyên nghiệp."
+
+  utter_KHOA_HOC_NGAN_HAN:
+    - text: "Các khóa học ngắn hạn tại CUSC tập trung vào một lĩnh vực cụ thể, giúp học viên nhanh chóng nắm vững kỹ năng chuyên môn như Front-end, Kiểm thử, An ninh mạng, Đồ họa quảng cáo."
+
+  utter_KHOA_HOC_STEAM:
+    - text: "Khóa STEAM tại CUSC kết hợp Khoa học, Công nghệ, Kỹ thuật, Nghệ thuật và Toán học, giúp học viên phát triển tư duy sáng tạo và kỹ năng thực hành."
+
+  utter_NGAYKHAIGIANG:
+    - text: "Bạn vui lòng cho biết tên khóa học cụ thể để tôi có thể cung cấp ngày khai giảng chính xác."
+
+  utter_XIN_CHAO:
+    - text: "Xin chào bạn"
+
+  utter_TAM_BIET:
+    - text: "Tạm biệt bạn"
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

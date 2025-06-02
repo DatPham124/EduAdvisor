@@ -1,0 +1,63 @@
+version: "3.1"
+
+rules:
+- rule: Chào hỏi
+  steps:
+    - intent: XIN_CHAO
+    - action: utter_XIN_CHAO
+
+- rule: Tạm biệt
+  steps:
+    - intent: TAM_BIET
+    - action: utter_TAM_BIET
+
+- rule: Giới thiệu CUSC
+  steps:
+    - intent: GIOI_THIEU
+    - action: utter_GIOI_THIEU
+
+- rule: Đăng ký khóa học
+  steps:
+    - intent: DANG_KY
+    - action: utter_DANG_KY
+
+- rule: Giải thưởng của CUSC
+  steps:
+    - intent: GIAI_THUONG
+    - action: utter_GIAI_THUONG
+
+- rule: Giảng viên của CUSC
+  steps:
+    - intent: GIANG_VIEN
+    - action: utter_GIANG_VIEN
+
+- rule: Khóa học ACNPRO
+  steps:
+    - intent: KHOA_HOC_ACNPRO
+    - action: utter_KHOA_HOC_ACNPRO
+
+- rule: Khóa học APTECH
+  steps:
+    - intent: KHOA_HOC_APTECH
+    - action: utter_KHOA_HOC_APTECH
+
+- rule: Khóa học ARENA
+  steps:
+    - intent: KHOA_HOC_ARENA
+    - action: utter_KHOA_HOC_ARENA
+
+- rule: Khóa học ngắn hạn
+  steps:
+    - intent: KHOA_HOC_NGAN_HAN
+    - action: utter_KHOA_HOC_NGAN_HAN
+  
+- rule: Khóa học STEAM
+  steps:
+    - intent: KHOA_HOC_STEAM
+    - action: utter_KHOA_HOC_STEAM
+
+- rule: Ngày khai giảng
+  steps:
+    - intent: NGAYKHAIGIANG
+    - action: utter_NGAYKHAIGIANG
+

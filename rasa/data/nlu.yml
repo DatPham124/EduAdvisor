@@ -1,0 +1,170 @@
+version: "3.1"
+
+nlu:
+- intent: XIN_CHAO
+  examples: |
+    - Xin chào
+    - Chào bạn
+    - Chào
+    - Hello
+    - Hi
+    - Chào CUSC
+    - Chào trung tâm
+    - Mình chào bạn
+    - Cho mình hỏi với ạ
+    - Có ai ở đây không?
+
+- intent: TAM_BIET
+  examples: |
+    - Tạm biệt
+    - Chào tạm biệt
+    - Hẹn gặp lại
+    - Bye
+    - Goodbye
+    - Tạm thời không hỏi nữa
+    - Mình đi đây
+    - Thôi chào nhé
+    - Hẹn gặp lại sau
+    - Cảm ơn, mình thoát nhé
+- intent: DANG_KY
+  examples: |
+    - Làm sao để đăng ký khóa học tại CUSC?
+    - Tôi muốn đăng ký khóa học Front-end
+    - Hướng dẫn đăng ký khóa ACN Pro
+    - Cách đăng ký khóa Kiểm thử phần mềm Module 1
+    - Tôi cần hỗ trợ đăng ký khóa học ngắn hạn
+    - Đăng ký khóa Quản trị và An ninh Mạng như thế nào?
+    - Muốn biết quy trình đăng ký khóa Arena Multimedia
+    - Làm sao đăng ký qua website CUSC?
+    - Khi nào hạn cuối đăng ký khóa Thiết kế Đồ họa?
+    - Tôi có thể đăng ký trực tiếp tại trung tâm không?
+
+- intent: GIAI_THUONG
+  examples: |
+    - CUSC đã nhận được giải thưởng gì?
+    - Trung tâm có huy chương hay chứng nhận nào nổi bật không?
+    - CUSC đạt giải thưởng gì trong lĩnh vực CNTT?
+    - Cho tôi biết các giải thưởng của CUSC
+    - CUSC có được công nhận hay tặng thưởng quốc gia nào?
+    - Các danh hiệu và giải thưởng của CUSC là gì?
+    - CUSC từng đoạt giải nào về đào tạo CNTT?
+    - Giải thưởng uy tín mà CUSC đã đạt được
+    - CUSC nhận cúp hay chứng nhận chất lượng nào?
+    - Danh hiệu “Trung tâm xuất sắc” có phải của CUSC không?
+
+- intent: GIANG_VIEN
+  examples: |
+    - Ai là giảng viên khóa Front-end?
+    - Thông tin về đội ngũ giảng viên CUSC
+    - Cho tôi biết về giảng viên đào tạo AI tại CUSC
+    - Giảng viên khóa Kiểm thử phần mềm Module 1 là ai?
+    - Danh sách giảng viên ngành Quản trị Mạng
+    - Giảng viên có kinh nghiệm gì?
+    - Thầy cô nào dạy khóa Thiết kế Đồ họa Quảng cáo?
+    - Giảng viên tiếng Anh dạy khóa Aptech
+    - Tôi muốn gặp giảng viên phụ trách khóa Arena Multimedia
+    - Thông tin chi tiết giảng viên CUSC
+
+- intent: GIOI_THIEU
+  examples: |
+    - Giới thiệu chung về CUSC
+    - CUSC là trung tâm gì?
+    - Cho tôi biết sứ mệnh của CUSC
+    - Lịch sử hình thành CUSC
+    - CUSC ra đời từ năm nào?
+    - Mô tả về Trung tâm Công nghệ Phần mềm ĐH Cần Thơ
+    - CUSC hoạt động ở đâu?
+    - Vai trò của CUSC trong khu vực Đồng bằng Sông Cửu Long
+    - Tầm nhìn và sứ mệnh của CUSC
+    - CUSC có chức năng gì?
+
+- intent: mood_great
+  examples: |
+    - Hôm nay tôi rất vui
+    - Tôi đang cảm thấy tuyệt vời
+    - Tâm trạng của tôi rất tốt
+    - Tôi thật phấn chấn
+    - Mình đang có một ngày đẹp trời
+    - Cảm thấy tràn đầy năng lượng
+    - Hôm nay tâm trạng mình rất ổn
+    - Thật tuyệt vời khi được học ở đây
+    - Mình vui quá!
+    - Tâm trạng tuyệt vời để học bài
+
+- intent: KHOA_HOC_ACNPRO
+  examples: |
+    - Khóa ACN Pro của CUSC gồm những gì?
+    - Mô tả chi tiết chương trình ACN Pro
+    - Tôi muốn biết nội dung khóa ACN Pro
+    - ACN Pro học những môn nào?
+    - Thời gian đào tạo ACN Pro là bao lâu?
+    - Học phí khóa ACN Pro thế nào?
+    - ACN Pro tập trung vào AI và Data Science có đúng không?
+    - Tôi cần thông tin về kỳ khai giảng ACN Pro
+    - Ai đang giảng dạy khóa ACN Pro?
+    - Chứng chỉ khóa ACN Pro giá trị ra sao?
+
+- intent: KHOA_HOC_APTECH
+  examples: |
+    - Khóa APTECH tại CUSC là gì?
+    - Muốn tìm hiểu chương trình Lập trình viên APTECH
+    - Nội dung đào tạo APTECH gồm những gì?
+    - APTECH có được công nhận quốc tế không?
+    - Hình thức học khóa APTECH thế nào?
+    - Thời gian và lịch học khóa APTECH
+    - Học phí khóa APTECH hiện tại?
+    - Ai giảng dạy khóa APTECH ở CUSC?
+    - Lợi ích khi học APTECH tại CUSC?
+    - Khi nào khai giảng khóa APTECH tiếp theo?
+
+- intent: KHOA_HOC_ARENA
+  examples: |
+    - Khóa Arena Multimedia là gì?
+    - CUSC có dạy khóa Mỹ thuật Đa phương tiện Arena không?
+    - Nội dung đào tạo Arena Multimedia gồm những gì?
+    - Thời gian đào tạo khóa Arena Multimedia
+    - Lớp học Arena có học Photoshop, Illustrator không?
+    - Khóa Arena có cấp chứng chỉ quốc tế không?
+    - Học phí khóa Arena Multimedia là bao nhiêu?
+    - Ai giảng dạy khóa Arena tại CUSC?
+    - Tôi muốn đăng ký khóa Arena Multimedia
+    - Khóa Arena phù hợp với ai?
+
+- intent: KHOA_HOC_NGAN_HAN
+  examples: |
+    - Cho tôi danh sách khóa học ngắn hạn tại CUSC
+    - Khóa học ngắn hạn của CUSC gồm những gì?
+    - Mục đích của khóa ngắn hạn tại CUSC
+    - Tôi muốn tìm khóa ngắn hạn Front-end
+    - Khóa ngắn hạn Quản trị Mạng học trong bao lâu?
+    - Học phí các khóa ngắn hạn tại CUSC
+    - Lịch khai giảng khóa ngắn hạn
+    - Điều kiện học khóa ngắn hạn
+    - CUSC có khóa ngắn hạn thiết kế đồ họa không?
+    - Tôi cần thông tin khóa ngắn hạn Kiểm thử Phần mềm
+
+- intent: KHOA_HOC_STEAM
+  examples: |
+    - CUSC có khóa STEAM không?
+    - Khóa học STEAM gồm những môn nào?
+    - Tôi muốn tìm hiểu về chương trình STEAM ở CUSC
+    - Thời gian và học phí khóa STEAM
+    - Lịch khai giảng khóa STEAM
+    - Khóa STEAM dành cho đối tượng nào?
+    - Nội dung STEAM có liên quan đến Robotics không?
+    - Ai giảng dạy khóa STEAM tại CUSC?
+    - STEAM có hoạt động thực hành không?
+    - Làm sao đăng ký khóa STEAM?
+
+- intent: NGAYKHAIGIANG
+  examples: |
+    - Khi nào khai giảng khóa Thiết kế Web?
+    - Ngày khai giảng khóa Kiểm thử Module 1 là khi nào?
+    - Khóa Quản trị Mạng khai giảng vào ngày nào?
+    - Thời gian khai giảng khóa Thiết kế Đồ họa
+    - Tôi muốn biết ngày khai giảng khóa ACN Pro
+    - Ngày khai giảng khóa APTECH sắp tới?
+    - Cho tôi lịch khai giảng khóa Arena Multimedia
+    - Khi nào bắt đầu khóa STEAM?
+    - Khóa ngắn hạn Front-end khai giảng ngày nào?
+    - Ngày khai giảng khóa Quản trị và An ninh Mạng?
