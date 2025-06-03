@@ -50,6 +50,10 @@ responses:
 
   utter_TAM_BIET:
     - text: "Tạm biệt bạn"
+
+actions:
+  - action_search_vector_respone
+  
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true

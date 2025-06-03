@@ -1,3 +1,6 @@
 .venv
-text.py
 qdrant_storage
+rasa/.rasa
+embedding_model/__pycache__
+rasa/actions/__pycache__
+text.py

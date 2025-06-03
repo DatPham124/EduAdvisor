@@ -14,7 +14,7 @@ rules:
 - rule: Giới thiệu CUSC
   steps:
     - intent: GIOI_THIEU
-    - action: utter_GIOI_THIEU
+    - action: action_search_vector_respone
 
 - rule: Đăng ký khóa học
   steps:

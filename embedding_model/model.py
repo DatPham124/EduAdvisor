@@ -30,7 +30,7 @@ def encode_data(sentences, model = model):
 
     normalize = normalize_vector(embeddings)
 
-    return embeddings
+    return normalize
 
 
 

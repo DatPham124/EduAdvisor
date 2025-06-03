@@ -1,12 +1,10 @@
-from transformers import AutoTokenizer, AutoModel
-import torch
+class Dog:
+    def __init__(self, name):
+        self.name = name
+    
+    def bark(self):
+        print(f"{self.name} sủa gâu gâu")
 
-tokenizer = AutoTokenizer.from_pretrained("vinai/phobert-base")
-model = AutoModel.from_pretrained("vinai/phobert-base")
+dog = Dog("Cọp")
 
-text = "Tôi yêu trí tuệ nhân tạo"
-tokens = tokenizer(text, return_tensors="pt")
-with torch.no_grad():
-    outputs = model(**tokens)
-
-
+dog.bark()
