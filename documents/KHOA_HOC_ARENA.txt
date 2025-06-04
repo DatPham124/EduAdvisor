@@ -1,13 +1,25 @@
 Khóa học ARENA tại CUSC có mục tiêu đào tạo toàn diện trong lĩnh vực Mỹ thuật Đa phương tiện, hướng đến ngành công nghiệp sáng tạo và giải trí. Chương trình giúp sinh viên phát triển portfolio qua các dự án thực tế và nhận bằng quốc tế ADIM (Advanced Diploma in Multimedia) từ Tập đoàn Aptech Ấn Độ sau 2 năm học.
 ---
+Cách thức đăng ký trực tuyến khóa học Mỹ thuật đa phương tiện Arena: 
+Đăng ký online(trực tuyến): 
+---
+Gửi bản scan/ảnh chụp hồ sơ nhập học và gửi về theo địa chỉ: 
+    Email: tuyensinh@cusc.ctu.edu.vn
+    Zalo: 0868952535 hoặc 0868952545 
+    Hotline: 02923 835 581
+---
+Chuyển khoản học phí theo hướng dẫn bên dưới:
+    Đơn vị: Trung tâm Công nghệ Phần mềm Đại học Cần Thơ
+    Địa chỉ: 01, Lý Tự Trọng, Thới Bình, Ninh Kiều, Cần Thơ
+    Tài khoản: 0111000031889, ngân hàng Vietcombank, chi nhánh Cần Thơ
+    Nội dung chuyển khoản: (Họ tên - Chuyển khoản học phí Lập trình viên)
+---
+Khóa Mỹ thuật đa phương tiện Arena bắt đầu từ ngày 16/06/2025. Học vào tối thứ 2, 4, 6 từ 18h đến 21h, phù hợp cho ai yêu thích thiết kế sáng tạo, đa phương tiện. Thời gian đăng ký đến hết ngày 13/06/2025.
+---
 Chương trình đào tạo ARENA – Mỹ thuật Đa phương tiện gồm 4 học kỳ chuyên sâu:
-
 Học kỳ 1: Graphic Design (Thiết kế đồ họa). Sinh viên học các khái niệm cơ bản về đồ họa và minh họa, nghệ thuật chữ (typography), minh họa với Adobe Illustrator, xử lý ảnh với Adobe Photoshop, nhiếp ảnh kỹ thuật số và hậu kỳ bằng Lightroom, thiết kế cho in ấn và quảng cáo.
-
 Học kỳ 2: Web & Digital Design. Sinh viên học cách thiết kế web với Dreamweaver CC, lập trình JavaScript, tạo hoạt hình 2D cho web, xây dựng giao diện tương tác, thiết kế wireframe, prototype và màn hình cho sản phẩm số.
-
 Học kỳ 3: Film Making & Game Design. Chương trình bao gồm quy trình sản xuất phim kỹ thuật số, tạo storyboard, biên tập hình ảnh và âm thanh, dựng mô hình game 3D với 3Ds Max, tạo chất liệu 3D, và thiết kế màn chơi với Unity 3D.
-
 Học kỳ 4: 3D Animation. Sinh viên học quy trình sản xuất phim hoạt hình, dựng mô hình nhân vật 3D với Maya, tạo chất liệu bằng Substance Painter, chiếu sáng nhân vật và môi trường, tạo chuyển động và kết xuất bằng Arnold Renderer trong Maya, biên tập hậu kỳ với Blackmagic Fusion.
 ---
 CUSC bắt đầu triển khai chương trình đào tạo Mỹ thuật đa phương tiện quốc tế ARENA hợp tác với Tập đoàn Aptech (Ấn Độ) vào năm 2011.

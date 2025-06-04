@@ -4,3 +4,4 @@ rasa/.rasa
 embedding_model/__pycache__
 rasa/actions/__pycache__
 text.py
+.env

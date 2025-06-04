@@ -4,12 +4,12 @@ rules:
 - rule: Chào hỏi
   steps:
     - intent: XIN_CHAO
-    - action: utter_XIN_CHAO
+    - action: action_search_vector_respone
 
 - rule: Tạm biệt
   steps:
     - intent: TAM_BIET
-    - action: utter_TAM_BIET
+    - action: action_search_vector_respone
 
 - rule: Giới thiệu CUSC
   steps:
@@ -50,7 +50,6 @@ rules:
   steps:
     - intent: KHOA_HOC_NGAN_HAN
     - action: action_search_vector_respone
-
 - rule: Khóa học STEAM
   steps:
     - intent: KHOA_HOC_STEAM

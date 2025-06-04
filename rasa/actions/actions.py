@@ -2,7 +2,8 @@ from typing import Any, Text, Dict, List
 from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
 from qdrant_client.models import Filter, FieldCondition, MatchValue
-
+import dotenv
+import google.generativeai as genai
 
 from .model import encode_data
 from .connect_qdrant import get_qdrent_client
@@ -21,7 +22,9 @@ class ActionSearchVectorResponse(Action):
 
         intent_name = tracker.latest_message.get('intent', {}).get('name')
 
-        response = self.search_from_vector_model(user_message, intent_name)
+        data = self.search_from_vector_model(user_message, intent_name)
+
+        response = self.generate_response(user_message, intent_name, data)
 
         dispatcher.utter_message(text=response)
 
@@ -50,5 +53,31 @@ class ActionSearchVectorResponse(Action):
         
         except Exception as e:
             return (f"Có lỗi: {e}")
+    
+    def generate_response(self, question: str, intent: str, data: str) -> str:
+        dotenv.load_dotenv()
+        genai.configure(api_key=dotenv.get_key(dotenv.find_dotenv(), "GEMINI_API_KEY"))
+        gemini_model = genai.GenerativeModel(model_name="gemini-2.0-flash")
+
+        prompt = f"""
+        Bạn là một người tư vấn thông minh, thân thiện và chuyên nghiệp của Trung tâm công nghệ phần mềm CUSC (Can Tho University Software Center). Dưới đây là 
+        một số thông tin cần thiết để trả lời câu hỏi của người dùng.
+
+        Câu hỏi: "{question}"
+        Ngữ cảnh: {intent}
+        Dữ liệu: {data}
+        
+        Nếu câu hỏi không liên quan đến ngữ cảnh hoặc dữ liệu, hãy trả lời theo sự hiểu của bạn về ngữ cảnh và dữ liệu đã cho.
+        Dựa trên thông tin trên, hãy trả lời câu hỏi chính xác, tự nhiên và thân thiện bằng tiếng Việt.
+        Nếu không thể trả lời, hãy nói rằng bạn không biết.
+        Nếu nội dung là danh sách, hãy trả lời theo định dạng danh sách.
+        Hãy kết thúc câu trả lời bằng một câu hỏi để khuyến khích người dùng tiếp tục tương tác.
+        """
+        
+        response = gemini_model.generate_content(prompt)
+        print(intent)
+        return response.text.strip()
+    
+
 
     

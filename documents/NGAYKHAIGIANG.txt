@@ -1,46 +1,25 @@
 Lịch trình học, ngày khai giảng của trung tâm CUSC.
-
-KHÓA HỌC LẬP TRÌNH VIÊN QUỐC TẾ
-Ngày khai giảng 28/05/2024.
-Giờ học thứ 3, 5, 7 từ 18h-21h.
-Thời gian đăng ký KHÓA HỌC APTECH: 11/01/2023-28/05/2024.
-
-
-KHOÁ HỌC MỸ THUẬT ĐA PHƯƠNG TIỆN
-Ngày khai giảng: 04/07/2024.
-Giờ học: Thứ 2,4, 6,từ 18h - 21h.
-Thời gian đăng ký KHÓA HỌC APTECH: 02/01/2024 - 04/07/2024.
-
-KHÓA HỌC Phát triển tư duy với Python
-Ngày khai giảng: 06/2024.
-Giờ học: 13h30-16h30, Thứ 2,4,6.
-Đăng ký khóa học tại Steam.
-
-KHÓA HỌC Thiết kế Web sáng tạo
-Ngày khai giảng: 06/2024.
-Giờ học: 13h30-16h30, Thứ 3,5,7.
-Đăng ký khóa học tại Steam.
-
-KHÓA HỌC Phát triển tư duy với lập trình Arduino - Scratch
-Ngày khai giảng: 06/2024
-Giờ học: 13h30-16h30, Thứ 2,4,6.
-Đăng ký khóa học tại Steam.
-
-KHÓA HỌC THIẾT KẾ WEB & LẬP TRÌNH FRONT-END
-Ngày khai giảng: 18/06/2024.
-Giờ học: Thứ 3,5,7 từ 19h30 - 21h30.
-Thời gian đăng ký KHÓA HỌC APTECH: 29/12/2023 - 18/06/2024.
-
-KHÓA HỌC KIỂM THỬ PHẦN MỀM CHUYÊN NGHIỆP - MODULE 1
-Thời gian đào tạo: 12/06/2024.
-
-KHÓA HỌC QUẢN TRỊ VÀ AN NINH MẠNG
-Ngày khai giảng: 30/06/2024.
- Giờ học: Thứ 3,5,7 từ 19h30 - 21h30.
-Thời gian đăng ký : 21/03/2024 - 27/06/2024.
-Học phí: 2.500.00 đồng
-
-KHÓA HỌC THIẾT KẾ ĐỒ HỌA CHO QUẢNG CÁO
-Ngày khai giảng: 18/06/2024.
-Giờ học: Thứ 2,4,6 từ 19h30 - 21h30.
-Thời gian đăng ký: 29/12/2023 - 26/06/2024.
+---
+Khóa học Lập trình viên quốc tế Aptech khai giảng vào ngày 24/06/2025. Lớp học tổ chức vào các buổi tối thứ 3, 5, 7 từ 18h đến 21h, phù hợp với người đi học hoặc đi làm. Thời gian đăng ký đến hết ngày 20/06/2025.
+------
+Khóa Mỹ thuật đa phương tiện Arena bắt đầu từ ngày 16/06/2025. Học vào tối thứ 2, 4, 6 từ 18h đến 21h, phù hợp cho ai yêu thích thiết kế sáng tạo, đa phương tiện. Thời gian đăng ký đến hết ngày 13/06/2025.
+------
+Khóa học Phát triển tư duy với Python dành cho học sinh, giúp luyện tư duy logic qua lập trình. Khai giảng ngày 05/06/2025, học vào thứ 3, 5, 7 từ 13h30 đến 16h30. Khóa thuộc chương trình Steam.
+---
+Khóa Thiết kế Web sáng tạo khai giảng ngày 06/06/2025. Học sinh sẽ học cách làm website cơ bản vào thứ 2, 4, 6 từ 13h30 đến 16h30. Khóa thuộc chương trình Steam.
+---
+Khóa Phát triển tư duy với lập trình Arduino – Scratch dành cho học sinh nhỏ tuổi, học lập trình cơ bản qua dự án sáng tạo. Khai giảng ngày 05/06/2025, học vào thứ 3, 5, 7 từ 13h30 đến 16h30. Khóa thuộc chương trình Steam.
+---
+Khóa Thiết kế Web & Lập trình Front-end khai giảng ngày 18/06/2024. Lớp học vào buổi tối thứ 3, 5, 7 từ 19h30 đến 21h30, kéo dài 2 tháng. Học viên sẽ biết cách tạo giao diện website hiện đại.
+---
+Khóa Kiểm thử phần mềm chuyên nghiệp – Module 1 bắt đầu ngày 12/06/2024. Đây là khóa học ngắn hạn phù hợp cho người mới bắt đầu kiểm thử phần mềm.
+---
+Khóa Kiểm thử phần mềm cơ bản kéo dài 2,5 tháng, khai giảng ngày 30/05/2025. Học viên sẽ được hướng dẫn kỹ năng kiểm thử phần mềm từ nền tảng.
+---
+Khóa Quản trị và An ninh mạng khai giảng ngày 14/05/2025, học trong 3 tháng. Khóa học phù hợp cho ai muốn theo ngành quản trị hệ thống và bảo mật.
+---
+Khóa Thiết kế Đồ họa cho Quảng cáo bắt đầu ngày 13/06/2025, kéo dài 3 tháng. Học viên sẽ học thiết kế poster, banner, hình ảnh cho marketing.
+---
+Khóa Trí tuệ nhân tạo cho nhân viên văn phòng là khóa học online mới, kéo dài 3 tuần, khai giảng ngày 17/07/2025. Học cách dùng AI để làm việc hiệu quả hơn mà không cần nền tảng kỹ thuật.
+---
+Khóa Phân tích dữ liệu thông minh với Power BI & GenAI là khóa học trực tuyến khai giảng ngày 09/07/2025, kéo dài 3 tuần.
