@@ -21,6 +21,7 @@ def get_max_token():
 def get_token():
     return tokenizer
 
+print(get_max_token())
 
 def encode_data(sentences, model = model):
 

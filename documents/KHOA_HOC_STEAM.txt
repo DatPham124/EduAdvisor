@@ -1,11 +1,23 @@
-Khóa học STEAM
+Khóa học STEAM gồm 3 khóa học chính, hướng đến học sinh cấp 3 muốn làm quen với lập trình, rèn luyện tư duy lập trình từ sớm.
 
-KHÓA HỌC STEAM GỒM 4 KHÓA HỌC
-    1/ KHÓA HỌC LẬP TRÌNH WEB
-    2/ KHÓA HỌC PHÁT TRIỂN TƯ DUY VỚI PYTHON
-    3/ KHÓA HỌC PHÁT TRIỂN TƯ DUY LẬP TRÌNH ARDUINO - SCRATCH
+Danh sách khóa học STEAM bao gồm
+Khóa học Lập trình Web
+Khóa học Phát triển tư duy với Python
+Khóa học Phát triển tư duy lập trình Arduino - Scratch
 
-MỤC TIÊU CÁC KHÓA HỌC STEAM:hướng tới lứa tuổi học sinh cấp 3 muốn tiếp xúc và làm quen với lập trình, rèn luyện tư duy lập trình từ sớm
+---
+Mục tiêu của khóa học lập trình web sẽ trang bị kiến thức nền tảng về lập trình web, thiết kế giao diện, xử lý ngôn ngữ lập trình phía client và server, giúp học viên từng bước tạo nên các website từ cơ bản đến nâng cao.
+Khóa học sẽ được chia thành 4 phần. Phần 1 là phần khởi động (starting), học viên sẽ được học thiết kế trang web tĩnh với HTML5, Sử dụng CSS3 để định dạng và tạo bố cục hấp dẫn, Áp dụng bảng kiểu CSS nâng cao. Phần 2 là phần chạy (running) học về lập trình xử lý trang web bằng JavaScript. Phần 3 là phần tăng tốc (Accllerating) sẽ học về tạo hàm, sử dụng thư viện, thao tác với ma trận, đồ thị, OOP, Tích hợp cơ sở dữ liệu MySQL, xử lý Excel. Phần 4 là phần cất cánh (Flying) sẽ học về ứng dụng Python trong phát triển web, giới thiệu trí tuệ nhân tạo và các thư viện phổ biến.
+
+
+
+
+
+
+
+
+
+
 ---
 Chi tiết khóa học STEAM
 

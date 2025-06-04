@@ -1,4 +1,6 @@
-Trung tâm Công nghệ Phần mềm Đại học Cần Thơ (CUSC) được thành lập từ ngày 29/03/2001 với sứ mệnh "Giải quyết nhu cầu học CNTT chất lượng cao trong Khu vực Đồng bằng Sông Cửu Long". CUSC đảm nhận vai trò tiên phong trong đào tạo nguồn nhân lực CNTT chất lượng cao, sản xuất và gia công phần mềm, phát triển dữ liệu số, tư vấn các dự án CNTT. Từ năm 2001, CUSC hợp tác với Tập đoàn Aptech Ấn Độ triển khai chương trình đào tạo Lập trình viên Quốc tế APTECH.
+Trung tâm Công nghệ Phần mềm Đại học Cần Thơ (CUSC) được thành lập từ ngày 29/03/2001 với sứ mệnh "Giải quyết nhu cầu học CNTT chất lượng cao trong Khu vực Đồng bằng Sông Cửu Long". CUSC đảm nhận vai trò tiên phong trong đào tạo nguồn nhân lực CNTT chất lượng cao, sản xuất và gia công phần mềm, phát triển dữ liệu số, tư vấn các dự án CNTT. 
+---
+Từ năm 2001, CUSC hợp tác với Tập đoàn Aptech Ấn Độ triển khai chương trình đào tạo Lập trình viên Quốc tế APTECH.
 ---
 Sau thành công này, từ năm 2011, CUSC tiếp tục triển khai chương trình Mỹ thuật Đa phương tiện Quốc tế ARENA, mở rộng sang lĩnh vực đào tạo mỹ thuật công nghệ hiện đại.
 ---

@@ -45,6 +45,7 @@ class ActionSearchVectorResponse(Action):
                                 limit=1,
                                 with_payload=True
                                 )
+            print(hit[0].payload["Category"])
             return hit[0].payload["Originals"]
         
         except Exception as e:
