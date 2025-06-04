@@ -13,6 +13,11 @@ nlu:
     - Mình chào bạn
     - Cho mình hỏi với ạ
     - Có ai ở đây không?
+    - Mình muốn hỏi thông tin
+    - Tư vấn viên ơi, mình cần giúp đỡ
+    - Mình cần hỗ trợ
+    - Mình muốn tìm hiểu về CUSC
+    - Mình cần thông tin về khóa học
 
 - intent: TAM_BIET
   examples: |
@@ -26,6 +31,8 @@ nlu:
     - Thôi chào nhé
     - Hẹn gặp lại sau
     - Cảm ơn, mình thoát nhé
+    - Cảm ơn bạn đã hỗ trợ
+
 - intent: DANG_KY
   examples: |
     - Làm sao để đăng ký khóa học tại CUSC?

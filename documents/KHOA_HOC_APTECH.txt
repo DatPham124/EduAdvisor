@@ -1,75 +1,60 @@
-Giới thiệu khóa học APTECH.
-MỤC TIÊU CÁC KHÓA HỌC CỦA APTECH - LẬP TRÌNH VIÊN QUỐC TẾ CỦA CUSC:
-Đào tạo chuyên sâu học viên về lập trình web, phát triển phần mềm theo quy chuẩn lập trình viên quốc tế.
-Ngày khai giảng KHÓA HỌC APTECH 28/05/2024.
-Giờ học thứ 3, 5, 7 từ 18h-21h.
-Thời gian đăng ký KHÓA HỌC APTECH: 11/01/2023-28/05/2024.
----
-Chương trình đào tạo của khóa học APTECH
 
+Mục tiêu của khóa học Lập trình viên quốc tế Aptech: Đào tạo chuyên sâu học viên về lập trình web, phát triển phần mềm theo quy chuẩn lập trình viên quốc tế.
+---
+Cách thức đăng ký trực tuyến khóa học Lập trình viên quốc tế Aptech: 
+Đăng ký online(trực tuyến):
+---
+Gửi bản scan/ảnh chụp hồ sơ nhập học và gửi về theo địa chỉ: 
+    Email: tuyensinh@cusc.ctu.edu.vn
+    Zalo: 0868952535 hoặc 0868952545 
+    Hotline: 02923 835 581
+---
+Chuyển khoản học phí theo hướng dẫn bên dưới:
+    Đơn vị: Trung tâm Công nghệ Phần mềm Đại học Cần Thơ
+    Địa chỉ: 01, Lý Tự Trọng, Thới Bình, Ninh Kiều, Cần Thơ
+    Tài khoản: 0111000031889, ngân hàng Vietcombank, chi nhánh Cần Thơ
+    Nội dung chuyển khoản: (Họ tên - Chuyển khoản học phí Lập trình viên)
+---
+Khóa học Lập trình viên quốc tế Aptech khai giảng vào ngày 24/06/2025. Lớp học tổ chức vào các buổi tối thứ 3, 5, 7 từ 18h đến 21h, phù hợp với người đi học hoặc đi làm. Thời gian đăng ký đến hết ngày 20/06/2025.
+---
+Điều kiện trúng tuyển của khóa học Lập trình viên quốc tế Aptech và Mỹ thuật đa phương tiện Arena là đáp ứng một trong 2 hình thức sau: Xét học bạ THPT với tổng điểm học bạ THPT (HK1, HK2 lớp 11 và HK1 lớp 12) từ 15 điểm trở lên hoặc tốt nghiệp THPT.  
+---
 Chương trình đào tạo của khóa học Aptech: gồm 4 học kỳ
-    Học kỳ 1 của khóa học Aptech: PHÁT TRIỂN ỨNG DỤNG WEB TƯƠNG THÍCH ĐA THIẾT BỊ
-    Môn học của học kỳ 1: 
-        Logic Building and Elementary Programming.
-        Building Modern Websites.
-        UI/UX for Responsive Web Design.
-        Data Management with SQL Server.
-        Frontend Web Development with React.
-        PHP Development with Laravel Framework.
-        eProject Responsive Web Development.
-    Mục tiêu của học kỳ 1:
-        Phát triển tư duy lập trình với ngôn ngữ lập trình C.
-        Xây dựng giao diện Website hiện đại, sử dụng UI/UX để lập trình Web tương tác trải nghiệm người dùng và các ứng dụng tương tác đa thiết bị.
-        Thiết kế & lập trình cơ sở dữ liệu với Microsoft SQL Server.
-        Phát triển Website chạy trên tất cả trình duyệt Web & mọi thiết bị (Smartphone, Tablet, Mac,...) với React.
-        Xây dựng Website và phát triển các chức năng hiện đại với ngôn ngữ lập trình PHP và dễ quản lý với Laravel.
-        Đồ án cuối kỳ (Xây dựng website), tổng hợp kiến thức, rèn luyện tinh thần làm việc nhóm, thuyết trình.
-    Học kỳ 2 của khóa học Aptech: LẬP TRÌNH ỨNG DỤNG WINDOWS.
-    Môn học của học kỳ 2:
-        Data Processing with XML and JSON.
-        Java Programming-I.
-        Java Programming-II.
-        Programming in C#.
-        Project -Java Application Development.
-    Mục tiêu của học kỳ 2:
-        Sử dụng ngôn ngữ XML & JSON để lưu trữ và trao đổi dữ liệu.
-        Phát triển ứng dụng Java phần I.
-        Phát triển ứng dụng Java phần II, phát triển phần mềm hướng đối tượng bằng Java, sử dụng code từ Oracle và các tài liệu mã nguồn để viết code chuyên nghiệp.
-        Phát triển các ứng dụng hướng đối tượng từ cơ bản đến nâng cao bằng ngôn ngữ lập trình C#.
-        Kỹ năng nghề nghiệp lập trình
-        Đồ án cuối kỳ (Java), xây dựng kỹ năng làm việc nhóm chuyên nghiệp, tác phong vững vàng, thiết kế Web tương tác.
-    Học kỳ 3 của khóa học Aptech: PHÁT TRIỂN ỨNG DỤNG DOANH NGHIỆP TRÊN NỀN ĐIỆN TOÁN ĐÁM MÂY.
-    Môn học của học kỳ 3: 
-        Essentials of NodeJS.
-        Large Data Management (MongoDB).
-        Developing Applications with Python.
-        Developing ASP.NET Core MVC Applications.
-        Developing Microsoft Azure Solutions.
-        Emerging Job Areas-SMAC.
-        eProject -.NET Web Application Development.
-    Mục tiêu của học kỳ 3: 
-        Lập trình, kiểm tra và triển khai các ứng dụng web với NodeJS.
-        Xây dựng website ASP.NET/MVC.NET sử dụng .NET Framework.
-        Xây dựng ứng dụng Website chuyên nghiệp dành cho doanh nghiệp vừa và lớn với ASP.NET Core MVC.
-        Thiết kế và lập trình các ứng dụng doanh nghiệp có khả năng tương tác, kết hợp nhiều dịch vụ bao gồm máy chủ tại chỗ và Windows Azure.
-        Lập trình Python.
-        Thực hiện đồ án phát triển phần mềm, website bằng công nghệ .Net.
-    Học kỳ 4 của khóa học Aptech: PHÁT TRIỂN ỨNG DỤNG DOANH NGHIỆP TRÊN NỀN CÔNG NGHỆ JAVA EE.
-    Môn học của học kỳ 4:
-        Introduction to Dart Programming.
-        Application Development Using Flutter and Dart.
-        Web Component Development using Jakarta EE.
-        Building Java Web Applications with Spring Framework.
-        Enterprise Application Development in Jakarta EE.
-        Creating Services for the Web.
-        Project-Java Enterprise Application Development.
-        Internship.
-    Mục tiêu Học kỳ 4: 
-        Sử dụng ngôn ngữ Java lập trình ứng dụng Website chuyên nghiệp.
-        Phát triển các ứng dụng web nâng cao với Spring framework.
-        Thiết kế ứng dụng cho markup Language trong Jakarta Java EE.
-        Phát triển dịch vụ Web (WebServices).
-        Lập trình di động đa nền với Dart và Flutter hiệu quả và nhanh.
-        Dự án lập trình.
-        Đồ án cuối kỳ với Java.
-        Thực tập tại các Công ty Lập trình hoặc CUSCSoftware nâng cao kỹ năng, tạo lợi thế cạnh tranh và việc làm sau khi tốt nghiệp.
+---
+Học kỳ 1 của khóa học Aptech: PHÁT TRIỂN ỨNG DỤNG WEB TƯƠNG THÍCH ĐA THIẾT BỊ
+---
+Môn học của học kỳ 1: Logic Building and Elementary Programming, Building Modern Websites, UI/UX for Responsive Web Design, Data Management with SQL Server, Frontend Web Development with React, PHP Development with Laravel Framework, eProject Responsive Web Development
+---
+Mục tiêu của học kỳ 1: Phát triển tư duy lập trình với ngôn ngữ lập trình C, Xây dựng giao diện Website hiện đại, sử dụng UI/UX để lập trình Web tương tác trải nghiệm người dùng và các ứng dụng tương tác đa thiết bị, Thiết kế & lập trình cơ sở dữ liệu với Microsoft SQL Server, Phát triển Website chạy trên tất cả trình duyệt Web & mọi thiết bị (Smartphone, Tablet, Mac,...) với React, Xây dựng Website và phát triển các chức năng hiện đại với ngôn ngữ lập trình PHP và dễ quản lý với Laravel, Đồ án cuối kỳ (Xây dựng website), tổng hợp kiến thức, rèn luyện tinh thần làm việc nhóm, thuyết trình.
+---
+Vị trí việc làm sau khi học xong học kỳ 1: Lập trình viên Full-stack (Full-Stack Developer), Lập trình Website tương thích đa thiết bị (Responsive Website Developer), Lập trình viên PHP (PHP Developer)
+---
+Chứng chỉ được nhận sau khi học xong học kỳ 1: CPISM (Certificate of Proficiency in System Management) do Tập đoàn Aptech Ấn Độ cấp
+---
+Học kỳ 2 của khóa học Aptech: LẬP TRÌNH ỨNG DỤNG WINDOWS.
+---
+Môn học của học kỳ 2: Data Processing with XML and JSON, Java Programming-I, Java Programming-II, Programming in C#, Project -Java Application Development.
+---
+Mục tiêu của học kỳ 2: Sử dụng ngôn ngữ XML & JSON để lưu trữ và trao đổi dữ liệu, Phát triển ứng dụng Java phần I, Phát triển ứng dụng Java phần II, phát triển phần mềm hướng đối tượng bằng Java, sử dụng code từ Oracle và các tài liệu mã nguồn để viết code chuyên nghiệp, Phát triển các ứng dụng hướng đối tượng từ cơ bản đến nâng cao bằng ngôn ngữ lập trình C#, Kỹ năng nghề nghiệp lập trìn, Đồ án cuối kỳ (Java), xây dựng kỹ năng làm việc nhóm chuyên nghiệp, tác phong vững vàng, thiết kế Web tương tác.
+---
+Vị trí việc làm sau khi học xong học kỳ 2: Lập trình viên C# (C# Programmer), Chuyên viên lập trình ứng dụng Java (Java Developer), Lập trình ứng dụng Web hiện đại với Node.JS, Express.JS và MongoDB.
+---
+Chứng chỉ được nhận sau khi học xong học kỳ 2: Bằng DISM (Diploma in Information System Management) do Tập đoàn Aptech Ấn Độ cấp
+---
+Học kỳ 3 của khóa học Aptech: PHÁT TRIỂN ỨNG DỤNG DOANH NGHIỆP TRÊN NỀN ĐIỆN TOÁN ĐÁM MÂY.
+---
+Môn học của học kỳ 3: Essentials of NodeJS, Large Data Management (MongoDB), Developing Applications with Python, Developing ASP.NET Core MVC Applications, Developing Microsoft Azure Solutions, Emerging Job Areas-SMAC, eProject -.NET Web Application Development.
+---
+Mục tiêu của học kỳ 3: Lập trình, kiểm tra và triển khai các ứng dụng web với NodeJS, Xây dựng website ASP.NET/MVC.NET sử dụng .NET Framework, Xây dựng ứng dụng Website chuyên nghiệp dành cho doanh nghiệp vừa và lớn với ASP.NET Core MVC, Thiết kế và lập trình các ứng dụng doanh nghiệp có khả năng tương tác, kết hợp nhiều dịch vụ bao gồm máy chủ tại chỗ và Windows Azure, Lập trình Python, Thực hiện đồ án phát triển phần mềm, website bằng công nghệ .Net.
+---
+Vị trí việc làm sau khi học xong học kỳ 3: Chuyên viên phát triển ứng dụng Web với MVC.NET (Website Application Development .NET), Chuyên viên lập trình tích hợp AI nâng cao trải nghiệm người dùng, Chuyên gia phát triển ứng dụng điện toán đám mây trên nền MS Azure, Google Cloud, dịch vụ Web…
+---
+Học kỳ 4 của khóa học Aptech: PHÁT TRIỂN ỨNG DỤNG DOANH NGHIỆP TRÊN NỀN CÔNG NGHỆ JAVA EE.
+---
+Môn học của học kỳ 4: Introduction to Dart Programming, Application Development Using Flutter and Dart, Web Component Development using Jakarta EE, Building Java Web Applications with Spring Framework, Enterprise Application Development in Jakarta EE, Creating Services for the Web, Project-Java Enterprise Application Development, Internship.
+---
+Mục tiêu Học kỳ 4: Sử dụng ngôn ngữ Java lập trình ứng dụng Website chuyên nghiệp, Phát triển các ứng dụng web nâng cao với Spring framework, Thiết kế ứng dụng cho markup Language trong Jakarta Java EE, Phát triển dịch vụ Web (WebServices), Lập trình di động đa nền với Dart và Flutter hiệu quả và nhanh, Dự án lập trình, Đồ án cuối kỳ với Java, Thực tập tại các Công ty Lập trình hoặc CUSCSoftware nâng cao kỹ năng, tạo lợi thế cạnh tranh và việc làm sau khi tốt nghiệp.
+---
+Vị trí việc làm sau khi học xong học kỳ 4: Phát triển các ứng dụng trên mô hình AI tiên tiến, Lập trình viên phát triển ứng dụng di động Mobile App, Lập trình phát triển ứng dụng Website (Web Application Developer)
+---
+Chứng chỉ được nhận sau khi học xong học kỳ 4: Bằng ADSE (Advanced Diploma in Software Engineering) do Tập đoàn Aptech Ấn Độ cấp
