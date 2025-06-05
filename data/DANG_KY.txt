@@ -1,0 +1,23 @@
+Trung tâm CUSC có chỉ tiêu xét tuyển là 1000 học viên mỗi năm. Hồ sơ xét tuyển tại CUSC bao gồm: 3 ảnh 4x6, CMND photocopy, và giấy chứng nhận hoặc bản sao bằng Tốt nghiệp THPT. Đây là những giấy tờ bắt buộc để hoàn thành thủ tục đăng ký học.
+---
+Để đăng ký học tại CUSC, học viên cần tốt nghiệp THPT với ưu tiên dành cho hồ sơ nộp sớm. CUSC có 2 cách đăng ký học: Cách 1 là đăng ký trực tuyến. Cách 2 là đăng ký trực tiếp tại Phòng Tư vấn - Trung tâm Công nghệ Phần mềm Đại học Cần Thơ, địa chỉ Khu 3 - Đại học Cần Thơ, số 01 đường Lý Tự Trọng, Quận Ninh Kiều, Thành phố Cần Thơ.
+---
+Link đăng ký ghi danh trực tuyến đối với các khóa học STEAM (Thiết kế Web sáng tạo, Phát triển tư duy với lập trình Arduino – Scratch, Phát triển tư duy với Python): 
+---
+Link đăng ký ghi danh các khóa học trực tuyến (Phân tích dữ liệu thông minh với Power BI và GenAI, Trí tuệ nhân tạo cho nhân viên văn phòng, Thiết kế đồ họa cho quảng cáo): https://docs.google.com/forms/d/e/1FAIpQLSeiqSmYEavyMp2RMo97ox0DJAPFu4OEdjLR-1zJK27cH6eyyg/viewform
+---
+Link đăng ký ghi danh các khóa học ngắn hạn (Thiết kế web và lập trình Front-end, Thiết kế đồ họa cho quảng cáo, Quản trị và an ninh mạng, Xây dựng ứng dụng web với NodeJS và ExpressJS Framework, Kiểm thử phần mềm cơ bản, Quản trị và An ninh mạng )
+--- 
+Cách thức đăng ký trực tuyến 2 khóa học Lập trình viên quốc tế Aptech và Mỹ thuật đa phương tiện Arena: 
+    Bước 1: Đăng ký online(trực tuyến): https://docs.google.com/forms/d/e/1FAIpQLScfscLTsI6ZxA7hHuOEgMjUOl5eo9eOXsbzAD6TSRauhdhBwA/viewform
+    Bước 2: Gửi bản scan/ảnh chụp hồ sơ nhập học và gửi về theo địa chỉ: 
+        Email: tuyensinh@cusc.ctu.edu.vn
+        Zalo: 0868952535 hoặc 0868952545 
+        Hotline: 02923 835 581
+    Bước 3: Chuyển khoản học phí theo hướng dẫn bên dưới:
+        Đơn vị: Trung tâm Công nghệ Phần mềm Đại học Cần Thơ
+        Địa chỉ: 01, Lý Tự Trọng, Thới Bình, Ninh Kiều, Cần Thơ
+        Tài khoản: 0111000031889, ngân hàng Vietcombank, chi nhánh Cần Thơ
+        Nội dung chuyển khoản: (Họ tên - Chuyển khoản học phí Lập trình viên)
+---
+Điều kiện trúng tuyển của khóa học Lập trình viên quốc tế Aptech và Mỹ thuật đa phương tiện Arena là đáp ứng một trong 2 hình thức sau: Xét học bạ THPT với tổng điểm học bạ THPT (HK1, HK2 lớp 11 và HK1 lớp 12) từ 15 điểm trở lên hoặc tốt nghiệp THPT. Còn các khóa học còn lại không yêu cầu về điểm.

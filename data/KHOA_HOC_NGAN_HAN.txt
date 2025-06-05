@@ -1,0 +1,9 @@
+CUSC cung cấp bốn khóa học ngắn hạn chuyên sâu cho người học muốn tập trung vào một lĩnh vực gồm: Thiết kế Web & Front-end, Kiểm thử Phần mềm Chuyên nghiệp Module 1, Quản trị & An ninh Mạng, và Thiết kế Đồ họa cho Quảng cáo.
+---
+Khóa Thiết kế Web & Lập trình Front-end khai giảng ngày 18/06/2024, đăng ký từ 29/12/2023 đến 18/06/2024, học thứ 3, 5, 7 (19h30–21h30), tổng 42 giờ, yêu cầu kiến thức máy tính cơ bản, nội dung gồm HTML5, CSS3, JavaScript, jQuery, VueJS, được đào tạo theo hướng dự án với lớp tối đa 24 học viên và cấp chứng chỉ do CUSC.
+---
+Khóa Kiểm thử Phần mềm Chuyên nghiệp – Module 1 khai giảng ngày 12/06/2024, đăng ký từ 07/04/2023 đến 12/06/2024, học thứ 2, 4, 6 (17h30–19h30), tổng 108 giờ, giới thiệu kiểm thử gray-box, thực hành kiểm thử thủ công và tự động, trang bị kỹ năng chuyên môn và kỹ năng mềm, cấp chứng chỉ “AGEST Certified Test Professional” do AGEST & CUSC.
+---
+Khóa Quản trị & An ninh Mạng trang bị kiến thức về hệ thống mạng máy tính, nguyên lý an ninh mạng, cấu hình Windows 11 và Windows Server 2019 phục vụ quản trị, hướng dẫn thiết lập chính sách bảo mật nâng cao, phòng chống tấn công, tổng 56 giờ, cấp chứng nhận hoàn thành do CUSC.
+---
+Khóa Thiết kế Đồ họa cho Quảng cáo dạy kỹ năng thiết kế đồ họa quảng cáo với Adobe Illustrator, Photoshop, InDesign, lập kế hoạch thiết kế theo yêu cầu doanh nghiệp, đào tạo theo dự án thực tế, giảng viên giàu kinh nghiệm, tổng 56 giờ, cấp chứng nhận hoàn thành do CUSC.
