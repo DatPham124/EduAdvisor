@@ -1,0 +1,18 @@
+Giới thiệu về CUSC. Thành lập từ tháng 03/2001 theo Quyết định số 1574/QĐ-BGD&ĐT-TCCB, Trung tâm Công nghệ phần mềm Trường Đại học Cần Thơ là Trung tâm phần mềm đầu tiên trong khu vực Đồng bằng sông Cửu Long, ra đời nhằm đáp ứng nhu cầu đào tạo lập trình viên chuyên nghiệp, phát triển phần mềm và ứng dụng Công nghệ thông tin vào mọi mặt của đời sống xã hội.
+---
+Giới thiệu về CUSC
+Các hoạt động của trung tâm tuân thủ Tiêu chuẩn Quốc tế ISO 9001:2015, ISO 27001:2022, nhằm đảm bảo chất lượng đạt chuẩn của quốc gia và mang tầm quốc tế. Tên tiếng Việt: Trung tâm Công nghệ phần mềm Trường Đại học Cần Thơ
+Tên tiếng Anh: CanTho University Software Center (CUSC). Phương châm: “Chất lượng là hàng đầu”
+---
+Giới thiệu CUSC, lịch sử phát triển CUSC 
+Năm 2001: Thành lập theo Quyết định số 1574/QĐ-BGD&ĐT-TCCB ngày 29 tháng 3 năm 2001 của Bộ Giáo dục và Đào tạo.
+Triển khai đào tạo Lập trình viên Quốc tế, hợp tác với Aptech, Ấn Độ. Giới thiệu CUSC, lịch sử phát triển CUSC 
+Năm 2002: Chính thức là thành viên của Hiệp hội phần mềm và dịch vụ CNTT Việt Nam VINASA.
+---
+Giới thiệu CUSC, lịch sử phát triển CUSC. Năm 2006: Đặt nền tảng đầu tiên cho gia công phần mềm: Hợp tác với Công ty Mankichi Software và Kobe Digital Labo, Nhật Bản. Năm 2009: Đạt chứng nhận hệ thống quản lý chất lượng theo chuẩn ISO 9001:2008.Trở thành đối tác vàng của Microsoft (Microsoft Gold Certified Partner). Hợp tác với Prometric thành lập trung tâm khảo thí các chứng chỉ CNTT quốc tế (Microsoft, Sun Microsystems, IBM, Oracle,…).
+---
+Giới thiệu CUSC, lịch sử phát triển CUSC Năm 2011: Triển khai đào tạo Mỹ thuật Đa phương tiện Quốc tế Arena, hợp tác với Aptech, Ấn Độ. Năm 2017-2018:Nâng cấp và đạt chứng nhận ISO 9001:2015 cho Hệ thống quản lý chất lượng CUSC. Hợp tác với LogiGear triển khai khóa Kiểm thử phần mềm. Triển khai thành công Cổng DVC trực tuyến, phần mềm. Một cửa điện tử theo khung Chính quyền điện tử tại tỉnh Cà Mau, Sóc Trăng.
+---
+Giới thiệu CUSC, lịch sử phát triển CUSC. Năm 2021-2022: Triển khai Hệ thống ISO điện tử tại tỉnh Quảng Ninh trên phạm vi toàn tỉnh với 227 đơn vị. Triển khai app mobile Sinh viên, Giảng viên Trường Đại học Cần Thơ. Năm 2023
+Đạt chứng nhận ISO 27001:2022 về Hệ thống Quản lý An toàn Thông tin.
+

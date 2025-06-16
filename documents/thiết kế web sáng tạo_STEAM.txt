@@ -1,0 +1,41 @@
+thiết kế web sáng tạo, STEAM
+đối tượng tuyển sinh là các học sinh THCS và THPT.
+---
+thiết kế web sáng tạo, STEAM
+bằng cấp: Học viên sẽ được CUSC cấp chứng nhận hoàn thành khóa học. 
+---
+thiết kế web sáng tạo, STEAM
+hình thức đào tạo: Triển khai giảng dạy theo hình thức kết hợp trực tiếp (offline) và trực tuyến (online) trên toàn vùng Đồng bằng Sông Cửu Long.
+---
+thiết kế web sáng tạo, STEAM
+mục tiêu Web là nhóm công nghệ có tính chất đa phương tiện nhất trong nhóm các các dòng công nghệ tiên tiến khác. Bên cạnh năng lực truyền thông, trình bày và xử lý dữ liệu, web còn cho phép tích hợp rất nhiều định dạng hình ảnh, âm thanh và tương tác khác nhau. Khóa học hướng tới việc trang bị kiến thức, kỹ năng về Khoa học, Công nghệ, Kỹ thuật, Nghệ thuật và Toán học cho các em học sinh. 
+---
+thiết kế web sáng tạo, STEAM
+mục tiêu Trong quá trình học, các em sẽ được rèn luyện tư duy trong lập trình và kỹ năng thiết kế website. Khóa học còn giúp học sinh nâng cao khả năng mô hình hóa các đối tượng, nghiệp vụ trong thực tế vào bài toán cụ thể, từ đó giải quyết các vấn đề thực tế bằng các hệ thống phần mềm. Học sinh sẽ được phát triển kỹ năng tin học hóa để giải quyết các vấn đề thực tế.
+---
+thiết kế web sáng tạo, STEAM
+mục tiêu Điều quan trọng nhất là, khóa học sẽ giúp các em phát triển tư duy, sáng tạo nhằm hỗ trợ tốt quá trình học tập và phát triển của các em. Vấn đề cốt lõi mà các em đạt được trong suốt khóa học là kỹ năng lập trình và thiết kế website, có thể phát triển một website chuyên nghiệp với giao diện đẹp, thu hút cùng những chức năng xử lý hiệu quả, tối ưu.
+---
+thiết kế web sáng tạo, STEAM
+điểm nổi bật, lợi ích: Học viên có điều kiện học trực tuyến các chương trình đào tạo tiên tiến, tiếp cận công bằng với các môi trường hiện đại hơn, ngay cả trong điều kiện hạn chế của địa phương mình. Giáo dục STEAM hướng đến việc trang bị kiến thức đa chiều, kích thích năng lực sáng tạo và tư duy phản biện. Học sinh sẽ dần hình thành năng lực mở rộng vấn đề theo nhiều chiều sâu khác nhau. 
+---
+thiết kế web sáng tạo, STEAM
+điểm nổi bật: Học sinh THCS và THPT tham gia các khóa học tại CUSC STEAM có thể vận dụng tốt kiến thức để tham gia các kỳ thi Tin học trẻ, phần mềm sáng tạo và các cuộc thi sáng tạo khác. Phương pháp học kết hợp giữa lý thuyết và thực hành giúp học viên nắm vững nền tảng kiến thức và vận dụng hiệu quả trong việc rèn luyện tư duy logic để thiết kế web sáng tạo. Giáo viên sẽ hướng dẫn cụ thể và chi tiết cho từng học viên.
+---
+thiết kế web sáng tạo, STEAM
+nội dung chương trình STAGE 1: KHỞI ĐỘNG (STARTING) Station 1.1 (24 giờ) Tìm hiểu môi trường và ngôn ngữ Python. Chương trình nhập xuất đơn giản với Python. Làm việc với con số và ký tự, làm quen với chương trình mã hóa đơn giản. Tạo cảm hứng bằng đồ họa trong Python. Làm quen với khái niệm giải thuật (Algorithm) Kiểu dữ liệu và ý nghĩa của kiểu dữ liệu. Làm quen với câu lệnh điều kiện và vòng lặp. Làm quen với khái niệm dãy số. Tìm kiếm và sắp xếp dữ liệu trong Python.
+---
+thiết kế web sáng tạo, STEAM
+nội dung chương trình Station 1.1 (24 giờ): Thiết kế các trang web tĩnh với các thành phần HTML5. Xử lý và định dạng cơ bản các nội dung trên trang web. Station 1.2 (24 giờ) Sử dụng CSS3 để định dạng màu sắc, kiểu thể hiện, nền, bố cục, canh lề, cho các trang web, giúp tăng tính hấp dẫn, thu hút và chuyên nghiệp cho trang web. Sử dụng các bảng kiểu xếp chồng để định dạng nâng cao, tăng khả năng định dạng cho trang web, giúp trang web chuyên nghiệp hơn.
+---
+thiết kế web sáng tạo, STEAM
+nội dung chương trình Station 2.1 (24 giờ) Xử lý trang web với ngôn ngữ lập trình Javascript, Lập trình Javascript cơ bản như: Các phương pháp nhúng ngôn ngữ lập trình Javascript vào trang web, Sử dụng biến và các kiểu dữ liệu, Các toán tử. Câu lệnh điều kiện, Vòng lặp.
+---
+thiết kế web sáng tạo, STEAM
+nội dung chương trình Station 2.2 (24 giờ)Lập trình JavaScript nâng cao: Biểu thức quy tắc, Các hàm được xây dựng sẵn về toán học, thời gian,...Xây dựng hàm, Mảng một chiều, Mảng nhiều chiều, Thiết kế game với JavaScript, Vẽ giao diện game, Hiển thị các nội dung trên game, Di chuyển trong game, Xử lý trong game: bắt đầu, đang chơi, kết thúc, tính điểm, lưu điểm, xếp hạng, ..
+---
+thiết kế web sáng tạo, STEAM
+nội dung chương trình Station 3.1 (24 giờ) Lập trình web với PHP cơ bản sử dụng thư viện Bootstrap, Lập trình với thư viên jQuery. Station 3.2 (24 giờ) Thiết kế trang web web tương thích đa thiết bị
+---
+thiết kế web sáng tạo, STEAM
+nội dung chương trình Station 4.1(24 giờ) Lập trình web nâng cao, Tương tác cơ sở dữ liệu với PHP. Station 4.2 (24 giờ) Lập trình PHP nâng cao như: Truy vấn dữ liệu nâng cao: truy vấn từ nhiều bảng, lọc dữ liệu truy vấn, sắp xếp dữ liệu,... Upload / download hình ảnh, tập tin, Gửi Email, Quản lý phiên giao dịch (Session), Quản lý Cookie.

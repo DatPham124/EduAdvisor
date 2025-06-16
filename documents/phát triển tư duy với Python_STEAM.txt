@@ -1,0 +1,61 @@
+phát triển tư duy với python, tư duy lập trình, STEAM
+đối tượng tuyển sinh là các học sinh THCS và THPT.
+---
+phát triển tư duy với python, tư duy lập trình, STEAM
+bằng cấp: Học viên sẽ được CUSC cấp chứng nhận hoàn thành khóa học. 
+---
+phát triển tư duy với python, tư duy lập trình, STEAM
+hình thức đào tạo: Triển khai giảng dạy theo hình thức kết hợp trực tiếp (offline) và trực tuyến (online) trên toàn vùng Đồng bằng Sông Cửu Long.
+---
+phát triển tư duy với python, tư duy lập trình, STEAM
+mục tiêu trang bị kiến thức tổng hợp về tư duy toán và lập trình cho học sinh, mối liên hệ giữa việc mô hình hóa các bài toán thành các giải thuật phần mềm. 
+---
+phát triển tư duy với python, tư duy lập trình, STEAM
+mục tiêu việc tiếp các ngôn ngữ lập trình từ sớm giúp học sinh khai phá tư duy khóa học đa chiều, tập giải các bài toán thực tế ở góc nhìn của máy tính. Python cũng là ngôn ngữ lập trình được Bộ Giáo dục và Đào tạo đưa vào ngôn ngữ ưu tiên trong các cuộc thi tin học trẻ, đây cũng là ngôn ngữ dẫn đầu trong nhóm các công cụ trí tuệ nhân tạo.
+---
+phát triển tư duy với python, tư duy lập trình, STEAM
+mục tiêu rèn luyện tư duy lập trình từ nhỏ là xu hướng giáo dục của các quốc gia có nền giáo dục phát triển như Mỹ, Châu Âu, Nhật Bản, Singapore. Trong khi ở bậc học tiểu học, học sinh cần các ngôn ngữ hình họa như Scratch, MS Logo, ... học sinh bậc học trung học có thể đủ tư duy để tiếp cận các ngôn ngữ lập trình bậc cao, trong đó Python là ngôn ngữ tiêu biểu trong nhóm này.
+---
+phát triển tư duy với python, tư duy lập trình, STEAM
+mục tiêu một trong các năng lực khác biệt mà một học sinh có tư duy lập trình khác với các em khác là khả năng mô hình hóa, trừu tượng hóa và trình tự hóa các bài toán, điều này giúp các em khai mở các góc nhìn khác nhau về khoa học ngay từ rất sớm. Đặc biệt, các đề thi tin học trẻ (chẳng hạn Olympic Tin học) cũng được lồng ghép nhẹ nhàng vào chương trình đào tạo nhằm giúp các em học sinh làm quen với môi trường cạnh tranh học đường.
+---
+phát triển tư duy với python, tư duy lập trình, STEAM
+điểm nổi bật: Học viên có điều kiện học trực tuyến các chương trình đào tạo tiên tiến, có điều kiện tiếp cận công bằng so với các môi trường hiện đại hơn ngay trong điều kiện hạn chế của địa phương
+mình.
+---
+phát triển tư duy với python, tư duy lập trình, STEAM
+điểm nổi bật: Giáo dục STEAM hướng đến việc trang bị kiến thức đa chiều, kích thích năng lực sáng tạo và tư duy phản biện. Học sinh sẽ dần hình thành năng lực mở rộng vấn đề theo các chiều sâu khác
+nhau.
+---
+phát triển tư duy với python, tư duy lập trình, STEAM
+điểm nổi bật: Học sinh THCS, THPT tham gia các khóa học tại CUSC STEAM tại CUSC có thể vận dụng tốt kiến thức để tham gia các kỳ thi Tin học trẻ, phần mềm sáng tạo và các cuộc thi sáng tạo
+khác.
+---
+phát triển tư duy với python, tư duy lập trình, STEAM
+điểm nổi bật: Phương pháp học lý thuyết kết hợp với thực hành giúp học viên hiểu sâu về nền tảng kiến thức và kỹ năng vận dụng kiến thức vào rèn luyện tư duy logic, lập trình Python; Giáo viên hướng
+dẫn cụ thể và chi tiết đối với từng học viên.
+---
+phát triển tư duy với python, tư duy lập trình, STEAM
+nội dung chương trình STAGE 1: KHỞI ĐỘNG (STARTING) Station 1.1 (24 giờ) Tìm hiểu môi trường và ngôn ngữ Python. Chương trình nhập xuất đơn giản với Python. Làm việc với con số và ký tự, làm quen với chương trình mã hóa đơn giản. Tạo cảm hứng bằng đồ họa trong Python. Làm quen với khái niệm giải thuật (Algorithm) Kiểu dữ liệu và ý nghĩa của kiểu dữ liệu. Làm quen với câu lệnh điều kiện và vòng lặp. Làm quen với khái niệm dãy số. Tìm kiếm và sắp xếp dữ liệu trong Python.
+---
+phát triển tư duy với python, tư duy lập trình, STEAM
+nội dung chương trình STAGE 1: KHỞI ĐỘNG (STARTING) Station 1.2 (24 giờ) Dữ liệu, xử lý dữ liệu và thông tin. Các kiểu dữ liệu nâng cao. Bước đầu xử lý dữ liệu trên nhiều định dạng. Cách xử lý câu lệnh vòng lặp nâng cao. Khái niệm về đường dẫn (path). Giải thuật trong phân tích dữ liệu. Trình bày dữ liệu cơ bản. Giải thuật đệ quy.
+---
+phát triển tư duy với python, tư duy lập trình, STEAM
+nội dung chương trình STAGE 2: CHẠY (RUNNING) Station 2.1 (24 giờ): Làm việc với đồ họa và âm thanh: Làm quen các dạng tập tin ảnh và âm thanh. Khái name về phần mềm đồ họa. Khái niệm về phần mềm và ứng dụng. Phát triển Game với thư viện PyGame: One-Two-Three, Cá săn mồi, Flappy Bird, Sudoku
+---
+phát triển tư duy với python, tư duy lập trình, STEAM
+nội dung chương trình STAGE 2: CHẠY (RUNNING) Station 2.2 (24 giờ): Lập trình phần mềm có giao diện người dùng: Thư viện Tkinter. Các thành phần chính trong giao diện đồ họa. Bố cục giao diện ứng dụng đồ họa. Phát triển ứng dụng có giao diện đồ họa: Máy tính tay (Calculator), Quản lý lịch (Calender)
+---
+phát triển tư duy với python, tư duy lập trình, STEAM
+nội dung chương trình STAGE 3: TĂNG TỐC (ACCELERATING) Station 3.1 (24 giờ) Khái niệm về Hàm số. Tạo hàm trong Python. Khái niệm về thư viện. Các thư viện cơ bản. Đồ thị trong Python. Màu sắc và cách mã hóa màu sắc trên máy tính. Khái niệm về ma trận và ứng dụng của ma trận trong thực tế.
+---
+phát triển tư duy với python, tư duy lập trình, STEAM
+nội dung chương trình STAGE 3: TĂNG TỐC (ACCELERATING) Station 3.2 (24 giờ): Lập trình hướng đối tượng: Khái niệm về lớp và đối tượng. Kế thừa và Tính đa hình. Lớp trừu tượng và Interface. Thao tác với hệ quản trị cơ sở dữ liệu MySQL trong Python. Làm quen với thao tác phân tích dữ liệu. Xử lý file Excel trên nền tảng Python.
+---
+phát triển tư duy với python, tư duy lập trình, STEAM
+nội dung chương trình STAGE 4: CẤT CÁNH (FLYING) Station 4.1 (24 giờ): Lập trình Python nên nền Web: Căn bản về HTML5/CSS3. Web tĩnh và Web động. Ứng dụng Python trên nền web. Hệ thống các thư viện phổ biến trên Python. Khái niệm về trí tuệ nhân tạo. Trí tuệ nhân tạo đơn giản: Hồi quy tuyến tính, hồi quy phi tuyến tính.
+---
+phát triển tư duy với python, tư duy lập trình, STEAM
+nội dung chương trình STAGE 4: CẤT CÁNH (FLYING) Station 4.2 (24 giờ) Trí tuệ nhân tạo nâng cao: Các giải thuật phân loại (Classification). Các giải thuật nhận diện với Học sâu (Deep Learning).
+

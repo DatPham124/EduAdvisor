@@ -1,0 +1,26 @@
+phát triển tư duy lập trình  Arduino - SCRATCH, STEAM
+đối tượng tuyển sinh là các học sinh THCS và THPT.
+---
+phát triển tư duy lập trình  Arduino - SCRATCH, STEAM
+bằng cấp: Học viên sẽ được CUSC cấp chứng nhận hoàn thành khóa học. 
+---
+phát triển tư duy lập trình  Arduino - SCRATCH, STEAM
+hình thức đào tạo: Triển khai giảng dạy theo hình thức kết hợp trực tiếp (offline) và trực tuyến (online) trên toàn vùng Đồng bằng Sông Cửu Long.
+---
+phát triển tư duy lập trình  Arduino - SCRATCH, STEAM
+mục tiêu Scratch là phần mềm hỗ trợ triển khai hệ thống giáo dục STEAM một cách đơn giản và hiệu quả, giúp học sinh phát triển tư duy sáng tạo thông qua việc tạo ra các ứng dụng thực tế. Scratch còn hỗ trợ giáo viên minh họa bài giảng sinh động và trực quan hơn.
+---
+phát triển tư duy lập trình  Arduino - SCRATCH, STEAM
+mục tiêu Khóa học cung cấp kiến thức cơ bản về: Hệ thống IoT, lập trình nhúng, mạch điều khiển Arduino và ứng dụng thực tế. Học viên được học nguyên lý thiết kế, lắp đặt và lập trình các module điện tử qua Arduino để tạo ra sản phẩm thực tế.
+---
+phát triển tư duy lập trình  Arduino - SCRATCH, STEAM
+điểm nổi bật, lợi ích: Học viên được tiếp cận chương trình đào tạo tiên tiến dù ở vùng điều kiện hạn chế, Giáo dục STEAM giúp học sinh phát triển tư duy phản biện, khả năng sáng tạo, mở rộng vấn đề theo chiều sâu,  Học sinh có thể tham gia kỳ thi Tin học trẻ, các cuộc thi phần mềm sáng tạo sau khi học,
+---
+phát triển tư duy lập trình  Arduino - SCRATCH, STEAM
+điểm nổi bật: Phương pháp học lý thuyết kết hợp thực hành giúp học viên nắm vững nền tảng, rèn tư duy logic, lập trình Python, Giáo viên hướng dẫn chi tiết từng học viên.
+---
+phát triển tư duy lập trình  Arduino - SCRATCH, STEAM
+nội dung chương trình Station 1.1 – Scratch + Arduino cơ bản (24 giờ): Giới thiệu cơ bản về Arduino, Cài đặt môi trường Scratch – Arduino, Lập trình cơ bản với Scratch, Làm quen với Arduino và các cảm biến,Cách lắp mạch Arduino với cảm biến,Kiểu dữ liệu và ý nghĩa của chúng, Làm quen với câu lệnh điều kiện và vòng lặp, Dự án Scratch: Điều khiển đèn LED quảng cáo, đèn giao thông, Hệ thống theo dõi và điều khiển môi trường tự động.
+---
+phát triển tư duy lập trình  Arduino - SCRATCH, STEAM
+nội dung chương trình Station 1.2 – Arduino nâng cao (24 giờ): Lập trình cơ bản Arduino, Sử dụng kiểu dữ liệu, biến, lệnh điều kiện, vòng lặp, Điều khiển đèn LED và cảm biến, Gửi và nhận dữ liệu qua cổng Serial, Giao tiếp với LCD, Servo Motor, Dự án ứng dụng thực tế.
