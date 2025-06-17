@@ -1,0 +1,80 @@
+Ngành Lập trình viên Quốc tế (APTECH) tại CUSC có đội ngũ giảng viên gồm: Lê Hoàng Thảo, Trương Xuân Việt, Nguyễn Hoàng Việt, Lê Thị Minh Loan, Cù Vĩnh Lộc, Nguyễn Võ Thông Thái, Trần Hoàng Việt, Văn Thị Xuân Hồng, Ông Thị Mỹ Linh và Lưu Tiến Đạo.
+---
+Ngành Mỹ thuật Đa phương tiện Quốc tế (ARENA) tại CUSC có đội ngũ giảng viên gồm: Nguyễn Việt Nga, Nguyễn Hồng Sơn, Nguyễn Trung Kiên, Võ Duy Anh và Trương Xuân Việt.
+---
+Chương trình STEAM tại CUSC có đội ngũ giảng viên gồm: Võ Duy Anh, Nguyễn Trung Kiên, Nguyễn Hồng Sơn, Nguyễn Việt Nga, Trần Hoàng Việt, Lê Thị Minh Loan, Ông Thị Mỹ Linh, Lê Thị Diễm Kiều, Nguyễn Hoàng Việt, Lê Hoàng Thảo, Trương Xuân Việt và Cù Vĩnh Lộc.
+---
+Giảng viên thầy Nguyễn Võ Thông Thái. 
+Học vị: Thạc sĩ, Giảng viên. Năm bắt đầu dạy tại CUSC: 2015. Đã tham gia các khóa đào tạo: An toàn an ninh thông tin. 
+Chứng chỉ sư phạm: Nghiệp vụ sư phạm. Chứng chỉ Aptech: CCNP Routing & Switching; Routing Technology; Social Engineering And User Awareness; Windows and Linux Hacking; Wan Security & Wireless Technology; Windows Server 2016. Chứng chỉ khác: MCSA, Phòng chống mã độc Ransomware
+---
+Giảng viên cô Lương Tú Ngân. 
+Học vị: Đang học Cao học, giảng viên mời giảng tiếng Anh. Năm bắt đầu dạy tại CUSC: 2015. 
+Chứng chỉ sư phạm: Nghiệp vụ sư phạm; Chứng nhận luật giáo dục và quản lý hành chính nhà nước. Chứng chỉ Aptech: HR. Chứng chỉ khác: Chứng chỉ ngoại ngữ B1 tiếng Pháp.
+---
+Giảng viên cô Hồ Thị Lan Anh. 
+Học vị: Thạc sĩ. Giảng viên mời giảng Tiếng Anh. Năm bắt đầu dạy tại CUSC: 2018. 
+Chứng chỉ sư phạm: Nghiệp vụ sư phạm. Chứng chỉ Aptech: HR. Chứng chỉ khác: Chứng chỉ ngoại ngữ C1
+---
+Giảng viên thầy Mai Quốc Đại. 
+Học vị: Tốt nghiệp lập trình viên quốc tế. Chức vụ: Trưởng phòng Quản trị & An ninh mạng. Giảng viên mời giảng quản trị mạng. 
+Đã tham gia các khóa đào tạo: CCNA R&S. Năm bắt đầu dạy: 2007. Năm bắt đầu dạy tại CUSC: 2007 Chứng chỉ sư phạm. Chứng chỉ Aptech: HDSE. Chứng chỉ khác: MCSA, chứng chỉ Microsoft về công nghệ mạng
+---
+Giảng viên thầy Cù Vĩnh Lộc.
+Học vị: Tiến sĩ Khoa học Máy tính - Pháp. Năm bắt đầu dạy tại CUSC: 2001.
+Đã tham gia các khóa đào tạo: Trí tuệ nhân tạo & Máy học, Blockchain, C#, Advanced .NET 2003, HTML/XML/JSON. Chứng chỉ sư phạm: Nghiệp vụ sư phạm, Kỹ năng giảng dạy chuẩn quốc tế.
+Chứng chỉ Aptech: SQL Server, Logic Building with C, C#, Dream Weaver MX, HTML/DHTML, RH133-RH Linux System Administration, EJB, JAVA BEANS - J2EE, XML Webservices with dotNet, Windows Communication Foundation. 
+---
+Giảng viên thầy Trần Hoàng Việt.
+Học vị: Tiến sĩ. Chức vụ: Phó Bộ phận Phần mềm. Phụ trách: Giảng dạy và hướng dẫn thực tập thực tế. 
+Đã tham gia các khóa đào tạo: Lập trình Web với DHTML và JS, Webservices với ASPX, Lập trình C#,... Năm bắt đầu dạy: 2001.
+---
+Giảng viên thầy Trần Hoàng Việt. 
+Chứng chỉ sư phạm: Kỹ năng giảng dạy chuẩn quốc tế. Chứng chỉ Aptech: C#, Advanced dotNET 2003, Dream Weaver MX, HTML/ DHTML, RH133-RH Limux System Administration. Chứng chỉ khác: Lập và Quản lý dự án CNTT
+---
+Giảng viên thầy Nguyễn Trung Kiên.
+Học vị: Kỹ sư tin học. Tước hiệu: Nghệ sĩ nhiếp ảnh - A.VAPA/A.FIAP. Phụ trách: giảng dạy và hướng dẫn thực tập thực tế. 
+Đã tham gia các khóa đào tạo: Nhiếp ảnh nghệ thuật Căn bản (2011), Nhiếp ảnh nghệ thuật Nâng cao (2014). Năm bắt đầu dạy tại CUSC: 2001. Chứng chỉ sư phạm: Nghiệp vụ sư phạm, Kỹ năng giảng dạy chuẩn quốc tế.  
+Chứng chỉ Aptech: Photoshop & COG; Audio Video; After Effects; Advertising Design Concept; Photography concepts and Lightroom; Digital Maketing and Media concepts.Chứng chỉ khác: Photography and Video Editing Design - Kent (Australia); Chuyên viên Marketing - Trung tâm Đào tạo Luật Kinh tế TP.HCM; Thương mại điện tử - VCCI.
+---
+Giảng viên thầy Võ Duy Anh.
+Học vị: Kỹ sư tin học. Chức vụ: Trưởng nhóm chuyên ngành Đa phương tiện. Phụ trách: giảng dạy và hướng dẫn thực tập thực tế. Đã tham gia các khóa đào tạo: Kỹ năng Giao tiếp và Ứng xử, Đạo diễn và sản xuất phim, Thiết kế phim quảng cáo/hoạt hình. Năm bắt đầu dạy tại CUSC: 2009.  
+Chứng chỉ sư phạm: Nghiệp vụ sư phạm. Chứng chỉ Aptech: Indesign, MediaPublishing-PageMaker, QuarkExp & CDA, Photoshop & COG, Audio Video, Typography & Printing, Modeling & Texturing, 3DS Max. Chứng chỉ khác: Đạo diễn và sản xuất phim.
+---
+Giảng viên cô Lê Thị Minh Loan.
+Học vị: Thạc sĩ. Chức vụ: Phó Bộ môn. Phụ trách: Giảng dạy và hướng dẫn thực tập thực tế. Đã tham gia các khóa đào tạo: Kỹ năng giảng dạy theo chuẩn quốc tế, Kỹ năng làm việc chuyên nghiệp. Năm bắt đầu dạy tại CUSC: 2004. 
+Chứng chỉ sư phạm: Nghiệp vụ sư phạm. Chứng chỉ Aptech: Advance Java, Java Server Page, JSF & Struts, Integrating XML with Java, Enterprice Java Bean, XML, Logic Building with C, XML Web Services with Java, SQL Server.
+---
+Giảng viên  Cô Văn Thị Xuân Hồng. 
+Học vị: Thạc sĩ. Chức vụ: Chánh văn phòng. Năm bắt đầu dạy: 2001. Năm bắt đầu dạy tại CUSC: 2001. Chứng chỉ sư phạm: Nghiệp vụ sư phạm, Kỹ năng giảng dạy chuẩn quốc tế. Chứng chỉ Aptech: Logic building C, SQL Server, XML, UML. Chứng chỉ khác: Kỹ sư cầu nối Nhật Bản – Việt Nam, Scrum Foundation, Lập và QLDA Đầu tư ứng dụng CNTT, Lập dự toán chi phí đầu tư ứng dụng CNTT.
+---
+Giảng viên cô Ông Thị Mỹ Linh. 
+Học vị: Thạc sĩ. Giảng dạy mời giảng. Đã tham gia các khóa đào tạo: Kỹ năng làm việc chuyên nghiệp. Năm bắt đầu dạy: 2005. Năm bắt đầu dạy tại CUSC: 2005. Chứng chỉ sư phạm: Nghiệp vụ sư phạm, Kỹ năng giảng dạy chuẩn quốc tế. Chứng chỉ Aptech: Công nghệ .Net, Logic Building with C, SQL Server, Mobile Applications using Windows Phone, JAVA SE8, PHP, HTML5, Dream Weaver MX.
+---
+Giảng viên thầy Lưu Tiến Đạo.
+Học vị: Tiến sĩ. Giảng viên mời giảng. Đã tham gia các khóa đào tạo: Quản trị mạng với Linux (AUF tổ chức). Xây dựng kế hoạch truyền thông thương hiệu. Xây dựng công cụ đo lường và đánh giá hiệu quả công việc. Năng suất chất lượng.
+Năm bắt đầu dạy tại CUSC: 2001. Chứng chỉ sư phạm: Nghiệp vụ sư phạm, Kỹ năng giảng dạy chuẩn quốc tế. Chứng chỉ Aptech: Logic building C, 347-Big Data, Cloud Computing. Chứng chỉ khác: Bồi dưỡng cán bộ quản lý giáo dục. Microsoft: 70-210
+---
+Giảng viên thầy Trương Xuân Việt. 
+Học vị: Tiến sĩ, Phó Giám đốc, Trưởng Bộ phận Đào tạo. Chuyên môn: Internet Security, Arduino, GIS, Agile/DevOps, Advanced Java, Java Server Page, JSF & Struts. Năm bắt đầu dạy tại CUSC: 2002. Chứng chỉ sư phạm: Nghiệp vụ sư phạm, Kỹ năng giảng dạy chuẩn quốc tế (ibstpi). 
+Chứng chỉ Aptech: J2EE, .NET, Internet Security, C#, VB.net and Winforms 2003, SQL 2K, Unix, Logic Building with C, Dream Weaver MX, XML. Chứng chỉ khác: Kỹ năng quản hoạch định và quản lý công việc (CBA). Khóa đào tạo: Quản trị mạng với Linux (AUF), Trại lập trình (GAMA).
+---
+Giảng viên thầy Lê Hoàng Thảo. 
+Học vị: Thạc sĩ, Giám đốc. Chuyên môn: Chuyển đổi số, CMM software engineering & management, IT Project Planning and Management. Năm bắt đầu dạy: 2000. Năm bắt đầu dạy tại CUSC: 2001. Chứng chỉ sư phạm: Nghiệp vụ sư phạm, Kỹ năng giảng dạy chuẩn quốc tế. 
+Chứng chỉ Aptech: Công nghệ Java, Công nghệ .Net. Chứng chỉ khác: HTML, C++, C#.Net, Software project management, CMM software engineering & management train the trainer, IT Project Planning and Management, Chief Executive Officer. Khóa đào tạo: Quản lý khoa, bộ môn
+---
+Giảng viên thầy Nguyễn Hoàng Việt. 
+Học vị: Thạc sĩ, Giảng viên chính, Cố vấn. Chuyên môn: Network Software Development, Project and Programme Management, SMAC. Năm bắt đầu dạy: 1983. Năm bắt đầu dạy tại CUSC: 2001. Chứng chỉ sư phạm: Nghiệp vụ sư phạm. 
+Chứng chỉ Aptech: Công nghệ mạng. Chứng chỉ khác: Phương pháp luận nghiên cứu khoa học, Quản lý khoa, phòng, bộ môn, Giáo dục Đại học. Khóa đào tạo: Network Software Development, Project and Programme Management, Workshop on Quality Management, Workshop on Student-Centered Education. 
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,36 @@
+Khóa học Thiết kế Web và Lập trình Frontend (Web Design and Front-end Programming)
+---
+Giới thiệu
+Công nghệ thông tin là một trong những động lực quan trọng bậc nhất của sự phát triển, cùng với một số ngành công nghệ cao khác đang làm biến đổi sâu sắc đời sống kinh tế, văn hoá, xã hội của thế giới hiện đại. Đặc biệt tại cơ quan, doanh nghiệp, website đã trở thành một thành phần không thể thiếu, là công cụ hiệu quả để giới thiệu hình ảnh, quảng bá sản phẩm đến với khách hàng, đối tác trong và ngoài nước thông qua Internet, và kinh doanh trực tuyến. Nắm bắt nhu cầu thực tế, Trung tâm Công nghệ Phần mềm Đại học Cần Thơ tổ chức khóa Thiết kế web và lập trình Front-end nhằm cung cấp cho người học đầy đủ kiến thức, kỹ năng và công nghệ mới nhất để thiết kế website với giao diện chuyên nghiệp. Với phương châm đào tào gắn với thực tiễn, chương trình đào tạo được xây dựng và giảng dạy dựa trên dự án thực tế, nội dung được phân bố để hướng người học vận dụng kiến thức giải quyết từng vấn đề đặt ra trong dự án.
+---
+Mục tiêu khóa học:
+Sử dụng HTML5 để tạo một trang web tĩnh.
+Sử dụng CSS3 để định dạng trang web.
+Tích hợp JavaScript và JQuery để xây dựng web tương tác.
+Thiết kế web tương thích đa thiết bị (Responsive Web Design).
+Lập trình front-end với VueJS.
+---
+Điểm mạnh của khóa học
+Khóa học được xây dựng dựa trên nhu cầu thực tế của cơ quan/doanh nghiệp.
+Chương trình đào tạo áp dụng công nghệ tiên tiến đang được triển khai tại các công ty phần mềm trong và ngoài nước.
+Học viên được đào tạo theo hướng dự án. Học viên có thể xây dựng được dự án hoàn chỉnh sau khi kết thúc khóa học.
+Tích lũy được kinh nghiệm làm dự án và có thể vận dụng ngay kiến thức đã học để xây dựng ứng dụng Web cho đơn vị.
+Giảng viên có nhiều kinh nghiệm thực hiện các dự án phần mềm.
+Số lượng sinh viên của lớp học được bố trí không nhiều hơn 24 học viên để đảm bảo phương pháp học tập tích cực.
+---
+Thời gian đào tạo: 42 giờ
+---
+Điều kiện đăng ký: Học viên có kiến thức căn bản về máy tính và Internet
+---
+Nội dung chương trình:
+Thiết kế web và lập trình Front-end
+Giới thiệu dự án
+Cơ bản về HTML5
+Thiết kế biểu mẫu trong HTML5
+Định dạng trang web bằng CSS3
+Sử dụng JavaScript xây dựng web tương tác
+Thiết kế web tương thích đa thiết bị
+Thiết kế giao diện người dùng và trải nghiệm người dùng (User Interface and User Experiment)
+Nền tảng VueJS
+ 
+

@@ -1,0 +1,115 @@
+THIẾT KẾ WEB SÁNG TẠO  (TƯ DUY LẬP TRÌNH)
+
+ĐỐI TƯỢNG: Học sinh THCS và THPT.
+BẰNG CẤP: Học viên sẽ được CUSC cấp chứng nhận hoàn thành khóa học.
+HÌNH THỨC ĐÀO TẠO: Triển khai giảng dạy theo hình thức kết hơp̣ trưc ̣ tiếp (offline) và trưc tuyến (online) trên toàn vùng Đồng bằng Sông Cửu Long.
+MỤC TIÊU: 
+Web là nhóm công nghệ có tính chất đa phương tiện nhất trong nhóm các các dòng công nghệ tiên tiến khác. Bên cạnh năng lực truyền thông, trình bày và xử lý dữ liệu, web còn cho phép tích hợp rất nhiều định dạng hình ảnh, âm thanh và tương tác khác nhau.
+Khóa học hướng tới việc trang bị kiến thức, kỹ năng về Khoa học, Công nghệ, Kỹ thuật, Nghệ thuật và Toán học cho các em học sinh. Trong quá trình học, các em sẽ được rèn luyện tư duy trong lập trình và kỹ năng thiết kế website. Khóa học còn giúp học sinh nâng cao khả năng mô hình hóa các đối tượng, nghiệp vụ trong thực tế vào bài toán cụ thể, từ đó giải quyết các vấn đề thực tế bằng các hệ thống phần mềm. Học sinh sẽ được phát triển kỹ năng tin học hóa để giải quyết các vấn đề thực tế. Điều quan trọng nhất là, khóa học sẽ giúp các em phát triển tư duy, sáng tạo nhằm hỗ trợ tốt quá trình học tập và phát triển của các em. Vấn đề cốt lõi mà các em đạt được trong suốt khóa học là kỹ năng lập trình và thiết kế website, có thể phát triển một website chuyên nghiệp với giao diện đẹp, thu hút cùng những chức năng xử lý hiệu quả, tối ưu.
+Đặc biệt, các đồ án tổng hợp cũng được lồng ghép nhẹ nhàng vào chương trình đào tạo nhằm giúp các em học sinh làm quen với năng lực tham gia các cuộc thi sáng tạo
+ĐIỂM NỔI BẬT:
+- Học viên có điều kiện học trực tuyến các chương trình đào tạo tiên tiến, tiếp cận công bằng với các môi trường hiện đại hơn, ngay cả trong điều kiện hạn chế của địa phương mình.
+- Giáo dục STEAM hướng đến việc trang bị kiến thức đa chiều, kích thích năng lực sáng tạo và tư duy phản biện. Học sinh sẽ dần hình thành năng lực mở rộng vấn đề theo nhiều chiều sâu khác nhau.
+- Học sinh THCS và THPT tham gia các khóa hock tại CUSC STEAM có thể vận dụng tốt kiến thức để tham gia các kỳ thi Tin học trẻ, phần mềm sáng tạo và các cuộc thi sáng tạo khác.
+- Phương pháp học kết hợp giữa lý thuyết và thực hành giúp học viên nắm vững nền tảng kiến thức và vận dụng hiệu quả trong việc rèn luyện tư duy logic để thiết kế web sáng tạo. Giáo viên sẽ hướng dẫn cụ thể và chi tiết cho từng học viên.
+NỘI DUNG CHƯƠNG TRÌNH: Chương trình đươc chia thành 04 CHẶNG (STAGE).
+- STATE 1:
+Station 1.1 (24 giờ): Thiết kế các trang web tĩnh với các thành phần HTML5. Xử lý và định dạng cơ bản các nội dung trên trang web như:
+	Văn bản.
+	Hình ảnh.
+	Đa phương tiện: audio, video.
+	Siêu liên kết.
+	Bảng biểu.
+	Biểu mẫu.
+Station 1.2 (24 giờ)
+Sử dụng CSS3 để định dạng màu sắc, kiểu thể hiện, nền, bố cục, canh lề, ... cho các trang web, giúp tăng tính hấp dẫn, thu hút và chuyên nghiệp cho trang web.
+	Định dạng văn bản (text)
+	Định dạng màu sắc, font.
+	Định dạng nền (background)
+	Định dạng kích thước, đường viền (height, width, border,margin, padding).
+	Định dạng liên kết, danh sách.
+	Định dạng Bảng biểu.
+	Định dạng Biểu mẫu (Form)
+	Các hiệu ứng Animation.
+	Các hiệu ứng Transition.
+Sử dụng các bảng kiểu xếp chồng để định dạng nâng cao, tăng khả năng định dạng cho trang web, giúp trang web chuyên nghiệp hơn
+	Nhiều loại menu đa dạng giúp điều hướng website theo cách tốt nhất.
+	Thiết kế bố cục, phân bố các vùng chứa nội dung trên trang web.
+	Tích hợp các trang web vào web site.
+	Hoàn thiện website.
+-STAGE 2: CHẠY (RUNNING)
+Station 2.1 (24 giờ)
+Xử lý trang web với ngôn ngữ lập trình Javascript
+	Lập trình Javascript cơ bản:
+	Các phương pháp nhúng ngôn ngữ lập trình Javascript vào trang web.
+	Sử dụng biến và các kiểu dữ liệu.
+	Các toán tử.
+	Câu lệnh điều kiện.
+	Vòng lặp.
+	Câu lệnh nhảy trong vòng lặp.
+Station 2.2 (24 giờ)
+Lập trình JavaScript nâng cao
+	Biểu thức quy tắc.
+	Các hàm được xây dựng sẵn về toán học, thời gian,...	
+	Xây dựng hàm.
+	Mảng một chiều.
+	Mảng nhiều chiều.
+	Thiết kế game với JavaScript
+	Vẽ giao diện game.
+	Hiển thị các nội dung trên game.
+	Di chuyển trong game.
+	Xử lý trong game: bắt đầu, đang chơi, kết thúc, tính điểm, lưu điểm, xếp hạng, ..
+- STAGE 3: TĂNG TỐC (ACCELERATING)
+Station 3.1 (24 giờ)
+Lập trình web với PHP cơ bản sử dụng thư viện Bootstrap:
+	Khai báo thư viện Bootstrap trong trang web.
+	Định dạng văn bản.
+	Định dạng hình ảnh.
+	Định dạng bảng.
+	Lưới (Grid).
+	Định dạng Biểu mẫu.
+	Một số thành phần (component): Carousel, Collapse, Dropdown, Modal, ...
+Lập trình với thư viên jQuery: ̣
+	Khai báo thư viện jQuery trong trang web. 
+	Cú pháp jQuery.
+	Các bộ chọn jQuery.
+	Các sự kiện.
+	Các hiệu ứng.
+Station 3.2 (24 giờ)
+Thiết kế trang web web tương thích đa thiết bị
+  	Khái niệm web web tương thích đa thiết bị.
+  	Cấu hình viewport.
+ 	Thiết kế các bảng kiểu với Media Queries.
+  	Định dạng cột/ Grid.
+  	Định dạng văn bản.
+  	Định dạng hình ảnh/video.
+  	Định dạng thanh điều hướng.
+  	Định dạng bố cục.
+  	Thiết kế web web tương thích đa thiết bi ̣với Bootstrap
+- STAGE 4: CẤT CÁNH (FLYING)
+Station 4.1(24 giờ)
+Lập trình web nâng cao
+	Cài đăt và cấu hình.
+	Cú pháp ngôn ngữPHP.	
+	Biến và kiểu dữ liệu.
+	Các toán tử
+	Câu lệnh điều kiện.
+	Vòng lặp.
+	Mảng.
+	Các hàm xây dựng sẵn.
+	Xây dựng hàm
+Tương tác cơ sở dữ liệu với PHP:
+	Xử lý Biểu mẫu (Form)
+	Kiến thức liên quan cơ sở dữ liệu (database, table, record, ...)
+	Thiết kế cơ sở dữ liệu.	
+	Kết nối cơ sở dữ liệu.	
+	Truy vấn dữ liệu cơ bản.	
+	Cập nhật dữ liệu(thêm/sửa/xóa).
+Station 4.2 (24 giờ)
+Lập trình PHP nâng cao:
+	Truy vấn dữ liệu nâng cao: truy vấn từ nhiều bảng, lọc dữ liệu truy vấn, sắp xếp dữ liệu,...
+	Upload / download hình ảnh, tập tin.
+	Gửi Email.
+	Quản lý phiên giao dịch (Session).
+	Quản lý Cookie.
+

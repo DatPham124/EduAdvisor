@@ -1,0 +1,59 @@
+Khóa học Kiểm thử Phần mềm chuyên nghiệp (AGEST Certified Test Professional - ACTP)
+---
+Giới thiệu
+Khóa học Kiểm thử Phần mềm chuyên nghiệp (AGEST Certified Test Professional - ACTP) là chương trình giới thiệu trực quan về kiểm thử phần mềm gray box một cách có hệ thống. Qua khóa học, học viên sẽ nắm bắt được những kỹ thuật và những suy luận được áp dụng trong việc phát triển phần mềm cho khách hàng hoặc cung cấp dịch vụ phát triển và kiểm thử phần mềm cho các công ty khác. Khóa học nhằm mục đích phát triển những kỹ năng kiểm thử thực tế, bao gồm kiểm thử thủ công và kiểm thử tự động, được xây dựng dựa trên yếu tố thực tiễn trong hoạt động sản xuất và phát triển Phần mềm.
+---
+Mục tiêu:
+Học viên tham gia khóa học sẽ được thực tập trên dự án thực tế để rèn luyện sự năng động trong môi trường làm việc chuyên nghiệp. Mỗi học viên đều được trang bị những kỹ năng cần thiết cho một Tester và những kỹ năng mềm (soft skills) thích hợp để có khả năng tiếp tục học hỏi, thích nghi nhanh và thực hành kiểm thử phần mềm trong công việc thực tế.
+---
+Lợi ích khóa học:
+Bạn là sinh viên không chuyên về lĩnh vực CNTT, nhưng có đam mê và mong muốn có 1 cơ hội trong ngành Công Nghệ Thông Tin, bạn có thể lựa chọn nghề Software Testing (Ngành Kiểm Thử Phần Mềm) để phát triển. Đây được xem là một nghề hấp dẫn hiện nay với nhiều cơ hội thăng tiến trong lĩnh vực CNTT.
+Bạn là sinh viên chuyên ngành về CNTT, thì những kỹ năng trong khóa học Kiểm thử Phần mềm chuyên nghiệp sẽ là lợi thế rất lớn trong sự nghiệp phát triển sản phẩm Phần mềm của bạn, nó giúp bạn kiểm soát được những sự cố trong quá trình sản xuất phần mềm và giúp sản phẩm Phầm mềm của bạn được hoàn thiện hơn.
+Chương trình đào tạo được thiết kế riêng nhằm đưa các ứng viên tiềm năng tới cơ hội phát triển sự nghiệp trong ngành kiểm thử phần mềm tại Việt Nam.
+---
+Bằng cấp: Hoàn thành chương trình đào tạo, học viên được cấp chứng nhận “AGEST Certified Test Professional” do AGEST và CUSC cấp.
+---
+Thời gian đào tạo: 108 giờ
+---
+Đặc điểm khóa học:
+Môi trường học tập:
+    Phòng thực hành có đầy đủ thiết bị đáp ứng mục tiêu đào tạo.
+    Lớp học với số lượng tối đa 25 học viên giúp học viên giao tiếp với giáo viên được tốt hơn.
+Sách/Giáo trình
+    Giáo trình đào tạo kiểm thử được cập nhật thường xuyên dựa trên những công nghệ, phương pháp cải tiến, kỹ thuật mới nhất mà chúng tôi nhận được thông qua việc cộng tác với các tổ chức nghiên cứu và phát triển chất lượng phần mềm.
+    Chương trình này được thiết kế bởi AGEST, Nhật Bản, 1 công ty nổi tiếng trong việc đào tạo ngành kiểm thử phần mềm nhằm phục vụ cho nhiều tập đoàn trên toàn thế giới.
+Giảng viên
+    Giảng viên và chuyên viên giàu kinh nghiệm.
+    Giảng viên được đào tạo chuyên sâu và giàu kinh nghiệm với những dự án thực tế.
+Phương pháp
+    CUSC và AGEST phát triển khóa học kiểm thử phần mềm bằng cách kết hợp phương pháp thực hành với các bài giảng đã được nghiên cứu trong suốt nhiều năm.
+    Không chỉ hướng dẫn lý thuyết, CUSC còn tập trung vào các kỹ năng và các bài tập theo những dự án thực tế. Khóa học đào tạo những gì chúng tôi đang làm và cách thức làm như thế nào.
+Cơ hội nghề nghiệp:
+    Sau khi hoàn tất khóa học và với chứng chỉ ACTP, học viên có thể làm việc tại các công ty phần mềm chuyên nghiệp.
+---
+Đối tượng phù hợp: 
+    Sinh viên CNTT có mong muốn rèn luyện kỹ năng tự kiểm thử phần mềm trong quá trình phát triển sản phẩm.
+    Các bạn yêu thích lĩnh vực kiểm thử phần mềm và mong muốn phát triển sự nghiệp với kiểm thử phần mềm.
+---
+Nội dung chương trình:
+Module 1: Kiểm thử phần mềm cơ bản - Manual Testing (54 giờ)
+    Các quy trình phát triển phần mềm và việc kiểm thử phần mềm trong các quy trình đó. 
+    Các giai đoạn và các cột mốc quan trọng của việc kiểm thử trong một quy trình phát triển phần mềm.
+    Những khái niệm căn bản về QA (Quality Assurance), QC (Quality Control), kiểm thử phần mềm. Những nhiệm vụ của nhóm kiểm thử phần mềm
+    Giới thiệu các cách tiếp cận kiểm thử phần mềm: hộp đen, hộp xám và hộp trắng. Giới thiệu yêu cầu kiểm thử (Test Requirement), bản mô tả và bản thiết kế.
+    Các phương pháp kiểm thử thông dụng, trường hợp kiểm thử (Test case). Nắm kỹ thuật thiết kế kiểm thử (Test design).
+    Bug là gì? Cách tìm bug và báo cáo bug như thế nào?
+    Trang bị kỹ năng mềm mà một kiểm tử viên cần phải rèn luyện trong công việc kiểm thử phần mềm.
+Module 2: Kiểm thử tự động phần mềm - Automation testing with TestArchitect (54 giờ)
+    Tổng quan về kiểm thử phần mềm tự động.
+    Thiết kế kiểm thử cho kiểm thử tự động.
+    Tổng quan một dự án kiểm thử phần mềm tự động.
+    Các chức năng căn bản và nâng cao của TestArchitect™.
+    Bài tập mô phỏng thực tế của dự án kiểm thử phần mềm tự động sử dụng TestArchitect™.
+    Các lỗi cơ bản khi chạy tự động và cách khắc phục. Cách phân loại và tổ chức dữ liệu trong TestArchitect™.
+    Những kiến thức cơ bản về kiểm thử phần mềm tự động với Selenium.
+ 
+ 
+ 
+
+
