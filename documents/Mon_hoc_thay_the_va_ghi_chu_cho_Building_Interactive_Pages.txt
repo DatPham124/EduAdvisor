@@ -1,0 +1,1 @@
+Môn học thay thế và ghi chú cho Building Interactive Pages : Môn học "Building Interactive Pages" thuộc chương trình OV-6824 được thay thế bằng môn "Developing Interactive Web Pages" thuộc chương trình OV-6841. Môn thay thế này tương đương và có thêm phần Jquery.

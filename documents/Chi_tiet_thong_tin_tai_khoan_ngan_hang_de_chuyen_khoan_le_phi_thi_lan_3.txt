@@ -1,0 +1,2 @@
+Chi tiết thông tin tài khoản ngân hàng để chuyển khoản lệ phí thi lần 3:
+Thông tin tài khoản nhận chuyển khoản lệ phí thi lần 3 là: Đơn vị Trung tâm Công nghệ Phần mềm Đại học Cần Thơ, địa chỉ 01 Lý Tự Trọng, Ninh Kiều, Cần Thơ. Số tài khoản là 0111000031889, thuộc ngân hàng Vietcombank, chi nhánh Cần Thơ. Khi chuyển khoản, nội dung cần ghi rõ họ tên của sinh viên, mục đích chuyển khoản phí thi lần 3 và tên môn học.

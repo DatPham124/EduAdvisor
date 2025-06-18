@@ -1,0 +1,2 @@
+Hậu quả không làm thủ tục nhập học lại:
+Quá thời gian cho phép tạm dừng mà sinh viên và học viên không làm thủ tục nhập học lại thì xem như bỏ học và kết quả học không được bảo lưu. Trong trường hợp này, Trung tâm sẽ không hoàn lại học phí cho sinh viên và học viên.

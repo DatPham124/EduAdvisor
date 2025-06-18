@@ -1,0 +1,2 @@
+Bảo lưu kết quả thi môn lý thuyết và thực hành:
+Đối với các môn học đòi hỏi thi cả lý thuyết và thực hành, sinh viên và học viên được bảo lưu kết quả của từng phần thi trong ba lần thi. Môn học được coi là đạt khi đạt cả lý thuyết và thực hành.

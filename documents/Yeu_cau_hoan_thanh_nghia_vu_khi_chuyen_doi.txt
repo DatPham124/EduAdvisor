@@ -1,0 +1,2 @@
+Yêu cầu hoàn thành nghĩa vụ khi chuyển đổi:
+Việc chuyển đổi chỉ được tiến hành khi sinh viên và học viên đã hoàn thành nghĩa vụ học phí và kết thúc học kỳ đang học tại Trung tâm.

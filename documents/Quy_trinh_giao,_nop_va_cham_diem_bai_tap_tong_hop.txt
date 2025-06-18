@@ -1,0 +1,1 @@
+Quy trình giao, nộp và chấm điểm bài tập tổng hợp : Giáo viên sẽ giao đề tài bài tập tổng hợp cho sinh viên hoặc nhóm sinh viên để thực hiện tại nhà. Sinh viên sẽ nộp bài làm thông qua trang elearning của trung tâm. Giáo viên cũng sẽ nhận và chấm điểm bài làm của sinh viên qua cùng hệ thống elearning.

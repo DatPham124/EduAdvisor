@@ -30,8 +30,9 @@
 
 - Di chuyển đển thư mục và thực thi file
 ```
-        cd .\model\
-        py .\main.py        
+        cd .\model\ 
+        (set up: pip install dotenv google-generativeai flask)
+        py .\main.py  or py .\app.py      
 ```
 
 ---

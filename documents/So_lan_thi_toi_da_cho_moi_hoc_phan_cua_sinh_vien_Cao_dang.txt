@@ -1,0 +1,1 @@
+Số lần thi tối đa cho mỗi học phần của sinh viên Cao đẳng: Mỗi học phần, sinh viên Cao đẳng được phép thi hai lần, bao gồm một lần thi chính thức và một lần thi lại.

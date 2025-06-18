@@ -1,0 +1,2 @@
+Khởi đầu môn Data Science using R Programming:
+Môn Data Science using R Programming, mã TL01, bắt đầu vào Thứ Ba, ngày 17 tháng 06 năm 2025. Các buổi học tiếp theo là TL02 vào Thứ Năm, ngày 19 tháng 06 năm 2025 và TL03 vào Thứ Bảy, ngày 21 tháng 06 năm 2025.

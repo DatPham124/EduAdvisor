@@ -1,0 +1,1 @@
+Quy trình ghi nhận và lưu trữ kết quả đánh giá môn học : Sau khi kết thúc môn học, giảng viên có trách nhiệm ghi nhận kết quả đánh giá vào bảng điểm của lớp và gửi về bộ phận giáo vụ. Kết quả đánh giá này sẽ được lưu giữ cho cả ba lần thi, áp dụng cho các môn học có tổ chức thi lại.
