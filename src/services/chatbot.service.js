@@ -6,17 +6,17 @@ class ChatbotService {
   }
   async sendMessage(data) {
     try {
-      const response = await this.api.json.post('/send_message', data);
-      return response.data;
+      const response = await this.api.json.post('/chat', data);
+      return response.data.answer;
     } catch (error) {
       console.error(error);
       return [];
     }
   }
 
-  async getMessages(id) {
+  async getUser(id) {
     try {
-      const response = await this.api.json.get(`/get_messages/${id}`);
+      const response = await this.api.json.get(`/get_user/${id}`);
       return response.data;
     } catch (error) {
       console.error(error);

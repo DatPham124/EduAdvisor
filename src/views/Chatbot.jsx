@@ -21,8 +21,8 @@ const Chatbot = () => {
   useEffect(() => {
     const fetchHistory = async () => {
       try {
-        const res = await ChatbotService.getMessages(registerAd._id);
-        setMessages(res.data.messages || []);
+        const res = await ChatbotService.getUser(registerAd._id);
+        setMessages(res.anwser || []);
       } catch (error) {
         console.error('Lỗi lấy lịch sử tin nhắn:', error);
       }
@@ -41,25 +41,58 @@ const Chatbot = () => {
   }, [messages]); // chạy khi có tin nhắn mới
 
   const handleSendMessage = async (e) => {
-    e.preventDefault();
-    if (!input.trim()) return;
+  e.preventDefault();
+  if (!input.trim()) return;
 
-    setIsSending(true);
-    const payload = {
-      user_id: registerAd._id,
-      question: input,
-    };
+  setIsSending(true);
+  const userQuestion = input.trim();
 
-    try {
-      const res = await ChatbotService.sendMessage(payload);
-      setMessages(res.messages || []); //res là toàn bộ message cũ
-      setInput('');
-    } catch (error) {
-      console.error('Lỗi khi gửi tin nhắn:', error);
-    } finally {
-      setIsSending(false);
-    }
+  // Bước 1: hiển thị câu hỏi ngay
+  const tempMessage = {
+    question: userQuestion,
+    anwser: '...', // hoặc để rỗng '', hoặc "Đang trả lời..."
   };
+  const index = messages.length; // vị trí để cập nhật lại sau
+
+  setMessages((prev) => [...prev, tempMessage]);
+  setInput('');
+
+  try {
+    const res = await ChatbotService.sendMessage({
+      user_id: registerAd._id,
+      question: userQuestion,
+    });
+
+    const formattedAnswer = res
+      .replace(/\*{1,2}\s*/g, ' ')
+      .replace(/\n{1,2}/g, '\n')
+      .trim();
+
+    // Bước 2: cập nhật lại phần trả lời cho message vừa thêm
+    setMessages((prev) => {
+      const updated = [...prev];
+      updated[index] = {
+        ...updated[index],
+        anwser: formattedAnswer,
+      };
+      return updated;
+    });
+  } catch (error) {
+    console.error('Lỗi khi gửi tin nhắn:', error);
+    // Có thể cập nhật lỗi
+    setMessages((prev) => {
+      const updated = [...prev];
+      updated[index] = {
+        ...updated[index],
+        anwser: '⚠️ Lỗi khi nhận phản hồi từ hệ thống.',
+      };
+      return updated;
+    });
+  } finally {
+    setIsSending(false);
+  }
+};
+
 
   const speakText = (text) => {
     if (window.responsiveVoice) {
@@ -115,14 +148,6 @@ const Chatbot = () => {
       }
     };
 
-    // recognition.onresult = (event) => {
-    //   let transcript = '';
-    //   for (let i = event.resultIndex; i < event.results.length; i++) {
-    //     transcript += event.results[i][0].transcript; //event.result là mảng phương án khác nhau mà hệ thống nghĩ người dùng có thể đã nói, được sắp xếp theo độ tin cậy.
-    //   }
-    //   setInput(transcript);
-    // };
-
     recognition.onerror = (event) => {
       console.error('Lỗi nhận dạng giọng nói:', event.error);
       setIsRecording(false);
@@ -174,7 +199,7 @@ const Chatbot = () => {
                   </div>
                   <div className="flex justify-start">
                     <div className="px-4 py-2 my-2 rounded-xl shadow max-w-[80%] break-words whitespace-pre-wrap bg-white text-black rounded-br-none">
-                      <p>{msg.anwser}</p>
+<p>{msg.anwser === '...' ? <span className="animate-pulse">Đang phản hồi...</span> : msg.anwser}</p>
                     </div>
                     <div className="ms-4"></div>
                     <button
@@ -223,13 +248,13 @@ const Chatbot = () => {
                 type="submit"
                 disabled={isSending || !input.trim()}
                 className={`inline-block px-4 rounded-md rounded-s-none text-center text-lg/none 
-                  ${isSending ? 'bg-gray-400 cursor-not-allowed' : 'bg-primary hover:bg-primary-light-10 dark:hover:bg-primary-dark-10'} 
+                  ${isSending ? 'bg-primary cursor-not-allowed' : 'bg-primary hover:bg-primary-light-10 dark:hover:bg-primary-dark-10'} 
                   text-primary-color focus:outline-none transition`}
               >
                 {isSending ? (
-                  <span className="animate-pulse text-black">Đang gửi...</span>
+                  <span className="animate-pulse text-black ">Đang gửi...</span>
                 ) : isRecording ? (
-                  <span className="animate-pulse text-black">
+                  <span className="animate-pulse text-black ">
                     Đang ghi âm...
                   </span>
                 ) : (
