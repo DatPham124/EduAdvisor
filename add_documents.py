@@ -6,7 +6,7 @@ from bson.objectid import ObjectId
 client = MongoClient("mongodb://localhost:27017/")
 
 # Chọn database và collection
-db = client["eduadvisor"]  # ← Thay bằng tên database thật của bạn
+db = client["eduadvisor"] 
 collection = db["documents"]
 
 # Xóa toàn bộ documents cũ trong collection
