@@ -34,7 +34,10 @@
         (set up: pip install dotenv google-generativeai flask)
         py .\main.py  or py .\app.py      
 ```
-
+**Thêm documents vào mongoDB
+        setup:
+        pip install pymongo
+        run: py add_documents.py
 ---
 
 # TO DO LIST

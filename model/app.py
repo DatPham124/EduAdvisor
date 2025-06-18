@@ -1,6 +1,7 @@
 # app.py
 import os
 import dotenv
+from pymongo import MongoClient
 from flask import Flask, request, jsonify
 import google.generativeai as genai
 
@@ -8,6 +9,12 @@ import google.generativeai as genai
 dotenv.load_dotenv()
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 gemini_model = genai.GenerativeModel(model_name="gemini-2.0-flash")
+
+# Kết nối MongoDB 
+client = MongoClient("mongodb://localhost:27017/")
+db = client["eduadvisor"] 
+collection = db["documents"]
+
 
 app = Flask(__name__)
 
@@ -30,9 +37,11 @@ def find_intent(question):
     return response.text.strip()
 
 def get_data_from_intent(intent):
-    data_file = f"../documents/{intent}.txt"
-    with open(data_file, "r", encoding="utf-8") as file:
-        return file.read()
+    document = collection.find_one({"_intent": intent})
+    if document:
+        return document["content"]
+    else:
+        return None  
 
 def find_faq(question, faq_content):
     prompt = f"""
