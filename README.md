@@ -4,6 +4,7 @@
 
 #### *Đề xuất dùng Python từ version 3.8 trở lên. Hiện dự án đang dùng Python 3.8*  
 
+
 **Bước 1: Chuẩn bị môi trường để thực thi**
 
 
@@ -34,24 +35,32 @@
         (set up: pip install dotenv google-generativeai flask)
         py .\main.py  or py .\app.py      
 ```
-**Thêm documents vào mongoDB
-        setup:
+**Thêm documents vào mongoDB**
+```
         pip install pymongo
-        run: py add_documents.py
+        py add_documents.py
+```
 ---
 
-# TO DO LIST
-> *Dữ liệu nếu đã xử lý xong vui lòng ~~**gạch ngang**~~*  
-> *Model nào hiện không dùng thì ~~**gạch ngang**~~*
+# TO DO LIST  
 
-| A. DỮ LIỆU                 | B. MODEL         |
-|-------------------------------|------------------|
-| **Khóa học APTECH**           |**Gemini 2.0**    |
-| **Khóa học ARENA**            |~~*RASA*~~        |
-| **Khóa học ACNPro**           |~~*Qdrant*~~      |
-| **Khóa đào tạo theo yêu cầu** |                  |
-| ~~*Khóa học ngắn hạn*~~       |                  |
-| ~~*Về CUSC*~~                 |                  |
-| ~~*Tuyển sinh*~~              |                  |
-| ~~*Giảng viên*~~              |                  |
+✅ **ĐÃ HOÀN THÀNH:** 
+1. Lưu cache cuộc hội thoại 
+
+❗ **ĐANG XỬ LÝ:** 
+1. Lưu LOG Q&A:  
+        Dữ liệu sẽ mở rộng rất lớn, chưa tối ưu được  
+        Gemini giới hạn token nên không thể gửi hết được  
+        Không cập nhật được các câu trả lời của quá khứ  
+        ...
+
+---
+# BẢNG CÁC DỮ LIỆU CHƯA LÀM SẠCH
+
+|  DATA                         | DONE|
+|-------------------------------|-----|
+| **Khóa học APTECH**           |☐|
+| **Khóa học ARENA**            |☐|
+| **Khóa học ACNPro**           |☐|
+| **Khóa đào tạo theo yêu cầu** |☐|
 
