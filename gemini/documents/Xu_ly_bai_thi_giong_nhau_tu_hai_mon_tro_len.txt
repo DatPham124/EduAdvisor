@@ -1,0 +1,2 @@
+Xử lý bài thi giống nhau từ hai môn trở lên:
+Khi phát hiện bài thi giống nhau toàn bộ hoặc một phần từ hai môn thi trở lên, kết quả thi của cả chương trình đang theo học sẽ bị hủy bỏ.

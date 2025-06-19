@@ -1,0 +1,1 @@
+Hoàn thành Project-Analyzing Data và báo cáo: Từ Tuần 27 đến Tuần 28, tức từ 05/08/2024 đến 17/08/2024, các buổi Project-Analyzing Data with R tiếp tục vào Thứ Ba (TL05, TL07) và Thứ Bảy (TL06, TL08). Tuần 29, từ 19/08/2024 đến 24/08/2024, kết thúc với buổi Báo cáo vào Thứ Bảy. Các ngày còn lại trong các tuần này là làm việc nhóm.

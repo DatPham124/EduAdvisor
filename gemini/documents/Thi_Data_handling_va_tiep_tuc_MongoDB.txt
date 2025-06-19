@@ -1,0 +1,1 @@
+Thi Data handling và tiếp tục MongoDB: Tuần 6, từ 11/03/2024 đến 16/03/2024, có buổi Thi Data handling using T-SQL vào Thứ Năm. Các buổi học Managing Large datasets with MongoDB diễn ra vào Thứ Ba (TL02) và Thứ Bảy (TL03).

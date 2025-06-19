@@ -1,0 +1,2 @@
+Xử lý can thiệp vào bài làm sau khi nộp:
+Thí sinh can thiệp, sửa chữa, thêm, bớt vào bài làm sau khi đã nộp bài sẽ bị hủy bỏ kết quả thi của cả chương trình đang theo học.

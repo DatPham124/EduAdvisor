@@ -1,0 +1,1 @@
+Bắt đầu Inferential Statistical Analysis và buổi bù MongoDB: Tuần 12, từ 08/04/2024 đến 13/04/2024, có buổi dạy bù Managing Large datasets with MongoDB vào Thứ Ba. Học phần Inferential Statistical Analysis bắt đầu vào Thứ Năm (TL01) và Thứ Bảy (TL02).

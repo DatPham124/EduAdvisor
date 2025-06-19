@@ -1,0 +1,34 @@
+PHÁT TRIỂN TƯ DUY VỚI LẬP TRÌNH ARDUINO - SCRATCH (MẠCH ĐIỀU KHIỂN)
+
+Hoàn thiện một mô hình điều khiển là tiếp cận gần đầy đủ tất cả các khía cạnh trong giáo dục STEAM. Khóa học này giúp học sinh trải nghiệm các kiến thức và kỹ năng cả về phần cứng lẫn phần mềm. Với các bài thí nghiệm từ đơn giản đến phức tạp, học sinh sẽ có tư duy toàn diện hơn trong việc tiếp cận cuộc sống với sự hiện diện ngày càng nhiều các thiết bị tự động và thông minh.
+ĐỐI TƯỢNG: Học sinh Trung học Cơ sở (THCS) và Trung học Phổ thông (THPT)
+BẰNG CẤP:Học viên được cấp giấy chứng nhận hoàn thành khóa học do CUSC cấp.
+HÌNH THỨC ĐÀO TẠO: Kết hợp giữa học trực tiếp (offline) và học trực tuyến (online) trên toàn vùng Đồng bằng Sông Cửu Long.
+MỤC TIÊU KHÓA HỌC
+- Scratch là phần mềm hỗ trợ triển khai hệ thống giáo dục STEAM một cách đơn giản và hiệu quả, giúp học sinh phát triển tư duy sáng tạo thông qua việc tạo ra các ứng dụng thực tế.
+- Scratch còn hỗ trợ giáo viên minh họa bài giảng sinh động và trực quan hơn.
+- Khóa học cung cấp kiến thức cơ bản về: Hệ thống IoT, lập trình nhúng, mạch điều khiển Arduino và ứng dụng thực tế.Học viên được học nguyên lý thiết kế, lắp đặt và lập trình các module điện tử qua Arduino để tạo ra sản phẩm thực tế.
+ĐIỂM NỔI BẬT
+- Học viên được tiếp cận chương trình đào tạo tiên tiến dù ở vùng điều kiện hạn chế.
+- Giáo dục STEAM giúp học sinh phát triển tư duy phản biện, khả năng sáng tạo, mở rộng vấn đề theo chiều sâu.
+- Học sinh có thể tham gia kỳ thi Tin học trẻ, các cuộc thi phần mềm sáng tạo sau khi học.
+- Phương pháp học lý thuyết kết hợp thực hành giúp học viên nắm vững nền tảng, rèn tư duy logic, lập trình Python.
+- Giáo viên hướng dẫn chi tiết từng học viên.
+NỘI DUNG CHƯƠNG TRÌNH: Chương trình gồm 01 chặng (STAGE):
+- STAGE 1
+Station 1.1 – Scratch + Arduino cơ bản (24 giờ):
+	Giới thiệu cơ bản về Arduino
+	Cài đặt môi trường Scratch – Arduino
+	Lập trình cơ bản với Scratch
+	Làm quen với Arduino và các cảm biến
+	Cách lắp mạch Arduino với cảm biến
+	Kiểu dữ liệu và ý nghĩa của chúng
+	Làm quen với câu lệnh điều kiện và vòng lặp
+	Dự án Scratch: Điều khiển đèn LED quảng cáo, đèn giao thông, Hệ thống theo dõi và điều khiển môi trường tự động
+Station 1.2 – Arduino nâng cao (24 giờ):
+	Lập trình cơ bản Arduino
+	Sử dụng kiểu dữ liệu, biến, lệnh điều kiện, vòng lặp
+	Điều khiển đèn LED và cảm biến
+	Gửi và nhận dữ liệu qua cổng Serial
+	Giao tiếp với LCD, Servo Motor
+	Dự án ứng dụng thực tế: Nhà thông minh, Xe dò line, xe điều khiển Bluetooth, Thùng rác thông minh, Hệ thống nuôi thủy – hải sản tự độngHệ thống phơi quần áo tự động

@@ -1,0 +1,45 @@
+Khóa học An toàn, An ninh thông tin hay Hacker mũ trắng (CCEH - CUSC Certified Ethical Hacker) 
+---
+Giới thiệu.
+Chương trình An toàn, an ninh thông tin (Hacker mũ trắng) dùng những kỹ năng của hacker để chống hacker, với những kỹ thuật tấn công như: dò quét hệ thống; nghe lén; tấn công từ chối dịch vụ; tấn công máy chủ website; trộm mật khẩu, bẻ khóa mật khẩu; tấn công bằng tạo Virus; tấn công bằng SQL Injection; tấn công mạng không dây. Từ đó làm cơ sở triển khai các giải pháp phòng chống và phục hồi hệ thống sau khi bị tấn công.
+---
+Mục tiêu khóa học.
+Có thể nhận diện, xác định nguyên nhân, cách thức xâm nhập trái phép hệ thống mạng doanh nghiệp để từ đó đánh giá toàn diện nhất về tình hình an toàn an ninh hệ thống của tổ chức/doanh nghiệp.
+Khai thác lỗ hổng bảo mật cho hệ thống mạng doanh nghiệp và gia cố bảo mật.
+Có đủ kiến thức chuyên môn để thi lấy chứng chỉ quốc tế của CEH hoặc Security+.
+---
+Điểm mạnh của khóa học
+Khóa học được xây dựng dựa trên nhu cầu thực tế của cơ quan/doanh nghiệp.
+Học viên được học và thực hành dựa trên các tình huống thật để tích lũy được kinh nghiệm thực tế.
+Có đủ kiến thức chuyên môn để thi lấy chứng chỉ bảo mật quốc tế của CEH (EC-Council) hoặc Security+ (CompTIA).
+100% thời gian học trực tiếp trên phong Lab hiện đại.
+Giảng viên có kinh nghiệm trong quản trị và đảm bảo an ninh của hệ thống mạng.
+Số lượng sinh viên của lớp học được bố trí không nhiều hơn 30 học viên để đảm bảo phương pháp học tập tích cực.
+---
+Thời gian đào tạo: 84 giờ
+---
+Điều kiện đăng ký: Học viên đã kiến thức về tin học.
+---
+Nội dung chương trình
+Chương 01: Tổng quan về bảo mật
+Chương 02: Thăm dò - Footprinting
+Chương 03: Quét hệ thống - Scanning
+Chương 04: Tấn công liệt kê - Enumeration
+Chương 05: Tấn công hệ thống - System Hacking
+Chương 06: Trojans và Backdoors
+Chương 07: Viruses và Worms
+Chương 08: Kỹ thuật đánh lừa - Social Engineering
+Chương 09: Chiếm phiên làm việc - Session Hijacking
+Chương 10: Nghe lén - Sniffer
+Chương 11: Tấn công từ chối dịch vụ - Denial Service
+Chương 12: Tấn công Web Server
+Chương 13: Tấn công Ứng dụng Web
+Chương 14: Tấn công cơ sở dữ liệu/
+Chương 15: Tấn công mạng không dây
+Chương 16: Hệ thống phát hiện xâm nhập trái phép và Tường lửa
+Chương 17: Xây dựng hệ thống đánh lừa xâm nhập trái phép
+Chương 18: Tấn công mã hóa
+Chương 19: Tấn công tràn bộ đệm
+Đồ án cuối khóa   
+
+

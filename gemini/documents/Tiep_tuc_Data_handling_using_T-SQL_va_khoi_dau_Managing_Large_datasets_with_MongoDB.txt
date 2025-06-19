@@ -1,0 +1,2 @@
+Tiếp tục Data handling using T-SQL và khởi đầu Managing Large datasets with MongoDB:
+Các buổi học Data handling using T-SQL tiếp tục với mã TL05 vào Thứ Ba, ngày 04 tháng 03 năm 2025 và TL06 vào Thứ Năm, ngày 06 tháng 03 năm 2025, từ 18:00 đến 19:00. Môn Managing Large datasets with MongoDB, mã TL01, bắt đầu vào Thứ Bảy, ngày 08 tháng 03 năm 2025.

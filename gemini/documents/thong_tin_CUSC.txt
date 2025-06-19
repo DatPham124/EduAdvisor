@@ -1,0 +1,69 @@
+Giới thiệu về CUSC. 
+Thành lập từ tháng 03/2001 theo Quyết định số 1574/QĐ-BGD&ĐT-TCCB, Trung tâm Công nghệ phần mềm Trường Đại học Cần Thơ là Trung tâm phần mềm đầu tiên trong khu vực Đồng bằng sông Cửu Long, ra đời nhằm đáp ứng nhu cầu đào tạo lập trình viên chuyên nghiệp, phát triển phần mềm và ứng dụng Công nghệ thông tin vào mọi mặt của đời sống xã hội.
+Các hoạt động của trung tâm tuân thủ Tiêu chuẩn Quốc tế ISO 9001:2015, ISO 27001:2022, nhằm đảm bảo chất lượng đạt chuẩn của quốc gia và mang tầm quốc tế. Tên tiếng Việt: Trung tâm Công nghệ phần mềm Trường Đại học Cần Thơ
+Tên tiếng Anh: CanTho University Software Center (CUSC). Phương châm: “Chất lượng là hàng đầu”
+Năm 2001: Thành lập theo Quyết định số 1574/QĐ-BGD&ĐT-TCCB ngày 29 tháng 3 năm 2001 của Bộ Giáo dục và Đào tạo. Triển khai đào tạo Lập trình viên Quốc tế, hợp tác với Aptech, Ấn Độ. Giới thiệu CUSC, lịch sử phát triển CUSC 
+Năm 2002: Chính thức là thành viên của Hiệp hội phần mềm và dịch vụ CNTT Việt Nam VINASA.
+Năm 2006: Đặt nền tảng đầu tiên cho gia công phần mềm: Hợp tác với Công ty Mankichi Software và Kobe Digital Labo, Nhật Bản. Năm 2009: Đạt chứng nhận hệ thống quản lý chất lượng theo chuẩn ISO 9001:2008.Trở thành đối tác vàng của Microsoft (Microsoft Gold Certified Partner). Hợp tác với Prometric thành lập trung tâm khảo thí các chứng chỉ CNTT quốc tế (Microsoft, Sun Microsystems, IBM, Oracle,…).
+Năm 2011: Triển khai đào tạo Mỹ thuật Đa phương tiện Quốc tế Arena, hợp tác với Aptech, Ấn Độ. 
+Năm 2017-2018:Nâng cấp và đạt chứng nhận ISO 9001:2015 cho Hệ thống quản lý chất lượng CUSC. Hợp tác với LogiGear triển khai khóa Kiểm thử phần mềm. Triển khai thành công Cổng DVC trực tuyến, phần mềm. Một cửa điện tử theo khung Chính quyền điện tử tại tỉnh Cà Mau, Sóc Trăng.
+Năm 2021-2022: Triển khai Hệ thống ISO điện tử tại tỉnh Quảng Ninh trên phạm vi toàn tỉnh với 227 đơn vị. Triển khai app mobile Sinh viên, Giảng viên Trường Đại học Cần Thơ. 
+Năm 2023: Đạt chứng nhận ISO 27001:2022 về Hệ thống Quản lý An toàn Thông tin.
+---
+Chức năng, nhiệm vụ của CUSC.
+Đào tạo nhân lực Công nghệ thông tin: Tổ chức huấn luyện và đào tạo liên quan đến công nghiệp phần mềm. Hợp tác với các cơ sở đào tạo trong nước và nước ngoài trong việc đào tạo về công nghiệp phần mềm. 
+Sản xuất và Gia công phần mềm: Phát triển phần mềm chuyên dụng cho khách hàng, hỗ trợ kỹ thuật, huấn luyện, quản lý, cài đặt, nâng cấp, bảo dưỡng, bảo trì các hệ thống công nghệ thông tin. Gia công phần mềm cho các đơn vị sản xuất phần mềm trong và ngoài nước.
+Tư vấn các dự án Công nghệ thông tin:  vấn các giải pháp phần mềm, giải pháp tích hợp phần cứng và phần mềm trong các dự án công nghệ thông tin
+---
+Giá trị cốt lõi của CUSC.
+Chính trực: Chúng tôi cam kết tạo dựng quan hệ tốt, lâu dài với khách hàng và đối tác. Xây dựng niềm tin bằng sự chân thật qua lời nói và việc làm. 
+Sự hài lòng của khách hàng: Chúng tôi luôn lắng nghe và đặt yêu cầu của khách hàng lên hàng đầu, luôn theo đuổi các tiêu chuẩn cao nhất nhằm cung cấp, chuyển giao sản phẩm và dịch vụ đúng hạn với chất lượng tốt nhất.
+Phát triển nhân viên: Chúng tôi cam kết tạo dựng môi trường làm việc chuyên nghiệp, đồng tâm hiệp lực, phát hiện và bồi dưỡng nguồn nhân lực thông qua các hoạt động chuyên môn cao và các khóa đào tạo trong và ngoài nước. 
+Cải tiến: Chúng tôi luôn tin tưởng có phương cách tốt hơn để giải quyết vấn đề. Ở CUSC không chỉ có công nghệ mà còn ý tưởng mới, dịch vụ mới để làm cho mọi việc tốt hơn. Chúng tôi không chỉ đáp ứng yêu cầu mà làm tốt nhất có thể để vượt sự mong đợi của khách hàng.
+---
+Triết lý kinh doanh của CUSC.
+Triết lý kinh doanh của chúng tôi: “Hợp tác cùng phát triển với Niềm tin - Đam mê - Trách nhiệm.”
+---
+Tầm nhìn của CUSC.
+Tầm nhìn của chúng tôi: “Trở thành một đơn vị xuất sắc của ngành Công nghiệp phần mềm Việt Nam, đáp ứng nhu cầu của thị trường trong nước và quốc tế”
+---
+Sứ mệnh của CUSC
+Ngay từ khi thành lập, CUSC đã xác định cho mình sứ mệnh: “Xây dựng một môi trường năng động, sáng tạo vì sự phát triển nền công nghiệp phần mềm và dịch vụ công nghệ thông tin vùng Đồng bằng sông Cửu Long và Việt Nam”
+---
+Khẩu hiệu của CUSC
+Khẩu hiệu của chúng tôi: "Chất lượng là hàng đầu"
+---
+Giải thưởng và thành tựu của CUSC.
+2001: Đại học Cần Thơ ký kết với Aptech thành lập Trung tâm Đào tạo Lập trình viên Quốc tế MeKong Delta - Aptech. 
+2002: MeKong Delta - Aptech khai giảng khóa đầu tiên đào tạo Kỹ thuật viên Quốc tế với 96 sinh viên. 
+2005: Triển khai chương trình Quản trị mạng ACNA – khoá học thứ hai được Việt hoá. 2008: Hợp tác với Prometric thành lập trung tâm khảo thí chứng chỉ CNTT quốc tế đầu tiên tại ĐBSCL. 
+2009: Xây dựng chương trình đào tạo Quản trị mạng thương hiệu riêng – i10 và Chuyên gia QTM Cao cấp. 2011: Được phép đào tạo hệ Cao đẳng CNTT chính quy với 2 chuyên ngành: Kỹ thuật phần mềm và Công nghệ Đa phương tiện. 
+2012: Nhận giải thưởng “Đơn vị đào tạo xuất sắc nhất” của Tập đoàn Aptech tại Aptech World Leadership Summit. 
+2014: Danh hiệu Sao Khuê 4 sao cho dịch vụ đào tạo CNTT, Nhận 2 giải thưởng từ Aptech: “Đơn vị đào tạo xuất sắc” và “Đơn vị đạt chất lượng đào tạo xuất sắc nhất”. 
+2015: Vinh danh Top 40 doanh nghiệp CNTT hàng đầu Việt Nam. Nhận VNITO Award – Doanh nghiệp triển vọng trong lĩnh vực Outsourcing. Sao Khuê cho: Dịch vụ đào tạo kỹ năng ứng dụng CNTT trong đổi mới phương pháp giảng dạy & an toàn thông tin. Hệ thống thông tin tổng hợp báo cáo chỉ tiêu kinh tế - xã hội (CUSC-SEDP).
+2016: Quality Excellence Award do Aptech trao tặng, Sao Khuê cho sản phẩm phần mềm tiêu biểu ISO điện tử (CUSC-ISOO). 
+2017: Sao Khuê: Dịch vụ đào tạo và chuẩn hóa năng lực CNTT.
+2022: Top 10 Doanh nghiệp CNTT Việt Nam, Top 10 Doanh nghiệp Cung cấp Giải pháp Chính phủ số Việt Nam.
+---
+Giới thiệu về tổ chức nhân sự của CUSC. 
+Với nhân sự ban đầu là 07 kỹ sư tin học vào năm 2001, đến nay CUSC đã có hơn 100 nhân viên là cán bộ giảng dạy và lập trình viên chuyên nghiệp. Đội ngũ nhân sự của Trung tâm không ngừng nâng cao trình độ với các tiến sĩ, thạc sĩ chuyên ngành tốt nghiệp trong và ngoài nước như Pháp, Bỉ, Thái Lan, Hà Lan, Hàn Quốc,… 
+Hàng năm, Trung tâm đều có kế hoạch đào tạo nâng cao trình độ chuyên môn nhằm cập nhật những công nghệ mới, hiện đại nhất so với sự phát triển công nghệ thông tin trên toàn cầu. Ngoài ra, các dự án phần mềm, hoạt động đào tạo và nghiên cứu phát triển tại Trung tâm luôn có sự hỗ trợ đắc lực từ nguồn nhân lực của Khoa Công nghệ Thông tin & Truyền thông Trường Đại học Cần Thơ. 
+CUSC với đội ngũ nhân sự trẻ, năng động và sáng tạo, luôn có khát vọng làm chủ công nghệ mới và cung cấp những sản phẩm, dịch vụ đáp ứng sự mong đợi của khách hàng.
+---
+Tổ chức nhân sự về Ban giám đốc. 
+Giám đốc Trung tâm: Lê Hoàng Thảo. Phó giám đốc: Trần Hoàng Việt. Phó giám đốc: Trương Xuân Việt
+---
+Sơ đồ tổ chức nhân sự.
+Ban Giám đốc
+Văn phòng trung tâm Phòng Nghiên cứu và phát triển 
+Phòng Quản trị chất lượng
+Bộ phận đào tạo
+Phòng Quản trị và An ninh mạng
+Bộ phận phần mềm
+---
+Trình đội ngũ tổ chức nhân sự, trình độ giảng viên
+Đại học: 70.2%
+Cao Đẳng: 14.5%
+Thạc sĩ: 11.3%
+Tiến sĩ: 3.5%
+Khác: 1.5%

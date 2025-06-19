@@ -1,0 +1,86 @@
+Khóa học Nhiếp ảnh số và Xử lý ảnh 
+---
+Giới thiệu khóa học
+Vai trò của máy ảnh từ xưa đến nay là lưu lại khoảnh khắc còn việc làm sao để có được bức ảnh đẹp hay không bị lỗi là còn phụ thuộc vào các yếu tố kỹ năng và tư duy sáng tạo của người chụp.
+Khóa học Nhiếp ảnh số và Xử lý ảnh hậu kỳ sẽ trang bị cho học viên những kiến thức nền tảng về khẩu, tốc, ISO và những thông số khác để tạo nên một bức ảnh hoàn chỉnh đặc biệt sử dụng các công cụ xử lý ảnh hậu kỳ: phần mềm Adobe Photoshop, ghép ảnh, chỉnh sửa ảnh,…để tạo nên bức ảnh đầy nghệ thuật.
+---
+Bằng cấp: chứng nhận hoàn thành khóa học Nhiếp ảnh số và Xử lý ảnh hậu kỳ do trung tâm Công nghệ Phần mềm Đại học Cần Thơ (CUSC) cấp.
+---
+Đặc điểm nổi bật:
+Kỹ năng đạt được:
+Trở thành một nhiếp ảnh gia có đầy đủ tố chất, kỹ năng, kiến thức và sáng tạo về kỹ thuật chụp ảnh và xử lý ảnh hậu kỳ
+Chụp ảnh cho sự kiện, theo yêu cầu của khách hàng
+Phương pháp đào tạo theo hướng dự án:
+Học viên có được những trải nghiệm thực tiễn với dự án thực tế trong suốt quá trình học
+Cuối khóa, học viên sẽ hoàn thành dự án của mình
+Chất lượng giảng dạy:
+Giảng viên đã và đang thực hiện các dự án thực tiễn nên giàu kinh nghiệm chụp ảnh và kỹ năng xử ảnh hậu kỳ
+---
+Đối tượng tham dự: Học viên đam mê chụp ảnh
+---
+Thời lượng khóa học: 48 giờ
+Module 1 – Nhiếp ảnh số: 24 giờ
+Module 2 – Xử lý ảnh hậu kỳ: 24 giờ
+---
+Chương trình đào tạo
+Module 1: Nhiếp ảnh số
+Chương 1: Lịch sử về nhiếp ảnh
+Chương 2: Kỹ thuật chụp ảnh
+Các yếu tố tạo độ sâu trường ảnh (Depth of Field - DOF)
+Các yếu tố cấu thành thời chụp (Tam giác phơi sáng)
+Các thành phần khác của máy ảnh
+Chương 3: Các chế độ chụp ảnh
+Các chế độ tự động thông minh (Auto).
+Các chế độ chụp bán tự động và thủ công (Manual).
+Các cài đặt khác liên quan (Setting)
+Chương 4: Ánh sáng và bố cục trong nhiếp ảnh
+Nguồn ánh sáng.
+Chọn đề tài.
+Bố cục trong nhiếp ảnh.
+Chương 5: Các thể loại ảnh nghệ thuật
+Những khái niệm cơ bản về thể loại
+Các loại ảnh nghệ thuật
+Bài thực hành cuối khóa
+Học viên thực hành chụp ảnh và triển lãm ảnh báo cáo
+Module 2: Xử lý ảnh hậu kỳ
+Chương 1: Giới thiệu về phần mềm Adobe Photoshop
+Giao diện
+Các lệnh thường dùng.
+Quản lý Layer.
+Phân biệt màu RGB và CMYK.
+Tạo vùng chọn.
+Thực hành
+Làm việc với vùng chọn.
+Làm việc với màu sắc.
+Quản lý các Layer.
+Chương 2: Quy trình xử lý ảnh
+Phân biệt file ảnh JPG và RAW
+Các công cụ hữu ích trên Camera RAW
+Các bước xử lý một tác phẩm ảnh.
+Thực hành
+Các thao tác xử lý ảnh trên Camera RAW
+Thực hiện quy trình xử lý ảnh trên tác phẩm thực tế.
+Chương 3: Sáng tạo ảnh nghệ thuật 
+Kỹ thuật nhân bản
+Nghệ thuật ghép ảnh
+Tạo ảnh Panorama, HDR
+Phục hồi ảnh cũ
+Công cụ Liquify
+Các hiệu ứng ảnh nghệ thuật
+Thực hành
+Thực hành chỉnh sửa ảnh
+Kỹ thuật ghép ảnh
+Tạo ảnh Panorama, HDR
+Thực hành
+Chỉnh sửa ảnh cũ
+Chỉnh sửa ảnh chân dung với Liquify
+Các hiệu ứng ảnh nghệ thuật nâng cao
+Chương 4: Tạo album ảnh
+Quy cách và bố cục
+Trình bày bìa album
+Các kỹ thuật in ấn
+Thực hành
+Tạo album ảnh
+Bài thực hành cuối khóa
+Tạo album ảnh cá nhân
+
