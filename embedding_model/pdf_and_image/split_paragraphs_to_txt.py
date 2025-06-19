@@ -4,11 +4,23 @@ import dotenv
 from google import genai
 from google.genai import types
 from unidecode import unidecode
+import sys
+import subprocess
+
+import filetype
+
+if sys.platform == "win32":
+    try:
+        import win32com
+    except ImportError:
+        print("win32com chưa được cài, tiến hành cài đặt...")
+        subprocess.check_call([sys.executable, "-m", "pip", "install", "pywin32"])
+
+
 
 api_key = dotenv.get_key(dotenv.find_dotenv(), "GEMINI_API_KEY")
 client = genai.Client(api_key=api_key)
 
-# Thư mục chứa các file PDF
 input_dir = "input_pdfs"
 output_root = "output_data"
 os.makedirs(output_root, exist_ok=True)
@@ -58,13 +70,13 @@ Tránh từ ngữ mơ hồ, dư thừa, trùng lặp.
 
 Định dạng đầu ra:
 
-Đầu file sẽ là tên thư mục có liên quan đến nội dung không kèm theo định dạng 
+Đầu file sẽ là tên thư mục có liên quan đến nội dung không kèm theo định dạng, tên thư mục không được quá dài 
 
 Đoạn văn sẽ không có tiêu đề
 
 Mỗi đoạn sẽ cách nhau bằng cách xuống dòng 
 
-Trước mỗi đoạn văn sẽ là câu mô tả nội dung cho cả đoạn, phù hợp với việc vector hóa, câu mô tả sẽ phân biệt với nội dung bằng dấu :
+Trước mỗi đoạn văn sẽ là câu mô tả nội dung cho cả đoạn, phù hợp với việc vector hóa, không được quá dài, không quá chi tiết,câu mô tả sẽ phân biệt với nội dung bằng dấu :
 
 Không đưa lại bất kỳ phần nào đã yêu cầu loại bỏ.
 
@@ -73,54 +85,106 @@ Không thêm phần mở đầu, kết luận, hoặc giải thích ngoài nội
 Chú ý hạn chế viết tắt như HS-SV là học sinh-sinh viên
 
 Chỉ xuất kết quả theo đúng yêu cầu trên. Không thêm bất kỳ bình luận hoặc lời giải thích nào.
+
+Hãy chuyển sang tiếng Việt nếu file pdf không phải 
 """
 
-# Lặp qua các file PDF trong thư mục input_pdfs
-for filename in os.listdir(input_dir):
-    if not filename.lower().endswith(".pdf"):
-        continue
 
-    pdf_path = os.path.join(input_dir, filename)
+def generate_respone(prompt ,file_path, filename):
+
     print(f"Đang xử lý: {filename}")
 
-    # Upload PDF lên Gemini
-    upload_pdf = client.files.upload(file=pdf_path)
+    upload_pdf = client.files.upload(file=file_path)
 
-    # Gọi Gemini để xử lý nội dung
     response = client.models.generate_content(
-        model="gemini-2.5-flash-preview-05-20",
-        contents=[prompt, upload_pdf],
-        config=types.GenerateContentConfig(
-            temperature=0.3,
-            top_p=0.5,
-            top_k=1,
-            thinking_config=types.ThinkingConfig(include_thoughts=False)
+            model="gemini-2.5-flash-lite-preview-06-17",
+            contents=[upload_pdf, 
+                      "\n\n",
+                      prompt],
+            config=types.GenerateContentConfig(
+                temperature=0.3,
+                top_p=0.5,
+                top_k=1,
+                thinking_config=types.ThinkingConfig(include_thoughts=False)
+            )
         )
-    )
+    
+    return response
 
-    output_text = response.text
-
-    # Tạo tên thư mục từ dòng đầu tiên
-    first_line = output_text.strip().splitlines()[0]
+def crate_folder_name(text):
+    first_line = text.strip().splitlines()[0]
     folder_name = unidecode(first_line.strip())
     folder_name = re.sub(r'[\\/*?:"<>|]', "", folder_name)
     folder_name = folder_name.replace(" ", "_")
     full_output_dir = os.path.join(output_root, folder_name)
     os.makedirs(full_output_dir, exist_ok=True)
 
-    # Bỏ dòng đầu và chia đoạn
-    content_only = "\n".join(output_text.strip().splitlines()[1:])
+    content_only = "\n".join(text.strip().splitlines()[1:])
+
     paragraphs = [p.strip() for p in content_only.split("\n\n") if p.strip()]
 
-    # Ghi từng đoạn vào file .txt
-    for para in paragraphs:
-        if ':' not in para:
-            continue
-        title, content = para.split(":", 1)
-        fname = unidecode(title.strip())
-        fname = re.sub(r'[\\/*?:"<>|]', "", fname).replace(" ", "_")
-        filepath = os.path.join(full_output_dir, f"{fname}.txt")
-        with open(filepath, "w", encoding="utf-8") as f:
-            f.write(para.strip())
+    return paragraphs, full_output_dir
 
-    print(f"Đã lưu kết quả vào thư mục: {full_output_dir}\n")
+def create_file_name(full_output_dir ,sentence):
+     
+    title, content = sentence.split(":", 1)
+    fname = unidecode(title.strip())
+    fname = re.sub(r'[\\/*?:"<>|]', "", fname).replace(" ", "_")
+    filepath = os.path.join(full_output_dir, f"{fname}.txt")
+    with open(filepath, "w", encoding="utf-8") as f:
+        f.write(sentence.strip())
+
+
+def convert_excel_to_pdf_in_linux(file):
+    subprocess.run(['libreoffice', '--headless', '--convert-to', 'pdf:calc_pdf_Export:{"SinglePageSheets":{"type":"boolean","value":"false"}}',
+                f'{input_dir}/{file}', '--outdir', 'input_pdfs'])
+    base_filename = os.path.splitext(file)[0]
+    output_file = f"{base_filename}.pdf"
+    return output_file
+
+
+
+def main():
+
+
+    for filename in os.listdir(input_dir):
+
+        path_file = os.path.join(input_dir, filename)
+
+        kind = filetype.guess(path_file)
+
+        ext = kind.extension
+
+        category = kind.mime.split("/")[0]
+
+        if sys.platform == "linux":
+
+            if ext in ["xlsx", "xls", "xlsm", "xlsb", "csv"]:
+                filename = convert_excel_to_pdf_in_linux(filename)
+
+            
+            if category == "image" and ext not in ["jpg", "png", "webp"]:
+                    print(f"Định dạng hình ảnh không phù hợp, {filename}, yêu cầu định dạng có phần mở rộng là: .jpg, .png, .webp")
+                    continue
+            
+
+
+        pdf_path = os.path.join(input_dir, filename)
+
+
+        response = generate_respone(prompt ,pdf_path, filename)
+
+        output_text = response.text
+
+        paragraphs, full_output_dir = crate_folder_name(output_text)
+        
+        for para in paragraphs:
+            if ':' not in para:
+                continue
+            create_file_name(full_output_dir, para)
+
+        print(f"Đã lưu kết quả vào thư mục: {full_output_dir}\n")
+
+
+if __name__ == "__main__":
+    main()
