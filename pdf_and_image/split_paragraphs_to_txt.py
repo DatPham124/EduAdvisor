@@ -11,7 +11,8 @@ import filetype
 
 if sys.platform == "win32":
     try:
-        import win32com
+        import win32com.client
+        print("Đã import win32com")
     except ImportError:
         print("win32com chưa được cài, tiến hành cài đặt...")
         subprocess.check_call([sys.executable, "-m", "pip", "install", "pywin32"])
@@ -76,7 +77,9 @@ Tránh từ ngữ mơ hồ, dư thừa, trùng lặp.
 
 Mỗi đoạn sẽ cách nhau bằng cách xuống dòng 
 
-Trước mỗi đoạn văn sẽ là câu mô tả nội dung cho cả đoạn, phù hợp với việc vector hóa, không được quá dài, không quá chi tiết,câu mô tả sẽ phân biệt với nội dung bằng dấu :
+Trước mỗi đoạn văn sẽ là câu mô tả nội dung cho cả đoạn, phù hợp với việc vector hóa, câu mô tả sẽ tách biệt với nội dung bằng dấu :
+
+Câu mô tả không được quá dài, tóm gọn, không quá chi tiết
 
 Không đưa lại bất kỳ phần nào đã yêu cầu loại bỏ.
 
@@ -97,7 +100,7 @@ def generate_respone(prompt ,file_path, filename):
     upload_pdf = client.files.upload(file=file_path)
 
     response = client.models.generate_content(
-            model="gemini-2.5-flash-lite-preview-06-17",
+            model="gemini-2.5-flash",
             contents=[upload_pdf, 
                       "\n\n",
                       prompt],
@@ -111,7 +114,7 @@ def generate_respone(prompt ,file_path, filename):
     
     return response
 
-def crate_folder_name(text):
+def create_folder_name(text):
     first_line = text.strip().splitlines()[0]
     folder_name = unidecode(first_line.strip())
     folder_name = re.sub(r'[\\/*?:"<>|]', "", folder_name)
@@ -139,13 +142,44 @@ def convert_excel_to_pdf_in_linux(file):
     subprocess.run(['libreoffice', '--headless', '--convert-to', 'pdf:calc_pdf_Export:{"SinglePageSheets":{"type":"boolean","value":"false"}}',
                 f'{input_dir}/{file}', '--outdir', 'input_pdfs'])
     base_filename = os.path.splitext(file)[0]
-    output_file = f"{base_filename}.pdf"
-    return output_file
+    output_file_name = f"{base_filename}.pdf"
+    return output_file_name
+
+
+def convert_excel_to_pdf_in_wins(file_path):
+    file_path = os.path.abspath(file_path)
+
+    if not os.path.exists(file_path):
+        print(f"File không tồn tại: {file_path}")
+        return None
+
+    excel = win32com.client.Dispatch("Excel.Application")
+    excel.Visible = False
+    wb = None 
+
+    try:
+        wb = excel.Workbooks.Open(file_path)
+
+        output_path = os.path.splitext(file_path)[0] + ".pdf"
+
+        wb.ExportAsFixedFormat(0, output_path)
+        print(f"Đã chuyển: {file_path} -> {output_path}")
+
+        return os.path.basename(output_path)
+
+    except Exception as e:
+        print(f"Lỗi khi mở hoặc chuyển file: {e}")
+        return None
+
+    finally:
+        if wb is not None:
+            wb.Close(False)
+        excel.Quit()
+
 
 
 
 def main():
-
 
     for filename in os.listdir(input_dir):
 
@@ -162,11 +196,14 @@ def main():
             if ext in ["xlsx", "xls", "xlsm", "xlsb", "csv"]:
                 filename = convert_excel_to_pdf_in_linux(filename)
 
-            
-            if category == "image" and ext not in ["jpg", "png", "webp"]:
+        if sys.platform == "win32":
+
+            if ext in ["xlsx", "xls", "xlsm", "xlsb", "csv"]:
+                filename = convert_excel_to_pdf_in_wins(path_file)
+
+        if category == "image" and ext not in ["jpg", "png", "webp"]:
                     print(f"Định dạng hình ảnh không phù hợp, {filename}, yêu cầu định dạng có phần mở rộng là: .jpg, .png, .webp")
                     continue
-            
 
 
         pdf_path = os.path.join(input_dir, filename)
@@ -176,7 +213,7 @@ def main():
 
         output_text = response.text
 
-        paragraphs, full_output_dir = crate_folder_name(output_text)
+        paragraphs, full_output_dir = create_folder_name(output_text)
         
         for para in paragraphs:
             if ':' not in para:
