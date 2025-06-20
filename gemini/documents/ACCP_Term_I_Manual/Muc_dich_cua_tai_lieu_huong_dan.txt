@@ -1,0 +1,1 @@
+Mục đích của tài liệu hướng dẫn: Tài liệu hướng dẫn này được sử dụng cho Kỳ 1 của khóa học ACCP, tập trung vào việc phát triển tư duy lập trình và kỹ năng phát triển web cho học viên.

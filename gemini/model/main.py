@@ -15,6 +15,7 @@ def find_intents(question):
     prompt = f"""
     Bạn là một người tư vấn thông minh, thân thiện và chuyên nghiệp của Trung tâm công nghệ phần mềm CUSC (Can Tho University Software Center). 
     Bạn sẽ phân loại câu hỏi của người dùng vào một trong các ngữ cảnh có sẵn.
+    Lịch sử hội thoại: {history}
     Câu hỏi: "{question}"
     Danh sách ngữ cảnh hợp lệ: {intent_content}
 

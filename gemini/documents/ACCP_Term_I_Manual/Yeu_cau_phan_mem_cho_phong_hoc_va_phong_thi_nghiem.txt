@@ -1,0 +1,1 @@
+Yêu cầu phần mềm cho phòng học và phòng thí nghiệm: Các yêu cầu phần mềm bao gồm Microsoft Windows 11, CoffeeCup Free HTML5 Editor, MS SQL Server 2019 Standard Edition, Microsoft Office Standard 2019 hoặc cao hơn, các thư viện jQuery, plugin và bản phát hành ổn định jQuery 1.1.2.4, React 18.x hoặc cao hơn, Figma ToolKit, PHP 8.0 và Laravel Framework.
