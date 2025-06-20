@@ -23,7 +23,7 @@ api_key = dotenv.get_key(dotenv.find_dotenv(), "GEMINI_API_KEY")
 client = genai.Client(api_key=api_key)
 
 input_dir = "input_pdfs"
-output_root = "output_data"
+output_root = "../gemini/documents"
 os.makedirs(output_root, exist_ok=True)
 
 prompt = """
