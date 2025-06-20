@@ -21,14 +21,21 @@ for root, dirs, files in os.walk(folder_path):
     for filename in files:
         if filename.endswith(".txt"):
             filepath = os.path.join(root, filename)
+
             with open(filepath, "r", encoding="utf-8") as file:
                 content = file.read()
 
+            # Tạo _intent
+            relative_path = os.path.relpath(filepath, folder_path)            
+            parts = os.path.splitext(relative_path)[0].split(os.sep)          
+            intent = "_".join(parts)                                           
+
             document = {
                 "_id": ObjectId(),
-                "_intent": os.path.splitext(filename)[0],
+                "_intent": intent,
                 "content": content
             }
+
 
             collection.insert_one(document)
             print(f"Đã thêm: {filepath}")
