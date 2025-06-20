@@ -25,7 +25,7 @@ for root, dirs, files in os.walk(folder_path):
             with open(filepath, "r", encoding="utf-8") as file:
                 content = file.read()
 
-            # Tạo _intent
+            # kết hợp tên file và folder
             relative_path = os.path.relpath(filepath, folder_path)            
             parts = os.path.splitext(relative_path)[0].split(os.sep)          
             intent = "_".join(parts)                                           
