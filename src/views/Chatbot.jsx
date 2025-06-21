@@ -21,8 +21,9 @@ const Chatbot = () => {
   useEffect(() => {
     const fetchHistory = async () => {
       try {
-        const res = await ChatbotService.getUser(registerAd._id);
-        setMessages(res.anwser || []);
+        const res = await ChatbotService.getConversation(registerAd._id);
+        setMessages(res || []);
+        console.log("in response ", res[0].answer)
       } catch (error) {
         console.error('Lỗi lấy lịch sử tin nhắn:', error);
       }
@@ -50,7 +51,7 @@ const Chatbot = () => {
   // Bước 1: hiển thị câu hỏi ngay
   const tempMessage = {
     question: userQuestion,
-    anwser: '...', // hoặc để rỗng '', hoặc "Đang trả lời..."
+    answer: '...', // hoặc để rỗng '', hoặc "Đang trả lời..."
   };
   const index = messages.length; // vị trí để cập nhật lại sau
 
@@ -73,7 +74,7 @@ const Chatbot = () => {
       const updated = [...prev];
       updated[index] = {
         ...updated[index],
-        anwser: formattedAnswer,
+        answer: formattedAnswer,
       };
       return updated;
     });
@@ -84,7 +85,7 @@ const Chatbot = () => {
       const updated = [...prev];
       updated[index] = {
         ...updated[index],
-        anwser: '⚠️ Lỗi khi nhận phản hồi từ hệ thống.',
+        answer: '⚠️ Lỗi khi nhận phản hồi từ hệ thống.',
       };
       return updated;
     });
@@ -199,11 +200,11 @@ const Chatbot = () => {
                   </div>
                   <div className="flex justify-start">
                     <div className="px-4 py-2 my-2 rounded-xl shadow max-w-[80%] break-words whitespace-pre-wrap bg-white text-black rounded-br-none">
-<p>{msg.anwser === '...' ? <span className="animate-pulse">Đang phản hồi...</span> : msg.anwser}</p>
+<p>{msg.answer === '...' ? <span className="animate-pulse">Đang phản hồi...</span> : msg.answer}</p>
                     </div>
                     <div className="ms-4"></div>
                     <button
-                      onClick={() => speakText(msg.anwser)}
+                      onClick={() => speakText(msg.answer)}
                       className="hover:text-primary"
                       aria-label="Phát âm"
                     >

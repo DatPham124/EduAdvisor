@@ -14,13 +14,13 @@ class ChatbotService {
     }
   }
 
-  async getUser(id) {
+  async getConversation(id) {
     try {
-      const response = await this.api.json.get(`/get_user/${id}`);
-      return response.data;
+      const response = await this.api.json.get(`/get_conversation/${id}`);
+      return response?.data.conversations || { conversations: [] };
     } catch (error) {
       console.error(error);
-      return [];
+      return { conversations: [] };
     }
   }
 }
