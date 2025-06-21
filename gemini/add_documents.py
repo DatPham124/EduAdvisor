@@ -36,6 +36,5 @@ for root, dirs, files in os.walk(folder_path):
                 "content": content
             }
 
-
             collection.insert_one(document)
             print(f"Đã thêm: {filepath}")
