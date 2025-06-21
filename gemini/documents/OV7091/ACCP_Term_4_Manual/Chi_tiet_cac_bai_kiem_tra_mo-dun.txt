@@ -1,0 +1,7 @@
+Chi tiết các bài kiểm tra mô-đun:
+Kiểm tra mô-đun 1 (E1) có 20 điểm, thời lượng 40 phút, loại trắc nghiệm, bao gồm môn Giới thiệu về lập trình Dart.
+Kiểm tra mô-đun 2 (E2) có 20 điểm, thời lượng 40 phút, loại trắc nghiệm, bao gồm môn Phát triển ứng dụng sử dụng Flutter và Dart.
+Kiểm tra mô-đun 3 (E3) có 20 điểm, thời lượng 40 phút, loại trắc nghiệm, bao gồm môn Phát triển thành phần web sử dụng Jakarta EE.
+Kiểm tra mô-đun 4 (E4) có 20 điểm, thời lượng 40 phút, loại trắc nghiệm, bao gồm môn Xây dựng ứng dụng web Java với Spring Framework.
+Kiểm tra mô-đun 5 (E5) có 20 điểm, thời lượng 40 phút, loại trắc nghiệm, bao gồm môn Phát triển ứng dụng doanh nghiệp trong Jakarta EE.
+Kiểm tra mô-đun 6 (E6) có 20 điểm, thời lượng 40 phút, loại trắc nghiệm, bao gồm môn Tạo dịch vụ cho web.

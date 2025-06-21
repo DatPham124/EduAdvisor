@@ -1,0 +1,1 @@
+Tiêu chí điểm số cần đạt được: Để đạt được điểm, học viên cần đạt 100% điểm cho Bài tập (A), 100% cho Bài thi Thực hành (R), 100% cho Bài thi Trực tuyến và 100% cho Điểm Dự án. Tổng điểm cuối cùng được tính bằng 25% điểm nội bộ, 50% điểm bên ngoài (Thực hành + Trực tuyến) và 25% điểm Dự án.

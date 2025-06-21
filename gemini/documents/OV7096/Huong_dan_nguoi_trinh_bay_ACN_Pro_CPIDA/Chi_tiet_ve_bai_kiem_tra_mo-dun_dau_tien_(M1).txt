@@ -1,0 +1,2 @@
+Chi tiết về bài kiểm tra mô-đun đầu tiên (M1):
+Bài kiểm tra mô-đun 1 (M1) có tổng điểm 20, thời lượng 40 phút và là loại bài kiểm tra trắc nghiệm. Môn học được kiểm tra là Phân tích dữ liệu với Excel, với số điểm tối đa là 20.

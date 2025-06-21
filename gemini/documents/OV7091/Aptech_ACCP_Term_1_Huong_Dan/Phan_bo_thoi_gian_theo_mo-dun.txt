@@ -1,0 +1,10 @@
+Phân bổ thời gian theo mô-đun:
+Tổng số giờ học và tự học cho các mô-đun được phân bổ như sau:
+*   Xây dựng logic và Lập trình cơ bản: 40 giờ hướng dẫn, 12 giờ tự học, Mã kỹ năng 75.
+*   Xây dựng trang web hiện đại: 40 giờ hướng dẫn, 12 giờ tự học, Mã kỹ năng 177.
+*   UI/UX cho thiết kế web đáp ứng: 16 giờ hướng dẫn, 8 giờ tự học, Mã kỹ năng 368.
+*   Phát triển web Frontend với React: 24 giờ hướng dẫn, 10 giờ tự học, Mã kỹ năng 1337.
+*   eProject-Phát triển web đáp ứng: 20 giờ hướng dẫn, 0 giờ tự học, Mã kỹ năng 177.
+*   Quản lý dữ liệu với SQL Server: 32 giờ hướng dẫn, 10 giờ tự học, Mã kỹ năng 1291.
+*   Phát triển PHP với Laravel Framework: 48 giờ hướng dẫn, 16 giờ tự học, Mã kỹ năng 1274.
+Tổng cộng có 220 giờ hướng dẫn và 68 giờ tự học.

@@ -1,0 +1,2 @@
+Mục tiêu học tập về rigging và hoạt hình:
+Sinh viên sẽ có khả năng giải thích khái niệm rigging và các loại rigging phổ biến nhất trong Maya, thiết lập kết nối giữa nhiều đối tượng bằng cách sử dụng hệ thống phân cấp cha con, kỹ thuật nhóm và các ràng buộc có sẵn trong Maya, tạo một rig khuôn mặt chức năng, hiểu khái niệm hệ thống cơ bắp, phát triển một hệ thống cơ bắp phức tạp, giải thích timeline và hoạt hình keyframe, cách hoạt động của dope sheet và tầm quan trọng của nó trong việc tạo hoạt hình, cách hoạt động của trình chỉnh sửa đồ thị và các lệnh của nó.

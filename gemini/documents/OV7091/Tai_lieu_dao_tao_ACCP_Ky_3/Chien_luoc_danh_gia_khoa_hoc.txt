@@ -1,0 +1,5 @@
+Chiến lược đánh giá khóa học:
+Chiến lược đánh giá cho khóa học này bao gồm:
+*   Bài kiểm tra mô-đun (Khách quan - AoLEAP)
+*   Bài kiểm tra mô-đun (Thực hành)
+*   Dự án

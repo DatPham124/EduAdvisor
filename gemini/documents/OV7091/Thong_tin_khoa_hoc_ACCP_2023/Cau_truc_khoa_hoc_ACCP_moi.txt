@@ -1,0 +1,2 @@
+Cấu trúc khóa học ACCP mới:
+Chương trình ACCP được chia thành hai năm học. Năm 1 bao gồm Kỳ 1 (Lập trình) và Kỳ 2. Năm 2 bao gồm Kỳ 3 (.NET) và Kỳ 4 (JAVA EE). Tổng thời lượng khóa học là 748 giờ, với hình thức học 2 giờ mỗi buổi, 4 ngày một tuần.

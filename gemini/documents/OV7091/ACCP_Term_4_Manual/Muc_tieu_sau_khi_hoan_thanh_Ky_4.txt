@@ -1,0 +1,2 @@
+Mục tiêu sau khi hoàn thành Kỳ 4:
+Sau khi hoàn thành Kỳ 4, sinh viên sẽ có khả năng xây dựng ứng dụng đa nền tảng sử dụng Flutter Framework và ngôn ngữ Dart, phát triển ứng dụng web phù hợp với bất kỳ máy chủ ứng dụng Jakarta EE nào sử dụng JSP và Servlet API, hiểu và làm việc với Spring Framework và Spring Boot, phát triển ứng dụng doanh nghiệp sử dụng Jakarta Enterprise Beans, và thiết kế, phát triển ứng dụng doanh nghiệp sử dụng Jakarta Web Services API.

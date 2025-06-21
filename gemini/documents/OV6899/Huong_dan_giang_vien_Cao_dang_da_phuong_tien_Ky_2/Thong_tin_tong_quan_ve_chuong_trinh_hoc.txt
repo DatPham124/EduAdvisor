@@ -1,0 +1,10 @@
+Thông tin tổng quan về chương trình học: Chương trình Cao đẳng Nâng cao về Đa phương tiện bao gồm các học phần sau:
+*   **Khái niệm thiết kế web:** 10 giờ lý thuyết, 0 giờ thực hành, tổng cộng 10 giờ. Mã kỹ năng 213, mã sách OV-WEB0096, tên sách "Web Designing Concepts-INTL".
+*   **Xây dựng trang web thế hệ tiếp theo:** 12 giờ lý thuyết, 12 giờ thực hành, tổng cộng 24 giờ. Mã kỹ năng 259, mã sách RINNBNGWB10620E000, tên sách "Building Next Generation Websites", sử dụng công cụ HTML5, CSS3 và Javascript ES7.
+*   **Thiết kế trang web:** 16 giờ lý thuyết, 10 giờ thực hành, tổng cộng 26 giờ. Mã kỹ năng 1544, mã sách RINNWBDES10323E000, tên sách "Web Page Design", sử dụng công cụ Adobe Dreamweaver CC.
+*   **Hoạt hình web:** 12 giờ lý thuyết, 12 giờ thực hành, tổng cộng 24 giờ. Mã kỹ năng 1529, mã sách RINNWEBAN10323E000, tên sách "Web Animation", sử dụng công cụ Adobe Animate CC 2021.
+*   **Thiết kế UI và UX cho web đáp ứng:** 12 giờ lý thuyết, 0 giờ thực hành, tổng cộng 12 giờ. Mã kỹ năng 279, mã sách OV-URD0001, tên sách "UI / UX for Responsive Design-INTL".
+*   **Thiết kế UI:** 8 giờ lý thuyết, 8 giờ thực hành, tổng cộng 16 giờ. Mã kỹ năng 1510, mã sách RINNUIDSN10323E000, tên sách "UI Design", sử dụng công cụ Figma.
+*   **Bootstrap:** 6 giờ lý thuyết, 6 giờ thực hành, tổng cộng 12 giờ. Mã kỹ năng 1545, mã sách RINNBOOTS10323E000, tên sách "Bootstrap", sử dụng công cụ Bootstrap 5.
+*   **Danh mục web:** 2 giờ lý thuyết, 0 giờ thực hành, tổng cộng 2 giờ. Mã kỹ năng 213, mã sách OV-PRGKIT43, tên sách "Web Portfolio - INTL", đây là một dự án.
+Tổng số giờ học cho toàn bộ chương trình là 78 giờ lý thuyết, 48 giờ thực hành, tổng cộng 126 giờ.

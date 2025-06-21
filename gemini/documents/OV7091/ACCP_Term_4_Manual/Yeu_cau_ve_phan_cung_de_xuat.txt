@@ -1,0 +1,2 @@
+Yêu cầu về phần cứng đề xuất:
+Các yêu cầu phần cứng đề xuất bao gồm: Bộ xử lý Intel Core i3/i5 trở lên, RAM 8 GB trở lên, Color SVGA, dung lượng ổ cứng 500 GB, chuột và bàn phím.

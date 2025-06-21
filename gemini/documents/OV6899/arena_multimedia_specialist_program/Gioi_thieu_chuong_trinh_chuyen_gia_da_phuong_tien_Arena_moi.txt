@@ -1,0 +1,2 @@
+Giới thiệu chương trình chuyên gia đa phương tiện Arena mới:
+Chương trình chuyên gia đa phương tiện Arena (AMSP) bao gồm các lĩnh vực chính như hoạt hình, trò chơi, phim ảnh, thiết kế giao diện người dùng và trải nghiệm người dùng (UI UX), đa phương tiện, và in ấn & quảng cáo.

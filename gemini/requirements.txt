@@ -1,0 +1,9 @@
+python-dotenv
+pymongo
+flask
+rapidfuzz
+google-generativeai
+google-genai
+unidecode
+filetype
+rapidfuzz

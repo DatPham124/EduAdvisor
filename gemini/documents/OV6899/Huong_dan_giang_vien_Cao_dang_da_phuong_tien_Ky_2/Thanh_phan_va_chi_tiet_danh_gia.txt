@@ -1,0 +1,9 @@
+Thành phần và chi tiết đánh giá: Các thành phần đánh giá và trọng số của kỳ thi cuối học phần được quy định như sau:
+*   **Khái niệm thiết kế web:** Thực hành R1 (25 điểm, 120 phút), Kỳ thi cuối học phần ME1 (10 điểm, 30 phút).
+*   **Xây dựng trang web thế hệ tiếp theo:** Bài tập A1.
+*   **Thiết kế trang web:** Bài tập A2, Thực hành R2 (25 điểm, 120 phút), Kỳ thi cuối học phần ME2 (10 điểm, 20 phút).
+*   **Hoạt hình web:** Bài tập A3.
+*   **Thiết kế UI và UX cho web đáp ứng:** Thực hành R3 (25 điểm, 120 phút), Kỳ thi cuối học phần ME3 (10 điểm, 20 phút).
+*   **Thiết kế UI:** Bài tập A4.
+*   **Bootstrap:** Thực hành R4 (25 điểm, 120 phút), Kỳ thi cuối học phần ME3 (10 điểm, 20 phút).
+*   **Danh mục web:** Dự án điện tử.

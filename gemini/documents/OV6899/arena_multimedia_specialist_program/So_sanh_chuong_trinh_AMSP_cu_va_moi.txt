@@ -1,0 +1,2 @@
+So sánh chương trình AMSP cũ và mới:
+Chương trình AMSP mới (OV-6899) đã có những cải tiến so với phiên bản cũ (OV-6878). Cụ thể, trong thiết kế giao diện người dùng, chương trình mới sử dụng Figma thay vì Adobe XD. Đối với tổng hợp kỹ thuật số, Nuke được sử dụng thay cho Blackmagic Fusion. Các module Lightroom cho nhiếp ảnh gia và Ánh sáng và Kết xuất đối tượng 3D với Maya đã được hợp nhất thành một module duy nhất, trong đó Arnold Renderer được tích hợp trực tiếp vào module Ánh sáng và Kết xuất đối tượng 3D với Maya.

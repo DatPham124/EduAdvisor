@@ -1,0 +1,9 @@
+Lịch trình học tập theo tuần:
+Lịch trình học tập được tổ chức với 2 giờ mỗi ngày, 3 ngày mỗi tuần, bao gồm các buổi lý thuyết (T), buổi trực tuyến (O), bài tập (A), thực hành (R) và bài kiểm tra cuối mô-đun (ME).
+*   **Tiền sản xuất kỹ thuật số**: Diễn ra trong Tuần 1, với các buổi lý thuyết từ O1 đến O4 vào Ngày 2.
+*   **Mô hình hóa đối tượng 3D với Maya**: Diễn ra từ Tuần 1 đến Tuần 7. Các buổi lý thuyết O1-O6 và O7 được phân bổ, cùng với thực hành R1 và bài tập A1, và kiểm tra cuối mô-đun ME1.
+*   **Chiếu sáng và kết xuất đối tượng 3D với Maya**: Diễn ra từ Tuần 9 đến Tuần 21. Các buổi lý thuyết O1-O7 và O7 được phân bổ, cùng với bài tập A2 và thực hành R2, và kiểm tra cuối mô-đun ME2.
+*   **Rigging đối tượng 3D với Maya**: Diễn ra từ Tuần 21 đến Tuần 33. Các buổi lý thuyết O1-O7 và O8 được phân bổ, cùng với bài tập A3 và thực hành R3, và kiểm tra cuối mô-đun ME3.
+*   **Hoạt hình nhân vật với Maya**: Diễn ra từ Tuần 21 đến Tuần 33. Các buổi lý thuyết O1-O5 và O6 được phân bổ, cùng với bài tập A4.
+*   **Tổng hợp kỹ thuật số**: Diễn ra từ Tuần 31 đến Tuần 43. Các buổi lý thuyết O1-O6 và O7 được phân bổ, cùng với bài tập A5 và thực hành R4, và kiểm tra cuối mô-đun ME4.
+*   **Phát triển danh mục đầu tư với Demo Reel**: Diễn ra từ Tuần 31 đến Tuần 43. Các buổi lý thuyết O1-O11 và O12 được phân bổ, cùng với bài tập A6 và thực hành R5, và kiểm tra cuối mô-đun ME5.

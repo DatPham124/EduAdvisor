@@ -1,0 +1,1 @@
+Nội dung chương trình đào tạo Data Science: Chương trình học bao gồm Nền tảng Big Data, xử lý Big Data với các công cụ như Hadoop, MapReduce, Hive, PigLatin, phân tích trực quan dữ liệu bằng Tableau, phân tích Web và Social Media sử dụng Google Analytics và SAS, cùng với dự án Big Data thực tế.

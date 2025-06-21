@@ -1,0 +1,17 @@
+Các tài liệu được cung cấp cho học viên và giảng viên:
+Các tài liệu được cung cấp cho học viên và giảng viên trong khóa học ACCP Kỳ II bao gồm sách và mã sách tương ứng.
+*   **Đối với học viên**:
+    *   **Xử lý dữ liệu với XML và JSON**: Sách "Data Processing with XML and JSON", mã sách AINNXJSON11023E000.
+    *   **Lập trình Java-I**: Sách "Java Programming-The Complete Guide for Beginners", mã sách AINNJAVP111023E000.
+    *   **Lập trình Java-II**: Sách "JavaFX and Advanced Java", mã sách AINNJAVP211023E000.
+    *   **Dự án phát triển ứng dụng Java**: Sách "PG-Developing JavaFX Applications", mã sách AINNPGJFX11023E000.
+    *   **Lập trình ứng dụng với C#**: Sách "Developing Applications with Csharp", mã sách AINNCSPRG11023E000.
+    *   Tất cả các sách trên đều thuộc bộ Kit mã OV-7091-KIT01-02-E, tên Kit "Kit of 5 titles for OV-7091 ACCP Term 2".
+*   **Đối với giảng viên**:
+    *   **Xử lý dữ liệu với XML và JSON**: Sách "Data Processing with XML and JSON", mã sách AINNXJSON11023E000.
+    *   **Lập trình Java-I**: Sách "Java Programming-The Complete Guide for Beginners", mã sách AINNJAVP111023E000.
+    *   **Lập trình Java-II**: Sách "JavaFX and Advanced Java", mã sách AINNJAVP211023E000.
+    *   **Dự án phát triển ứng dụng Java**: Sách "PG-Developing JavaFX Applications", mã sách AINNPGJFX11023E000.
+    *   **Lập trình ứng dụng với C#**: Sách "Developing Applications with Csharp", mã sách AINNCSPRG11023E000.
+    *   Tất cả các sách trên đều thuộc bộ Kit mã OV-7091-KIT01-02-E, tên Kit "Kit of 5 titles for OV-7091 ACCP Term 2".
+    *   **Khóa học**: Tài liệu Master PM, Module PMs, Hướng dẫn Giảng viên (nếu có), Bài thuyết trình trên lớp (nếu có).

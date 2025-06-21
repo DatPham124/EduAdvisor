@@ -1,0 +1,6 @@
+Các thành phần đánh giá và chi tiết:
+Các kỳ thi được tiến hành định kỳ để đánh giá từng sinh viên. Sinh viên sẽ phải tham gia các kỳ thi cuối mô-đun trực tuyến với các câu hỏi trắc nghiệm. Các kỳ thi này phải được hoàn thành trong thời gian quy định. Khi áp dụng hoặc được đề cập, sinh viên sẽ phải tạo và nộp bài tập và dự án điện tử, đồng thời phải tham gia các bài thực hành.
+*   **Bài tập (A)**: Mỗi bài có thời lượng 2 giờ, với 25 điểm mỗi bài. Sẽ được quản lý dựa trên yêu cầu của mô-đun.
+*   **Dự án điện tử (P)**: Thời lượng được đề cập trong bảng Chương trình học tổng quát. Điểm danh mục đầu tư là 60, điểm tài liệu là 20, và điểm vấn đáp là 20. Sinh viên sẽ được đánh giá dựa trên bài thuyết trình, tài liệu và vấn đáp. Bản sao lưu trên CD phải được giao cho giảng viên.
+*   **Thực hành cuối mô-đun (R)**: Thời lượng và điểm được đề cập trong bảng Đánh giá. Sẽ được quản lý dựa trên yêu cầu của mô-đun. Bài thực hành dựa trên kịch bản sẽ do giảng viên chuẩn bị.
+*   **Lý thuyết cuối mô-đun**: Thời lượng và điểm được đề cập trong bảng Thành phần đánh giá. Kỳ thi trực tuyến được tiến hành theo các khoảng thời gian liên quan. Các mô-đun có thể kiểm tra được đánh giá dựa trên trọng số của chúng.

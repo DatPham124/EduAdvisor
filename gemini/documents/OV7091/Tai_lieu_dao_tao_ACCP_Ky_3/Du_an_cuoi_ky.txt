@@ -1,0 +1,2 @@
+Dự án cuối kỳ:
+Dự án trong kỳ này sẽ bao gồm việc phát triển một ứng dụng sử dụng công nghệ .NET.

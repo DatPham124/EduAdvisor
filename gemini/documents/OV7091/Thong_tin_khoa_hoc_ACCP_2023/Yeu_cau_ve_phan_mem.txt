@@ -1,0 +1,2 @@
+Yêu cầu về phần mềm:
+Các phần mềm cần thiết bao gồm: Hệ điều hành Windows 11 (64-bit), MS SQL Server 2019 trở lên, Apache NetBeans IDE (13 trở lên), Visual Studio 2022 Professional Edition với .NET Framework 4.8, Figma Toolkit, React 18.x trở lên, Java Development Kit (JDK) 19.x, Jakarta EE 10, Spring 6.x, Spring Boot 3.0.x, Apache Tomcat 10.x và WildFly 26+, MongoDB 6.0 trở lên, Python SDK 3.x, NodeJS 18.x, Android Studio với Flutter và Dart SDK ổn định mới nhất, Laravel Framework (Homestead hoặc cao hơn), PHP 8.x và MySQL 8.x.

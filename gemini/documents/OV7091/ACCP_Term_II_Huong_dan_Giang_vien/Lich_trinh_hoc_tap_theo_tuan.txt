@@ -1,0 +1,31 @@
+Lịch trình học tập theo tuần:
+Lịch trình học tập được phân bổ theo tuần và ngày, bao gồm các buổi học trực tuyến (TL), các kỳ thi theo học phần (E), các kỳ thi thực hành (R) và các buổi làm dự án (P).
+*   **Xử lý dữ liệu với XML và JSON**:
+    *   Tuần 1: Các buổi học trực tuyến TL1, TL2, TL3, TL4 và buổi S1.
+    *   Tuần 2: Các buổi học trực tuyến TL5, TL6, TL7, TL8 và buổi S2.
+    *   Tuần 3: Kỳ thi học phần E1 và kỳ thi thực hành R1.
+*   **Lập trình Java-I**:
+    *   Tuần 3: Các buổi học trực tuyến TL1, TL2, TL3.
+    *   Tuần 4: Các buổi học trực tuyến TL4, TL5, TL6, TL7 và buổi S1.
+    *   Tuần 5: Các buổi học trực tuyến TL8, TL9, TL10, TL11 và buổi S2.
+    *   Tuần 6: Các buổi học trực tuyến TL12, TL13, TL14, TL15 và buổi S3.
+    *   Tuần 7: Các buổi học trực tuyến TL16, TL17, TL18 và buổi S4.
+    *   Tuần 8: Kỳ thi thực hành R2, buổi S5 và kỳ thi học phần E2.
+*   **Lập trình Java-II**:
+    *   Tuần 8: Các buổi học trực tuyến TL1, TL2, TL3 và buổi S1.
+    *   Tuần 9: Các buổi học trực tuyến TL4, TL5, TL6, TL7 và buổi S2.
+    *   Tuần 10: Các buổi học trực tuyến TL8, TL9, TL10, TL11 và buổi S3.
+    *   Tuần 11: Các buổi học trực tuyến TL12, TL13, TL14, TL15 và buổi S4.
+    *   Tuần 12: Các buổi học trực tuyến TL16, TL17, TL18, TL19 và các buổi S5-S6.
+    *   Tuần 13: Buổi học trực tuyến TL20, kỳ thi học phần E3 và kỳ thi thực hành R3.
+*   **Dự án phát triển ứng dụng Java**:
+    *   Tuần 14: Các buổi dự án P2, P3, P4, P1.
+    *   Tuần 15: Các buổi dự án P6, P7, P8, P5.
+    *   Tuần 16: Buổi dự án P10.
+*   **Lập trình bằng C#**:
+    *   Tuần 16: Các buổi học trực tuyến TL1, TL2, TL3 và buổi S1.
+    *   Tuần 17: Các buổi học trực tuyến TL4, TL5, TL6, TL7 và buổi S2.
+    *   Tuần 18: Các buổi học trực tuyến TL8, TL9, TL10, TL11 và buổi S3.
+    *   Tuần 19: Các buổi học trực tuyến TL12, TL13, TL14, TL15 và buổi S4.
+    *   Tuần 20: Các buổi học trực tuyến TL16, TL17, TL18, TL19 và các buổi S5-S6.
+    *   Tuần 21: Kỳ thi thực hành R4 và kỳ thi học phần E4.

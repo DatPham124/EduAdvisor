@@ -1,0 +1,2 @@
+Kết quả học tập của Kỳ 2:
+Kỳ 2 tập trung vào việc truyền đạt các kỹ năng phát triển ứng dụng bằng Java và C#. Sau khi hoàn thành Kỳ 2, học viên sẽ có khả năng sử dụng XML và JSON để lưu trữ và trao đổi dữ liệu, thiết kế và phát triển các ứng dụng máy tính để bàn bằng Java, sử dụng các tính năng ngôn ngữ cốt lõi và Giao diện lập trình ứng dụng (API) của Java để thiết kế các ứng dụng hướng đối tượng, và phát triển các ứng dụng hướng đối tượng cơ bản và nâng cao bằng C#. Dự án cuối kỳ sẽ là xây dựng một ứng dụng thực tế bằng công nghệ Java bao gồm JavaFX.

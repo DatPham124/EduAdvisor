@@ -1,0 +1,10 @@
+Phân bổ giờ học theo mô-đun:
+Tổng số giờ học và tự học cho mỗi mô-đun được phân bổ như sau:
+*   Quản lý dữ liệu lớn (MongoDB): 0 giờ lý thuyết, 32 giờ trực tuyến, tổng 32 giờ, 10 giờ tự học, mã kỹ năng 399.
+*   Kiến thức cơ bản về NodeJS: 0 giờ lý thuyết, 36 giờ trực tuyến, tổng 36 giờ, 12 giờ tự học, mã kỹ năng 396.
+*   Phát triển ứng dụng với Python: 0 giờ lý thuyết, 36 giờ trực tuyến, tổng 36 giờ, 12 giờ tự học, mã kỹ năng 1258.
+*   Phát triển ứng dụng ASP.NET Core MVC: 0 giờ lý thuyết, 40 giờ trực tuyến, tổng 40 giờ, 16 giờ tự học, mã kỹ năng 1340.
+*   Phát triển giải pháp Microsoft Azure: 0 giờ lý thuyết, 40 giờ trực tuyến, tổng 40 giờ, 16 giờ tự học, mã kỹ năng 1341.
+*   Dự án điện tử - Phát triển ứng dụng web .NET: 2 giờ lý thuyết, 22 giờ trực tuyến, tổng 24 giờ, 0 giờ tự học, mã kỹ năng 1341.
+*   Các lĩnh vực việc làm mới nổi - SMAC: 8 giờ lý thuyết, 0 giờ trực tuyến, tổng 8 giờ, 4 giờ tự học, mã kỹ năng 125.
+*   Tổng cộng: 10 giờ lý thuyết, 206 giờ trực tuyến, tổng 216 giờ, 70 giờ tự học.

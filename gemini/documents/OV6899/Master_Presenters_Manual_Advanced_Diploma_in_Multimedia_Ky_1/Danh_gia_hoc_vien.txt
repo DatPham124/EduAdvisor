@@ -1,0 +1,1 @@
+Đánh giá học viên: Các kỳ thi được tiến hành định kỳ để đánh giá từng học viên. Học viên sẽ phải tham gia các kỳ thi cuối mô-đun, được thực hiện trực tuyến với các câu hỏi trắc nghiệm. Các kỳ thi mô-đun phải được hoàn thành trong thời gian quy định. Khi thích hợp hoặc được đề cập, học viên sẽ phải tạo và nộp bài tập và Dự án, đồng thời cũng phải tham gia các bài thực hành.

@@ -6,6 +6,8 @@ from google.genai import types
 from unidecode import unidecode
 import sys
 import subprocess
+import shutil
+
 
 import filetype
 
@@ -49,13 +51,11 @@ Chia nội dung thành các đoạn ngắn
 
 Mỗi đoạn phải có một tiêu đề mô tả nội dung chính.
 
-Mỗi đoạn không vượt quá 256 token.
-
 Mỗi đoạn phải thể hiện trọn vẹn một ý, có ngữ cảnh rõ ràng, không cắt ngang ý chính.
 
 Xử lý bảng
 
-Nếu có bảng dữ liệu, hãy diễn giải lại thành đoạn văn đầy đủ.
+Nếu có bảng dữ liệu, hãy diễn giải lại thành đoạn văn đầy đủ và liệt kê theo dạng danh sách các mục trong bảng.
 
 Trình bày bằng câu hoàn chỉnh, rõ ràng, dễ hiểu.
 
@@ -71,7 +71,7 @@ Tránh từ ngữ mơ hồ, dư thừa, trùng lặp.
 
 Định dạng đầu ra:
 
-Đầu file sẽ là tên thư mục có liên quan đến nội dung không kèm theo định dạng, tên thư mục không được quá dài 
+Đầu file sẽ là tên thư mục có liên quan đến nội dung không kèm theo định dạng, tên thư mục không được quá dài 
 
 Đoạn văn sẽ không có tiêu đề
 
@@ -114,19 +114,20 @@ def generate_respone(prompt ,file_path, filename):
     
     return response
 
-def create_folder_name(text):
+def create_folder_name(text, relative_path):
     first_line = text.strip().splitlines()[0]
     folder_name = unidecode(first_line.strip())
     folder_name = re.sub(r'[\\/*?:"<>|]', "", folder_name)
     folder_name = folder_name.replace(" ", "_")
-    full_output_dir = os.path.join(output_root, folder_name)
+
+    full_output_dir = os.path.join(output_root, relative_path, folder_name)
     os.makedirs(full_output_dir, exist_ok=True)
 
     content_only = "\n".join(text.strip().splitlines()[1:])
-
     paragraphs = [p.strip() for p in content_only.split("\n\n") if p.strip()]
 
     return paragraphs, full_output_dir
+
 
 def create_file_name(full_output_dir ,sentence):
      
@@ -178,49 +179,61 @@ def convert_excel_to_pdf_in_wins(file_path):
 
 
 
-
 def main():
+    for root, _, files in os.walk(input_dir):
+        for filename in files:
+            path_file = os.path.join(root, filename)
 
-    for filename in os.listdir(input_dir):
+            # Lấy đường dẫn tương đối từ input_dir
+            relative_path = os.path.relpath(root, input_dir)
 
-        path_file = os.path.join(input_dir, filename)
-
-        kind = filetype.guess(path_file)
-
-        ext = kind.extension
-
-        category = kind.mime.split("/")[0]
-
-        if sys.platform == "linux":
-
-            if ext in ["xlsx", "xls", "xlsm", "xlsb", "csv"]:
-                filename = convert_excel_to_pdf_in_linux(filename)
-
-        if sys.platform == "win32":
-
-            if ext in ["xlsx", "xls", "xlsm", "xlsb", "csv"]:
-                filename = convert_excel_to_pdf_in_wins(path_file)
-
-        if category == "image" and ext not in ["jpg", "png", "webp"]:
-                    print(f"Định dạng hình ảnh không phù hợp, {filename}, yêu cầu định dạng có phần mở rộng là: .jpg, .png, .webp")
-                    continue
-
-
-        pdf_path = os.path.join(input_dir, filename)
-
-
-        response = generate_respone(prompt ,pdf_path, filename)
-
-        output_text = response.text
-
-        paragraphs, full_output_dir = create_folder_name(output_text)
-        
-        for para in paragraphs:
-            if ':' not in para:
+            kind = filetype.guess(path_file)
+            if kind is None:
+                print(f"Không xác định được định dạng: {filename}")
                 continue
-            create_file_name(full_output_dir, para)
 
-        print(f"Đã lưu kết quả vào thư mục: {full_output_dir}\n")
+            ext = kind.extension
+            category = kind.mime.split("/")[0]
+
+            # Convert Excel nếu cần
+            if sys.platform == "linux":
+                if ext in ["xlsx", "xls", "xlsm", "xlsb", "csv"]:
+                    filename = convert_excel_to_pdf_in_linux(filename)
+                    path_file = os.path.join(input_dir, filename)
+
+            if sys.platform == "win32":
+                if ext in ["xlsx", "xls", "xlsm", "xlsb", "csv"]:
+                    filename = convert_excel_to_pdf_in_wins(path_file)
+                    if filename is None:
+                        continue
+                    path_file = os.path.join(input_dir, filename)
+
+            if category == "image" and ext not in ["jpg", "png", "webp"]:
+                print(f"Định dạng hình ảnh không phù hợp: {filename}")
+                continue
+
+            response = generate_respone(prompt, path_file, filename)
+            output_text = response.text
+
+            # ✅ Truyền relative_path vào đây
+            paragraphs, full_output_dir = create_folder_name(output_text, relative_path)
+
+            for para in paragraphs:
+                if ':' not in para:
+                    continue
+                create_file_name(full_output_dir, para)
+
+            print(f"Đã lưu kết quả vào thư mục: {full_output_dir}\n")
+            if os.path.exists(path_file):
+                os.remove(path_file)
+                print(f"[🗑️] Đã xoá file: {path_file}")
+            
+            if not os.listdir(root):  # thư mục trống
+                try:
+                    os.rmdir(root)
+                    print(f"[🗑️] Đã xoá thư mục trống: {root}")
+                except Exception as e:
+                    print(f"[⚠️] Không thể xoá thư mục {root}: {e}")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,2 @@
+Tiêu chí xếp loại:
+Điểm tổng trọng số từ 40% đến dưới 60% đạt loại Đạt (PASS). Điểm tổng trọng số từ 60% đến dưới 75% đạt loại Khá (CREDIT). Điểm tổng trọng số từ 75% trở lên đạt loại Giỏi (DISTINCTION). Để đạt loại Đạt, Khá hoặc Giỏi, sinh viên phải đạt ít nhất 40% ở mỗi phần của Kiểm tra mô-đun, nếu không sẽ bị đánh giá là 'Chưa đạt'.

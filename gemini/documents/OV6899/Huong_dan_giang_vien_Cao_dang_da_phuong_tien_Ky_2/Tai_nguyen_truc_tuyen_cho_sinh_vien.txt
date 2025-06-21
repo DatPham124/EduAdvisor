@@ -1,0 +1,12 @@
+Tài nguyên trực tuyến cho sinh viên: Các tài nguyên có sẵn trên OnlineVarsity cho sinh viên bao gồm:
+*   **Tải sách:** Sinh viên có thể tải sách điện tử liên quan đến môn học và đọc ngoại tuyến.
+*   **Tài liệu đọc bổ sung:** Sinh viên có thể truy cập tài liệu bổ sung liên quan đến môn học để đọc.
+*   **Hỏi để học:** Sinh viên có thể gửi các câu hỏi kỹ thuật liên quan đến môn học, những câu hỏi này sẽ được chuyển đến điều phối viên khóa học.
+*   **Nghe để học:** Sinh viên có thể nghe các tệp âm thanh liên quan đến môn học.
+*   **Tải tệp khóa học:** Sinh viên có thể tải các tệp nguồn liên quan đến khóa học.
+*   **Tải câu hỏi mẫu:** Sinh viên có thể tải các câu hỏi mẫu cho học phần.
+*   **Phản hồi:** Sinh viên có thể cung cấp phản hồi về tài liệu khóa học.
+*   **Câu hỏi thường gặp:** Sinh viên có thể truy cập các câu hỏi thường gặp và câu trả lời của chúng.
+*   **Bảng chú giải:** Sinh viên có thể truy cập danh sách các từ chuyên ngành liên quan đến môn học cùng với định nghĩa của chúng.
+*   **Bài tập dựa trên kịch bản:** Sinh viên có thể giải các bài tập thực hành dựa trên kịch bản. Giảng viên sẽ đánh giá và đưa ra phản hồi.
+*   **Chỉ cho tôi cách làm:** Sinh viên có thể xem mô phỏng từng bước hoặc trình diễn các chủ đề liên quan đến học phần.

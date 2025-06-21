@@ -1,0 +1,7 @@
+Chi tiết các bài kiểm tra thực hành:
+Kiểm tra thực hành (R1) có 20 điểm, thời lượng 60 phút, loại thực hành, bao gồm môn Giới thiệu về lập trình Dart.
+Kiểm tra thực hành (R2) có 20 điểm, thời lượng 60 phút, loại thực hành, bao gồm môn Phát triển ứng dụng sử dụng Flutter và Dart.
+Kiểm tra thực hành (R3) có 20 điểm, thời lượng 60 phút, loại thực hành, bao gồm môn Phát triển thành phần web sử dụng Jakarta EE.
+Kiểm tra thực hành (R4) có 20 điểm, thời lượng 60 phút, loại thực hành, bao gồm môn Xây dựng ứng dụng web Java với Spring Framework.
+Kiểm tra thực hành (R5) có 20 điểm, thời lượng 60 phút, loại thực hành, bao gồm môn Phát triển ứng dụng doanh nghiệp trong Jakarta EE.
+Kiểm tra thực hành (R6) có 20 điểm, thời lượng 60 phút, loại thực hành, bao gồm môn Tạo dịch vụ cho web.

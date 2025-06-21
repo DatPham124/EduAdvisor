@@ -1,0 +1,18 @@
+Yêu cầu về phần mềm và phần cứng cho phòng học và phòng lab:
+Các yêu cầu để tiến hành các buổi học của khóa học này được mô tả như sau:
+*   **Yêu cầu phần mềm**:
+    *   Microsoft Windows 10 hoặc cao hơn.
+    *   Microsoft SQL Server 2019 Standard Edition.
+    *   Microsoft Visual Studio 2022 Professional Edition.
+    *   Apache NetBeans IDE.
+    *   Java SE 19.x hoặc cao hơn và JavaFX.
+*   **Phần cứng khuyến nghị**:
+    *   Bộ xử lý Intel Core i3/i5 hoặc cao hơn.
+    *   RAM 8 GB hoặc cao hơn.
+    *   Màn hình SVGA màu.
+    *   Ổ cứng 500 GB.
+    *   Chuột.
+    *   Bàn phím.
+*   **Các yêu cầu khác (Đối với phòng học)**:
+    *   Máy tính để trình diễn (nếu có).
+    *   Máy chiếu LCD.

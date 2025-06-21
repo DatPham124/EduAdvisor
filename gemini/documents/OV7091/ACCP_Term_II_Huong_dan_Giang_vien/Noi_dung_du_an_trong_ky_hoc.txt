@@ -1,0 +1,2 @@
+Nội dung dự án trong kỳ học:
+Dự án trong kỳ học này sẽ bao gồm việc phát triển một ứng dụng sử dụng các công nghệ Java.

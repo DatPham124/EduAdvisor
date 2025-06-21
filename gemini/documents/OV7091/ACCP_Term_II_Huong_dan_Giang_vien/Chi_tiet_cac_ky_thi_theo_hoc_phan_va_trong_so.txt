@@ -1,0 +1,47 @@
+Chi tiết các kỳ thi theo học phần và trọng số:
+Dưới đây là danh sách các học phần sẽ được kiểm tra cùng với trọng số của chúng:
+*   **Kỳ thi học phần (E1)**:
+    *   Điểm: 20
+    *   Thời lượng: 40 phút
+    *   Loại: Trắc nghiệm
+    *   Môn học: Xử lý dữ liệu với XML và JSON (20 điểm).
+*   **Kỳ thi học phần (R1)**:
+    *   Điểm: 20
+    *   Thời lượng: 60 phút
+    *   Loại: Thực hành
+    *   Môn học: Xử lý dữ liệu với XML và JSON (20 điểm).
+*   **Kỳ thi học phần (E2)**:
+    *   Điểm: 20
+    *   Thời lượng: 40 phút
+    *   Loại: Trắc nghiệm
+    *   Môn học: Lập trình Java-I (20 điểm).
+*   **Kỳ thi học phần (R2)**:
+    *   Điểm: 20
+    *   Thời lượng: 60 phút
+    *   Loại: Thực hành
+    *   Môn học: Lập trình Java-I (20 điểm).
+*   **Kỳ thi học phần (E3)**:
+    *   Điểm: 20
+    *   Thời lượng: 40 phút
+    *   Loại: Trắc nghiệm
+    *   Môn học: Lập trình Java-II (20 điểm).
+*   **Kỳ thi học phần (R3)**:
+    *   Điểm: 20
+    *   Thời lượng: 60 phút
+    *   Loại: Thực hành
+    *   Môn học: Lập trình Java-II (20 điểm).
+*   **Kỳ thi học phần (E4)**:
+    *   Điểm: 20
+    *   Thời lượng: 40 phút
+    *   Loại: Trắc nghiệm
+    *   Môn học: Lập trình bằng C# (20 điểm).
+*   **Kỳ thi học phần (R4)**:
+    *   Điểm: 20
+    *   Thời lượng: 60 phút
+    *   Loại: Thực hành
+    *   Môn học: Lập trình bằng C# (20 điểm).
+*   **Dự án cuối kỳ (P)**:
+    *   Điểm: 100
+    *   Thời lượng: 20 giờ
+    *   Loại: Dự án
+    *   Môn học: Dự án phát triển ứng dụng Java (100% nội dung).

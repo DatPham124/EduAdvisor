@@ -1,0 +1,1 @@
+Yêu cầu phần mềm: Các yêu cầu phần mềm bao gồm: hệ điều hành 64-bit (Microsoft® Windows Vista® Home Premium, Business, Ultimate, hoặc Enterprise với Service Pack 1, khuyến nghị Service Pack 2, hoặc Windows 7), Microsoft Internet Explorer 6 trở lên, HTML5, CSS3 và Javascript ES7, Adobe Dreamweaver CC, Adobe Animate CC, Figma và Bootstrap.

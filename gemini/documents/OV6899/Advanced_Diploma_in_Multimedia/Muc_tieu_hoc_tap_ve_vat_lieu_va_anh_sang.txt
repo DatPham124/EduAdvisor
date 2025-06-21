@@ -1,0 +1,2 @@
+Mục tiêu học tập về vật liệu và ánh sáng:
+Sinh viên sẽ hiểu khái niệm đổ bóng và tạo vân bề mặt, các thuộc tính vật liệu khác nhau, khái niệm về kết cấu, xác định các loại ánh sáng, mô tả tầm quan trọng của việc thiết lập nguồn sáng trong Maya, và mô tả ánh sáng một điểm.

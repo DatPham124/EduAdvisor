@@ -1,0 +1,2 @@
+Giải thích các ký hiệu trong lịch trình:
+Trong lịch trình, D là Ngày, TL là Buổi học trực tuyến, EP là eProject, S là Buổi tự học (ngoài thời lượng khóa học), E là Kỳ thi mô-đun (Mục tiêu)-AoLEAP, và R là Kỳ thi mô-đun (Thực hành).

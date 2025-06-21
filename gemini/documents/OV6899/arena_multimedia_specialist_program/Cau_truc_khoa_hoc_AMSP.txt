@@ -1,0 +1,2 @@
+Cấu trúc khóa học AMSP:
+Tổng thời lượng khóa học AMSP là 752 giờ, được chia thành bốn kỳ học. Kỳ 1 tập trung vào Bộ thiết kế đồ họa, Kỳ 2 là Bộ thiết kế web và kỹ thuật số, Kỳ 3 bao gồm Làm phim và Thiết kế trò chơi, và Kỳ 4 chuyên sâu về Hoạt hình 3D.

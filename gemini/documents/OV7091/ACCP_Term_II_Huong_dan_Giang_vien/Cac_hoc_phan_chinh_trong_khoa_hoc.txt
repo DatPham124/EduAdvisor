@@ -1,0 +1,7 @@
+Các học phần chính trong khóa học:
+Trong khóa học này, học viên sẽ học các học phần sau:
+*   Xử lý dữ liệu với XML và JSON
+*   Lập trình Java-I
+*   Lập trình Java-II
+*   Dự án phát triển ứng dụng Java
+*   Lập trình bằng C#

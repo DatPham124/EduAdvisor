@@ -1,0 +1,2 @@
+Chi tiết kỳ thi mô-đun (R5):
+Kỳ thi này dành cho môn Phát triển PHP với Laravel Framework, có 20 điểm, thời lượng 60 phút và là loại thi thực hành.

@@ -1,0 +1,8 @@
+Chú giải các ký hiệu trong lịch trình:
+Các ký hiệu được sử dụng trong lịch trình bao gồm:
+*   D = Ngày
+*   TL = Buổi học trực tuyến
+*   T = Buổi học lý thuyết
+*   E = Bài kiểm tra mô-đun (Khách quan - AoLEAP)
+*   R = Bài kiểm tra thực hành
+*   P = Dự án

@@ -1,0 +1,9 @@
+Mục tiêu học tập sau khóa học:
+Sau khi hoàn thành khóa học này, học viên sẽ có khả năng:
+*   Làm việc với các tập dữ liệu lớn bằng cơ sở dữ liệu MongoDB.
+*   Phát triển, kiểm thử và triển khai các ứng dụng web Node.js.
+*   Phát triển ứng dụng bằng ngôn ngữ Python.
+*   Phát triển các ứng dụng ASP.NET MVC nâng cao sử dụng các công cụ và công nghệ .NET Framework.
+*   Phát triển các ứng dụng doanh nghiệp và dịch vụ web sử dụng nền tảng đám mây Microsoft Azure.
+*   Thiết kế và phát triển một ứng dụng doanh nghiệp thực tế sử dụng công nghệ .NET.
+*   Xác định các công nghệ đám mây mới nổi và tìm hiểu về SMAC.

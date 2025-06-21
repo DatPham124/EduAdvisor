@@ -1,0 +1,7 @@
+Phân bổ thời gian theo học phần:
+*   **Xử lý dữ liệu với XML và JSON**: 0 giờ lý thuyết, 16 giờ trực tuyến, tổng cộng 16 giờ, 6 giờ tự học, mã kỹ năng 17.
+*   **Lập trình Java-I**: 0 giờ lý thuyết, 36 giờ trực tuyến, tổng cộng 36 giờ, 10 giờ tự học, mã kỹ năng 1338.
+*   **Lập trình Java-II**: 0 giờ lý thuyết, 40 giờ trực tuyến, tổng cộng 40 giờ, 12 giờ tự học, mã kỹ năng 1338.
+*   **Dự án phát triển ứng dụng Java**: 2 giờ lý thuyết, 18 giờ trực tuyến, tổng cộng 20 giờ, 0 giờ tự học, mã kỹ năng 1338.
+*   **Lập trình bằng C#**: 0 giờ lý thuyết, 36 giờ trực tuyến, tổng cộng 36 giờ, 12 giờ tự học, mã kỹ năng 1339.
+*   **Tổng cộng**: 2 giờ lý thuyết, 146 giờ trực tuyến, tổng cộng 148 giờ, 40 giờ tự học.

@@ -1,0 +1,8 @@
+Yêu cầu về phần cứng khuyến nghị:
+Các yêu cầu về phần cứng khuyến nghị bao gồm:
+*   Bộ xử lý Intel Core i3/i5 hoặc cao hơn
+*   RAM 8 GB hoặc cao hơn
+*   Màn hình SVGA màu
+*   Ổ cứng 500 GB
+*   Chuột
+*   Bàn phím

@@ -1,0 +1,6 @@
+Tiêu chí xếp loại:
+Để đạt được các cấp độ xếp loại, học viên cần đạt được các mức điểm tổng trọng số như sau:
+*   Điểm tổng trọng số từ 40% đến dưới 60% đạt loại Đạt (PASS).
+*   Điểm tổng trọng số từ 60% đến dưới 75% đạt loại Khá (CREDIT).
+*   Điểm tổng trọng số từ 75% trở lên đạt loại Giỏi (DISTINCTION).
+Để đạt loại Đạt, Khá hoặc Giỏi, học viên phải đạt ít nhất 40% điểm ở mỗi phần thi, nếu không sẽ bị đánh giá là "Chưa đạt".

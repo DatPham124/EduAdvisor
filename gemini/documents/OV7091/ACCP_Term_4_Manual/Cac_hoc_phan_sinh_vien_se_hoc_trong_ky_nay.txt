@@ -1,0 +1,2 @@
+Các học phần sinh viên sẽ học trong kỳ này:
+Trong kỳ học này, sinh viên sẽ được học các học phần sau: Giới thiệu về lập trình Dart, Phát triển ứng dụng sử dụng Flutter và Dart, Phát triển thành phần web sử dụng Jakarta EE, Xây dựng ứng dụng web Java với Spring Framework, Phát triển ứng dụng doanh nghiệp trong Jakarta EE, Tạo dịch vụ cho web, và Dự án phát triển ứng dụng doanh nghiệp Java.

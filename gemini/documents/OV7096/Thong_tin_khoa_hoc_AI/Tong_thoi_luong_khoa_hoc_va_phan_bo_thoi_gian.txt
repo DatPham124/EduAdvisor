@@ -1,0 +1,1 @@
+Tổng thời lượng khóa học và phân bổ thời gian: 346 giờ (146 giờ Foundation in Data Science + 200 giờ AI and Machine Learning)

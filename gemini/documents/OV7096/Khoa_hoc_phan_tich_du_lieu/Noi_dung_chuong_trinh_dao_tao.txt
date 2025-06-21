@@ -1,0 +1,1 @@
+Nội dung chương trình đào tạo : Chương trình bao gồm phân tích dữ liệu với MS Excel, truy vấn dữ liệu với SQL, quản lý dữ liệu lớn với MongoDB, phân tích thống kê, phân tích dữ liệu khoa học với R, phát triển ứng dụng với Python, và đồ án phân tích dữ liệu với R.

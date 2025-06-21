@@ -1,0 +1,2 @@
+Lịch trình học tập hàng tuần:
+Lịch trình học tập hàng tuần chi tiết các buổi học theo ngày (D), bao gồm các buổi học trực tuyến (TL), buổi học lý thuyết (T), bài kiểm tra mô-đun khách quan (E), bài kiểm tra thực hành (R) và dự án (P).

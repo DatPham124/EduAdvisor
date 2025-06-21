@@ -1,0 +1,2 @@
+Dự án cuối kỳ:
+Dự án trong kỳ này sẽ tập trung vào việc xây dựng một ứng dụng doanh nghiệp thực tế sử dụng các công nghệ Jakarta EE.

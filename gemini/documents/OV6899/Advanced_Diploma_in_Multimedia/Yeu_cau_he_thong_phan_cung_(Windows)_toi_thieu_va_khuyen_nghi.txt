@@ -1,0 +1,10 @@
+Yêu cầu hệ thống phần cứng (Windows) tối thiểu và khuyến nghị:
+Để đảm bảo hoạt động tối ưu, hệ thống cần đáp ứng các yêu cầu phần cứng sau:
+*   **Bộ xử lý**: Tối thiểu là Intel® thế hệ thứ 6 trở lên hoặc AMD Ryzen™ 1000 Series trở lên. Khuyến nghị là Intel® thế hệ thứ 7 trở lên hoặc AMD Ryzen™ 3000 Series trở lên.
+*   **Hệ điều hành**: Tối thiểu là Windows 10 (64-bit) phiên bản 2004 trở lên; các phiên bản LTSC không được hỗ trợ.
+*   **RAM**: Tối thiểu 8 GB RAM. Khuyến nghị 16 GB RAM cho phương tiện HD hoặc 32 GB cho phương tiện 4K trở lên.
+*   **Card đồ họa**: Tối thiểu hỗ trợ DirectX 12 với 2 GB bộ nhớ GPU. Khuyến nghị hỗ trợ DirectX 12 với 4 GB bộ nhớ GPU cho màn hình 4K trở lên.
+*   **Card âm thanh**: Tối thiểu tương thích ASIO hoặc Microsoft Windows Driver Model.
+*   **Độ phân giải màn hình**: Tối thiểu 1280 x 800 với tỷ lệ UI 100%. Khuyến nghị 1920 x 1080 trở lên với tỷ lệ UI 100%.
+*   **Dung lượng ổ cứng**: Tối thiểu 8 GB dung lượng ổ cứng trống để cài đặt; cần thêm dung lượng trống trong quá trình cài đặt (sẽ không cài đặt trên bộ nhớ flash di động); ổ đĩa tốc độ cao bổ sung cho phương tiện. Khuyến nghị SSD nội bộ nhanh cho cài đặt ứng dụng và bộ nhớ đệm; (các) ổ đĩa tốc độ cao bổ sung cho phương tiện.
+*   **Internet**: Cần có kết nối Internet và đăng ký để kích hoạt phần mềm bắt buộc, xác thực đăng ký và truy cập các dịch vụ trực tuyến.

@@ -1,0 +1,2 @@
+Giới thiệu về mục đích của tài liệu:
+Tài liệu Hướng dẫn cho Giảng viên này được sử dụng cho Kỳ 1 của khóa học ACCP, tập trung vào việc phát triển kỹ năng lập trình logic và phát triển Web của sinh viên.
