@@ -4,10 +4,11 @@ from pymongo import MongoClient
 from flask import Flask, request, jsonify
 from rapidfuzz import process
 import google.generativeai as genai
+from rapidfuzz import fuzz
 
 dotenv.load_dotenv()
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
-gemini_model = genai.GenerativeModel(model_name="gemini-2.0-flash")
+gemini_model = genai.GenerativeModel(model_name="gemini-2.5-flash")
 
 # === KẾT NỐI MONGODB ===
 client = MongoClient("mongodb://localhost:27017/")
@@ -17,25 +18,93 @@ collection = db["documents"]
 app = Flask(__name__)
 history = []
 
-# === TÌM INTENT ===
-def find_intents(question):
-    intent_list = [doc["_intent"] for doc in collection.find({}, {"_intent": 1})]
-    joined_intents = ". ".join(intent_list)
+def extract_options_from_answer(answer, all_intents):
+    joined_intents = ". ".join(all_intents)
     prompt = f"""
-    Bạn là một người tư vấn thông minh và thân thiện tại CUSC.
-    Hãy dựa vào lịch sử hội thoại và câu hỏi của người dùng để phân loại ngữ cảnh. 
-    Các câu hỏi mà bạn không xác định được ngữ nghĩa thì hãy dựa vào lịch sử hội thoại.
-    Hãy ưu tiên tư vấn 2 khóa học Lập trình viên quốc tế Aptech và khóa Mỹ thuật phương tiện Arena rồi mới tới các khóa còn lại.
-    Kết hợp giữa câu hỏi hiện tại của người dùng và câu trả lời của các câu hỏi trước được lưu trong lịch sử hội thoại để xác định ngữ cảnh, các câu hỏi hiện tại đó của người dùng có thể là một phần của câu hỏi gợi ý.
-    Lịch sử hội thoại: {history}. 
-    Câu hỏi: "{question}"
-    Danh sách ngữ cảnh hợp lệ: {joined_intents}
+    Phản hồi sau đây là câu trả lời của chatbot đang tư vấn cho học viên:
 
-    Trả về 3 ngữ cảnh liên quan nhất nối với dấu chấm (.) theo thứ tự ưu tiên, không thêm giải thích.
-    Nếu không xác định được, trả về "no".
+    "{answer}"
+
+    Nhiệm vụ của bạn là:
+    1. Trích xuất các lựa chọn mà chatbot đang gợi ý (ví dụ như tên chương trình học, tên khoá học).
+    2. Với mỗi lựa chọn, xác định ngữ cảnh phù hợp nhất từ danh sách intent có sẵn bên dưới.
+    3. Trả về kết quả dưới dạng JSON:
+    {{
+      "options": {{
+        "Tên hiển thị của lựa chọn": "intent tương ứng"
+      }}
+    }}
+
+    Danh sách intent hợp lệ: {joined_intents}
+
+    Nếu không tìm thấy lựa chọn nào thì trả về:
+    {{
+      "options": {{}}
+    }}
+    """
+    response = gemini_model.generate_content(prompt)
+    try:
+        json_block = response.text.strip().split("```json")[-1].split("```")[0] if "```json" in response.text else response.text
+        import json
+        return json.loads(json_block)
+    except Exception as e:
+        print("[Error] Không thể phân tích options từ Gemini:", e)
+        return {"options": {}}
+
+
+def match_option_to_intent(question, options_dict):
+    for option_text, intent in options_dict.items():
+        if fuzz.partial_ratio(question.lower(), option_text.lower()) > 80:
+            return intent
+    return None
+
+def find_intents(question, intent_list, user_info=None):
+    joined_intents = ". ".join(intent_list)
+
+    last_turn = history[-1] if history else None
+    last_q = last_turn["question"] if last_turn else ""
+    last_a = last_turn["answer"] if last_turn else ""
+    last_intent = last_turn["intent"] if last_turn else ""
+    last_options = last_turn.get("options", {}) if last_turn else {}
+
+    # 👉 Nếu câu hỏi phù hợp 1 trong các lựa chọn của bot trước đó
+    matched_intent = match_option_to_intent(question, last_options)
+    if matched_intent:
+        print(f"[OptionMatch] Câu hỏi khớp với lựa chọn: {matched_intent}")
+        return matched_intent
+
+    # Nếu giống phản hồi trước (fuzzy match)
+    if fuzz.partial_ratio(question.lower(), last_a.lower()) > 85:
+        return last_intent or "no"
+    
+    print(f"Thông tin người dùng: {user_info}")
+
+    # Nếu không khớp, dùng Gemini để suy luận
+    prompt = f"""
+    Bạn là chuyên gia phân tích ngữ cảnh cho chatbot tại Trung tâm CUSC.
+    Dựa trên câu hỏi người dùng, sở thích của họ và lịch sử hội thoại, bạn cần xác định ngữ cảnh phù hợp nhất.
+    Dưới đây là thông tin cần thiết:
+
+    Câu hỏi người dùng: "{question}"
+    Sở thích của người dùng: {user_info or "(Không có thông tin)"}
+    Lịch sử gần nhất:
+    - Người dùng: {last_q}
+    - Chatbot: {last_a}
+    - Ngữ cảnh trước: {last_intent or "(chưa có)"}
+
+    Danh sách ngữ cảnh: {joined_intents}
+
+    Hướng dẫn:
+    - Nếu câu hỏi này là một phần của lựa chọn được chatbot gợi ý trước đó → xác định intent tương ứng.
+    - Nếu người dùng đang hỏi chi tiết một lựa chọn cụ thể → giữ đúng intent đó.
+    - Nếu không xác định được → trả về "no".
+    
+    Trả về tối đa 3 intent, cách nhau bằng dấu chấm `.`, không giải thích.
     """
     response = gemini_model.generate_content(prompt)
     return response.text.strip()
+
+
 
 # === LẤY DỮ LIỆU TỪ MONGODB THEO INTENT ===
 def get_data_from_intent(intents):
@@ -49,33 +118,15 @@ def get_data_from_intent(intents):
 
     return combined_content.strip() if combined_content else None
 
-# === TÌM CÂU HỎI GẦN GIỐNG ===
-def find_similar_question(question, log_content, threshold=90):
-    log_entries = log_content.split("\nQ: ")
-    log_qa = []
-    for entry in log_entries:
-        if "\nA: " in entry:
-            q, a = entry.split("\nA: ", 1)
-            log_qa.append((q.strip(), a.strip()))
-    
-    questions = [q for q, _ in log_qa]
-    match = process.extractOne(question, questions, score_cutoff=threshold)
-    if match:
-        matched_q = match[0]
-        for q, a in log_qa:
-            if q == matched_q:
-                print("[Log] Khớp với câu đã có trong log.")
-                return a
-    return "no"
-
 def get_limited_history(max_chars=1000):
     history_text = ""
-    for q, a in reversed(history):
-        turn = f"Người dùng: {q}\nChatbot: {a}\n"
+    for entry in reversed(history):
+        turn = f"Người dùng: {entry['question']}\nchatbot: {entry['answer']}\n"
         if len(history_text) + len(turn) > max_chars:
             break
-        history_text = turn + history_text  
+        history_text = turn + history_text
     return history_text
+
 
 def generate_answer(question, context, user_info=None):
     chat_history = get_limited_history()
@@ -109,37 +160,26 @@ def chat():
 
     if not question:
         return jsonify({"answer": "Vui lòng nhập câu hỏi."})
-
-    try:
-        with open("log.csv", "r", encoding="utf-8") as log:
-            log_content = log.read()
-    except FileNotFoundError:
-        log_content = ""
-
-    # answer = find_similar_question(question, log_content)
-    # from_log = True
-
-    # if answer == "no":
-    #     intents = find_intents(question)
-    #     print(f"[Intent] Nhận diện ngữ cảnh: {intents}")
-    #     context = None
-    #     if intents != "no":
-    #         context = get_data_from_intent(intents)
-    #         from_log = False
-    #     answer = generate_answer(question, context, user_info)
-
-    # if not from_log:
-    #     log_interaction(question, answer)
-
-    # history.append((question, answer))
-    # return jsonify({"answer": answer})
-
-    intents = find_intents(question)
+    
+    all_intents = [doc["_intent"] for doc in collection.find({}, {"_intent": 1})]
+    intents = find_intents(question, all_intents, user_info)
     print(f"[Intent] Nhận diện ngữ cảnh: {intents}")
     context = None
     if intents != "no":
         context = get_data_from_intent(intents)
     answer = generate_answer(question, context, user_info)
+
+    # Dùng Gemini để trích xuất options
+    option_data = extract_options_from_answer(answer, all_intents)
+    options = option_data.get("options", {})
+
+    history.append({
+        "question": question,
+        "answer": answer,
+        "intent": intents if intents != "no" else None,
+        "options": options
+    })
+
     return jsonify({"answer": answer})
 
 # === CHẠY SERVER FLASK TRÊN CỔNG 5000 ===
