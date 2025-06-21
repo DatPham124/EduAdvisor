@@ -3,37 +3,59 @@ const axios = require("axios");
 const ApiError = require("../api-error");
 const catchAsync = require("../utils/catchAsync.util");
 const User = require("../models/user.model");
+const HistoryConversation = require("../models/historyConversation.model");
 
 exports.chat = async (req, res, next) => {
   const { user_id, question } = req.body;
-  if (!req.body?.question || !req.body?.user_id) {
-    res.json({ answer: "Vui lòng nhập câu hỏi" });
+  if (!question || !user_id) {
+    return res.json({ answer: "Vui lòng nhập câu hỏi" });
   }
-  const user = await User.findById(user_id);
-  const userInfo = `Thông tin học sinh: ${user.name}, sở thích: ${user.favorite}`;
+
   try {
+    const user = await User.findById(user_id);
+    if (!user) {
+      return res.status(404).json({ error: "Người dùng không tồn tại" });
+    }
+
+    const userInfo = `Thông tin học sinh: ${user.name}, sở thích: ${user.favorite}`;
+
     const response = await axios.post("http://localhost:5000/chat", {
       question,
       user_info: userInfo,
     });
-    res.json({ answer: response.data.answer });
+
+    const answer = response.data.answer;
+
+    // Tạo đoạn hội thoại mới
+    const newConversation = {
+      question,
+      answer,
+      timestamp: new Date(),
+    };
+
+    // Tìm hoặc tạo mới lịch sử hội thoại
+    try {
+      await HistoryConversation.findOneAndUpdate(
+        { userId: user_id },
+        { $push: { conversations: newConversation } },
+        { upsert: true, new: true }
+      );
+    } catch (err) {
+      console.error("Lỗi khi update hoặc tạo mới lịch sử:", err);
+    }
+
+    return res.json({ answer });
   } catch (error) {
     return next(new ApiError(500, `Không thể trả lời câu hỏi: ${error}`));
   }
 };
 
-exports.getByUserId = catchAsync(async (req, res, next) => {
+exports.getConversation = catchAsync(async (req, res, next) => {
   const { id } = req.params;
-  const user = await User.findById(id);
 
-  if (!user) {
-    return next(new ApiError("No user found", 404));
-  }
+  const response = await HistoryConversation.findOne({ userId: id });
 
-  res.status(200).json({
-    status: "success",
-    data: {
-      user,
-    },
-  });
+  const conversations = response?.conversations || [];
+
+  return res.json({ conversations });
 });
