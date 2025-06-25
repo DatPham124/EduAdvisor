@@ -1,2 +1,0 @@
-Yêu cầu kỹ năng đối với giảng viên Kỳ 2:
-Giảng viên cần có kiến thức khái niệm về thiết kế web front-end và UI/UX cho thiết kế web đáp ứng (RWD). Thành thạo các công nghệ web như HTML, CSS, JS. Kiến thức về Figma cho thiết kế UI sản phẩm kỹ thuật số nâng cao. Kinh nghiệm với Bootstrap như một framework front-end cho thiết kế web đáp ứng. Khả năng giảng dạy hoạt hình web bằng Adobe Animate. Kiến thức về Adobe Dreamweaver để tạo và quản lý trang web. Lưu ý: Giảng viên cần có kiến thức làm việc vững chắc về các chi tiết của kỳ học trên.

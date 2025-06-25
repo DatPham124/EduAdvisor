@@ -1,1 +1,0 @@
-Hệ thống chấm điểm dựa trên cấp độ: Học viên được trao các cấp độ dựa trên tổng điểm trung bình có trọng số. Cụ thể, cấp độ "Đạt" yêu cầu tổng điểm trung bình có trọng số từ 40% trở lên nhưng dưới 60%. Cấp độ "Khá" yêu cầu tổng điểm trung bình có trọng số từ 60% trở lên nhưng dưới 75%. Cấp độ "Giỏi" yêu cầu tổng điểm trung bình có trọng số từ 75% trở lên.

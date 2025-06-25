@@ -1,7 +1,0 @@
-Kết quả học tập và cơ hội nghề nghiệp của CPIDA: Khóa học cung cấp định hướng về Khoa học Dữ liệu và các kỹ thuật xử lý dữ liệu bằng khai thác dữ liệu.
-Học viên sẽ được trang bị kỹ năng làm việc với bảng tính và phân tích dữ liệu bằng MS Excel, nắm vững các khái niệm cơ bản về lệnh Transact-SQL (T-SQL).
-Khóa học cũng giúp hiểu các khái niệm, tính năng, kiến trúc và mô hình dữ liệu của MongoDB, đồng thời học cách cài đặt, cấu hình và giám sát cơ sở dữ liệu NoSQL mã nguồn mở.
-Học viên sẽ hiểu các kiến thức cơ bản về phân tích thống kê, thống kê mô tả, phân tích dự đoán, xác suất và định lý Bayes.
-Chương trình giúp thành thạo các kỹ thuật khám phá dữ liệu, trực quan hóa dữ liệu, phân tích dự đoán và phân tích mô tả bằng ngôn ngữ R.
-Ngoài ra, học viên sẽ phát triển các ứng dụng bằng ngôn ngữ Python và xây dựng một ứng dụng thực tế bằng ngôn ngữ R.
-Sau khi hoàn thành khóa học, học viên có cơ hội làm việc trong các vị trí như Nhà phân tích dữ liệu tài chính, Lập trình viên R và Lập trình viên Python.

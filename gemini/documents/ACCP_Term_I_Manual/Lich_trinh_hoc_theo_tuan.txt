@@ -1,1 +1,0 @@
-Lịch trình học theo tuần: Lịch trình học được chia theo tuần và ngày, bao gồm các buổi học trực tuyến (TL), các buổi tự học (S), các kỳ thi mô-đun khách quan (E - AoLEAP), các kỳ thi mô-đun thực hành (R) và các buổi làm dự án eProject (EP). Lịch trình này chi tiết hóa các hoạt động cho từng mô-đun trong suốt khóa học.

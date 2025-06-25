@@ -1,4 +1,0 @@
-Hệ thống chấm điểm dựa trên cấp độ: Sinh viên được trao cấp độ dựa trên các tiêu chí sau:
-*   **Đạt:** Tổng điểm có trọng số lớn hơn hoặc bằng 40% nhưng nhỏ hơn 60%.
-*   **Khá:** Tổng điểm có trọng số lớn hơn hoặc bằng 60% nhưng nhỏ hơn 75%.
-*   **Giỏi:** Tổng điểm có trọng số lớn hơn hoặc bằng 75%.

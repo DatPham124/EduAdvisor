@@ -1,2 +1,0 @@
-Lịch trình học theo tuần của Kỳ 4:
-Lịch trình này chi tiết các buổi học theo từng tuần, bao gồm các buổi học trực tuyến (TL), kiểm tra mô-đun (E), kiểm tra thực hành (R), dự án (P) và giờ tự học (S).

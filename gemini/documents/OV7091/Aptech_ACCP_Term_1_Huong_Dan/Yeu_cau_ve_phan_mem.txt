@@ -1,2 +1,0 @@
-Yêu cầu về phần mềm:
-Các phần mềm cần thiết bao gồm: Microsoft Windows 11, CoffeeCup Free HTML5 Editor, MS SQL Server 2019 Standard Edition, Microsoft Office Standard 2019 hoặc cao hơn, thư viện jQuery, plugin và jQuery 1.1.2.4 bản ổn định, React 18.x hoặc cao hơn, Figma ToolKit, PHP 8.0 và Laravel FW.

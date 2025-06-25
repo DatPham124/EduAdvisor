@@ -1,2 +1,0 @@
-Cấu trúc và công cụ học tập của Kỳ 2 - Lập trình:
-Kỳ 2 tập trung vào lập trình, với tổng thời lượng 148 giờ, bao gồm 66 giờ lý thuyết, 82 giờ thực hành và 40 giờ tự học. Các học phần bao gồm: Xử lý dữ liệu với XML và JSON (16 giờ), Lập trình Java - I (36 giờ), Lập trình Java - II (40 giờ), Dự án phát triển ứng dụng Java (20 giờ), và Lập trình bằng C# (36 giờ). Các công cụ và phần mềm sử dụng là Apache NetBeans 16.x, Java SE 19.x trở lên và JavaFX, Microsoft Visual Studio 2022 Professional. Cơ hội nghề nghiệp sau kỳ này bao gồm Nhà phát triển Java và Lập trình viên C#.

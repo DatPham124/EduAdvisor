@@ -1,0 +1,172 @@
+Giới thiệu tài liệu: Tài liệu này là Sổ tay Hướng dẫn Giảng viên cho chương trình ACCP Kỳ II, nhằm giới thiệu cho sinh viên các kiến thức cơ bản về XML, Core Java và C#.
+
+Các mô-đun khóa học: Sinh viên sẽ học các mô-đun sau trong khóa học này:
+* Xử lý dữ liệu với XML và JSON
+* Lập trình Java-I
+* Lập trình Java-II
+* Dự án phát triển ứng dụng Java
+* Lập trình bằng C#
+
+Mục tiêu khóa học: Sau khi hoàn thành khóa học, sinh viên sẽ có khả năng:
+* Sử dụng XML và JSON để lưu trữ và trao đổi dữ liệu.
+* Thiết kế và phát triển các ứng dụng máy tính để bàn bằng Java.
+* Sử dụng các tính năng ngôn ngữ cốt lõi và Giao diện lập trình ứng dụng của Java để thiết kế các ứng dụng hướng đối tượng.
+* Phát triển các ứng dụng hướng đối tượng cơ bản và nâng cao bằng C#.
+
+Dự án cuối kỳ: Dự án trong kỳ này sẽ bao gồm việc phát triển một ứng dụng sử dụng các công nghệ Java.
+
+Lịch sử sửa đổi: Bản ghi sửa đổi cho thấy phiên bản 1.0 có ngày hiệu lực là tháng 10 năm 2023 và được đánh dấu là "Mới".
+
+Mục lục tài liệu: Tài liệu bao gồm các phần sau:
+* Giới thiệu
+* Thông tin chung về lịch trình buổi học
+* Các sản phẩm bàn giao của ACCP Kỳ II
+* Chiến lược đánh giá
+* Yêu cầu về phòng học và phòng thí nghiệm
+
+Thông tin lịch trình khóa học: Bảng dưới đây trình bày chi tiết các mô-đun, số giờ dành cho mỗi mô-đun cùng với phân tích số giờ dành cho từng mô-đun. Mỗi buổi học kéo dài hai giờ. Để biết thêm chi tiết, hãy tham khảo sổ tay giảng viên của từng mô-đun.
+
+Phân bổ giờ học theo mô-đun:
+* Xử lý dữ liệu với XML và JSON: 0 giờ lý thuyết, 16 giờ trực tuyến, tổng 16 giờ, 6 giờ tự học, mã kỹ năng 17.
+* Lập trình Java-I: 0 giờ lý thuyết, 36 giờ trực tuyến, tổng 36 giờ, 10 giờ tự học, mã kỹ năng 1338.
+* Lập trình Java-II: 0 giờ lý thuyết, 40 giờ trực tuyến, tổng 40 giờ, 12 giờ tự học, mã kỹ năng 1338.
+* Dự án phát triển ứng dụng Java: 2 giờ lý thuyết, 18 giờ trực tuyến, tổng 20 giờ, 0 giờ tự học, mã kỹ năng 1338.
+* Lập trình bằng C#: 0 giờ lý thuyết, 36 giờ trực tuyến, tổng 36 giờ, 12 giờ tự học, mã kỹ năng 1339.
+* Tổng cộng: 2 giờ lý thuyết, 146 giờ trực tuyến, tổng 148 giờ, 40 giờ tự học.
+
+Lịch trình học tập hàng tuần: Lịch trình chi tiết các buổi học, bài kiểm tra và dự án được phân bổ theo tuần và ngày. Các loại hoạt động bao gồm:
+* D: Ngày
+* TL: Buổi học trực tuyến
+* E: Bài kiểm tra mô-đun (Mục tiêu-AoLEAP)
+* R: Bài kiểm tra thực hành
+* P: Dự án
+
+Lịch trình Xử lý dữ liệu XML và JSON: Trong các tuần đầu, môn Xử lý dữ liệu với XML và JSON có các buổi học trực tuyến (TL1-TL8). Sinh viên sẽ tham gia Bài kiểm tra mô-đun E1 và Bài kiểm tra thực hành R1 trong tuần 1, cùng với các buổi S1, S2 trong tuần 2.
+
+Lịch trình Lập trình Java-I: Môn Lập trình Java-I diễn ra với các buổi học trực tuyến (TL1-TL18) từ tuần 2 đến tuần 4. Sinh viên sẽ có Bài kiểm tra thực hành R2 và các buổi S1-S4 trong tuần 2, cùng với buổi S5 và Bài kiểm tra mô-đun E2 trong tuần 4.
+
+Lịch trình Lập trình Java-II: Môn Lập trình Java-II bao gồm các buổi học trực tuyến (TL1-TL20) từ tuần 3 đến tuần 4. Các buổi S1-S6 được tổ chức trong tuần 3, và Bài kiểm tra mô-đun E3 cùng Bài kiểm tra thực hành R3 diễn ra trong tuần 4.
+
+Lịch trình Dự án Java: Dự án phát triển ứng dụng Java (P1-P10) được dành riêng từ tuần 13 đến tuần 16.
+
+Lịch trình Lập trình C#: Môn Lập trình bằng C# có các buổi học trực tuyến (TL1-TL18) trong tuần 17 và 18. Sinh viên sẽ tham gia Bài kiểm tra thực hành R4 và các buổi S1-S4 trong tuần 17, cùng với các buổi S5-S6 và Bài kiểm tra mô-đun E4 trong tuần 18.
+
+Sản phẩm bàn giao ACCP Kỳ II: Các sản phẩm bàn giao cho sinh viên và giảng viên được liệt kê dưới đây.
+
+Sản phẩm bàn giao cho sinh viên:
+* Xử lý dữ liệu với XML và JSON: Sách "Data Processing with XML and JSON" (Mã sách: AINNXJSON11023E000).
+* Lập trình Java-I: Sách "Java Programming-The Complete Guide for Beginners" (Mã sách: AINNJAVP111023E000).
+* Lập trình Java-II: Sách "JavaFX and Advanced Java" (Mã sách: AINNJAVP211023E000).
+* Dự án phát triển ứng dụng Java: Sách "PG-Developing JavaFX Applications" (Mã sách: AINNPGJFX11023E000).
+* Lập trình ứng dụng với C#: Sách "Developing Applications with Csharp" (Mã sách: AINNCSPRG11023E000).
+* Mã bộ công cụ OV: OV-7091-KIT01-02-E, tên bộ công cụ: Bộ 5 đầu sách cho OV-7091 ACCP Kỳ 2.
+
+Sản phẩm bàn giao cho giảng viên:
+* Xử lý dữ liệu với XML và JSON: Sách "Data Processing with XML and JSON" (Mã sách: AINNXJSON11023E000).
+* Lập trình Java-I: Sách "Java Programming-The Complete Guide for Beginners" (Mã sách: AINNJAVP111023E000).
+* Lập trình Java-II: Sách "JavaFX and Advanced Java" (Mã sách: AINNJAVP211023E000).
+* Dự án phát triển ứng dụng Java: Sách "PG-Developing JavaFX Applications" (Mã sách: AINNPGJFX11023E000).
+* Lập trình ứng dụng với C#: Sách "Developing Applications with Csharp" (Mã sách: AINNCSPRG11023E000).
+* Mã bộ công cụ OV: OV-7091-KIT01-02-E, tên bộ công cụ: Bộ 5 đầu sách cho OV-7091 ACCP Kỳ 2.
+* Khóa học: Sổ tay giảng viên chính, Sổ tay giảng viên mô-đun, Hướng dẫn giảng viên (nếu có), Bài thuyết trình trên lớp (nếu có).
+
+Sản phẩm OnlineVarsity: OnlineVarsity là một nền tảng truy cập nội dung số và cộng tác dành cho sinh viên Aptech, với nhiều tính năng thú vị nhằm nâng cao trải nghiệm học tập. Giảng viên có thể truy cập sách điện tử và các thành phần khác trong OnlineVarsity thông qua Aptrack.
+
+Tài nguyên OnlineVarsity: Các tài nguyên có sẵn trên OnlineVarsity bao gồm:
+* Tải sách: Sinh viên có thể tải sách điện tử liên quan đến môn học và đọc ngoại tuyến.
+* Thuật ngữ: Sinh viên có thể truy cập danh sách các từ chuyên ngành liên quan đến môn học cùng với định nghĩa của chúng.
+* Câu hỏi thường gặp: Sinh viên có thể truy cập các câu hỏi thường gặp và câu trả lời của chúng.
+* Thực hành cho tôi: Sinh viên có thể kiểm tra và đánh giá mức độ hiểu biết của mình về các chủ đề liên quan đến mô-đun.
+* Bài tập thực hành: Sinh viên có thể giải các bài tập thực hành dựa trên kịch bản (thực hành). Giảng viên sẽ đánh giá và đưa ra phản hồi.
+* Tài liệu tham khảo: Sinh viên có thể truy cập tài liệu bổ sung liên quan đến môn học để đọc.
+* Phản hồi: Sinh viên có thể cung cấp phản hồi về tài liệu khóa học.
+* Hỏi để học: Sinh viên có thể gửi các câu hỏi kỹ thuật liên quan đến môn học. Các câu hỏi đã gửi sẽ được chuyển đến điều phối viên/trưởng bộ môn cụ thể.
+
+Chiến lược đánh giá: Chiến lược đánh giá cho khóa học này bao gồm Bài kiểm tra mô-đun (Mục tiêu-AoLEAP), Bài kiểm tra thực hành và Dự án.
+
+Quy định về xếp loại:
+* Tổng điểm có trọng số từ 40% đến dưới 60% đạt loại Đạt.
+* Tổng điểm có trọng số từ 60% đến dưới 75% đạt loại Khá.
+* Tổng điểm có trọng số từ 75% trở lên đạt loại Giỏi.
+
+Lưu ý về xếp loại: Để đạt loại Đạt/Khá/Giỏi, sinh viên phải đạt ít nhất 40% ở mỗi phần của Bài kiểm tra nội bộ cũng như Bài kiểm tra cuối kỳ, nếu không sẽ bị xếp loại "Chưa đạt".
+
+Bài kiểm tra mô-đun E1:
+* Điểm: 20
+* Thời lượng: 40 phút
+* Loại: Trắc nghiệm
+* Môn học: Xử lý dữ liệu với XML và JSON, điểm 20.
+
+Bài kiểm tra mô-đun R1:
+* Điểm: 20
+* Thời lượng: 60 phút
+* Loại: Thực hành
+* Môn học: Xử lý dữ liệu với XML và JSON, điểm 20.
+
+Bài kiểm tra mô-đun E2:
+* Điểm: 20
+* Thời lượng: 40 phút
+* Loại: Trắc nghiệm
+* Môn học: Lập trình Java-I, điểm 20.
+
+Bài kiểm tra mô-đun R2:
+* Điểm: 20
+* Thời lượng: 60 phút
+* Loại: Thực hành
+* Môn học: Lập trình Java-I, điểm 20.
+
+Bài kiểm tra mô-đun E3:
+* Điểm: 20
+* Thời lượng: 40 phút
+* Loại: Trắc nghiệm
+* Môn học: Lập trình Java-II, điểm 20.
+
+Bài kiểm tra mô-đun R3:
+* Điểm: 20
+* Thời lượng: 60 phút
+* Loại: Thực hành
+* Môn học: Lập trình Java-II, điểm 20.
+
+Bài kiểm tra mô-đun E4:
+* Điểm: 20
+* Thời lượng: 40 phút
+* Loại: Trắc nghiệm
+* Môn học: Lập trình bằng C#, điểm 20.
+
+Bài kiểm tra mô-đun R4:
+* Điểm: 20
+* Thời lượng: 60 phút
+* Loại: Thực hành
+* Môn học: Lập trình bằng C#, điểm 20.
+
+Dự án cuối kỳ:
+* Điểm: 100
+* Thời lượng: 20 giờ
+* Loại: Dự án
+* Môn học: Dự án phát triển ứng dụng Java, chiếm 100% nội dung.
+
+Chi tiết đánh giá tổng thể:
+* OES: 50%
+* Thực hành: 30%
+* Dự án: 20%
+
+Yêu cầu phòng học và phòng thí nghiệm: Các yêu cầu để tiến hành các buổi học của khóa học này được mô tả như sau.
+
+Yêu cầu phần mềm:
+* Microsoft Windows 10 trở lên
+* Microsoft SQL Server 2019 Standard Edition
+* Microsoft Visual Studio 2022 Professional Edition
+* Apache NetBeans IDE
+* Java SE 19.x trở lên và JavaFX
+
+Yêu cầu phần cứng đề xuất:
+* Bộ xử lý Intel Core i3/i5 trở lên
+* RAM 8 GB trở lên
+* SVGA màu
+* Dung lượng ổ cứng 500 GB
+* Chuột
+* Bàn phím
+
+Các yêu cầu khác cho phòng học:
+* Máy tính để trình diễn khi cần
+* Máy chiếu LCD

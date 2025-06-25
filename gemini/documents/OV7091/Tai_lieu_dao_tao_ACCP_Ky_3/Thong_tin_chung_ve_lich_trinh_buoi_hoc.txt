@@ -1,2 +1,0 @@
-Thông tin chung về lịch trình buổi học:
-Bảng dưới đây trình bày chi tiết các mô-đun, số giờ dành cho mỗi mô-đun cùng với phân bổ giờ học. Mỗi buổi học có thời lượng hai giờ. Để hiểu rõ hơn về chi tiết từng buổi học, vui lòng tham khảo tài liệu hướng dẫn của từng mô-đun.

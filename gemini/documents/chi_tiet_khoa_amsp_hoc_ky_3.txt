@@ -1,0 +1,125 @@
+Bản ghi sửa đổi: Thông tin chi tiết về bản ghi sửa đổi của tài liệu được cung cấp, bao gồm số phiên bản, ngày hiệu lực, loại thay đổi và các trang đã được thay thế. Bản ghi sửa đổi của tài liệu này bao gồm: Phiên bản số 1.0, có hiệu lực từ tháng 1 năm 2024. Thay đổi được ghi nhận là 'Mới', và không có trang nào được thay thế.
+
+Mục lục tài liệu: Các phần chính và trang tương ứng. Mục lục của tài liệu bao gồm các phần sau: Giới thiệu – Chứng chỉ nâng cao về Đa phương tiện (trang 4), Thông tin chung về chương trình học (trang 5), Các sản phẩm đào tạo (trang 6), Lịch trình theo tuần (trang 7), Phương pháp đào tạo (trang 9), Các thành phần và chi tiết đánh giá (trang 10), Yêu cầu hệ thống (trang 11).
+
+Mục tiêu khóa học: Sinh viên sẽ đạt được. Khi kết thúc học kỳ này, sinh viên sẽ có khả năng: Hiểu các khái niệm về làm phim và toàn bộ quy trình làm phim kỹ thuật số. Giải thích các kỹ thuật và tầm quan trọng của bảng phân cảnh. Tạo, ghi âm và chỉnh sửa âm thanh. Chỉnh sửa và tổng hợp video. Hiểu giao diện người dùng, công cụ điều hướng, bảng điều khiển và các tính năng của Blender. Minh họa cách tạo mô hình tài sản 3D trong Blender. Học và minh họa cách ánh xạ UV tài sản 3D của bạn trong Blender. Tạo và vẽ kết cấu của nhân vật và tài sản 3D trong Substance Painter.
+
+Khái niệm làm phim kỹ thuật số: Thông tin chi tiết. Mô-đun 'Khái niệm làm phim kỹ thuật số' có tổng thời lượng 10 giờ, bao gồm 10 giờ lý thuyết và 0 giờ thực hành. Mã kỹ năng là 209, mã sách là OV-DFM0001, và tên sách là 'Concepts of Digital Filmmaking - INTL'. Không có công cụ cụ thể được liệt kê cho mô-đun này.
+
+Bảng phân cảnh: Thời lượng và tài liệu. Mô-đun 'Bảng phân cảnh' có tổng thời lượng 16 giờ, bao gồm 10 giờ lý thuyết và 6 giờ thực hành. Mã kỹ năng là 276, mã sách là OV-STB0008, và tên sách là 'Storyboarding-INTL'. Không có công cụ cụ thể được liệt kê cho mô-đun này.
+
+Âm thanh kỹ thuật số: Chi tiết mô-đun. Mô-đun 'Âm thanh kỹ thuật số' có tổng thời lượng 16 giờ, bao gồm 8 giờ lý thuyết và 8 giờ thực hành. Mã kỹ năng là 1522, mã sách là RINNDISOT10621E000, và tên sách là 'Digital Sound Track'. Công cụ được sử dụng là Adobe Audition CC.
+
+Chỉnh sửa video kỹ thuật số: Tổng quan. Mô-đun 'Chỉnh sửa video kỹ thuật số' có tổng thời lượng 32 giờ, bao gồm 18 giờ lý thuyết và 14 giờ thực hành. Mã kỹ năng là 1523, mã sách là RINNEDIVI10621E000, và tên sách là 'Editing Digital Video'. Các công cụ được sử dụng là Adobe Premiere CC và Prelude CC.
+
+Tạo đồ họa chuyển động: Thông tin khóa học. Mô-đun 'Tạo đồ họa chuyển động' có tổng thời lượng 32 giờ, bao gồm 12 giờ lý thuyết và 20 giờ thực hành. Mã kỹ năng là 1524, mã sách là RINNCMOGR10621E000, và tên sách là 'Creating Motion Graphics'. Công cụ được sử dụng là Adobe After Effects.
+
+Ý tưởng trò chơi và hình dung: Chi tiết. Mô-đun 'Ý tưởng trò chơi và hình dung' có tổng thời lượng 24 giờ, bao gồm 8 giờ lý thuyết và 16 giờ thực hành. Mã kỹ năng là 280, mã sách là OV-GIV0001, và tên sách là 'Game Idea and Visualization-INTL'. Không có công cụ cụ thể được liệt kê cho mô-đun này.
+
+Giới thiệu Blender: Thời lượng và công cụ. Mô-đun 'Giới thiệu Blender' có tổng thời lượng 8 giờ, bao gồm 4 giờ lý thuyết và 4 giờ thực hành. Mã kỹ năng là 1514, mã sách là RINNINTBL10323E000, và tên sách là 'Introduction to Blender'. Công cụ được sử dụng là Blender.
+
+Mô hình tài sản trò chơi: Chi tiết. Mô-đun 'Mô hình tài sản trò chơi' có tổng thời lượng 20 giờ, bao gồm 8 giờ lý thuyết và 12 giờ thực hành. Mã kỹ năng là 1514, mã sách là RINNGMASM10323E000, và tên sách là 'Game Asset Modeling'. Công cụ được sử dụng là Blender.
+
+Tái cấu trúc tài sản trò chơi: Thông tin. Mô-đun 'Tái cấu trúc tài sản trò chơi' có tổng thời lượng 24 giờ, bao gồm 8 giờ lý thuyết và 16 giờ thực hành. Mã kỹ năng là 1514, mã sách là RINNRGMAS10323E000, và tên sách là 'Retopology of Game Asset'. Công cụ được sử dụng là Blender.
+
+Tạo kết cấu tài sản trò chơi: Tổng quan. Mô-đun 'Tạo kết cấu tài sản trò chơi' có tổng thời lượng 28 giờ, bao gồm 12 giờ lý thuyết và 16 giờ thực hành. Mã kỹ năng là 1512, mã sách là RINNTGMAS10323E000, và tên sách là 'Texturing of Game Asset'. Công cụ được sử dụng là Substance Painter.
+
+Thiết kế cấp độ: Thời lượng và công cụ. Mô-đun 'Thiết kế cấp độ' có tổng thời lượng 30 giờ, bao gồm 10 giờ lý thuyết và 20 giờ thực hành. Mã kỹ năng là 281, mã sách là RINNLVDSG10323E000, và tên sách là 'Level Designing'. Công cụ được sử dụng là Unity 3D.
+
+Thiết kế trò chơi 3D: Chi tiết mô-đun. Mô-đun 'Thiết kế trò chơi 3D' có tổng thời lượng 2 giờ, bao gồm 2 giờ lý thuyết và 0 giờ thực hành. Mã kỹ năng là 281, mã sách là OV-PRG0162, và tên sách là 'Portfolio-3D Game design-INTL'. Không có công cụ cụ thể được liệt kê cho mô-đun này.
+
+Tổng thời lượng chương trình: Chi tiết. Tổng thời lượng của chương trình là 242 giờ, bao gồm 110 giờ lý thuyết và 132 giờ thực hành.
+
+Sản phẩm đào tạo: Hỗ trợ quá trình giảng dạy. Để hỗ trợ quá trình giảng dạy, các sản phẩm đào tạo dành cho giảng viên bao gồm: Sổ tay giảng viên (PM), Bài thuyết trình trên lớp, và Hướng dẫn đào tạo.
+
+Sản phẩm đào tạo: Hỗ trợ quá trình học tập. Để hỗ trợ quá trình học tập, các sản phẩm đào tạo dành cho sinh viên bao gồm: Hướng dẫn người học (sách điện tử).
+
+Tài nguyên OnlineVarsity: Dành cho sinh viên. Các tài nguyên có sẵn trên OnlineVarsity dành cho sinh viên bao gồm: Tải sách (sinh viên có thể tải sách điện tử liên quan đến môn học và đọc ngoại tuyến), Tài liệu đọc bổ sung (sinh viên có thể truy cập tài liệu bổ sung liên quan đến môn học để đọc), Hỏi để học (sinh viên có thể gửi các câu hỏi kỹ thuật liên quan đến môn học sẽ được chuyển đến điều phối viên khóa học), Nghe để học (sinh viên có thể nghe các tệp âm thanh liên quan đến môn học), Tải tệp khóa học (sinh viên có thể tải các tệp nguồn liên quan đến khóa học), Tải câu hỏi mẫu (sinh viên có thể tải câu hỏi mẫu cho mô-đun), Phản hồi (sinh viên có thể cung cấp phản hồi về tài liệu khóa học), Câu hỏi thường gặp (sinh viên có thể truy cập các câu hỏi thường gặp và câu trả lời của chúng), Bảng chú giải (sinh viên có thể truy cập danh sách các từ chuyên ngành liên quan đến môn học với định nghĩa của chúng), Bài tập dựa trên kịch bản (sinh viên có thể giải các bài tập thực hành dựa trên kịch bản. Giảng viên sẽ đánh giá và đưa ra phản hồi), và Hướng dẫn thực hiện (sinh viên có thể xem mô phỏng/minh họa từng bước các chủ đề liên quan đến mô-đun).
+
+Lịch trình học tập: Tổng quan. Lịch trình học tập được tổ chức theo tuần, với lý thuyết và thực hành được phân bổ trong 2 giờ mỗi ngày, 3 ngày mỗi tuần. Lịch trình chi tiết bao gồm các mô-đun và hoạt động cụ thể theo từng ngày trong tuần.
+
+Lịch trình: Khái niệm làm phim kỹ thuật số. Mô-đun 'Khái niệm làm phim kỹ thuật số' được học trong Tuần 1, Ngày 1 (O1-O3) và Tuần 2, Ngày 1 (O4-O5). O là Online Session.
+
+Lịch trình: Bảng phân cảnh. Mô-đun 'Bảng phân cảnh' được học trong Tuần 4, Ngày 1 (O5), Tuần 5, Ngày 2 (O1-O5) và Tuần 6, Ngày 3 (O1).
+
+Lịch trình: Âm thanh kỹ thuật số. Mô-đun 'Âm thanh kỹ thuật số' được học trong Tuần 7, Ngày 1 (A1), Tuần 8, Ngày 2 (O2-O3, R1) và Tuần 9, Ngày 3 (O1, ME1). A là Assignment, R là Modular Exam-Practical, ME là Modular Exam-Theory.
+
+Lịch trình: Chỉnh sửa video kỹ thuật số. Mô-đun 'Chỉnh sửa video kỹ thuật số' được học trong Tuần 12, Ngày 1 (O7, ME2), Tuần 13, Ngày 2 (O1-O6, A2) và Tuần 14, Ngày 3 (R2).
+
+Lịch trình: Tạo đồ họa chuyển động. Mô-đun 'Tạo đồ họa chuyển động' được học trong Tuần 17, Ngày 1 (O6, R3, ME3), Tuần 18, Ngày 2 (O2-O5, A3) và Tuần 19, Ngày 3 (O1).
+
+Lịch trình: Ý tưởng trò chơi và hình dung. Mô-đun 'Ý tưởng trò chơi và hình dung' được học trong Tuần 23, Ngày 1 (O4), Tuần 24, Ngày 2 (O1-O3) và Tuần 25, Ngày 3 (O1).
+
+Lịch trình: Giới thiệu Blender. Mô-đun 'Giới thiệu Blender' được học trong Tuần 26, Ngày 2 (O1-O2) và Tuần 27, Ngày 3 (O1).
+
+Lịch trình: Mô hình tài sản trò chơi. Mô-đun 'Mô hình tài sản trò chơi' được học trong Tuần 28, Ngày 1 (O4) và Tuần 29, Ngày 2 (O1-O4, A4).
+
+Lịch trình: Tái cấu trúc tài sản trò chơi. Mô-đun 'Tái cấu trúc tài sản trò chơi' được học trong Tuần 31, Ngày 1 (O5), Tuần 32, Ngày 2 (O1-O4) và Tuần 33, Ngày 3 (O1, R4).
+
+Lịch trình: Tạo kết cấu tài sản trò chơi. Mô-đun 'Tạo kết cấu tài sản trò chơi' được học trong Tuần 37, Ngày 1 (R5), Tuần 38, Ngày 2 (O6, O1-O5) và Tuần 39, Ngày 3 (A5).
+
+Lịch trình: Thiết kế cấp độ. Mô-đun 'Thiết kế cấp độ' được học trong Tuần 42, Ngày 1 (O5, ME4), Tuần 43, Ngày 2 (O1-O4, A6) và Tuần 44, Ngày 3 (O1, R6).
+
+Lịch trình: Thiết kế trò chơi 3D. Mô-đun 'Thiết kế trò chơi 3D' được học trong Tuần 45, Ngày 3 (T1). T là Project.
+
+Chú giải lịch trình: Các ký hiệu. Các ký hiệu được sử dụng trong lịch trình bao gồm: O - Buổi học trực tuyến; A - Bài tập; R - Bài kiểm tra thực hành mô-đun; Me – Bài kiểm tra lý thuyết mô-đun; T - Dự án.
+
+Phương pháp đào tạo: Tổng quan. Khóa học thường tuân theo phương pháp T + L + T + L + T + L (Lý thuyết + Thực hành). Các bài kiểm tra định kỳ và bài tập là một phần của phương pháp đào tạo. Các buổi học trên lớp/lý thuyết cung cấp định hướng lý thuyết về các khái niệm cốt lõi. Khi kiến thức về các khái niệm được truyền đạt, khóa học cũng minh họa cách các khái niệm này được áp dụng trong thực tế cho các mô-đun dựa trên công cụ. Sinh viên sử dụng các phòng thí nghiệm thực hành để áp dụng các khái niệm lý thuyết.
+
+Đánh giá sinh viên: Quy trình kiểm tra. Các kỳ thi được tiến hành định kỳ để đánh giá từng sinh viên. Sinh viên sẽ phải tham gia các kỳ thi cuối mô-đun. Các kỳ thi cuối mô-đun sẽ được tiến hành trực tuyến với các câu hỏi khách quan. Các kỳ thi mô-đun cho các mô-đun được đề cập trong bảng đánh giá phải được hoàn thành trong thời gian quy định cho kỳ thi. Khi áp dụng hoặc được đề cập, sinh viên sẽ phải tạo và nộp bài tập và Dự án, đồng thời cũng phải tham gia các bài thực hành.
+
+Bài tập: Thời lượng và điểm số. Bài tập có thời lượng 2 giờ mỗi bài, với 25 điểm cho mỗi bài tập. Bài tập sẽ được quản lý dựa trên yêu cầu của mô-đun.
+
+Dự án: Thời lượng và đánh giá. Dự án có thời lượng như được đề cập trong bảng chương trình chung, với 100 điểm. Sinh viên sẽ được đánh giá dựa trên bài thuyết trình. Bản sao lưu trên CD phải được nộp cho giảng viên.
+
+Thực hành cuối mô-đun: Chi tiết. Bài kiểm tra thực hành cuối mô-đun có thời lượng và điểm số như được đề cập trong bảng đánh giá. Bài kiểm tra sẽ được quản lý dựa trên yêu cầu của mô-đun. Bài thực hành theo kịch bản sẽ do giảng viên chuẩn bị.
+
+Lý thuyết cuối mô-đun: Chi tiết. Bài kiểm tra lý thuyết cuối mô-đun có thời lượng và điểm số như được đề cập trong bảng thành phần đánh giá. Đây là bài kiểm tra trực tuyến được tiến hành theo các khoảng thời gian thích hợp. Các mô-đun có thể kiểm tra được đánh giá dựa trên trọng số của chúng.
+
+Thành phần đánh giá: Tổng quan. Các thành phần đánh giá bao gồm bài tập, bài kiểm tra thực hành mô-đun, bài kiểm tra lý thuyết mô-đun và dự án. Mỗi thành phần có điểm số và thời lượng riêng.
+
+Đánh giá: Khái niệm làm phim kỹ thuật số. Mô-đun 'Khái niệm làm phim kỹ thuật số' không có bài tập hoặc bài kiểm tra thực hành. Nó được đánh giá bằng bài kiểm tra lý thuyết mô-đun ME1, với 15 điểm và thời lượng 30 phút.
+
+Đánh giá: Bảng phân cảnh. Mô-đun 'Bảng phân cảnh' không có bài tập, bài kiểm tra thực hành hoặc bài kiểm tra lý thuyết mô-đun được liệt kê trong bảng này.
+
+Đánh giá: Âm thanh kỹ thuật số. Mô-đun 'Âm thanh kỹ thuật số' có bài tập A1 và bài kiểm tra thực hành R1, mỗi bài 25 điểm và thời lượng 120 phút. Không có bài kiểm tra lý thuyết mô-đun được liệt kê.
+
+Đánh giá: Chỉnh sửa video kỹ thuật số. Mô-đun 'Chỉnh sửa video kỹ thuật số' có bài tập A2 và bài kiểm tra thực hành R2, mỗi bài 25 điểm và thời lượng 120 phút. Nó cũng có bài kiểm tra lý thuyết mô-đun ME2, với 20 điểm và thời lượng 40 phút.
+
+Đánh giá: Tạo đồ họa chuyển động. Mô-đun 'Tạo đồ họa chuyển động' có bài tập A3 và bài kiểm tra thực hành R3, mỗi bài 25 điểm và thời lượng 120 phút. Nó cũng có bài kiểm tra lý thuyết mô-đun ME3, với 20 điểm và thời lượng 40 phút.
+
+Đánh giá: Các mô-đun trò chơi. Các mô-đun 'Ý tưởng trò chơi và hình dung' và 'Giới thiệu Blender' không có bài tập, bài kiểm tra thực hành hoặc bài kiểm tra lý thuyết mô-đun được liệt kê. Mô-đun 'Mô hình tài sản trò chơi' có bài tập A4 nhưng không có bài kiểm tra thực hành hoặc lý thuyết mô-đun được liệt kê. Tất cả các mô-đun này không áp dụng cho dự án.
+
+Đánh giá: Tái cấu trúc tài sản trò chơi. Mô-đun 'Tái cấu trúc tài sản trò chơi' có bài kiểm tra thực hành R4, với 25 điểm và thời lượng 120 phút. Không có bài tập hoặc bài kiểm tra lý thuyết mô-đun được liệt kê.
+
+Đánh giá: Tạo kết cấu tài sản trò chơi. Mô-đun 'Tạo kết cấu tài sản trò chơi' có bài tập A5 và bài kiểm tra thực hành R5, mỗi bài 25 điểm và thời lượng 120 phút. Không có bài kiểm tra lý thuyết mô-đun được liệt kê.
+
+Đánh giá: Thiết kế cấp độ. Mô-đun 'Thiết kế cấp độ' có bài tập A6 và bài kiểm tra thực hành R6, mỗi bài 25 điểm và thời lượng 120 phút. Nó cũng có bài kiểm tra lý thuyết mô-đun ME4, với 10 điểm và thời lượng 20 phút.
+
+Đánh giá: Thiết kế trò chơi 3D. Mô-đun 'Thiết kế trò chơi 3D' được đánh giá thông qua một dự án. Không có bài tập, bài kiểm tra thực hành hoặc lý thuyết mô-đun được liệt kê.
+
+Chi tiết đánh giá: Điểm cần đạt. Để đạt điểm, sinh viên cần đạt 100% cho Bài tập (A), 100% cho Bài kiểm tra thực hành (R), 100% cho Bài kiểm tra trực tuyến, và 100% cho Điểm dự án. Tổng điểm cuối cùng được tính bằng 25% điểm nội bộ cộng với 50% điểm bên ngoài (Thực hành + Trực tuyến) cộng với 25% điểm dự án.
+
+Hệ thống xếp loại: Tiêu chí. Sinh viên được xếp loại dựa trên các tiêu chí sau: Đạt (Pass) nếu tổng điểm trung bình có trọng số lớn hơn hoặc bằng 40% nhưng nhỏ hơn 60%. Khá (Credit) nếu tổng điểm trung bình có trọng số lớn hơn hoặc bằng 60% nhưng nhỏ hơn 75%. Giỏi (Distinction) nếu tổng điểm trung bình có trọng số lớn hơn hoặc bằng 75%.
+
+Lưu ý xếp loại: Điều kiện đạt. Để đạt được loại Đạt/Khá/Giỏi, sinh viên phải đạt ít nhất 40% ở mỗi thành phần của bài kiểm tra nội bộ cũng như bài kiểm tra cuối cùng; nếu không, sinh viên sẽ bị xếp loại 'Referred' (chưa đạt).
+
+Yêu cầu phần cứng: Hệ thống Windows. Các yêu cầu phần cứng tối thiểu và khuyến nghị cho hệ thống Windows như sau:
+
+Yêu cầu bộ xử lý: Tối thiểu và khuyến nghị. Bộ xử lý tối thiểu là Intel® thế hệ thứ 6 trở lên hoặc AMD Ryzen™ 1000 Series trở lên. Khuyến nghị là Intel® thế hệ thứ 7 trở lên hoặc AMD Ryzen™ 3000 Series trở lên.
+
+Yêu cầu hệ điều hành: Phiên bản Windows. Hệ điều hành yêu cầu là Windows 10 (64-bit) phiên bản 2004 trở lên; các phiên bản LTSC không được hỗ trợ.
+
+Yêu cầu RAM: Dung lượng bộ nhớ. RAM tối thiểu là 8 GB. Khuyến nghị là 16 GB RAM cho phương tiện HD và 32 GB cho phương tiện 4K trở lên.
+
+Yêu cầu card đồ họa: Hỗ trợ DirectX. Card đồ họa tối thiểu là GPU hỗ trợ DirectX 12 với 2 GB bộ nhớ GPU. Khuyến nghị là GPU hỗ trợ DirectX 12 với 4 GB bộ nhớ GPU cho màn hình 4K trở lên.
+
+Yêu cầu card âm thanh: Tương thích. Card âm thanh yêu cầu là ASIO tương thích hoặc Microsoft Windows Driver Model.
+
+Yêu cầu độ phân giải màn hình: Tối thiểu và khuyến nghị. Độ phân giải màn hình tối thiểu là 1280 x 800 với tỷ lệ UI 100%. Khuyến nghị là 1920 x 1080 trở lên với tỷ lệ UI 100%.
+
+Yêu cầu dung lượng ổ cứng: Cài đặt và lưu trữ. Dung lượng ổ cứng tối thiểu là 8 GB trống để cài đặt, cộng thêm dung lượng trống bổ sung cần thiết trong quá trình cài đặt (sẽ không cài đặt trên bộ nhớ flash di động). Cần thêm ổ đĩa tốc độ cao cho phương tiện. Khuyến nghị là SSD nội bộ nhanh cho cài đặt ứng dụng và bộ nhớ đệm, cộng thêm (các) ổ đĩa tốc độ cao bổ sung cho phương tiện.
+
+Yêu cầu kết nối Internet: Kích hoạt phần mềm. Kết nối Internet và đăng ký là cần thiết để kích hoạt phần mềm bắt buộc, xác thực đăng ký và truy cập các dịch vụ trực tuyến.
+
+Yêu cầu phần mềm: Hệ điều hành và ứng dụng. Hệ điều hành 64-bit được yêu cầu: Microsoft® Windows Vista® Home Premium, Business, Ultimate, hoặc Enterprise với Service Pack 1 (khuyến nghị Service Pack 2) hoặc Windows 7. Các phần mềm khác bao gồm: Microsoft Internet Explorer 6 trở lên, Adobe Audition CC, Adobe Premiere CC, Adobe After Effects CC, Blender, Substance Painter, và Unity 3D.

@@ -1,2 +1,0 @@
-Mục tiêu học tập về quy trình làm việc dựa trên nút và Nuke:
-Sinh viên sẽ có khả năng mô tả quy trình làm việc dựa trên nút, giải thích các tính năng cơ bản của cửa sổ Nuke, liệt kê các công cụ và chức năng của các công cụ có sẵn trong thanh công cụ Nuke, giải thích các kỹ thuật loại bỏ dây khác nhau và các công cụ được sử dụng cho nó, sử dụng các công cụ Clone và Shape trong RotoPaint để loại bỏ dây, và giải thích các tính năng của F_WireRemoval.

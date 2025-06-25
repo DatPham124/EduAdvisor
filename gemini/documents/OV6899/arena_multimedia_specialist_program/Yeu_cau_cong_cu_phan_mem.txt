@@ -1,2 +1,0 @@
-Yêu cầu công cụ phần mềm:
-Các công cụ phần mềm cần thiết bao gồm Adobe Illustrator, Adobe Photoshop, Adobe Lightroom, Adobe InDesign, Adobe InCopy, HTML, CSS & JavaScript, Adobe Dreamweaver, Adobe Animate, Figma, Bootstrap, Adobe Audition, Adobe Premier Pro, Adobe After Effects, Blender, Substance Painter, Unity 3D, Autodesk Maya, Arnold Renderer cho Maya, và Nuke.

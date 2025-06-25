@@ -1,6 +1,0 @@
-Hệ thống chấm điểm dựa trên cấp độ:
-Sinh viên được trao cấp độ dựa trên các tiêu chí sau:
-*   **Đạt**: Tổng điểm có trọng số lớn hơn hoặc bằng 40% nhưng nhỏ hơn 60%.
-*   **Khá**: Tổng điểm có trọng số lớn hơn hoặc bằng 60% nhưng nhỏ hơn 75%.
-*   **Giỏi**: Tổng điểm có trọng số lớn hơn hoặc bằng 75%.
-Lưu ý: Để đạt cấp độ Đạt/Khá/Giỏi, sinh viên phải đạt ít nhất 40% trong mỗi yếu tố của kỳ thi nội bộ cũng như kỳ thi cuối cùng; nếu không, sinh viên sẽ bị tuyên bố là 'Chưa đạt'.

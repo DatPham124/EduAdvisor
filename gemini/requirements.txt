@@ -7,3 +7,4 @@ google-genai
 unidecode
 filetype
 rapidfuzz
+python-docx

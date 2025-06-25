@@ -1,2 +1,0 @@
-Tổng thời lượng khóa học AMSP:
-Tổng thời lượng khóa học AMSP là 752 giờ. Kỳ 1 (Thiết kế đồ họa) có 86 giờ lý thuyết và 90 giờ thực hành, tổng cộng 176 giờ. Kỳ 2 (Thiết kế web và kỹ thuật số) có 78 giờ lý thuyết và 48 giờ thực hành, tổng cộng 126 giờ. Kỳ 3 (Làm phim và thiết kế trò chơi) có 110 giờ lý thuyết và 132 giờ thực hành, tổng cộng 242 giờ. Kỳ 4 (Hoạt hình 3D) có 104 giờ lý thuyết và 104 giờ thực hành, tổng cộng 208 giờ. Tổng cộng, khóa học có 378 giờ lý thuyết và 374 giờ thực hành.

@@ -1,6 +1,0 @@
-Chi tiết điểm đạt được:
-*   Điểm nội bộ: 100% từ Bài tập (A).
-*   Điểm thực hành cuối học phần/bên ngoài: 100% từ Bài kiểm tra thực hành (R).
-*   Điểm lý thuyết cuối học phần/bên ngoài: 100% từ Bài kiểm tra trực tuyến.
-*   Điểm dự án: 100% từ Điểm dự án.
-*   Tổng điểm cuối cùng có trọng số: 25% nội bộ + 50% bên ngoài (Thực hành + Trực tuyến) + 25% dự án.

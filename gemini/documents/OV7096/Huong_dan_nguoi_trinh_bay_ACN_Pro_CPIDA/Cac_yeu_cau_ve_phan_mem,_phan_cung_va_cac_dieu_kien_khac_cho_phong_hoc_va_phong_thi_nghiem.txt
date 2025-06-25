@@ -1,2 +1,0 @@
-Các yêu cầu về phần mềm, phần cứng và các điều kiện khác cho phòng học và phòng thí nghiệm:
-Các yêu cầu về phần mềm bao gồm: Microsoft Windows 11, MS Office 365, SQL Server 19.1 Standard Edition, MongoDB 6.0, Jupyter Notebook 6.5.x, và R Studio. Các yêu cầu phần cứng khuyến nghị bao gồm: Bộ xử lý Intel Core i5/i7 trở lên, RAM 8 GB hoặc 16 GB, ổ cứng 1 TB, chuột và bàn phím. Các yêu cầu khác cho phòng học bao gồm: Máy tính để trình diễn khi cần và máy chiếu LCD.

@@ -1,2 +1,0 @@
-Khả năng của sinh viên sau khi hoàn thành Kỳ 1:
-Sau khi hoàn thành Kỳ 1, sinh viên sẽ có khả năng: Sử dụng các cấu trúc lập trình để viết chương trình bằng C; Sử dụng HTML5/CSS3/JavaScript để phát triển các trang web và ứng dụng tương tác; Học phát triển web front-end với React; Học các nguyên tắc cơ bản của thiết kế UI/UX web hiệu quả và đáp ứng; Chuẩn hóa dữ liệu thô thành các bảng cơ sở dữ liệu được tổ chức tốt trong SQL Server; Tạo các ứng dụng web động bằng PHP và Laravel Framework.

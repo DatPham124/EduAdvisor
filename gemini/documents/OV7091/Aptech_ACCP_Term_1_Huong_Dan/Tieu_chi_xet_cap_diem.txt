@@ -1,6 +1,0 @@
-Tiêu chí xét cấp điểm:
-Các tiêu chí xét cấp điểm được quy định như sau:
-*   Tổng điểm có trọng số từ 40% đến dưới 60% đạt loại PASS.
-*   Tổng điểm có trọng số từ 60% đến dưới 75% đạt loại CREDIT.
-*   Tổng điểm có trọng số từ 75% trở lên đạt loại DISTINCTION.
-Lưu ý: Để đạt loại PASS/CREDIT/DISTINCTION, sinh viên phải đạt ít nhất 40% trong Kỳ thi mô-đun, nếu không sẽ bị coi là 'Referred'.

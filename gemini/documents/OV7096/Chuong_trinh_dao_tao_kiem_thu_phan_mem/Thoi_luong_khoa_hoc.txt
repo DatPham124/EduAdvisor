@@ -1,2 +1,0 @@
-Thời lượng khóa học:
-Tổng thời gian đào tạo là 292 giờ, bao gồm 146 giờ cho chương trình Foundation in Data Science và 146 giờ cho chương trình Software Testing.

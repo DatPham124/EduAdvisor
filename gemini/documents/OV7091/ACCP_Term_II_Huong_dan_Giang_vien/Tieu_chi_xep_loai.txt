@@ -1,5 +1,0 @@
-Tiêu chí xếp loại:
-*   Tổng điểm có trọng số từ 40% đến dưới 60% đạt loại Đạt (PASS).
-*   Tổng điểm có trọng số từ 60% đến dưới 75% đạt loại Khá (CREDIT).
-*   Tổng điểm có trọng số từ 75% trở lên đạt loại Giỏi (DISTINCTION).
-Để đạt được loại Đạt, Khá hoặc Giỏi, học viên phải đạt ít nhất 40% điểm ở mỗi phần của Kỳ thi Nội bộ cũng như Kỳ thi Cuối kỳ, nếu không sẽ bị xếp loại "Referred".

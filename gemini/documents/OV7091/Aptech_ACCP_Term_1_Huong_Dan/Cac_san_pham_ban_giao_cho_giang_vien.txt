@@ -1,9 +1,0 @@
-Các sản phẩm bàn giao cho giảng viên:
-Các sản phẩm bàn giao cho giảng viên bao gồm: Hướng dẫn giảng viên chính (Master PM), Hướng dẫn giảng viên mô-đun (Module PMs), Bài thuyết trình trên lớp, Hướng dẫn đào tạo, và Tài liệu bổ sung eProject.
-*   Xây dựng logic và Lập trình cơ bản: Mã sách OV-C0056, Tên sách Elementary Programming in C-INTL.
-*   Xây dựng trang web hiện đại: Mã sách AINNFENDT10323E000, Tên sách FrontEnd Technologies for Beginners.
-*   UI/UX cho thiết kế web đáp ứng: Mã sách AINNEUIUX10721E000, Tên sách Elegant and Effective Web Design with UI and UX.
-*   Phát triển web Frontend với React: Mã sách AINNREACT10423E000, Tên sách Frontend Web Development with ReactJS.
-*   eProject-Phát triển web đáp ứng: Mã sách AINNEPRWB10323E000, Tên sách ePG-Build Responsive NextGen Websites.
-*   Quản lý dữ liệu với SQL Server: Mã sách AINNSQLSR10920E000, Tên sách Intelligent Data Management with SQL Server.
-*   Phát triển PHP với Laravel Framework: Mã sách AINNPHPLV10821E000, Tên sách PHP Web Development with Laravel.

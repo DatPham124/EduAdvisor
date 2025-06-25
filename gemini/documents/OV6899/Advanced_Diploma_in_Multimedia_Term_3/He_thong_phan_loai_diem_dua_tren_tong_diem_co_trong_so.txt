@@ -1,1 +1,0 @@
-Hệ thống phân loại điểm dựa trên tổng điểm có trọng số: Sinh viên được cấp điểm dựa trên các tiêu chí sau: Đạt nếu tổng điểm có trọng số lớn hơn hoặc bằng 40% nhưng nhỏ hơn 60%. Khá nếu tổng điểm có trọng số lớn hơn hoặc bằng 60% nhưng nhỏ hơn 75%. Giỏi nếu tổng điểm có trọng số lớn hơn hoặc bằng 75%.

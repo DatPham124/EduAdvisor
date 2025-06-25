@@ -1,2 +1,0 @@
-Danh sách các môn học trong chương trình đào tạo:
-Chương trình đào tạo bao gồm các môn học sau: Chuyên đề CPD 1 (Communication and Personality Development), Computer Fundamentals, Database Design and Development, Logic Building and Elementary Programming, Building Modern Websites, UI/UX for Responsive Web Design, eProject (Website Development), Database Management with SQL Server, Frontend Web Development with React, và PHP Web Development with Laravel Framework.

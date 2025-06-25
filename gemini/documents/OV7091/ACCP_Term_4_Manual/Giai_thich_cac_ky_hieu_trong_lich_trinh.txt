@@ -1,2 +1,0 @@
-Giải thích các ký hiệu trong lịch trình:
-D là Ngày, TL là Buổi học trực tuyến, E là Kiểm tra mô-đun (Mục tiêu-AoLEAP), R là Kiểm tra thực hành, P là Dự án, và S là Giờ tự học (ngoài thời lượng khóa học).

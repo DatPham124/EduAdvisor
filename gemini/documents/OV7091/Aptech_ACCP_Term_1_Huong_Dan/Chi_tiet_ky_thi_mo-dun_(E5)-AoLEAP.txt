@@ -1,2 +1,0 @@
-Chi tiết kỳ thi mô-đun (E5)-AoLEAP:
-Kỳ thi này dành cho môn Quản lý dữ liệu với SQL Server, có 20 điểm, thời lượng 40 phút và là loại thi trắc nghiệm.

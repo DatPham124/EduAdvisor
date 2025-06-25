@@ -1,2 +1,0 @@
-Giải thích các ký hiệu trong lịch học:
-T (Theory) là học lý thuyết. TL hoặc L (Lab) là học thực hành. E (Modular Exam) là thi lý thuyết. R (Practical Exam) là thi thực hành. Các môn học bao gồm Data Processing with XML and JSON, Java Programming-I, Java Programming-II, Project-Java Application Development, Programming in C#, và Information Systems Analysis.

@@ -1,0 +1,4 @@
+Thời lượng khóa học: Tổng thời gian của khóa học là 162 giờ.
+Nội dung chương trình học: Chương trình học bao gồm các môn sau: phân tích dữ liệu với MS Excel, truy vấn dữ liệu với SQL, quản lý dữ liệu lớn với MongoDB, phân tích thống kê, phân tích dữ liệu khoa học với R, phát triển ứng dụng với Python và đồ án phân tích dữ liệu với R.
+Chứng chỉ đạt được: Sau khi hoàn thành khóa học, học viên sẽ nhận được chứng chỉ Certificate of Proficiency in Data Analysis.
+Cơ hội việc làm: Khóa học mở ra nhiều cơ hội nghề nghiệp như Chuyên viên phân tích dữ liệu (Data Analyst), Chuyên viên phân tích kinh doanh (Business Analyst), Chuyên viên tiếp thị kỹ thuật số (Digital Marketer) và Quản lý sản phẩm (Product Manager).

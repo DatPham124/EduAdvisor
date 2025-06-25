@@ -1,0 +1,131 @@
+Chương trình đào tạo: Advanced Diploma in Multimedia
+Ghi nhận sửa đổi:
+Thay đổi: Mới
+Trang thay thế: -
+
+Giới thiệu chương trình:
+Mục tiêu khóa học: Sau khi hoàn thành học kỳ này, sinh viên sẽ có khả năng:
+* Kết hợp đồ họa và siêu liên kết, tạo nội dung web phong phú.
+* Giải thích cách sử dụng trong phát triển ứng dụng web.
+* Thiết kế, lập trình và phát triển trang web.
+* Tạo cấu trúc trang web và quản lý nội dung.
+* Giải thích tối ưu hóa trang web cho xếp hạng công cụ tìm kiếm.
+* Phân tích và tối ưu hóa hiệu suất trang web, theo dõi xu hướng lưu lượng truy cập và chuyển đổi.
+
+Thông tin chương trình chung:
+Tổng quan các học phần:
+* Học phần "Web Designing Concepts" có 10 giờ lý thuyết, tổng cộng 10 giờ, mã kỹ năng 213, mã sách OV-WEB0096, tên sách "Web Designing Concepts-INTL".
+* Học phần "Building Next Generation Websites" có 12 giờ lý thuyết, 12 giờ thực hành, tổng cộng 24 giờ, mã kỹ năng 259, mã sách RINNBNGWB10620E000, tên sách "Building Next Generation Websites", sử dụng công cụ HTML5, CSS3 và Javascript ES7.
+* Học phần "Web Page Design" có 16 giờ lý thuyết, 10 giờ thực hành, tổng cộng 26 giờ, mã kỹ năng 1544, mã sách RINNWBDES10323E000, tên sách "Web Page Design", sử dụng công cụ Adobe Dreamweaver CC.
+* Học phần "Web Animation" có 12 giờ lý thuyết, 12 giờ thực hành, tổng cộng 24 giờ, mã kỹ năng 1529, mã sách RINNWEBAN10323E000, tên sách "Web Animation", sử dụng công cụ Adobe Animate CC 2021.
+* Học phần "UI and UX for Responsive Web Design" có 12 giờ lý thuyết, tổng cộng 12 giờ, mã kỹ năng 279, mã sách OV-URD0001, tên sách "UI / UX for Responsive Design-INTL".
+* Học phần "UI Design" có 8 giờ lý thuyết, 8 giờ thực hành, tổng cộng 16 giờ, mã kỹ năng 1510, mã sách RINNUIDSN10323E000, tên sách "UI Design", sử dụng công cụ Figma.
+* Học phần "Bootstrap" có 6 giờ lý thuyết, 6 giờ thực hành, tổng cộng 12 giờ, mã kỹ năng 1545, mã sách RINNBOOTS10323E000, tên sách "Bootstrap", sử dụng công cụ Bootstrap 5.
+* Học phần "Web Portfolio" có 2 giờ lý thuyết, tổng cộng 2 giờ, mã kỹ năng 213, mã sách OV-PRGKIT43, tên sách "Web Portfolio - INTL", là một dự án.
+* Tổng cộng chương trình có 78 giờ lý thuyết, 48 giờ thực hành, tổng cộng 126 giờ.
+
+Tài liệu khóa học:
+Tài liệu hỗ trợ giảng dạy: Để hỗ trợ quá trình giảng dạy, các tài liệu sau được cung cấp:
+* Sổ tay giảng viên (PM).
+* Bài thuyết trình trên lớp.
+* Hướng dẫn giảng viên.
+
+Tài liệu hỗ trợ học tập: Để hỗ trợ quá trình học tập, các tài liệu sau được cung cấp:
+* Hướng dẫn người học (sách điện tử).
+
+Tài nguyên OnlineVarsity:
+Tài nguyên cho sinh viên: Các tài nguyên có sẵn trên OnlineVarsity cho sinh viên bao gồm:
+* Tải sách: Sinh viên có thể tải sách điện tử liên quan đến môn học và đọc ngoại tuyến.
+* Tài liệu đọc bổ sung: Sinh viên có thể truy cập tài liệu bổ sung liên quan đến môn học để đọc.
+* Hỏi để học: Sinh viên có thể gửi các câu hỏi kỹ thuật liên quan đến môn học, những câu hỏi này sẽ được chuyển đến điều phối viên khóa học.
+* Nghe để học: Sinh viên có thể nghe các tệp âm thanh liên quan đến môn học.
+* Tải tệp khóa học: Sinh viên có thể tải các tệp nguồn liên quan đến khóa học.
+* Tải câu hỏi mẫu: Sinh viên có thể tải câu hỏi mẫu cho học phần.
+* Phản hồi: Sinh viên có thể cung cấp phản hồi về tài liệu khóa học.
+* Câu hỏi thường gặp: Sinh viên có thể truy cập các câu hỏi thường gặp và câu trả lời của chúng.
+* Thuật ngữ: Sinh viên có thể truy cập danh sách các từ chuyên ngành liên quan đến môn học với định nghĩa của chúng.
+* Bài tập dựa trên kịch bản: Sinh viên có thể giải các bài tập thực hành dựa trên kịch bản. Giảng viên sẽ đánh giá và đưa ra phản hồi.
+* Hướng dẫn thực hiện: Sinh viên có thể xem mô phỏng/minh họa từng bước các chủ đề liên quan đến học phần.
+
+Lịch trình theo tuần:
+Lịch trình học tập: Lịch trình học tập được phân bổ theo tuần, với 2 giờ mỗi ngày và 3 ngày mỗi tuần, bao gồm cả lý thuyết và thực hành.
+* Học phần "Web Designing Concepts" được học trong các tuần 1, 2, 3.
+* Học phần "Building Next Generation Websites" được học trong các tuần 4, 5, 6, 7.
+* Học phần "Web Page Design" được học trong các tuần 8, 9, 10, 11, 12, 13.
+* Học phần "Web Animation" được học trong các tuần 14, 15, 16, 17, 18, 19.
+* Học phần "UI and UX for Responsive Web Design" được học trong các tuần 20, 21, 22, 23.
+* Học phần "UI Design" được học trong các tuần 24, 25.
+* Học phần "Bootstrap" được học trong các tuần 26, 27, 28, 29, 30.
+* Học phần "Web Portfolio" được học trong các tuần 31, 32, 33, 34, 35.
+* Chú thích: T là buổi lý thuyết; O là buổi trực tuyến; A là bài tập; Te là bài kiểm tra.
+
+Phương pháp đào tạo:
+Tổng quan phương pháp: Khóa học thường tuân theo phương pháp T + L + T + L + T + L (Lý thuyết + Thực hành). Các bài kiểm tra định kỳ và bài tập là một phần của phương pháp đào tạo. Các buổi học lý thuyết trên lớp cung cấp định hướng lý thuyết về các khái niệm cốt lõi. Khi kiến thức về các khái niệm được truyền đạt, khóa học cũng minh họa cách các khái niệm này được áp dụng trong thực tế cho các học phần dựa trên công cụ. Sinh viên sử dụng các phòng thí nghiệm thực hành để áp dụng các khái niệm lý thuyết.
+Đánh giá sinh viên: Các kỳ thi được tiến hành định kỳ để đánh giá từng sinh viên. Sinh viên sẽ phải tham gia các kỳ thi cuối học phần. Các kỳ thi cuối học phần sẽ được tiến hành trực tuyến với các câu hỏi trắc nghiệm. Các kỳ thi học phần cho các học phần được đề cập trong bảng đánh giá phải được hoàn thành trong thời gian quy định cho kỳ thi. Bất cứ khi nào áp dụng hoặc được đề cập, sinh viên sẽ phải tạo và nộp bài tập và dự án điện tử, đồng thời cũng phải tham gia các bài thực hành.
+
+Thành phần đánh giá:
+Bài tập (A):
+* Thời lượng: 2 giờ mỗi bài.
+* Điểm: 25 điểm mỗi bài tập.
+* Sẽ được thực hiện dựa trên yêu cầu của học phần.
+Dự án điện tử (P):
+* Thời lượng: Như đã đề cập trong bảng chương trình chung.
+* Điểm danh mục đầu tư: 60 điểm.
+* Điểm tài liệu: 20 điểm.
+* Điểm vấn đáp: 20 điểm.
+* Sinh viên sẽ được đánh giá dựa trên bài thuyết trình, tài liệu và vấn đáp.
+* Bản sao lưu trên CD sẽ được giao cho giảng viên.
+Thực hành cuối học phần (R):
+* Thời lượng và điểm: Như đã đề cập trong bảng đánh giá.
+* Sẽ được thực hiện dựa trên yêu cầu của học phần.
+* Bài thực hành kịch bản sẽ do giảng viên chuẩn bị.
+Lý thuyết cuối học phần:
+* Thời lượng và điểm: Như đã đề cập trong bảng thành phần đánh giá.
+* Bài kiểm tra trực tuyến được tiến hành theo các khoảng thời gian thích hợp.
+* Các học phần có thể kiểm tra, được đánh giá dựa trên trọng số của chúng.
+
+Chi tiết đánh giá:
+Thành phần và điểm:
+* Điểm nội bộ: Bài tập (A) 100%.
+* Điểm thực hành cuối học phần/bên ngoài: Bài kiểm tra thực hành (R) 100%.
+* Điểm lý thuyết cuối học phần/bên ngoài: Bài kiểm tra trực tuyến 100%.
+* Điểm dự án: Điểm dự án 100%.
+* Tổng điểm cuối cùng có trọng số: Nội bộ 25% + Bên ngoài 50% (Thực hành + Trực tuyến) + Dự án 25%.
+
+Hệ thống chấm điểm:
+Tiêu chí xếp loại: Sinh viên được xếp loại dựa trên các tiêu chí sau:
+* Đạt: Tổng điểm có trọng số lớn hơn hoặc bằng 40% nhưng nhỏ hơn 60%.
+* Khá: Tổng điểm có trọng số lớn hơn hoặc bằng 60% nhưng nhỏ hơn 75%.
+* Giỏi: Tổng điểm có trọng số lớn hơn hoặc bằng 75%.
+Lưu ý quan trọng: Để đạt được loại Đạt/Khá/Giỏi, sinh viên phải đạt ít nhất 40% ở mỗi yếu tố của kỳ thi nội bộ cũng như kỳ thi cuối cùng; nếu không, sinh viên sẽ bị xếp loại "Chưa đạt".
+
+Yêu cầu hệ thống:
+Yêu cầu phần cứng (Windows):
+* Bộ xử lý:
+    * Tối thiểu: Intel® thế hệ thứ 6 trở lên hoặc AMD Ryzen™ 1000 Series trở lên.
+    * Khuyến nghị: Intel® thế hệ thứ 7 trở lên hoặc AMD Ryzen™ 3000 Series trở lên.
+* Hệ điều hành: Windows 10 (64-bit) phiên bản 2004 trở lên; các phiên bản LTSC không được hỗ trợ.
+* RAM:
+    * Tối thiểu: 8 GB RAM.
+    * Khuyến nghị: 16 GB RAM cho phương tiện HD, 32 GB cho phương tiện 4K trở lên.
+* Card đồ họa:
+    * Tối thiểu: GPU hỗ trợ DirectX 12, 2 GB bộ nhớ GPU.
+    * Khuyến nghị: GPU hỗ trợ DirectX 12, 4 GB bộ nhớ GPU cho màn hình 4K trở lên.
+* Card âm thanh: Tương thích ASIO hoặc Microsoft Windows Driver Model.
+* Độ phân giải màn hình:
+    * Tối thiểu: 1280 x 800 hiển thị ở tỷ lệ UI 100%.
+    * Khuyến nghị: 1920 x 1080 hiển thị trở lên ở tỷ lệ UI 100%.
+* Dung lượng ổ cứng:
+    * Tối thiểu: 8 GB dung lượng ổ cứng trống để cài đặt; cần thêm dung lượng trống để cài đặt (sẽ không cài đặt trên bộ nhớ flash di động). Ổ đĩa tốc độ cao bổ sung cho phương tiện.
+    * Khuyến nghị: SSD nội bộ nhanh để cài đặt ứng dụng và bộ nhớ đệm. Ổ đĩa tốc độ cao bổ sung cho phương tiện.
+* Internet: Cần có kết nối internet và đăng ký để kích hoạt phần mềm, xác thực đăng ký và truy cập các dịch vụ trực tuyến.
+
+Yêu cầu phần mềm:
+Phần mềm cần thiết:
+* Hệ điều hành 64-bit: Microsoft® Windows Vista® Home Premium, Business, Ultimate, hoặc Enterprise với Service Pack 1 (khuyến nghị Service Pack 2) hoặc Windows 7.
+* Microsoft Internet Explorer 6 trở lên.
+* HTML5, CSS3 và Javascript ES7.
+* Adobe Dreamweaver CC.
+* Adobe Animate CC.
+* Figma.
+* Bootstrap.

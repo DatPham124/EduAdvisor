@@ -1,2 +1,0 @@
-Giới thiệu về tài liệu hướng dẫn:
-Tài liệu hướng dẫn này được sử dụng cho Kỳ 4 của chương trình ACCP, với mục tiêu giới thiệu cho sinh viên về lập trình và phát triển ứng dụng.

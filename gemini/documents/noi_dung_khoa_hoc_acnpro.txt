@@ -1,0 +1,57 @@
+Giới thiệu khóa học ACN Pro: Sổ tay người trình bày này được sử dụng cho khóa học ACN Pro-CPIDA, với mục tiêu đặt nền tảng cho các khái niệm khoa học dữ liệu và các công nghệ liên quan.
+
+Mục tiêu khóa học cho sinh viên: Sau khi hoàn thành khóa học ACN Pro-CPIDA, sinh viên sẽ có khả năng làm việc với bảng tính và phân tích dữ liệu bằng MS Excel, hiểu các khái niệm cơ bản về lệnh Transact-SQL (T-SQL), cài đặt, cấu hình và giám sát cơ sở dữ liệu NoSQL mã nguồn mở MongoDB.
+
+Kỹ năng phân tích dữ liệu: Sinh viên sẽ nắm vững kiến thức cơ bản về phân tích thống kê, thống kê mô tả, phân tích dự đoán, xác suất và định lý Bayes. Đồng thời, họ sẽ thành thạo các kỹ thuật khám phá, trực quan hóa, phân tích dự đoán và mô tả dữ liệu bằng ngôn ngữ R, phát triển ứng dụng bằng ngôn ngữ Python và xây dựng một ứng dụng thực tế sử dụng ngôn ngữ R.
+
+Phân bổ thời gian học phần: Khóa học ACN Pro-CPIDA bao gồm các buổi học lý thuyết và thực hành, mỗi buổi kéo dài hai giờ. Tổng số giờ học trực tuyến cho toàn khóa là 176 giờ, được phân bổ cụ thể cho từng học phần.
+
+Chi tiết phân bổ học phần: Các học phần và số giờ học trực tuyến tương ứng bao gồm: Phân tích dữ liệu với MS Excel (16 giờ, mã kỹ năng 1296), Xử lý dữ liệu bằng T-SQL (16 giờ, mã kỹ năng 1291), Quản lý tập dữ liệu lớn với MongoDB (32 giờ, mã kỹ năng 399).
+
+Phân bổ học phần tiếp theo: Các học phần tiếp theo bao gồm: Phân tích thống kê suy luận (16 giờ, mã kỹ năng 1356), Khoa học dữ liệu sử dụng lập trình R (36 giờ, mã kỹ năng 1262), Lập trình ứng dụng dựa trên Python (36 giờ, mã kỹ năng 1258), và Dự án phân tích dữ liệu với R (24 giờ, mã kỹ năng 1262).
+
+Lịch trình học theo tuần: Lịch trình chi tiết của khóa học ACN Pro Term 1 Foundation được phân bổ theo tuần, bao gồm các buổi học trực tuyến (TL), các ngày học (D), các kỳ thi mô-đun (M) và các kỳ thi thực hành (R).
+
+Lịch trình học phần Phân tích dữ liệu: Học phần Phân tích dữ liệu với MS Excel được phân bổ từ tuần 1 đến tuần 3, bao gồm các buổi học trực tuyến (TL1-TL4, TL5-TL8) và một kỳ thi mô-đun (M1) vào tuần 2, cùng một kỳ thi thực hành (R1) vào tuần 3.
+
+Lịch trình học phần Xử lý dữ liệu: Học phần Xử lý dữ liệu bằng T-SQL được phân bổ từ tuần 1 đến tuần 4, bao gồm các buổi học trực tuyến (TL1-TL4, TL5-TL8) và một kỳ thi mô-đun (M2) vào tuần 3, cùng một kỳ thi thực hành (R2) vào tuần 4.
+
+Lịch trình học phần MongoDB: Học phần Quản lý tập dữ liệu lớn với MongoDB được phân bổ từ tuần 5 đến tuần 10, bao gồm các buổi học trực tuyến (TL1-TL4, TL5-TL8, TL9-TL12, TL13-TL16) và một kỳ thi mô-đun (M3) vào tuần 9, cùng một kỳ thi thực hành (R3) vào tuần 10.
+
+Lịch trình học phần Thống kê suy luận: Học phần Phân tích thống kê suy luận được phân bổ từ tuần 11 đến tuần 12, bao gồm các buổi học trực tuyến (TL1-TL4, TL5-TL8) và một kỳ thi mô-đun (M4) vào tuần 11, cùng một kỳ thi thực hành (R4) vào tuần 12.
+
+Lịch trình học phần Khoa học dữ liệu R: Học phần Khoa học dữ liệu sử dụng lập trình R được phân bổ từ tuần 13 đến tuần 17, bao gồm các buổi học trực tuyến (TL1-TL4, TL5-TL9, TL10-TL13, TL14-TL17, TL18) và một kỳ thi mô-đun (M5) vào tuần 16, cùng một kỳ thi thực hành (R4) vào tuần 17.
+
+Lịch trình học phần Lập trình Python: Học phần Lập trình ứng dụng dựa trên Python được phân bổ từ tuần 18 đến tuần 22, bao gồm các buổi học trực tuyến (TL1-TL4, TL5-TL9, TL10-TL13, TL14-TL17, TL18) và một kỳ thi mô-đun (M6) vào tuần 21, cùng một kỳ thi thực hành (R5) vào tuần 22.
+
+Lịch trình học phần Dự án: Học phần Dự án phân tích dữ liệu với R được phân bổ từ tuần 22 đến tuần 25, bao gồm các buổi dự án (P1-P3) vào tuần 22, (P4-P7) vào tuần 23, (P8-P11) vào tuần 24 và (P12) vào tuần 25.
+
+Tài liệu cung cấp cho sinh viên: Các tài liệu được cung cấp cho sinh viên bao gồm: Hướng dẫn học viên (sách điện tử chứa kiến thức cần truyền đạt), Bài tập (các vấn đề dựa trên tình huống/nghiên cứu điển hình để người học giải quyết), Bài viết (kiến thức bổ sung từ các nguồn web), và Câu hỏi thực hành (các câu hỏi thực hành bổ sung ở cuối mỗi buổi học).
+
+Danh mục sách cho sinh viên: Bộ tài liệu cho khóa học OV-7096 ACN PRO-CPIDA Term 1 bao gồm 7 đầu sách. Cụ thể: Phân tích dữ liệu với MS Excel (mã sách AINNDAEXL10723E000), Xử lý dữ liệu bằng T-SQL (mã sách AINNTRSQL10723E000), Quản lý tập dữ liệu lớn với MongoDB (mã sách AINNMNGDB10823E000).
+
+Các sách khác cho sinh viên: Các sách còn lại bao gồm: Phân tích thống kê suy luận (mã sách AINNINFER10823E000), Hướng dẫn lập trình R (mã sách AINNPGUDR10723E000), Lập trình ứng dụng dựa trên Python (mã sách AINNAPPYT10923E000), và Hướng dẫn dự án phân tích dữ liệu với R (mã sách AINNPGRPR10519E000).
+
+Tài liệu cung cấp cho giảng viên: Các tài liệu được cung cấp cho giảng viên bao gồm: Sổ tay người trình bày (kế hoạch giảng dạy), Hướng dẫn giảng viên (hướng dẫn chi tiết từng buổi học), và Bài thuyết trình trên lớp (các bài thuyết trình PowerPoint theo buổi học làm công cụ giảng dạy, nếu có).
+
+Chiến lược đánh giá khóa học: Chiến lược đánh giá cho khóa học này bao gồm: Kỳ thi mô-đun (trắc nghiệm khách quan - AoLEAP), Kỳ thi thực hành, và Dự án.
+
+Quy định về cấp bằng: Để đạt điểm Đạt, sinh viên cần có tổng điểm trung bình có trọng số từ 40% đến dưới 60%. Để đạt điểm Khá, tổng điểm trung bình có trọng số phải từ 60% đến dưới 75%. Để đạt điểm Xuất sắc, tổng điểm trung bình có trọng số phải từ 75% trở lên.
+
+Điều kiện đạt điểm: Để đạt được điểm Đạt/Khá/Xuất sắc, sinh viên phải đạt ít nhất 40% điểm trong mỗi phần của kỳ thi; nếu không, sinh viên sẽ bị đánh giá là "Cần xem xét lại".
+
+Kỳ thi mô-đun khách quan: Các học phần sẽ được kiểm tra bằng các kỳ thi trắc nghiệm khách quan, với trọng số điểm cụ thể. Kỳ thi mô-đun 1 (M1) về Phân tích dữ liệu với Excel có 20 điểm, thời lượng 40 phút, hình thức trắc nghiệm khách quan.
+
+Các kỳ thi mô-đun tiếp theo: Kỳ thi mô-đun 2 (M2) về Xử lý dữ liệu bằng T-SQL, Kỳ thi mô-đun 3 (M3) về Quản lý tập dữ liệu lớn với MongoDB, Kỳ thi mô-đun 4 (M4) về Phân tích thống kê suy luận, Kỳ thi mô-đun 5 (M5) về Khoa học dữ liệu sử dụng lập trình R, và Kỳ thi mô-đun 6 (M6) về Lập trình ứng dụng dựa trên Python. Mỗi kỳ thi này đều có 20 điểm, thời lượng 40 phút và hình thức trắc nghiệm khách quan.
+
+Các kỳ thi thực hành: Kỳ thi thực hành 1 (R1) về Phân tích dữ liệu với Excel, Kỳ thi thực hành 2 (R2) về Xử lý dữ liệu bằng T-SQL, Kỳ thi thực hành 3 (R3) về Quản lý tập dữ liệu lớn với MongoDB, Kỳ thi thực hành 4 (R4) về Khoa học dữ liệu sử dụng lập trình R, và Kỳ thi thực hành 5 (R5) về Lập trình ứng dụng dựa trên Python. Mỗi kỳ thi này có 20 điểm, thời lượng 60 phút và hình thức thực hành.
+
+Dự án cuối khóa: Dự án (P) là phần đánh giá cuối khóa, có tổng số 100 điểm và thời lượng 24 giờ. Dự án này tập trung vào việc phân tích dữ liệu bằng ngôn ngữ R.
+
+Chi tiết đánh giá tổng thể: Tổng điểm đánh giá cuối khóa được phân bổ như sau: Kỳ thi trắc nghiệm khách quan (OES) chiếm 50%, Kỳ thi thực hành chiếm 30%, và Dự án chiếm 20%.
+
+Yêu cầu phần mềm: Các yêu cầu phần mềm để tiến hành các buổi học bao gồm: Microsoft Windows 11, MS Office 365, SQL Server 19.1 Standard Edition, MongoDB 6.0, Jupyter Notebook 6.5.x và R Studio.
+
+Yêu cầu phần cứng đề xuất: Các yêu cầu phần cứng đề xuất bao gồm: Bộ xử lý Intel Core i5/i7 trở lên, RAM 8 GB hoặc 16 GB, ổ cứng 1 TB, chuột và bàn phím.
+
+Yêu cầu khác cho phòng học: Các yêu cầu khác cho phòng học bao gồm: Máy tính để trình diễn (nếu có) và máy chiếu LCD.

@@ -1,2 +1,0 @@
-Nội dung chương trình đào tạo:
-Chương trình đào tạo bao gồm các môn học như phân tích dữ liệu tài chính với MS Excel, SMAC, lập trình hướng đối tượng, lập trình Python, phát triển ứng dụng Web với Python, quản trị dữ liệu lớn, lập trình R, đồ án R, cơ bản Java, xác minh và kiểm tra phần mềm, Agile và DevOps, kiểm tra chức năng với Selenium, kiểm tra trên di động và dự án kiểm thử tự động.

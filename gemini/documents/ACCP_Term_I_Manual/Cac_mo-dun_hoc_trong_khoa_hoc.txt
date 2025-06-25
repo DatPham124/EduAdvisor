@@ -1,1 +1,0 @@
-Các mô-đun học trong khóa học: Học viên sẽ học các mô-đun sau trong khóa học này: Xây dựng logic và lập trình cơ bản, Xây dựng trang web hiện đại, UI/UX cho thiết kế web đáp ứng, Phát triển web giao diện người dùng với React, eProject-Phát triển web đáp ứng, Quản lý dữ liệu với SQL Server, Phát triển PHP với Laravel Framework.

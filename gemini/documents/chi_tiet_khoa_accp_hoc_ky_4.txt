@@ -1,0 +1,69 @@
+Bản ghi sửa đổi: Bản ghi sửa đổi của tài liệu cho thấy phiên bản 1.0 có hiệu lực từ tháng 10 năm 2024, với thay đổi là "Mới".
+
+Mục lục khóa học: Mục lục khóa học bao gồm các phần chính như Giới thiệu, Thông tin chung về lịch trình buổi học, Các sản phẩm bàn giao của ACCP, Chiến lược đánh giá, và Các yêu cầu tiên quyết về phòng học và phòng thí nghiệm.
+
+Giới thiệu khóa học: Tài liệu hướng dẫn này được sử dụng cho Kỳ 4 của chương trình ACCP, với mục tiêu giới thiệu sinh viên về lập trình và phát triển ứng dụng.
+
+Các mô-đun học tập: Trong kỳ này, sinh viên sẽ học các mô-đun sau: Giới thiệu về lập trình Dart, Phát triển ứng dụng sử dụng Flutter và Dart, Phát triển thành phần web sử dụng Jakarta EE, Xây dựng ứng dụng web Java với Spring Framework, Phát triển ứng dụng doanh nghiệp trong Jakarta EE, Tạo dịch vụ cho web, và Dự án phát triển ứng dụng doanh nghiệp Java.
+
+Mục tiêu khóa học: Nội dung khóa học được thiết kế đặc biệt cho những người muốn theo đuổi sự nghiệp trong lĩnh vực lập trình ứng dụng và phát triển di động.
+
+Kết quả học tập: Sau khi hoàn thành Kỳ 4, sinh viên sẽ có khả năng xây dựng ứng dụng đa nền tảng bằng Flutter và Dart, phát triển ứng dụng web phù hợp với bất kỳ máy chủ ứng dụng Jakarta EE nào sử dụng JSP và Servlet API, hiểu và làm việc với Spring Framework và Spring Boot, phát triển ứng dụng doanh nghiệp bằng Jakarta Enterprise Beans, và thiết kế, phát triển ứng dụng doanh nghiệp bằng Jakarta Web Services API.
+
+Dự án cuối kỳ: Dự án trong kỳ này sẽ bao gồm việc xây dựng một ứng dụng doanh nghiệp thực tế sử dụng các công nghệ Jakarta EE.
+
+Thông tin lịch trình: Tài liệu này trình bày chi tiết các mô-đun, số giờ dành cho mỗi mô-đun, cùng với phân tích số giờ dành cho mỗi buổi học. Kỳ học này bao gồm các buổi học lý thuyết và thực hành tại phòng thí nghiệm, mỗi buổi kéo dài hai giờ.
+
+Phân bổ giờ học: Bảng phân bổ giờ học theo mô-đun bao gồm: Giới thiệu về lập trình Dart (16 giờ trực tuyến, 16 giờ tổng cộng, 8 giờ tự học), Phát triển ứng dụng sử dụng Flutter và Dart (40 giờ trực tuyến, 40 giờ tổng cộng, 16 giờ tự học), Phát triển thành phần web sử dụng Jakarta EE (40 giờ trực tuyến, 40 giờ tổng cộng, 16 giờ tự học), Xây dựng ứng dụng web Java với Spring Framework (24 giờ trực tuyến, 24 giờ tổng cộng, 6 giờ tự học), Phát triển ứng dụng doanh nghiệp trong Jakarta EE (40 giờ trực tuyến, 40 giờ tổng cộng, 16 giờ tự học), Tạo dịch vụ cho web (16 giờ trực tuyến, 16 giờ tổng cộng, 6 giờ tự học), và Dự án phát triển ứng dụng doanh nghiệp Java (2 giờ trực tuyến, 22 giờ lý thuyết, 24 giờ tổng cộng, 0 giờ tự học). Tổng cộng có 178 giờ trực tuyến, 22 giờ lý thuyết, 200 giờ tổng cộng và 68 giờ tự học.
+
+Lịch trình hàng tuần: Lịch trình hàng tuần của Kỳ 4 chi tiết các mô-đun và phân bổ thời gian học tập theo từng tuần, bao gồm các buổi học trực tuyến, kiểm tra mô-đun, kiểm tra thực hành, dự án và giờ tự học.
+
+Giải thích ký hiệu: Các ký hiệu trong lịch trình được định nghĩa như sau: D là Ngày, TL là Buổi học trực tuyến, E là Kiểm tra mô-đun (Mục tiêu-AoLEAP), R là Kiểm tra thực hành, P là Dự án, và S là Giờ tự học (ngoài thời lượng khóa học).
+
+Sản phẩm bàn giao cho sinh viên: Các sản phẩm bàn giao cho sinh viên bao gồm sách điện tử cho từng mô-đun với mã sách cụ thể. Các mô-đun bao gồm Giới thiệu về lập trình Dart, Phát triển ứng dụng sử dụng Flutter và Dart, Phát triển thành phần web sử dụng Jakarta EE, Xây dựng ứng dụng web Java với Spring Framework, Phát triển ứng dụng doanh nghiệp trong Jakarta EE, Tạo dịch vụ cho web, và Dự án phát triển ứng dụng doanh nghiệp Java. Tất cả đều thuộc Bộ công cụ OV-7091-KIT01-04-G.
+
+Sản phẩm bàn giao cho giảng viên: Các sản phẩm bàn giao cho giảng viên bao gồm sách điện tử cho từng mô-đun tương tự như sinh viên, cùng với Tài liệu hướng dẫn chính cho giảng viên, Tài liệu hướng dẫn mô-đun, Bài thuyết trình trên lớp và Hướng dẫn dành cho giảng viên.
+
+Sản phẩm OnlineVarsity: Để hỗ trợ quá trình học tập, OnlineVarsity cung cấp các sản phẩm bàn giao cho sinh viên, bao gồm Hướng dẫn học viên (sách điện tử).
+
+Tài nguyên OnlineVarsity: Các tài nguyên có sẵn trên OnlineVarsity cho sinh viên bao gồm: Tải sách (tải sách điện tử để đọc ngoại tuyến), Thuật ngữ (truy cập danh sách các từ chuyên ngành liên quan đến môn học), Câu hỏi thường gặp (truy cập các câu hỏi thường gặp và câu trả lời), Hướng dẫn thực hiện (xem mô phỏng/minh họa từng bước các chủ đề liên quan đến mô-đun), Thực hành (kiểm tra và đánh giá sự hiểu biết về các chủ đề liên quan đến mô-đun), Bài tập thực hành (giải các bài tập phòng thí nghiệm dựa trên kịch bản, được giảng viên đánh giá và phản hồi), Tài liệu tham khảo (truy cập tài liệu bổ sung liên quan đến môn học để đọc), Phản hồi (cung cấp phản hồi về tài liệu khóa học), và Hỏi để học (gửi các câu hỏi kỹ thuật liên quan đến môn học, được chuyển đến điều phối viên/trưởng khóa học cụ thể).
+
+Chiến lược đánh giá: Chiến lược đánh giá cho kỳ này bao gồm Kiểm tra mô-đun (Mục tiêu-AoLEAP), Kiểm tra thực hành và Dự án.
+
+Tiêu chí xếp loại: Điểm tổng trọng số từ 40% đến dưới 60% đạt loại Đạt. Điểm tổng trọng số từ 60% đến dưới 75% đạt loại Khá. Điểm tổng trọng số từ 75% trở lên đạt loại Giỏi.
+
+Điều kiện đạt: Để đạt loại Đạt, Khá hoặc Giỏi, sinh viên phải đạt ít nhất 40% điểm ở mỗi phần của Kiểm tra mô-đun, nếu không sẽ bị coi là "Chưa đạt".
+
+Kiểm tra mô-đun 1 (E1): Bài kiểm tra này có 20 điểm, thời lượng 40 phút, và là loại trắc nghiệm. Nội dung kiểm tra là Giới thiệu về lập trình Dart, với 20 điểm.
+
+Kiểm tra mô-đun 2 (E2): Bài kiểm tra này có 20 điểm, thời lượng 40 phút, và là loại trắc nghiệm. Nội dung kiểm tra là Phát triển ứng dụng sử dụng Flutter và Dart, với 20 điểm.
+
+Kiểm tra mô-đun 3 (E3): Bài kiểm tra này có 20 điểm, thời lượng 40 phút, và là loại trắc nghiệm. Nội dung kiểm tra là Phát triển thành phần web sử dụng Jakarta EE, với 20 điểm.
+
+Kiểm tra mô-đun 4 (E4): Bài kiểm tra này có 20 điểm, thời lượng 40 phút, và là loại trắc nghiệm. Nội dung kiểm tra là Xây dựng ứng dụng web Java với Spring Framework, với 20 điểm.
+
+Kiểm tra mô-đun 5 (E5): Bài kiểm tra này có 20 điểm, thời lượng 40 phút, và là loại trắc nghiệm. Nội dung kiểm tra là Phát triển ứng dụng doanh nghiệp trong Jakarta EE, với 20 điểm.
+
+Kiểm tra mô-đun 6 (E6): Bài kiểm tra này có 20 điểm, thời lượng 40 phút, và là loại trắc nghiệm. Nội dung kiểm tra là Tạo dịch vụ cho web, với 20 điểm.
+
+Kiểm tra thực hành 1 (R1): Bài kiểm tra này có 20 điểm, thời lượng 60 phút, và là loại thực hành. Nội dung kiểm tra là Giới thiệu về lập trình Dart, với 20 điểm.
+
+Kiểm tra thực hành 2 (R2): Bài kiểm tra này có 20 điểm, thời lượng 60 phút, và là loại thực hành. Nội dung kiểm tra là Phát triển ứng dụng sử dụng Flutter và Dart, với 20 điểm.
+
+Kiểm tra thực hành 3 (R3): Bài kiểm tra này có 20 điểm, thời lượng 60 phút, và là loại thực hành. Nội dung kiểm tra là Phát triển thành phần web sử dụng Jakarta EE, với 20 điểm.
+
+Kiểm tra thực hành 4 (R4): Bài kiểm tra này có 20 điểm, thời lượng 60 phút, và là loại thực hành. Nội dung kiểm tra là Xây dựng ứng dụng web Java với Spring Framework, với 20 điểm.
+
+Kiểm tra thực hành 5 (R5): Bài kiểm tra này có 20 điểm, thời lượng 60 phút, và là loại thực hành. Nội dung kiểm tra là Phát triển ứng dụng doanh nghiệp trong Jakarta EE, với 20 điểm.
+
+Kiểm tra thực hành 6 (R6): Bài kiểm tra này có 20 điểm, thời lượng 60 phút, và là loại thực hành. Nội dung kiểm tra là Tạo dịch vụ cho web, với 20 điểm.
+
+Dự án cuối kỳ (P): Dự án này có 100 điểm, thời lượng 24 giờ, và là loại dự án. Nội dung dự án là Phát triển ứng dụng doanh nghiệp Java, với 100 điểm.
+
+Chi tiết đánh giá: Chi tiết đánh giá bao gồm: Kiểm tra trắc nghiệm trực tuyến (OES) chiếm 50%, Thực hành chiếm 30%, và Dự án chiếm 20%.
+
+Yêu cầu phần mềm: Các yêu cầu phần mềm để thực hiện các buổi học bao gồm: Microsoft Windows 11, Apache NetBeans 16 trở lên, Eclipse 2021 trở lên, Android Studio Bumblebee, Flutter SDK 1.22 với Dart 2.10.x trở lên, Jakarta EE Platform 10, Spring 6.x, và Spring Boot 3.0.x.
+
+Yêu cầu phần cứng: Các yêu cầu phần cứng được khuyến nghị bao gồm: Bộ xử lý Intel Core i3/i5 trở lên, RAM 8 GB trở lên, Color SVGA, ổ cứng 500 GB, chuột và bàn phím.
+
+Yêu cầu khác cho phòng học: Các yêu cầu khác cho phòng học bao gồm: Máy tính để trình diễn khi cần thiết và máy chiếu LCD.

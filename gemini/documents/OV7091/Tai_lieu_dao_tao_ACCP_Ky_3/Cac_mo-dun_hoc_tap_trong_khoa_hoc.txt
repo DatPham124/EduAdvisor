@@ -1,9 +1,0 @@
-Các mô-đun học tập trong khóa học:
-Học viên sẽ học các mô-đun sau trong khóa học này:
-*   Quản lý dữ liệu lớn (MongoDB)
-*   Kiến thức cơ bản về NodeJS
-*   Phát triển ứng dụng với Python
-*   Phát triển ứng dụng ASP.NET Core MVC
-*   Phát triển giải pháp Microsoft Azure
-*   Dự án điện tử - Phát triển ứng dụng web .NET
-*   Các lĩnh vực việc làm mới nổi - SMAC

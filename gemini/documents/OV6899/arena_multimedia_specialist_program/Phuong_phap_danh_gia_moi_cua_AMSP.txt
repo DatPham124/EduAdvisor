@@ -1,2 +1,0 @@
-Phương pháp đánh giá mới của AMSP:
-Phương pháp đánh giá mới của AMSP bao gồm bốn thành phần chính, mỗi thành phần chiếm 25% tổng điểm. Các thành phần này là Bài kiểm tra lý thuyết module (MET), Bài kiểm tra thực hành module (MEP), Bài tập nội bộ và Dự án điện tử/Dự án.

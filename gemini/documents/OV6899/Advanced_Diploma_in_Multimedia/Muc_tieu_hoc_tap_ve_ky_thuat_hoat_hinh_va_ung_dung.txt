@@ -1,2 +1,0 @@
-Mục tiêu học tập về kỹ thuật hoạt hình và ứng dụng:
-Sinh viên sẽ có khả năng giải thích các nguyên tắc cơ bản của kỹ thuật hoạt hình pose-to-pose và straight-ahead cùng ứng dụng của chúng trong việc tạo hoạt hình đời thực, áp dụng các kỹ thuật này để tạo hoạt hình cho nhân vật, giải thích các tư thế cơ bản của chu kỳ đi bộ, tạo hoạt hình đi bộ của nhân vật dựa trên các tư thế cơ bản, tạo hoạt hình cho nhân vật bằng cách đồng bộ hóa môi và biểu cảm, và tạo hoạt hình cho nhân vật bằng đường dẫn chuyển động.

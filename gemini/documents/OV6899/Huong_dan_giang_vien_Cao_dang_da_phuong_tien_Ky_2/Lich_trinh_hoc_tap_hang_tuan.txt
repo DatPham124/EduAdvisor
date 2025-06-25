@@ -1,1 +1,0 @@
-Lịch trình học tập hàng tuần: Lịch trình học tập được tổ chức theo tỷ lệ lý thuyết so với thực hành, với 2 giờ mỗi ngày và 3 ngày mỗi tuần. Các ký hiệu được sử dụng trong lịch trình bao gồm: T là buổi lý thuyết, O là buổi trực tuyến, A là bài tập, Te là bài kiểm tra. Lịch trình chi tiết cho từng học phần được phân bổ theo tuần và ngày.

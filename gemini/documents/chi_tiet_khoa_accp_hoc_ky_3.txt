@@ -1,0 +1,65 @@
+Bản ghi sửa đổi: Tài liệu này là phiên bản 1.0, có hiệu lực từ tháng 3 năm 2024, là một bản phát hành mới.
+
+Mục lục tài liệu: Tài liệu bao gồm các phần chính sau: Giới thiệu, Thông tin chung về lịch trình buổi học, Các sản phẩm bàn giao của ACCP Kỳ III, Chiến lược đánh giá, và Các yêu cầu về phòng học và phòng thí nghiệm.
+
+Giới thiệu khóa học: Hướng dẫn này dành cho chương trình ACCP Kỳ 3, tập trung giới thiệu sinh viên về MongoDB, Python, NodeJS, ASP.NET MVC CORE, MS Azure và SMAC.
+
+Các mô-đun khóa học: Trong khóa học này, sinh viên sẽ học các mô-đun sau: Quản lý dữ liệu lớn (MongoDB), Kiến thức cơ bản về NodeJS, Phát triển ứng dụng với Python, Phát triển ứng dụng ASP.NET Core MVC, Phát triển giải pháp Microsoft Azure, eProject - Phát triển ứng dụng web .NET, và Các lĩnh vực việc làm mới nổi - SMAC.
+
+Mục tiêu học tập: Sau khi hoàn thành khóa học, sinh viên sẽ có khả năng làm việc với tập dữ liệu lớn bằng cơ sở dữ liệu MongoDB, phát triển, kiểm thử và triển khai ứng dụng web Node.js, phát triển ứng dụng bằng ngôn ngữ Python, phát triển ứng dụng ASP.NET MVC nâng cao sử dụng công cụ và công nghệ .NET Framework, phát triển ứng dụng doanh nghiệp và dịch vụ web sử dụng nền tảng đám mây Microsoft Azure, thiết kế và phát triển ứng dụng doanh nghiệp thực tế bằng công nghệ .NET, và nhận diện các công nghệ đám mây mới nổi cùng với SMAC.
+
+Dự án cuối kỳ: Dự án trong kỳ này sẽ tập trung vào việc phát triển một ứng dụng sử dụng các công nghệ .NET.
+
+Thông tin chung lịch trình: Bảng dưới đây trình bày chi tiết các mô-đun, số giờ học dành cho mỗi mô-đun, cùng với phân bổ giờ học. Mỗi buổi học kéo dài hai giờ.
+
+Phân bổ giờ học mô-đun: Tổng cộng có 216 giờ học và 70 giờ tự học. Các mô-đun bao gồm: Quản lý dữ liệu lớn (MongoDB) với 32 giờ học và 10 giờ tự học; Kiến thức cơ bản về NodeJS với 36 giờ học và 12 giờ tự học; Phát triển ứng dụng với Python với 36 giờ học và 12 giờ tự học; Phát triển ứng dụng ASP.NET Core MVC với 40 giờ học và 16 giờ tự học; Phát triển giải pháp Microsoft Azure với 40 giờ học và 16 giờ tự học; eProject - Phát triển ứng dụng web .NET với 24 giờ học và 0 giờ tự học; và Các lĩnh vực việc làm mới nổi - SMAC với 8 giờ học và 4 giờ tự học.
+
+Lịch trình học tập hàng tuần: Lịch trình chi tiết theo tuần được cung cấp, phân bổ các buổi học trực tuyến (TL), buổi học lý thuyết (T), kỳ thi mô-đun khách quan (E), kỳ thi thực hành (R) và dự án (P) cho từng ngày (D) trong tuần.
+
+Giải thích ký hiệu lịch trình: Trong lịch trình, "D" là Ngày, "TL" là Buổi học trực tuyến, "T" là Buổi học lý thuyết, "E" là Kỳ thi mô-đun (mục tiêu - AoLEAP), "R" là Kỳ thi thực hành, và "P" là Dự án.
+
+Sản phẩm bàn giao cho sinh viên: Các sản phẩm bàn giao cho sinh viên bao gồm sách học cho từng mô-đun như: Quản lý dữ liệu lớn (MongoDB), Kiến thức cơ bản về NodeJS, Phát triển ứng dụng với Python, Phát triển ứng dụng ASP.NET Core MVC, Phát triển giải pháp Microsoft Azure, eProject - Phát triển ứng dụng web .NET, và Các lĩnh vực việc làm mới nổi - SMAC. Tất cả các sách này đều thuộc bộ Kit OV-7091-KIT01-03-G.
+
+Sản phẩm bàn giao cho giảng viên: Các sản phẩm bàn giao cho giảng viên bao gồm sách học cho từng mô-đun tương tự như sinh viên, cùng với các tài liệu bổ sung như Sổ tay Giảng viên chính (Master PM), Sổ tay Giảng viên mô-đun (Module PMs), Hướng dẫn giảng viên (nếu có), và Bài thuyết trình trên lớp (nếu có).
+
+Giới thiệu OnlineVarsity: OnlineVarsity là một nền tảng kỹ thuật số của Aptech, cung cấp quyền truy cập nội dung và hỗ trợ cộng tác cho sinh viên, với nhiều tính năng giúp nâng cao trải nghiệm học tập. Giảng viên có thể truy cập sách điện tử và các thành phần khác qua Aptrack.
+
+Tài nguyên OnlineVarsity: Các tài nguyên có sẵn trên OnlineVarsity bao gồm: Sách tải xuống (sinh viên có thể tải sách điện tử để đọc ngoại tuyến), Thuật ngữ (danh sách các từ chuyên ngành liên quan đến môn học và định nghĩa), Câu hỏi thường gặp (câu hỏi và trả lời), Thực hành cho tôi (kiểm tra và đánh giá sự hiểu biết về các chủ đề mô-đun), Bài tập thực hành (bài tập dựa trên kịch bản, được giảng viên đánh giá và phản hồi), Tài liệu tham khảo (tài liệu bổ sung để đọc), Phản hồi (cung cấp phản hồi về tài liệu khóa học), và Hỏi để học (gửi câu hỏi kỹ thuật, được chuyển đến điều phối viên/trưởng khóa học).
+
+Chiến lược đánh giá khóa học: Chiến lược đánh giá cho khóa học này bao gồm Kỳ thi mô-đun (mục tiêu - AoLEAP), Kỳ thi mô-đun (thực hành) và Dự án.
+
+Tiêu chí xếp loại: Để đạt điểm Đạt, sinh viên cần đạt từ 40% đến dưới 60% tổng điểm trung bình. Để đạt điểm Khá, cần đạt từ 60% đến dưới 75%. Để đạt điểm Giỏi, cần đạt từ 75% trở lên.
+
+Điều kiện đạt điểm: Để đạt điểm Đạt, Khá hoặc Giỏi, sinh viên phải đạt ít nhất 40% ở mỗi phần thi. Nếu không, sinh viên sẽ bị đánh giá là "Chưa đạt".
+
+Kỳ thi mô-đun E1: Kỳ thi này có 20 điểm, thời lượng 40 phút, hình thức trắc nghiệm. Môn thi là Quản lý dữ liệu lớn (MongoDB).
+
+Kỳ thi mô-đun R1: Kỳ thi này có 20 điểm, thời lượng 60 phút, hình thức thực hành. Môn thi là Quản lý dữ liệu lớn (MongoDB).
+
+Kỳ thi mô-đun E2: Kỳ thi này có 20 điểm, thời lượng 40 phút, hình thức trắc nghiệm. Môn thi là Kiến thức cơ bản về NodeJS.
+
+Kỳ thi mô-đun R2: Kỳ thi này có 20 điểm, thời lượng 60 phút, hình thức thực hành. Môn thi là Kiến thức cơ bản về NodeJS.
+
+Kỳ thi mô-đun E3: Kỳ thi này có 20 điểm, thời lượng 40 phút, hình thức trắc nghiệm. Môn thi là Phát triển ứng dụng với Python.
+
+Kỳ thi mô-đun R3: Kỳ thi này có 20 điểm, thời lượng 60 phút, hình thức thực hành. Môn thi là Phát triển ứng dụng với Python.
+
+Kỳ thi mô-đun E4: Kỳ thi này có 20 điểm, thời lượng 40 phút, hình thức trắc nghiệm. Môn thi là Phát triển ứng dụng ASP.NET Core MVC.
+
+Kỳ thi mô-đun R4: Kỳ thi này có 20 điểm, thời lượng 60 phút, hình thức thực hành. Môn thi là Phát triển ứng dụng ASP.NET Core MVC.
+
+Kỳ thi mô-đun E5: Kỳ thi này có 20 điểm, thời lượng 40 phút, hình thức trắc nghiệm. Môn thi là Phát triển giải pháp Microsoft Azure.
+
+Kỳ thi mô-đun R5: Kỳ thi này có 20 điểm, thời lượng 60 phút, hình thức thực hành. Môn thi là Phát triển giải pháp Microsoft Azure.
+
+Kỳ thi mô-đun E6: Kỳ thi này có 20 điểm, thời lượng 40 phút, hình thức trắc nghiệm. Môn thi là Các lĩnh vực việc làm mới nổi - SMAC.
+
+Dự án cuối kỳ: Dự án cuối kỳ có tổng cộng 100 điểm, thời lượng 24 giờ, thuộc loại dự án. Nội dung dự án là eProject - Phát triển ứng dụng web .NET, chiếm 100% tổng điểm dự án.
+
+Chi tiết đánh giá: Tổng điểm đánh giá được phân bổ như sau: Kỳ thi trực tuyến (OES) chiếm 50%, Kỳ thi thực hành chiếm 30%, và Dự án chiếm 20%.
+
+Yêu cầu phần mềm: Các yêu cầu phần mềm để thực hiện các buổi học trong kỳ này bao gồm: Microsoft Windows 11, Microsoft SQL Server 2022 Standard Edition, Visual Studio 2022 Professional Edition, NodeJS, MongoDB 6.0 trở lên, và Python SDK 3.x.
+
+Yêu cầu phần cứng: Các yêu cầu phần cứng được khuyến nghị bao gồm: Bộ xử lý Intel Core i3/i5 trở lên, RAM 8 GB trở lên, màn hình SVGA màu, ổ cứng 500 GB, chuột và bàn phím.
+
+Yêu cầu khác cho phòng học: Các yêu cầu khác cho phòng học bao gồm máy tính để trình diễn (nếu có) và máy chiếu LCD.

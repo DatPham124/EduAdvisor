@@ -1,9 +1,0 @@
-Chi tiết các học phần trong chương trình ACN PRO – CPIDA: Chương trình bao gồm các học phần sau:
-*   Phân tích dữ liệu với MS Excel: 16 giờ (8 giờ lý thuyết, 8 giờ thực hành), sử dụng Office Tools.
-*   Xử lý dữ liệu bằng T-SQL: 16 giờ (8 giờ lý thuyết, 8 giờ thực hành), sử dụng Microsoft SQL Server.
-*   Quản lý tập dữ liệu lớn với MongoDB: 32 giờ (16 giờ lý thuyết, 16 giờ thực hành), sử dụng MongoDB.
-*   Phân tích thống kê suy luận: 16 giờ (16 giờ lý thuyết, 0 giờ thực hành).
-*   Khoa học dữ liệu sử dụng lập trình R: 36 giờ (18 giờ lý thuyết, 18 giờ thực hành), sử dụng R Studio.
-*   Lập trình ứng dụng dựa trên Python: 36 giờ (18 giờ lý thuyết, 18 giờ thực hành), sử dụng Python.
-*   Dự án – Phân tích dữ liệu với R: 24 giờ (2 giờ lý thuyết, 22 giờ thực hành), sử dụng R Studio.
-Tổng cộng 176 giờ, với 86 giờ lý thuyết và 90 giờ thực hành.

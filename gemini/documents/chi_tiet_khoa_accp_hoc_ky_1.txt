@@ -1,0 +1,43 @@
+Mục lục tài liệu: Tài liệu này bao gồm các phần chính như Giới thiệu, Thông tin chung về lịch trình khóa học, Các sản phẩm bàn giao của ACCP Kỳ I, Chiến lược đánh giá và Các yêu cầu về phòng học và phòng thí nghiệm.
+
+Giới thiệu khóa học: Hướng dẫn này dành cho Kỳ 1 của khóa học ACCP, tập trung phát triển tư duy lập trình và kỹ năng phát triển Web cho sinh viên.
+
+Các mô-đun đào tạo: Sinh viên sẽ học các mô-đun sau trong khóa học này: Xây dựng logic và lập trình cơ bản, Xây dựng trang web hiện đại, Thiết kế giao diện người dùng/trải nghiệm người dùng (UI/UX) cho thiết kế web đáp ứng, Phát triển web giao diện người dùng (Frontend) với React, Dự án điện tử (eProject) - Phát triển web đáp ứng, Quản lý dữ liệu với SQL Server, và Phát triển PHP với Laravel Framework.
+
+Kỹ năng đạt được: Sau khi hoàn thành Kỳ 1, sinh viên sẽ có khả năng sử dụng các cấu trúc lập trình trong C, phát triển trang web và ứng dụng tương tác bằng HTML5/CSS3/JavaScript, học phát triển web giao diện người dùng với React, nắm vững các nguyên tắc cơ bản về thiết kế UI/UX web hiệu quả và đáp ứng, chuẩn hóa dữ liệu thô thành các bảng cơ sở dữ liệu có tổ chức trong SQL Server, và tạo các ứng dụng web động bằng PHP và Laravel Framework.
+
+Dự án điện tử: Dự án điện tử (eProject) trong Kỳ này sẽ bao gồm việc thiết kế một trang web đáp ứng.
+
+Thông tin lịch trình: Bảng dưới đây trình bày chi tiết các mô-đun, số giờ dành cho mỗi mô-đun cùng với phân bổ giờ học. Để hiểu rõ hơn về chi tiết từng buổi học, hãy tham khảo các hướng dẫn của giảng viên mô-đun tương ứng.
+
+Phân bổ giờ học: Tổng số giờ học của khóa ACCP Kỳ I là 220 giờ hướng dẫn và 68 giờ tự học. Các mô-đun bao gồm: Xây dựng logic và lập trình cơ bản (40 giờ hướng dẫn, 12 giờ tự học), Xây dựng trang web hiện đại (40 giờ hướng dẫn, 12 giờ tự học), Thiết kế UI/UX cho web đáp ứng (16 giờ hướng dẫn, 8 giờ tự học), Phát triển web giao diện người dùng với React (24 giờ hướng dẫn, 10 giờ tự học), Dự án điện tử - Phát triển web đáp ứng (20 giờ hướng dẫn, 0 giờ tự học), Quản lý dữ liệu với SQL Server (32 giờ hướng dẫn, 10 giờ tự học), và Phát triển PHP với Laravel Framework (48 giờ hướng dẫn, 16 giờ tự học).
+
+Lịch trình theo tuần: Lịch trình khóa học được tổ chức theo tuần, bao gồm các buổi học trực tuyến (TL), buổi tự học (S), kỳ thi mô-đun khách quan (E) và kỳ thi mô-đun thực hành (R).
+
+Sản phẩm bàn giao cho sinh viên: Các sản phẩm bàn giao cho sinh viên bao gồm: Lập trình cơ bản trong C-INTL (mã sách OV-C0056), Công nghệ giao diện người dùng cho người mới bắt đầu (mã sách AINNFENDT10323E000), Thiết kế web đẹp và hiệu quả với UI và UX (mã sách AINNEUIUX10721E000), Phát triển web giao diện người dùng với ReactJS (mã sách AINNREACT10423E000), Xây dựng trang web thế hệ tiếp theo (mã sách AINNEPRWB10323E000), Quản lý dữ liệu thông minh với SQL Server (mã sách AINNSQLSR10920E000), và Phát triển web PHP với Laravel (mã sách AINNPHPLV10821E000). Mã bộ tài liệu chung là OV-7091-KIT01-01-G, bao gồm 7 đầu sách cho ACCP Kỳ 1.
+
+Sản phẩm bàn giao cho giảng viên: Các sản phẩm bàn giao cho giảng viên bao gồm: Hướng dẫn giảng viên chính (Master PM), Hướng dẫn giảng viên mô-đun (Module PMs), Bài thuyết trình trên lớp, Hướng dẫn đào tạo, và Tài liệu bổ sung dự án điện tử (eProject Supplement). Các sách và mã sách tương tự như của sinh viên.
+
+Sản phẩm OnlineVarsity: Để hỗ trợ quá trình giảng dạy, các sản phẩm bàn giao bao gồm Hướng dẫn giảng viên (PM) cho giảng viên và Hướng dẫn người học (eBook) cho sinh viên.
+
+Tài nguyên OnlineVarsity: Các tài nguyên có sẵn trên OnlineVarsity cho sinh viên bao gồm: Tải sách điện tử (eBook) để đọc ngoại tuyến, Bảng chú giải thuật ngữ chuyên ngành, Câu hỏi thường gặp (FAQ), Hướng dẫn thực hiện từng bước (Show Me How), Bài tập thực hành (Practice 4 Me) để tự đánh giá, Bài tập thực hành (Work Assignments) dựa trên kịch bản, Tải mã nguồn/tệp liên quan đến khóa học, Tài liệu tham khảo bổ sung, Gửi phản hồi về tài liệu khóa học, và Gửi câu hỏi kỹ thuật (Ask to Learn) đến điều phối viên/trưởng bộ môn.
+
+Chiến lược đánh giá: Chiến lược đánh giá cho khóa học này bao gồm: Kỳ thi mô-đun (Mục tiêu - AoLEAP), Kỳ thi thực hành, và Dự án điện tử (eProject).
+
+Quy định về điểm số: Để đạt điểm Đạt (PASS), tổng điểm có trọng số phải từ 40% đến dưới 60%. Để đạt điểm Khá (CREDIT), tổng điểm có trọng số phải từ 60% đến dưới 75%. Để đạt điểm Giỏi (DISTINCTION), tổng điểm có trọng số phải từ 75% trở lên. Lưu ý: Để đạt điểm Đạt/Khá/Giỏi, sinh viên phải đạt ít nhất 40% trong Kỳ thi mô-đun, nếu không sẽ bị coi là "Chưa đạt".
+
+Kỳ thi mô-đun khách quan: Các mô-đun được kiểm tra trong kỳ thi bao gồm: Lập trình cơ bản và Xây dựng logic (20 điểm), Xây dựng trang web hiện đại (20 điểm), Thiết kế UI/UX cho web đáp ứng (20 điểm), và Phát triển web giao diện người dùng với React (20 điểm). Mỗi kỳ thi có thời lượng 40 phút, hình thức trắc nghiệm.
+
+Kỳ thi mô-đun khách quan tiếp theo: Các mô-đun được kiểm tra trong kỳ thi bao gồm: Quản lý dữ liệu với SQL Server (20 điểm), và Phát triển PHP với Laravel Framework (20 điểm). Mỗi kỳ thi có thời lượng 40 phút, hình thức trắc nghiệm.
+
+Kỳ thi mô-đun thực hành: Các mô-đun được kiểm tra trong kỳ thi thực hành bao gồm: Lập trình cơ bản và Xây dựng logic (20 điểm), Xây dựng trang web hiện đại (20 điểm), Phát triển web giao diện người dùng với React (20 điểm), Quản lý dữ liệu với SQL Server (20 điểm), và Phát triển PHP với Laravel Framework (20 điểm). Mỗi kỳ thi có thời lượng 60 phút, hình thức thực hành.
+
+Dự án điện tử: Dự án điện tử (eProject) có tổng số điểm là 100, thời lượng thực hiện 20 giờ, và là một bài kiểm tra thực hành.
+
+Chi tiết đánh giá: Tổng điểm đánh giá được phân bổ như sau: Kỳ thi trực tuyến khách quan (OES - AoLEAP) chiếm 50%, Kỳ thi thực hành chiếm 30%, và Dự án điện tử (eProject) chiếm 20%.
+
+Yêu cầu phần mềm: Các yêu cầu phần mềm để thực hiện các buổi học của chương trình mới bao gồm: Microsoft Windows 11, CoffeeCup Free HTML5 Editor, MS SQL Server 2019 Standard Edition, Microsoft Office Standard 2019 hoặc cao hơn, thư viện jQuery, plugin và jQuery 1.1.2.4 (phiên bản ổn định), React 18.x hoặc cao hơn, Figma ToolKit, và PHP 8.0 & Laravel FW.
+
+Yêu cầu phần cứng: Các yêu cầu phần cứng khuyến nghị bao gồm: Bộ xử lý Intel Core i5 hoặc cao hơn, RAM 8 GB trở lên, Card đồ họa SVGA màu, Ổ cứng 500 GB, Chuột, và Bàn phím.
+
+Yêu cầu khác cho phòng học: Các yêu cầu khác cho phòng học bao gồm: Máy tính để trình diễn khi cần thiết, và Máy chiếu LCD.

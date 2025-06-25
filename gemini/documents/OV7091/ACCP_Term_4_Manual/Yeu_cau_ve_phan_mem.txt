@@ -1,2 +1,0 @@
-Yêu cầu về phần mềm:
-Các yêu cầu phần mềm bao gồm: Microsoft Windows 11, Apache NetBeans 16 trở lên, Eclipse 2021 trở lên, Android Studio Bumblebee, Flutter SDK 1.22 với Dart 2.10.x trở lên, Jakarta EE Platform 10, Spring 6.x, và Spring Boot 3.0.x.

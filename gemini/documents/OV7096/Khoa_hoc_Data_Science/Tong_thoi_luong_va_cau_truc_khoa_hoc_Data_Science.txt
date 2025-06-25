@@ -1,1 +1,0 @@
-Tổng thời lượng và cấu trúc khóa học Data Science: Thời gian khóa học là 346 giờ, bao gồm 146 giờ cho phần Nền tảng Khoa học Dữ liệu và 200 giờ cho phần Khoa học Dữ liệu chuyên sâu.

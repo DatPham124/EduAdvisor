@@ -1,1 +1,0 @@
-Nội dung chương trình đào tạo: Nền tảng AI, xử lý ngôn ngữ tự nhiên, học máy, học sâu, phát triển dự án chatbot và recommendation engine.

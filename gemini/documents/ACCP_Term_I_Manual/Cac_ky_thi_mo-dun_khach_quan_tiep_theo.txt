@@ -1,1 +1,0 @@
-Các kỳ thi mô-đun khách quan tiếp theo: Kỳ thi mô-đun E5 cho môn Quản lý dữ liệu với SQL Server có 20 điểm, thời lượng 40 phút, hình thức trắc nghiệm. Kỳ thi mô-đun E6 cho môn Phát triển PHP với Laravel Framework có 20 điểm, thời lượng 40 phút, hình thức trắc nghiệm.

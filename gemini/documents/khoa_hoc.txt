@@ -28,7 +28,7 @@ Khóa học Chuyên gia Quản trị mạng cao cấp (CCITP - CUSC Certified I
 Khóa học Thiết kế web chuyên nghiệp (CCWDP - CUSC Certified Web Design Professional) 
 Khóa học Phát triển ứng dụng di động trên nền Android (CCAAD - CUSC Certified Android Application Development)
 ---
-Các khóa học Aptech Certified NXT Generation Professional - ACNPro:
+Các khóa học Aptech Certified NEXT Generation Professional - ACNPro: ACN Pro là khóa học học về các công nghệ tương lai Khoa học Dữ liệu, Trí tuệ nhân tạo(AI), Python, R Programming, SMAC, Kiểm tra phần mềm và nhiều hơn nữa:
 Khóa học Phân tích dữ liệu (Data Analysis)
 Khóa học Chuyên gia Trí tuệ nhân tạo và máy học (Artificial Intelligence and Machine Learning)
 Khóa học Chuyên gia Kiểm thử phần mềm (Software Testing)

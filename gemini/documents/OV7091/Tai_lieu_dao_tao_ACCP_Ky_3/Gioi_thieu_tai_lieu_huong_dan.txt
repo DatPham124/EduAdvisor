@@ -1,2 +1,0 @@
-Giới thiệu tài liệu hướng dẫn:
-Tài liệu hướng dẫn này được sử dụng cho chương trình đào tạo ACCP Kỳ 3, tập trung giới thiệu cho học viên về MongoDB, Python, NodeJS, ASP.NET MVC CORE, MS Azure và SMAC.

@@ -47,11 +47,19 @@ Căn cứ pháp lý, điều khoản dẫn chiếu, phạm vi áp dụng.
 
 Thông tin người ký, chức danh, chữ ký (ví dụ: Giám đốc, Trưởng phòng...).
 
-Chia nội dung thành các đoạn ngắn
+Các phần chú thích, ghi chú, hướng dẫn sử dụng và mục lục.
 
-Mỗi đoạn phải có một tiêu đề mô tả nội dung chính.
+Chia nội dung thành các đoạn ngắn
 
-Mỗi đoạn phải thể hiện trọn vẹn một ý, có ngữ cảnh rõ ràng, không cắt ngang ý chính.
+Mỗi đoạn không quá 256 tokens
+
+Mỗi đoạn phải có một tiêu đề mô tả nội dung chính ngắn gọn, không quá 8 từ.
+
+Tiêu đề phải là tiếng Việt, không sử dụng tiếng Anh hoặc các ngôn ngữ khác.
+
+Sau mỗi tiêu đề sẽ là dấu hai chấm ":" và nội dung mô tả.
+
+Nội dung miêu tả của mỗi đoạn phải thể hiện trọn vẹn một ý, có ngữ cảnh rõ ràng, không cắt ngang ý chính.
 
 Xử lý bảng
 
@@ -69,17 +77,11 @@ Tránh từ ngữ mơ hồ, dư thừa, trùng lặp.
 
 Đảm bảo mỗi đoạn có thể hiểu được khi tách độc lập.
 
-Định dạng đầu ra:
+Định dạng đầu ra: 
 
-Đầu file sẽ là tên thư mục có liên quan đến nội dung không kèm theo định dạng, tên thư mục không được quá dài 
-
-Đoạn văn sẽ không có tiêu đề
+Các đoạn văn bản sẽ được định dạng như sau: "Tiêu đề chính: Nội dung mô tả của đoạn"
 
 Mỗi đoạn sẽ cách nhau bằng cách xuống dòng 
-
-Trước mỗi đoạn văn sẽ là câu mô tả nội dung cho cả đoạn, phù hợp với việc vector hóa, câu mô tả sẽ tách biệt với nội dung bằng dấu :
-
-Câu mô tả không được quá dài, tóm gọn, không quá chi tiết
 
 Không đưa lại bất kỳ phần nào đã yêu cầu loại bỏ.
 
@@ -114,28 +116,16 @@ def generate_respone(prompt ,file_path, filename):
     
     return response
 
-def create_folder_name(text, relative_path):
-    first_line = text.strip().splitlines()[0]
-    folder_name = unidecode(first_line.strip())
-    folder_name = re.sub(r'[\\/*?:"<>|]', "", folder_name)
-    folder_name = folder_name.replace(" ", "_")
-
-    full_output_dir = os.path.join(output_root, relative_path, folder_name)
-    os.makedirs(full_output_dir, exist_ok=True)
-
-    content_only = "\n".join(text.strip().splitlines()[1:])
-    paragraphs = [p.strip() for p in content_only.split("\n\n") if p.strip()]
-
-    return paragraphs, full_output_dir
 
 
-def create_file_name(full_output_dir ,sentence):
-     
-    title, content = sentence.split(":", 1)
-    fname = unidecode(title.strip())
-    fname = re.sub(r'[\\/*?:"<>|]', "", fname).replace(" ", "_")
-    filepath = os.path.join(full_output_dir, f"{fname}.txt")
-    with open(filepath, "w", encoding="utf-8") as f:
+def create_file_name(sentence, file_name):
+    # title = sentence.split("\n")[0]  # Lấy dòng đầu tiên làm tiêu đề
+    # fname = unidecode(title.strip())
+    # fname = re.sub(r'[\\/*?:"<>|]', "", fname).replace(" ", "_")
+    # bỏ đuôi .pdf
+    file_name = os.path.splitext(file_name)[0]
+    fname = f"{output_root}/{file_name}.txt"
+    with open(fname, "w", encoding="utf-8") as f:
         f.write(sentence.strip())
 
 
@@ -145,6 +135,30 @@ def convert_excel_to_pdf_in_linux(file):
     base_filename = os.path.splitext(file)[0]
     output_file_name = f"{base_filename}.pdf"
     return output_file_name
+
+def convert_docx_to_pdf_in_wins(file_path):
+    file_path = os.path.abspath(file_path)
+    if not os.path.exists(file_path):
+        print(f"File không tồn tại: {file_path}")
+        return None
+
+    word = win32com.client.Dispatch("Word.Application")
+    word.Visible = False
+    doc = None
+
+    try:
+        doc = word.Documents.Open(file_path)
+        output_path = os.path.splitext(file_path)[0] + ".pdf"
+        doc.SaveAs(output_path, FileFormat=17)  # 17 = wdFormatPDF
+        print(f"Đã chuyển: {file_path} -> {output_path}")
+        return os.path.basename(output_path)
+    except Exception as e:
+        print(f"Lỗi khi chuyển file Word: {e}")
+        return None
+    finally:
+        if doc is not None:
+            doc.Close(False)
+        word.Quit()
 
 
 def convert_excel_to_pdf_in_wins(file_path):
@@ -207,6 +221,11 @@ def main():
                     if filename is None:
                         continue
                     path_file = os.path.join(input_dir, filename)
+                elif ext in ["docx", "doc"]:
+                    filename = convert_docx_to_pdf_in_wins(path_file)
+                    if filename is None:
+                        continue
+                    path_file = os.path.join(input_dir, filename)
 
             if category == "image" and ext not in ["jpg", "png", "webp"]:
                 print(f"Định dạng hình ảnh không phù hợp: {filename}")
@@ -214,26 +233,11 @@ def main():
 
             response = generate_respone(prompt, path_file, filename)
             output_text = response.text
+            create_file_name(output_text, filename)
 
-            # ✅ Truyền relative_path vào đây
-            paragraphs, full_output_dir = create_folder_name(output_text, relative_path)
-
-            for para in paragraphs:
-                if ':' not in para:
-                    continue
-                create_file_name(full_output_dir, para)
-
-            print(f"Đã lưu kết quả vào thư mục: {full_output_dir}\n")
             if os.path.exists(path_file):
                 os.remove(path_file)
                 print(f"[🗑️] Đã xoá file: {path_file}")
-            
-            if not os.listdir(root):  # thư mục trống
-                try:
-                    os.rmdir(root)
-                    print(f"[🗑️] Đã xoá thư mục trống: {root}")
-                except Exception as e:
-                    print(f"[⚠️] Không thể xoá thư mục {root}: {e}")
 
 
 if __name__ == "__main__":

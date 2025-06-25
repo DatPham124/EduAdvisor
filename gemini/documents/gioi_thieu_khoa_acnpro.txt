@@ -1,0 +1,37 @@
+Giới thiệu chương trình Aptech: Aptech giới thiệu chương trình đào tạo mới mang tên ACNPRO, được chứng nhận bởi Aptech là chương trình chuyên nghiệp thế hệ tiếp theo. Chương trình này tập trung vào Phân tích Dữ liệu, có mã giáo trình là OV-7096-ACNPRO-CPIDA và được triển khai tại Việt Nam.
+
+Xu hướng ngành công nghệ thông tin: Ngành công nghệ thông tin đang chứng kiến sự thay đổi lớn. Chi tiêu công nghệ thông tin toàn cầu dự kiến đạt 4,3 nghìn tỷ USD vào năm 2025. Thị trường dịch vụ công nghệ thông tin toàn cầu được dự báo đạt 1322 tỷ USD vào năm 2027. Việt Nam hiện là nhà cung cấp dịch vụ công nghệ thông tin lớn thứ 8 trên toàn cầu. Thị trường phân tích dự đoán toàn cầu dự kiến đạt 21,5 tỷ USD vào năm 2025.
+
+Chuyển đổi số và công nghệ mới: Cuộc cách mạng Công nghiệp 4.0 và Web 3.0 đã thúc đẩy quá trình chuyển đổi số mạnh mẽ, đặc biệt trong lĩnh vực Khoa học Dữ liệu, Trí tuệ Nhân tạo (AI) và Học máy. Nhu cầu về các chuyên gia có chuyên môn trong các lĩnh vực này đang tăng nhanh chóng, với các vị trí như nhà khoa học dữ liệu, kỹ sư học máy, nhà nghiên cứu trí tuệ nhân tạo và nhà phân tích dữ liệu đang rất được săn đón.
+
+Yêu cầu kỹ năng chuyên gia: Để thành công trong các vai trò liên quan đến Khoa học Dữ liệu, AI và Học máy, cá nhân cần có nền tảng vững chắc về khoa học máy tính, toán học và thống kê. Kinh nghiệm với các ngôn ngữ lập trình như Python, R và Java thường được yêu cầu. Ngoài ra, kỹ năng phân tích mạnh mẽ, sự chú ý đến chi tiết và khả năng truyền đạt các khái niệm kỹ thuật phức tạp cho các bên liên quan không chuyên cũng là những phẩm chất thiết yếu.
+
+Chứng chỉ Phân tích Dữ liệu: Ngành công nghệ thông tin ngày càng có nhu cầu cao đối với các chuyên gia có chuyên môn sâu về các kỹ năng bổ trợ trong lĩnh vực Khoa học Dữ liệu. Khóa học được thiết kế để trang bị cho học viên kiến thức từ cơ bản về xử lý dữ liệu đến khai thác dữ liệu nâng cao.
+
+Đặc điểm nổi bật của chương trình: Chương trình ACNPRO – CPIDA có nhiều đặc điểm nổi bật, bao gồm: một chương trình có cấu trúc toàn diện, tập trung vào các công nghệ chuyên biệt, bao gồm phần mềm và công nghệ mới nhất, học theo trình tự thời gian, áp dụng phương pháp học tập kết hợp, có các kỳ thi thực hành, các dự án điện tử thực tế, bài tập và cơ hội du học.
+
+Thời lượng và hình thức đào tạo: Chương trình ACN PRO – CPIDA có tổng thời lượng 176 giờ. Trong đó, thời lượng lý thuyết là 86 giờ và thời lượng thực hành tại phòng thí nghiệm là 90 giờ. Hình thức đào tạo là 2 giờ mỗi buổi, 4 ngày một tuần.
+
+Nội dung chi tiết các học phần:
+*   **Phân tích dữ liệu với MS Excel**: Thời lượng 16 giờ (8 giờ lý thuyết, 8 giờ thực hành), sử dụng công cụ Office Tools.
+*   **Xử lý dữ liệu bằng T-SQL**: Thời lượng 16 giờ (8 giờ lý thuyết, 8 giờ thực hành), sử dụng Microsoft SQL Server.
+*   **Quản lý tập dữ liệu lớn với MongoDB**: Thời lượng 32 giờ (16 giờ lý thuyết, 16 giờ thực hành), sử dụng MongoDB.
+*   **Phân tích thống kê suy luận**: Thời lượng 16 giờ (16 giờ lý thuyết, 0 giờ thực hành), không yêu cầu công cụ cụ thể.
+*   **Khoa học dữ liệu bằng lập trình R**: Thời lượng 36 giờ (18 giờ lý thuyết, 18 giờ thực hành), sử dụng R Studio.
+*   **Lập trình ứng dụng bằng Python**: Thời lượng 36 giờ (18 giờ lý thuyết, 18 giờ thực hành), sử dụng Python.
+*   **Dự án phân tích dữ liệu với R**: Thời lượng 24 giờ (2 giờ lý thuyết, 22 giờ thực hành), sử dụng R Studio.
+Tổng cộng 176 giờ học, bao gồm 86 giờ lý thuyết và 90 giờ thực hành.
+
+Mục tiêu học tập của CPIDA: Khóa học CPIDA cung cấp định hướng về Khoa học Dữ liệu và các kỹ thuật xử lý dữ liệu thông qua khai thác dữ liệu. Học viên sẽ học cách làm việc với bảng tính và phân tích dữ liệu bằng MS Excel, nắm vững các khái niệm cơ bản về lệnh Transact-SQL (T-SQL).
+
+Kỹ năng và kiến thức đạt được: Học viên sẽ hiểu các khái niệm, tính năng, kiến trúc và mô hình dữ liệu của MongoDB, đồng thời học cách cài đặt, cấu hình và giám sát cơ sở dữ liệu NoSQL mã nguồn mở. Khóa học cũng trang bị kiến thức cơ bản về phân tích thống kê, thống kê mô tả, phân tích dự đoán, xác suất và định lý Bayes. Học viên sẽ thành thạo các kỹ thuật khám phá dữ liệu, trực quan hóa dữ liệu, phân tích dự đoán và phân tích mô tả bằng ngôn ngữ R, cũng như phát triển ứng dụng bằng ngôn ngữ Python và một ứng dụng thực tế bằng ngôn ngữ R.
+
+Cơ hội nghề nghiệp sau khóa học: Sau khi hoàn thành chương trình CPIDA, học viên có thể theo đuổi các cơ hội nghề nghiệp như: Chuyên viên phân tích dữ liệu tài chính, Lập trình viên R, và Lập trình viên Python.
+
+Chứng nhận chương trình ACN PRO – CPIDA: Sau khi hoàn thành khóa học, học viên sẽ nhận được Chứng chỉ Năng lực về Phân tích Dữ liệu (Certificate of Proficiency in Data Analysis).
+
+Lợi thế khi học tại Aptech: Aptech mang đến nhiều lợi thế cho học viên, bao gồm: chương trình giảng dạy phù hợp với ngành, phương pháp học tập theo cấp độ, sử dụng các công cụ và kỹ thuật mới nhất, chương trình định hướng việc làm, phát triển hồ sơ năng lực cho học viên, và nền tảng học tập trực tuyến Onlinevarsity cho phép học mọi lúc, mọi nơi.
+
+Nền tảng học tập Onlinevarsity: Onlinevarsity là cổng học tập mới của Aptech, cung cấp quyền truy cập 24/7 cho học viên. Đây là một nền tảng nội dung và cộng tác giúp học viên Aptech học các chương trình và công nghệ mới. Học viên có thể truy cập nội dung khóa học qua Onlinevarsity, tham khảo tài liệu bất cứ lúc nào, ở bất cứ đâu và trên bất kỳ hệ điều hành nào (Windows, iOS, Android).
+
+Lợi ích của Onlinevarsity: Nền tảng Onlinevarsity mang lại nhiều lợi ích cho học viên, bao gồm: các bài giảng video trực tuyến, quyền truy cập 24/7, khả năng học tập mọi lúc mọi nơi, cơ hội nhận chứng chỉ và sự hướng dẫn chuyên sâu. Để biết thêm chi tiết, học viên có thể liên hệ với Trưởng phòng Đào tạo.

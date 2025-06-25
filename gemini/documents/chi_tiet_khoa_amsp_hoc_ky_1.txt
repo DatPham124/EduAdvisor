@@ -1,0 +1,49 @@
+Bản ghi sửa đổi: Phiên bản 1.0 có hiệu lực từ tháng 3 năm 2023, với thay đổi là mới và không có trang nào được thay thế.
+
+Mục tiêu khóa học: Sau học kỳ này, sinh viên sẽ có khả năng phác thảo người, động vật, hoạt hình; giải thích độ phân giải hình ảnh; hiểu các dạng và lựa chọn kiểu chữ. Sinh viên cũng sẽ làm việc với giao diện, công cụ, lớp, văn bản, hiệu ứng, đồ họa, biểu tượng, 3D trong Illustrator, cũng như xuất và in đồ họa web.
+
+Kỹ năng Photoshop và Lightroom: Sinh viên sẽ mô tả giao diện, định nghĩa kích thước và độ phân giải hình ảnh, sử dụng các lớp và công cụ trong Photoshop CC. Đồng thời, sinh viên có thể nâng cao hình ảnh bằng công cụ vẽ, áp dụng bộ lọc và hiệu ứng văn bản, hiểu nhiếp ảnh kỹ thuật số và áp dụng kỹ thuật hậu kỳ bằng Adobe Lightroom.
+
+Kỹ năng quảng cáo và InDesign: Sinh viên sẽ giải thích quảng cáo, thảo luận các loại quảng cáo in ấn, sử dụng màu sắc, phông chữ và đồ họa để tạo chiến dịch. Ngoài ra, sinh viên sẽ hiểu giao diện, công cụ, làm việc với tài liệu, bố cục, mẫu và tạo sách trong Adobe InDesign CC, cũng như các cách xuất sách.
+
+Thông tin tổng quan khóa học: Khóa học bao gồm 8 học phần với tổng cộng 176 giờ học, trong đó có 86 giờ lý thuyết và 90 giờ thực hành. Các học phần chính là Concepts of Graphics and Illustrations, Typography Design, Digital Art, Magic with Images, Lightroom for Photographers, Design for Print and Advertising, Publishing for the Media và Print Portfolio.
+
+Chi tiết học phần đồ họa: Học phần Concepts of Graphics and Illustrations có 26 giờ (16 lý thuyết, 10 thực hành). Typography Design có 18 giờ (8 lý thuyết, 10 thực hành). Digital Art có 22 giờ (10 lý thuyết, 12 thực hành) sử dụng Adobe Illustrator.
+
+Chi tiết học phần hình ảnh: Học phần Magic with Images có 40 giờ (14 lý thuyết, 26 thực hành) sử dụng Adobe Photoshop Extended. Lightroom for Photographers có 20 giờ (10 lý thuyết, 10 thực hành) sử dụng Adobe Lightroom.
+
+Chi tiết học phần xuất bản: Học phần Design for Print and Advertising có 12 giờ (6 lý thuyết, 6 thực hành). Publishing for the Media có 36 giờ (20 lý thuyết, 16 thực hành) sử dụng Adobe InDesign & Incopy. Cuối cùng, Print Portfolio có 2 giờ lý thuyết.
+
+Tài liệu giảng dạy: Để hỗ trợ quá trình giảng dạy, các tài liệu dành cho giảng viên bao gồm Sổ tay người trình bày, Bài thuyết trình trên lớp và Hướng dẫn dành cho giảng viên.
+
+Tài liệu học tập: Để hỗ trợ quá trình học tập, tài liệu dành cho sinh viên là Sổ tay người học (sách điện tử).
+
+Tài nguyên OnlineVarsity: Sinh viên có thể tải sách điện tử, tài liệu đọc bổ sung, gửi câu hỏi kỹ thuật, nghe tệp âm thanh, tải tệp khóa học và câu hỏi mẫu. Sinh viên cũng có thể cung cấp phản hồi, truy cập câu hỏi thường gặp, bảng chú giải thuật ngữ, bài tập dựa trên kịch bản và xem hướng dẫn mô phỏng từng bước.
+
+Lịch trình học tập: Lịch trình học tập được phân bổ theo tuần, bao gồm các buổi lý thuyết, buổi học trực tuyến, bài tập, thực hành và bài kiểm tra. Mỗi học phần có thời gian học và các hoạt động cụ thể được lên kế hoạch trong các tuần khác nhau.
+
+Phân bổ học phần: Học phần Concepts of Graphics and Illustrations và Typography Design được học trong các tuần đầu. Digital Art, Magic with Images và Lightroom for Photographers tiếp nối. Cuối cùng là Design for Print and Advertising, Publishing for the Media và Print Portfolio.
+
+Phương pháp đào tạo: Khóa học áp dụng phương pháp T + L + T + L + T + L, kết hợp các bài kiểm tra định kỳ và bài tập. Các buổi học lý thuyết cung cấp kiến thức nền tảng, sau đó là các buổi thực hành trong phòng thí nghiệm để áp dụng các khái niệm công cụ.
+
+Đánh giá sinh viên: Sinh viên sẽ được đánh giá định kỳ thông qua các kỳ thi cuối học phần trực tuyến với câu hỏi trắc nghiệm. Các bài tập và dự án cũng là một phần quan trọng của quá trình đánh giá, cùng với các bài thực hành cuối học phần.
+
+Thành phần đánh giá: Các thành phần đánh giá bao gồm Bài tập (A) với 25 điểm mỗi bài, Dự án (P) với 100 điểm dựa trên bài thuyết trình, Thực hành cuối học phần (R) và Lý thuyết cuối học phần (T) được tổ chức trực tuyến.
+
+Chi tiết thành phần đánh giá: Các học phần được đánh giá qua bài tập, thực hành và kỳ thi cuối học phần. Cụ thể, Digital Art, Magic with Images, Lightroom for Photographers, Publishing for the Media đều có bài tập (A1-A4) và thực hành (R1-R4) với 25 điểm mỗi bài và thời lượng 120 phút.
+
+Điểm thi cuối học phần: Các kỳ thi lý thuyết cuối học phần (ME1-ME4) cho Concepts of Graphics and Illustrations, Magic with Images, Lightroom for Photographers, Design for Print and Advertising, Publishing for the Media đều có 10 điểm và thời lượng 20 hoặc 30 phút. Học phần Print Portfolio có một dự án.
+
+Chi tiết điểm đạt: Để đạt điểm Pass, tổng điểm trung bình phải từ 40% đến dưới 60%. Để đạt Credit, tổng điểm trung bình phải từ 60% đến dưới 75%. Để đạt Distinction, tổng điểm trung bình phải từ 75% trở lên.
+
+Điều kiện đạt: Để đạt bất kỳ cấp độ nào (Pass, Credit, Distinction), sinh viên phải đạt ít nhất 40% ở mỗi thành phần của kỳ thi nội bộ và kỳ thi cuối cùng. Nếu không, sinh viên sẽ bị đánh giá là 'Referred'.
+
+Yêu cầu hệ thống phần cứng: Để chạy phần mềm, hệ thống yêu cầu tối thiểu bộ xử lý Intel thế hệ 6 hoặc AMD Ryzen 1000 Series trở lên, hệ điều hành Windows 10 (64-bit) phiên bản 2004 trở lên, RAM 8 GB, card đồ họa hỗ trợ DirectX 12 với 2 GB VRAM, card âm thanh tương thích ASIO hoặc Microsoft Windows Driver Model, độ phân giải màn hình 1280 x 800 và 8 GB dung lượng ổ cứng trống.
+
+Cấu hình đề xuất phần cứng: Cấu hình đề xuất bao gồm bộ xử lý Intel thế hệ 7 hoặc AMD Ryzen 3000 Series trở lên, RAM 16 GB cho HD media hoặc 32 GB cho 4K media trở lên, card đồ họa hỗ trợ DirectX 12 với 4 GB VRAM cho màn hình 4K trở lên, card âm thanh tương thích ASIO hoặc Microsoft Windows Driver Model, độ phân giải màn hình 1920 x 1080 trở lên, ổ SSD nội bộ nhanh cho cài đặt ứng dụng và bộ nhớ đệm, cùng ổ đĩa tốc độ cao bổ sung cho media.
+
+Yêu cầu kết nối Internet: Cần có kết nối Internet và đăng ký để kích hoạt phần mềm, xác thực đăng ký và truy cập các dịch vụ trực tuyến.
+
+Yêu cầu phần mềm: Hệ thống cần hệ điều hành 64-bit như Microsoft Windows Vista (Home Premium, Business, Ultimate, Enterprise với Service Pack 1 hoặc 2) hoặc Windows 7. Trình duyệt Microsoft Internet Explorer 6 trở lên cũng được yêu cầu.
+
+Phần mềm Adobe cần thiết: Các phần mềm Adobe cần thiết bao gồm Adobe Illustrator CC, Adobe Photoshop Extended CC, Adobe Lightroom, Adobe InDesign CC và Adobe Incopy CC.

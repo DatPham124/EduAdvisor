@@ -1,2 +1,0 @@
-Chiến lược đánh giá tổng thể và tiêu chí chấm điểm của khóa học:
-Chiến lược đánh giá cho khóa học này bao gồm: Bài kiểm tra mô-đun (Mục tiêu) - AoLEAP, Bài kiểm tra thực hành, và Dự án. Về việc trao điểm, tổng điểm có trọng số từ 40% đến dưới 60% đạt loại PASS, từ 60% đến dưới 75% đạt loại CREDIT, và từ 75% trở lên đạt loại DISTINCTION. Để đạt được các loại điểm PASS, CREDIT hoặc DISTINCTION, sinh viên phải đạt ít nhất 40% ở mỗi phần của bài kiểm tra; nếu không, họ sẽ bị đánh giá là 'Referred'.

@@ -1,2 +1,0 @@
-Yêu cầu phần cứng:
-Các yêu cầu phần cứng bao gồm bộ xử lý Intel i7/AMD Ryzen 7 trở lên, bộ nhớ RAM 16 GB (khuyến nghị 32 GB DDR4), ổ SSD 256 GB (ổ đĩa hệ điều hành), ổ HDD 1 TB (ổ đĩa dữ liệu), và GPU/DirectX phiên bản 4 GB rời (khuyến nghị 8 GB, ưu tiên dòng NVIDIA RTX).

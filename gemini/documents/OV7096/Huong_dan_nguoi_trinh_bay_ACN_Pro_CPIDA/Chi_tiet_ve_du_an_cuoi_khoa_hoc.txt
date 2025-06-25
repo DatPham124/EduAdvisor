@@ -1,2 +1,0 @@
-Chi tiết về dự án cuối khóa học:
-Dự án (P) có tổng điểm 100, thời lượng 24 giờ và là loại dự án. Môn học của dự án là Phân tích dữ liệu với R, với số điểm tối đa là 100.

@@ -1,2 +1,0 @@
-Yêu cầu về phần cứng:
-Để học tập, cần có máy tính để bàn hoặc máy tính xách tay với cấu hình tối thiểu. Đối với máy tính Windows 11 64-bit, yêu cầu bộ xử lý Intel i5 hoặc AMD Ryzen 5 trở lên, RAM 8 GB trở lên và ít nhất 500 GB dung lượng ổ cứng trống. Đối với MacOS, yêu cầu bộ xử lý Intel-Corei5 2.8 GHZ trở lên, RAM 8 GB trở lên, card đồ họa Radeon Pro 560 với 4 GB bộ nhớ trở lên và ít nhất 500 GB dung lượng ổ cứng trống.

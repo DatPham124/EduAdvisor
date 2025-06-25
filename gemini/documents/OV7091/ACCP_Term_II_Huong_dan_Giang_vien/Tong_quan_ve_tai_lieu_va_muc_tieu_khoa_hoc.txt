@@ -1,2 +1,0 @@
-Tổng quan về tài liệu và mục tiêu khóa học:
-Tài liệu hướng dẫn này được sử dụng cho chương trình ACCP Kỳ II, nhằm giới thiệu cho học viên các kiến thức cơ bản về XML, Core Java và C#.

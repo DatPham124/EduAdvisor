@@ -1,6 +1,0 @@
-Yêu cầu hệ thống phần mềm:
-Các phần mềm cần thiết để vận hành hệ thống bao gồm:
-*   Hệ điều hành 64-bit bắt buộc: Microsoft® Windows Vista® Home Premium, Business, Ultimate, hoặc Enterprise với Service Pack 1 (khuyến nghị Service Pack 2) hoặc Windows 7.
-*   MAYA Unlimited 2021.
-*   Arnold Renderer.
-*   NUKE.
