@@ -1,1 +1,0 @@
-Cách xác định trọng số điểm thi cho từng học phần của sinh viên Cao đẳng: Trọng số điểm thi của từng học phần được áp dụng theo đề cương chi tiết của học phần đó.

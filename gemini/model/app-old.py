@@ -23,9 +23,9 @@ app = Flask(__name__)
 history = []
 
 def normalize_text(text):
-    text = unidecode(text)
-    text = text.lower()
-    text = re.sub(r"[^\w\s]", "", text)
+    text = unidecode(text)                  
+    text = text.lower()                     
+    text = re.sub(r"[^\w\s]", "", text)    
     text = re.sub(r"\s+", " ", text).strip()
     return text
 
@@ -46,23 +46,22 @@ def find_intents(question, intent_list, user_info=None, faq_text=None):
 
     for q, _ in faq_pairs:
         similarity = fuzz.partial_ratio(
-            normalize_text(question),
+            normalize_text(question), 
             normalize_text(q)
         )
         if similarity >= 80:  # Ngưỡng tùy chỉnh
             print(f"[Match] Giống FAQ: {q} ({similarity}%)")
             return "cau_hoi_thuong_gap"
     
-    print('[Unmatched] Độ tương tự chỉ: {:.2f}%'.format(similarity))
+    print('[Unmatched] Độ tương tự chỉ: {:.2f}%'.format(similarity))
     
     prompt = f"""
     Bạn là chuyên gia phân tích ngữ cảnh cho chatbot tại Trung tâm CUSC.
-    Dựa trên câu hỏi người dùng, sở thích của họ và lịch sử hội thoại, bạn cần xác định ngữ cảnh phù hợp nhất.
-    Từ chối trả lời câu hỏi không liên quan đến Trung tâm CUSC.
+    Dựa trên câu hỏi người dùng, sở thích của họ và lịch sử hội thoại, bạn cần xác định ngữ cảnh phù hợp nhất.
     Dưới đây là thông tin cần thiết:
 
     Câu hỏi người dùng: "{question}"
-    Sở thích của người dùng: {user_info or "(Không có thông tin)"}
+    Sở thích của người dùng: {user_info or "(Không có thông tin)"}
     Lịch sử gần nhất:
     - Người dùng: {last_q}
     - Chatbot: {last_a}
@@ -73,9 +72,9 @@ def find_intents(question, intent_list, user_info=None, faq_text=None):
     Hướng dẫn:
     - Nếu câu hỏi này là một phần của lựa chọn được chatbot gợi ý trước đó → xác định intent tương ứng.
     - Nếu người dùng đang hỏi chi tiết một lựa chọn cụ thể → giữ đúng intent đó.
-    - Nếu không xác định được nữa  → trả về "no".
+    - Nếu không xác định được nữa  → trả về "no".
     
-    Trả về 1 intent liên quan nhất, cách nhau bằng dấu chấm `.`, không giải thích.
+    Trả về 1 intent liên quan nhất, cách nhau bằng dấu chấm `.`, không giải thích.
     """
 
     response = gemini_model.generate_content(prompt)
@@ -83,39 +82,22 @@ def find_intents(question, intent_list, user_info=None, faq_text=None):
     return response.text.strip()
 
 
-# --- LẤY DỮ LIỆU TỪ MONGODB THEO THỨ TỰ ƯU TIÊN METADATA ---
-def get_data_from_metadata(intents):
+
+# === LẤY DỮ LIỆU TỪ MONGODB THEO INTENT ===
+def get_data_from_intent(intents):
     list_intents = [i.strip() for i in intents.split('.') if i.strip()]
     combined_content = ""
 
     for intent in list_intents:
-        # Ưu tiên tìm kiếm theo domain, subdomain, topic trước
-        doc = collection.find_one({"$or": [
-            {"domain": intent},
-            {"subdomain": intent},
-            {"topic": intent},
-            {"_intent": intent}
-        ]})
-        
+        doc = collection.find_one({"_intent": intent})
         if doc and doc.get("content"):
-            metadata_info = ""
-            if doc.get("domain"):
-                metadata_info += f"Domain: {doc['domain']}"
-            if doc.get("subdomain"):
-                metadata_info += f", Subdomain: {doc['subdomain']}"
-            if doc.get("topic"):
-                metadata_info += f", Topic: {doc['topic']}"
-            if doc.get("_intent"):
-                metadata_info += f", Intent: {doc['_intent']}"
-            
-            combined_content += f"\n--- Ngữ cảnh: ({metadata_info.strip(', ')}) ---\n{doc['content']}\n"
+            combined_content += f"\n--- Ngữ cảnh: {intent} ---\n{doc['content']}\n"
     return combined_content.strip() if combined_content else None
-
 
 def get_limited_history(max_chars=500):
     history_text = ""
     for entry in reversed(history):
-        turn = f"Người dùng: {entry['question']}\nchatbot: {entry['answer']}\n"
+        turn = f"Người dùng: {entry['question']}\nchatbot: {entry['answer']}\n"
         if len(history_text) + len(turn) > max_chars:
             break
         history_text = turn + history_text
@@ -140,8 +122,8 @@ def generate_answer(question, context, user_info=None):
     Ngữ cảnh: {context or "(Không có ngữ cảnh cụ thể)"}
 
     Trả lời ngắn gọn, chính xác và thân thiện bằng tiếng Việt.
-    Không quá 200 từ.
-    Nếu không có thông tin dù đã xác định được ngữ cảnh, hãy tìm kiếm thông tin trên internet và các trang web uy tín để trả lời.
+    Không quá 100 từ.
+    Nếu không có thông tin dù đã xác định được ngữ cảnh, hãy tìm kiếm thông tin trên internet và các trang web uy tín để trả lời.
     Nếu có thể, gợi ý câu hỏi tiếp theo.
     """
     response = gemini_model.generate_content(prompt)
@@ -160,25 +142,15 @@ def chat():
     if not question:
         return jsonify({"answer": "Vui lòng nhập câu hỏi."})
     
-    faq = get_data_from_metadata("cau_hoi_thuong_gap") # Vẫn có thể giữ lại hoặc chuyển thành metadata nếu FAQ cũng có metadata
-    
-    # Lấy tất cả các giá trị duy nhất từ các trường domain, subdomain, topic và _intent
-    all_domains = collection.distinct("domain")
-    all_subdomains = collection.distinct("subdomain")
-    all_topics = collection.distinct("topic")
-    all_intents_from_db = collection.distinct("_intent")
-    
-    # Kết hợp tất cả các giá trị duy nhất thành một danh sách để gửi cho mô hình
-    all_relevant_terms = list(set(all_domains + all_subdomains + all_topics + all_intents_from_db))
-    intent_list = ". ".join(filter(None, all_relevant_terms)) # Lọc bỏ các giá trị None
-    
-    intents = find_intents(question, intent_list , user_info, faq)
+    faq = get_data_from_intent("cau_hoi_thuong_gap")
+    all_intents = [doc["_intent"] for doc in collection.find({}, {"_intent": 1})]
+    intent_list = ". ".join(all_intents)
+    # token_itents = count_tokens(intent_list)
+    intents = find_intents(question,intent_list , user_info, faq)
     print(f"[Intent] Nhận diện ngữ cảnh: {intents}")
     context = None
     if intents != "no":
-        # Sử dụng hàm mới để lấy dữ liệu dựa trên metadata
-        context = get_data_from_metadata(intents)
-    
+        context = get_data_from_intent(intents)
     answer = generate_answer(question, context, user_info)
 
     history.append({

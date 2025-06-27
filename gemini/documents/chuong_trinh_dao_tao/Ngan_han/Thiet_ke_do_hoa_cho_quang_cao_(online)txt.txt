@@ -1,0 +1,109 @@
+﻿1. Giới thiệu
+ 
+Chuyên viên Thiết kế đồ họa luôn là "ngôi sao" được săn đón trên mọi lĩnh vực tại các tập đoàn lớn đến các doanh nghiệp quảng cáo tại Việt Nam. Vì vậy, việc sở hữu Chứng nhận Đồ họa là chìa khóa mở ra hàng loạt cơ hội nghề nghiệp: Thiết kế đồ họa, Thiết kế Websites & Apps, từ những vị trí trong bộ phận phát triển nhận diện thương hiệu, Marketing, … đến cả Giám đốc Sáng tạo.
+ 
+Khóa học THIẾT KẾ ĐỒ HỌA CHO QUẢNG CÁO Online sẽ cung cấp kiến thức cơ bản và kỹ năng cần thiết để học viên có thể làm quen với thiết kế đồ họa, sử dụng phần mềm thiết kế, sáng tạo các sản phẩm phục vụ cho quảng cáo. 
+ 
+Đặc biệt, với khóa học này cho phép các học viên học bất cứ lúc nào và bất cứ nơi đâu, tiết kiệm thời gian và chi phí. 
+ 
+2. Mục tiêu khóa học 
+ 
+Kỹ năng đạt được:
+- Biết được các nguyên tắc cơ bản cho việc thiết kế
+- Biết được đặc điểm cấu tạo của font chữ và đặc điểm của màu sắc và các lược đồ màu
+- Biết cách sử dụng các công cụ Adobe như Illustrator, Photoshop.
+- Vận dụng các nguyên tắc thiết kế tạo các mẫu thiết kế phù hợp
+- Giải thích về cách chọn font chữ cũng như việc lựa chọn màu sắc
+- Vận dụng các công cụ Adobe như Illustrator, Photoshop vào thiết kế sản phẩm quảng cáo
+ 
+Phương pháp đào tạo theo hướng dự án:
+- Thuyết giảng kết hợp thực hành.
+- Học tập dựa trên vấn đề thực tế.
+ 
+Chất lượng giảng dạy:
+- Giảng viên đã và đang thực hiện các dự án thực tiễn nên giàu kinh nghiệm thực tế.
+- Giảng viên đạt được chứng nhận chuyên môn từ các tổ chức trong lĩnh vực Mỹ thuật Đa phương tiện và được đánh giá cao.
+ 
+3. Đối tượng tham dự:
+- Dành cho mọi đối tượng yêu thích đồ họa, thiết kế.
+- Có khả năng vẽ tay là một thuận lợi.
+ 
+4. Chứng nhận: Học viên nhận được Chứng nhận hoàn thành khóa học “Thiết kế đồ họa cho Quảng cáo” do Trung tâm Công nghệ Phần mềm Đại học Cần Thơ cấp.
+ 
+5. Thời lượng khóa học: 18 giờ - Hình thức: Học online
+ 
+6. Nội dung chương trình:
+ 
+Phần 1: Khái niệm cơ bản
+             1. Thiết kế đồ họa là gì? 
+             2. Những yếu tố tạo nên sản phẩm thiết kế truyền thông tốt (chữ, màu, dàn trang, hình ảnh).
+             3. Nghệ thuật chữ (Typography)
+                 a. Giới thiệu 4 loại Font phổ biến (Serif, Sans Serif, Script, Display)
+                 b. Một số luật:
+                 c. Tính dễ đọc (Legibility)
+                 d. Phân cấp chính phụ (Hierarchy)
+                 e. Giới hạn số lượng Typefaces
+                 f. Tránh sử dụng font giống nhau
+             4. Màu sắc
+                 a. Màu nóng, màu lạnh
+                 b. Các nguyên tắc phối màu
+                 c. Màu thứ cấp, nhị cấp, tam cấp
+                 d. RGB & CMYK
+             5. Khái niệm về thiết kế thương hiệu
+ 
+Phần 2: Đồ họa Vector (Adobe Illustrator CC)
+             1. Định nghĩa đồ họa vector? Phân biệt đồ họa Vector và Raster.
+             2. Giao diện Illustrator:
+                 - Workspace
+                 - Tool box
+                 - Panel
+                 - Artboard
+                 - Bộ công cụ cơ bản
+                 - Shape builder
+                 - Công cụ pen
+                 - Công cụ pencil
+                 - Transform
+                 - Canh lề (Align)
+                 - Group/Ungroup
+                 - Trace image
+                 - Tô màu chuyển sắc (Gradient)
+                 - Tạo mẫu pattern
+                 - Công cụ văn bản: 
+                   o Character
+                   o Paragraph
+             3. Sáng tạo logo thương hiệu.
+                 - Quy trình sáng tạo logo
+                 - Thông số màu chủ đạo của thương hiệu
+                 - Fontface
+                 - Logo lưới (Grid logo)
+                 - Giải pháp màu
+                 - Kích thước nhỏ nhất
+                 - Khoảng cách an toàn
+             4. Sáng tạo sản phẩm truyền thông
+                 - Bản quảng cáo ngoài trời (Billboard)
+                 - Danh thiếp (Card visit)
+                 - Tờ rơi quảng bá thương hiệu (Brochure)
+                 - Nhãn chai
+ 
+Phần 3: Xử lý ảnh (Photoshop)
+             1. Cơ bản về Photoshop
+                 a. Giao diện Photoshop
+                     - Layer
+                     - Thanh công cụ
+                     - Panel
+                 b. Các công cụ
+                     - Công cụ cọ để tô vẽ (Brush)
+                     - Bộ lọc (Filter)
+                     - Chỉnh sửa mặt, kéo dài chân, chỉnh dáng đẹp hơn (Liquify)
+                     - Làm mịn da mặt, xóa mụn tự nhiên
+                     - Công cụ chỉnh sáng tối, màu sắc (Adjustments Layers)
+                     - Đối tượng thông minh (Smart object)
+                     - Các công cụ tạo vùng chọn
+                     - Layer mask
+                     - Kết hợp hai đối tượng (Di chuyển layer từ file này sang file khác)
+                     - Các công cụ nhóm content-aware
+                     - Công cụ cắt ảnh (Crop)
+             2. Thiết kế sản phẩm truyền thông
+                 a. Nghệ thuật ghép ảnh (Manipulation)
+                 b. Retouching da (Làm mịn da, trang điểm, chỉnh sửa khuôn mặt, kéo dài chân, chỉnh
+

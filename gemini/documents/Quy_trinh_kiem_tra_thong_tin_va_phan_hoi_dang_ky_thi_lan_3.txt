@@ -1,2 +1,0 @@
-Quy trình kiểm tra thông tin và phản hồi đăng ký thi lần 3:
-Sau khi nhận được giấy cam kết, Phòng Đào tạo sẽ tiến hành kiểm tra thông tin đăng ký của sinh viên và gửi phản hồi qua email cho sinh viên.

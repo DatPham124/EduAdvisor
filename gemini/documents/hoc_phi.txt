@@ -1,7 +1,0 @@
-Thông tin học phí vui lòng liên hệ với trung tâm để được tư vấn cụ thể hơn.
----
-Tài khoản ngân hàng để học sinh có thể chuyển khoản học phí
-Đơn vị: Trung tâm Công nghệ Phần mềm Đại học Cần Thơ
-Địa chỉ: 01, Lý Tự Trọng, Thới Bình, Ninh Kiều, Cần Thơ
-Tài khoản: 0111000031889, ngân hàng Vietcombank, chi nhánh Cần Thơ
-Nội dung chuyển khoản: (Họ tên - Chuyển khoản học phí Lập trình viên)

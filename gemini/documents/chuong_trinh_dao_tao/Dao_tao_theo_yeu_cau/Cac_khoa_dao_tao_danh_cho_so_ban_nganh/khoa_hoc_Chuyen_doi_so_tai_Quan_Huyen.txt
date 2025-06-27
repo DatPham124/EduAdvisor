@@ -1,0 +1,143 @@
+Chuyển đổi số cấp Quận/Huyện: Chuyển đổi số cấp Quận/Huyện là bước trung gian quan trọng trong hoạt động chuyển đổi số ở chính quyền địa phương. Tính đặc thù kinh tế - xã hội và sự khác biệt trong giải pháp đòi hỏi đầu tư riêng theo nhu cầu từng quận/huyện.
+CUSC đáp ứng nhu cầu: Để đáp ứng nhu cầu nâng cao nhận thức và kỹ năng phục vụ công tác chuyển đổi số địa phương, Trung tâm Công nghệ Phần mềm Đại học Cần Thơ (CUSC) giới thiệu danh mục các chương trình đào tạo thiết thực. Các chương trình này dành cho lãnh đạo, quản lý, nhân viên văn phòng và người dân trong địa bàn quận/huyện.
+Chương trình chuyển đổi số quốc gia: Dựa theo Quyết định phê duyệt "Chương trình Chuyển đổi số Quốc gia đến năm 2025, định hướng đến năm 2030" của Thủ tướng Chính phủ (ngày 03/06/2020), mục tiêu chung là phát triển Chính phủ số, Kinh tế số (đóng góp 5% GDP quốc gia năm 2019) và Xã hội số. Chương trình cũng góp phần hình thành các tổ chức công nghệ số Việt Nam có năng lực toàn cầu, tăng hiệu quả hoạt động, năng suất lao động, và tạo nguồn tăng trưởng mới.
+Đào tạo CNTT chuyển đổi số: CUSC giới thiệu đến Lãnh đạo Quận/Huyện chương trình đào tạo Công nghệ thông tin (CNTT) về Chuyển đổi số. Đối tượng là cán bộ, công chức, viên chức đang công tác tại các cơ quan, ban, ngành thuộc lĩnh vực CNTT và Truyền thông. Một số nội dung liên quan đến chuyển đổi số trong doanh nghiệp cũng được giới thiệu để đáp ứng nhu cầu các thành tố quan trọng.
+CUSC góp phần phát triển CNTT: Thông qua chương trình đào tạo được thiết kế phù hợp, CUSC tin rằng sự hợp tác giữa Lãnh đạo Quận/Huyện và Trung tâm sẽ góp phần xây dựng, phát triển ngành CNTT cả nước nói chung và lĩnh vực chuyển đổi số nói riêng.
+Danh mục khóa học chuyển đổi số: Các khóa tập huấn công nghệ thông tin về chuyển đổi số được chia thành ba nhóm chính: Chính phủ số, Kinh tế số và Xã hội số.
+Nhóm 1: Chính phủ số:
+*   Kỹ năng chuyển đổi số, kỹ năng số cho cán bộ lãnh đạo: Thời lượng 24 giờ.
+*   Kỹ năng chuyển đổi số, kỹ năng số cho cán bộ công chức, viên chức, người lao động: Thời lượng 40 giờ.
+*   Hệ thống các chỉ tiêu đánh giá chuyển đổi số: Thời lượng 16 giờ.
+*   Nhận thức chung về đô thị thông minh và Khung kiến trúc Chính phủ điện tử Việt Nam: Thời lượng 8 giờ.
+*   Đô thị thông minh và tầm nhìn phát triển bền vững: Thời lượng 16 giờ, dành cho lãnh đạo và quản lý.
+Nhóm 2: Kinh tế số:
+*   Kinh tế số và quản trị kinh tế số: Thời lượng 40 giờ.
+*   Phân tích dữ liệu thông minh phục vụ công tác quản lý: Thời lượng 80 giờ, dành cho chuyên viên quản lý khối kinh tế - xã hội và doanh nghiệp.
+*   Tiếp thị và truyền thông trên môi trường số: Thời lượng 24 giờ, dành cho doanh nghiệp và chuyên viên truyền thông.
+*   Thiết kế quảng cáo và Xây dựng bộ nhận dạng thương hiệu: Thời lượng 32 giờ, dành cho doanh nghiệp.
+Nhóm 3: Xã hội số:
+*   Xã hội số và quản trị xã hội số: Thời lượng 40 giờ, dành cho chuyên viên quản lý khối kinh tế - xã hội và công dân số.
+*   Tập huấn kỹ năng chuyển đổi số cộng đồng: Thời lượng 24 giờ, dành cho tổ chuyển đổi số cộng đồng và người dân.
+*   Bảo mật dữ liệu cá nhân trên môi trường số: Thời lượng 24 giờ, dành cho doanh nghiệp và người dân.
+Mục tiêu kỹ năng lãnh đạo: Cung cấp kiến thức nền tảng về khái niệm và nhận thức chuyển đổi số. Giúp cán bộ lãnh đạo hiểu bối cảnh lớn, xác định mức độ trưởng thành, và duy trì chiến lược số lâu dài.
+Kiến thức kỹ năng lãnh đạo: Cung cấp nội dung trọng tâm về chuyển đổi số như chiến lược, phát triển Chính phủ số, kinh tế số, xã hội số. Bao gồm tổ chức bộ máy, mô hình hoạt động, quản lý, theo dõi số trong tổ chức, và các nội dung liên quan cho đội ngũ lãnh đạo, quản lý, cán bộ chủ chốt từ cấp xã trở lên.
+Công nghệ hỗ trợ lãnh đạo: Nắm bắt các công nghệ quan trọng hỗ trợ lãnh đạo, quản lý định hướng chiến lược ứng dụng công nghệ số cho đơn vị.
+Tổng quan công nghệ số: Giới thiệu tổng quan về điện toán đám mây, dữ liệu lớn, khoa học dữ liệu, máy học, trí tuệ nhân tạo, blockchain, IoT, quản lý dự án phần mềm và chính sách bảo mật.
+Xây dựng chiến lược số: Cung cấp kiến thức, kỹ năng căn bản trong xây dựng chiến lược số cho đơn vị.
+Mục tiêu kỹ năng công chức: Cung cấp kiến thức, kỹ năng về chuyển đổi số, khai thác công nghệ số, dữ liệu số, nền tảng số, dịch vụ số, xử lý thông tin số, giao dịch điện tử, và kỹ năng sử dụng công nghệ thông tin.
+Phương thức làm việc hiện đại: Nêu bật các phương thức chính để cộng tác, giao tiếp trong môi trường làm việc hiện đại, quản lý thời gian từ xa và truyền thông số.
+Kiến thức nền tảng chuyển đổi số: Cung cấp kiến thức nền tảng về khái niệm và nhận thức chuyển đổi số.
+Cộng tác làm việc môi trường số: Hướng dẫn sử dụng công cụ cộng tác và giao tiếp dựa trên đám mây để hoàn thành công việc từ mọi nơi, kết nối với tổ chức. Giải thích cách cộng tác với đồng nghiệp từ xa, bao gồm sử dụng cuộc họp ảo hiệu quả.
+Phương pháp làm việc kỹ thuật số: Khám phá các phương pháp hay nhất để cộng tác trong môi trường làm việc kỹ thuật số.
+Kết hợp công nghệ mới: Cách thức kết hợp công nghệ mới vào tổ chức hiện tại, bao gồm quản lý, bảo mật tập tin kỹ thuật số, chọn công cụ phù hợp, tối đa hóa hiệu quả, xây dựng lực lượng lao động di động và thúc đẩy học tập liên tục.
+Kỹ năng quản lý công việc: Trang bị kỹ năng cơ bản trên nền tảng số nhằm hỗ trợ quản lý công việc, thông tin liên lạc, xử lý dữ liệu.
+Truy cập thông tin an toàn: Giới thiệu cách truy cập thông tin trực tuyến an toàn, cộng tác và kết nối với người khác bằng công cụ tăng năng suất trực tuyến, nội dung chia sẻ.
+Tận dụng công cụ truyền thông: Tìm hiểu cách tận dụng tối đa bộ công cụ truyền thông, từ hội nghị truyền hình trực tuyến đến nền tảng hiệu suất đám mây.
+Nguyên tắc làm việc trực tuyến: Trình bày các nguyên tắc cơ bản khi làm việc trực tuyến, bao gồm kết nối Internet, mua hàng, phòng lừa đảo trực tuyến, đánh giá tính xác thực thông tin.
+Sử dụng công cụ kết nối: Hướng dẫn sử dụng các công cụ để kết nối với người khác, giải thích cách làm việc với email, cộng tác trên tài liệu, sử dụng nhắn tin tức và thực hiện cuộc gọi video, âm thanh.
+Quản lý công việc từ xa: Hướng dẫn xây dựng công cụ quản lý công việc từ xa và nối kết nhóm hiệu quả, linh hoạt, hướng tới cuộc sống cân bằng hơn.
+Theo dõi năng suất lao động: Cách thức theo dõi, quản lý thời gian khi làm việc tại nhà, từ xa; Cách thức duy trì năng suất lao động trên môi trường phân tán.
+Thiết lập không gian làm việc: Cách thiết lập không gian làm việc chuyên dụng để đạt năng suất tối đa, bao gồm mẹo thiết lập máy tính để đảm bảo người học tập trung.
+Lập lịch trình hàng ngày: Hướng dẫn cách lập lịch trình hàng ngày để đạt năng suất cao nhất và lên kế hoạch cho những khoảng thời gian nghỉ ngơi có ý nghĩa để tránh kiệt sức.
+Mục tiêu đánh giá chuyển đổi số: Nhận dạng và so sánh các nhóm chỉ tiêu liên quan đến chuyển đổi số.
+Phân tích mục tiêu đánh giá: Phân tích các mục tiêu của Quyết định 922/QĐ-BTTTT về phê duyệt Đề án "Xác định Bộ chỉ số đánh giá chuyển đổi số của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, các tỉnh, thành phố trực thuộc Trung ương và của quốc gia" (DTI).
+Định nghĩa chỉ số chuyển đổi số: Định nghĩa khái niệm Chỉ số chuyển đổi số (DTI).
+Các chỉ số liên quan DTI: Bao gồm Chỉ số Chính phủ điện tử (EGDI), Chỉ số Công nghệ thông tin (IDI), Chỉ số An toàn thông tin mạng (GCI), Chỉ số Năng lực cạnh tranh (GCI), Chỉ số Đổi mới sáng tạo (GII).
+Đề án đánh giá chuyển đổi số: Đề án về "Xác định bộ chỉ số đánh giá chuyển đổi số của các bộ, cơ quan ngang bộ, cơ quan trực thuộc chính phủ, các tỉnh, thành phố trực thuộc trung ương và quốc gia".
+Mục tiêu, yêu cầu, phạm vi: Mục tiêu, yêu cầu, phạm vi và đối tượng của Đề án đánh giá chuyển đổi số.
+Cấu trúc DTI cấp tỉnh: Cấu trúc DTI cấp tỉnh bao gồm Trụ cột chính quyền số, Trụ cột kinh tế số, Trụ cột xã hội số.
+Mục tiêu đô thị thông minh: Cung cấp nhận thức chung về đô thị thông minh. Phân tích các góc nhìn khác nhau về mục tiêu xây dựng đô thị thông minh. Cung cấp thông tin về các giải pháp đô thị thông minh ở Việt Nam và trên thế giới.
+Kiến thức đô thị thông minh: Khái niệm và tiếp cận đô thị thông minh tại Việt Nam và trên thế giới.
+Khung kiến trúc Chính phủ điện tử: Khung kiến trúc Chính phủ điện tử Việt Nam phiên bản 2.0 (Quyết định số 2323/QĐ-BTTTT).
+Tiếp cận đô thị thông minh địa phương: Tiếp cận tại các đô thị thông minh tại địa phương và các vấn đề cần lưu ý.
+Chỉ số đánh giá quan trọng: Các chỉ số đánh giá quan trọng bao gồm Chỉ số Chính phủ điện tử (EGDI) và Chỉ số chuyển đổi số (DTI).
+Khung kiến trúc đô thị thông minh: Tham khảo một số khung kiến trúc đô thị thông minh như ASEAN Smart Cities Network (ASCN) và IES-CityFramework.
+Mục tiêu phát triển bền vững: Cung cấp kiến thức nền tảng về khái niệm, nhận thức về đô thị thông minh. Phân tích các góc nhìn khác nhau về mục tiêu xây dựng đô thị thông minh.
+Tìm hiểu khung kiến trúc: Tìm hiểu Khung kiến trúc Chính phủ điện tử Việt Nam phiên bản 2.0.
+Vai trò phát triển bền vững: Xác định vai trò của phát triển bền vững trong phát triển đô thị.
+Giải pháp đô thị thông minh: Tìm hiểu một số giải pháp đô thị thông minh ở Việt Nam và trên thế giới.
+Kiến thức đô thị thông minh: Khái niệm và tiếp cận đô thị thông minh tại Việt Nam và trên thế giới.
+Khung kiến trúc Chính phủ điện tử: Khung kiến trúc Chính phủ điện tử Việt Nam phiên bản 2.0 (Quyết định số 2323/QĐ-BTTTT).
+Tiếp cận đô thị thông minh: Tiếp cận tại các đô thị thông minh tại địa phương và các vấn đề cần lưu ý.
+Xây dựng Chính phủ điện tử: Xây dựng Chính phủ điện tử song hành cùng thúc đẩy chuyển đổi số quốc gia.
+Khung kiến trúc đô thị: Tham khảo một số khung kiến trúc đô thị thông minh như ASEAN Smart Cities Network (ASCN) và IES-CityFramework.
+Khái niệm phát triển bền vững: Tìm hiểu khái niệm phát triển bền vững trong phát triển đô thị.
+Chỉ số phát triển bền vững: Phân tích các chỉ số phát triển bền vững trong các mô hình đô thị thông minh khác nhau.
+Mục tiêu kinh tế số: Cung cấp kiến thức chuyển đổi số, kỹ năng số trong doanh nghiệp. Bao gồm quản lý thời đại số, tiếp cận thị trường, khách hàng số, phân tích dữ liệu để ra quyết định, tính toán sản phẩm/dịch vụ số phù hợp.
+Tối ưu hoạt động doanh nghiệp: Tổ chức hoạt động sản xuất, cung cấp dịch vụ, tối ưu chi phí, quản lý tài chính thông minh, quản lý chăm sóc khách hàng liên tục, duy trì cam kết, nâng cao chất lượng sản phẩm/dịch vụ, mở rộng thị trường.
+Kiến thức nền tảng kinh tế số: Cung cấp kiến thức nền tảng về quản trị số, kinh doanh số, giao dịch số, tài chính số, ngân hàng số, dịch vụ trực tuyến. Cung cấp kiến thức nền tảng và kỹ năng phân tích dữ liệu số.
+Dẫn đầu đổi mới, quản lý hiệu suất: Cung cấp kiến thức, kỹ năng liên quan đến dẫn đầu với sự đổi mới và quản lý hiệu suất công việc.
+Kiến thức chuyển đổi số doanh nghiệp: Cung cấp kiến thức chuyển đổi số, kỹ năng số trong doanh nghiệp. Bao gồm quản lý thời đại số, tiếp cận thị trường, khách hàng số, phân tích dữ liệu để ra quyết định, tính toán sản phẩm/dịch vụ số phù hợp.
+Tối ưu hoạt động doanh nghiệp: Tổ chức hoạt động sản xuất, cung cấp dịch vụ, tối ưu chi phí, quản lý tài chính thông minh, quản lý chăm sóc khách hàng liên tục, duy trì cam kết, nâng cao chất lượng sản phẩm/dịch vụ, mở rộng thị trường.
+Kiến thức nền tảng quản trị số: Cung cấp kiến thức nền tảng về quản trị số, kinh doanh số, giao dịch số, tài chính số, ngân hàng số, dịch vụ trực tuyến.
+Phân tích dữ liệu số: Cung cấp kiến thức nền tảng và kỹ năng phân tích dữ liệu số, tập trung vào ba cấp độ: Phân tích mô tả (Descriptive Analytics), Phân tích dự báo (Predictive Analytics) và Phân tích đề xuất (Prescriptive Analytics).
+Kiến thức dẫn đầu đổi mới: Cung cấp kiến thức, kỹ năng liên quan đến dẫn đầu với sự đổi mới.
+Cốt lõi sự đổi mới: Giới thiệu cốt lõi của sự đổi mới và cách các nhà lãnh đạo tại nhiều công ty, tổ chức phi lợi nhuận như Apple, Amazon, Google nuôi dưỡng sự đổi mới mà không mất kiểm soát.
+Tiếp cận đổi mới: Cách thức tiếp cận đổi mới: tư duy thiết kế, khởi động tinh gọn và đổi mới hợp tác, cho phép bất kỳ tổ chức nào cũng có thể đổi mới.
+Thay đổi đơn vị: Cách các đơn vị có thể thay đổi bằng cách xác định lại khách hàng mục tiêu, suy nghĩ lại về đề xuất giá trị, hoặc tái cấu trúc chuỗi giá trị.
+Triển khai chuyển đổi số: Giải thích lý do và hướng dẫn cách thức triển khai quá trình chuyển đổi số và đổi mới xã hội. Sử dụng những chiến lược này để khám phá con đường mới để đổi mới tại đơn vị.
+Quản lý hiệu suất công việc: Cung cấp kiến thức, kỹ năng liên quan đến quản lý hiệu suất công việc.
+Thiết kế hiệu suất thay thế: Trình bày cách thiết kế hiệu suất thay thế quản lý hiệu suất, cách người quản lý và người lao động cần tham gia đối thoại liên tục, và cách người quản lý cần quản lý khoảng cách kỹ năng.
+Đo lường khả năng phân phối: Hướng dẫn cách đo lường khả năng phân phối và khuyến khích của nhóm, đồng thời giải thích cách mở rộng quy mô quản lý hiệu suất cho toàn bộ tổ chức.
+Mục tiêu phân tích dữ liệu: Cung cấp kiến thức phân tích dữ liệu thông minh để giúp doanh nghiệp hoặc cá nhân phân tích dữ liệu phức tạp, đưa ra đánh giá có giá trị, nâng cao hiệu quả công tác quản lý.
+Tổ chức quản lý dữ liệu: Kiến thức đạt được về tổ chức và quản lý dữ liệu.
+Khái niệm phân loại dữ liệu: Khái niệm và Phân loại dữ liệu.
+Khái niệm doanh nghiệp thông minh: Khái niệm Doanh nghiệp thông minh.
+Chuyển đổi số doanh nghiệp: Chuyển đổi số trong doanh nghiệp.
+Giới thiệu phân tích dữ liệu: Giới thiệu về phân tích dữ liệu.
+Mức độ đo lường dữ liệu: Mức độ đo lường/thang đo của dữ liệu (Levels of measurement).
+Ba cấp độ phân tích dữ liệu: Giới thiệu ba cấp độ Phân tích dữ liệu (Data analysis/Analytics): Phân tích mô tả (Descriptive analytics), Phân tích dự báo (Predictive analytics), Phân tích đề xuất (Prescriptive analytics).
+Công cụ phân tích dữ liệu: Các công cụ phân tích dữ liệu: Excel, R, Python.
+Trực quan hóa dữ liệu: Trực quan hóa dữ liệu.
+Ý nghĩa trực quan hóa dữ liệu: Trực quan hóa dữ liệu và ý nghĩa áp dụng.
+Công cụ trực quan hóa dữ liệu: Các công cụ trực quan hóa dữ liệu phổ biến.
+Dạng biểu đồ phổ biến: Các dạng biểu đồ phổ biến và cách thức sử dụng, bao gồm biểu đồ phân phối (distribution), Histogram, Biểu đồ mật độ (Density Plot), Biểu đồ hộp và râu (Box & Whisker), Biểu đồ bong bóng (Bubble Chart), Bản đồ (Map).
+Mô hình chiến lược kinh doanh: Nhóm 8 mô hình tiêu biểu trong xây dựng chiến lược kinh doanh.
+Mục tiêu tiếp thị số: Cung cấp kiến thức nền tảng về khái niệm, nhận thức về tiếp thị số.
+Kênh truyền thông số hiệu quả: Cung cấp kiến thức về các kênh truyền thông số hiệu quả.
+Vấn đề pháp lý, tâm lý: Các vấn đề cần lưu ý về pháp lý và tâm lý xã hội trong quảng cáo và truyền thông trên môi trường mạng.
+Nguy cơ pháp lý quản trị: Các nguy cơ và vấn đề pháp lý trong quản trị, sử dụng các kênh tiếp thị và truyền thông số.
+Kiến thức tiếp thị số: Cung cấp kiến thức nền tảng về khái niệm, nhận thức về tiếp thị số.
+Kênh truyền thông số: Cung cấp kiến thức về các kênh truyền thông số hiệu quả: Website/Landing page, Facebook, Youtube, Zalo, Chatbox/Chatbot.
+Lưu ý pháp lý, tâm lý: Các vấn đề cần lưu ý về pháp lý và tâm lý xã hội trong quảng cáo và truyền thông trên môi trường mạng.
+Luật an toàn thông tin: Luật An toàn thông tin mạng và các tiêu chuẩn bảo mật cần tuân thủ.
+Nguy cơ tiềm ẩn quản trị: Các nguy cơ tiềm ẩn trong quản trị các kênh tiếp thị và truyền thông số.
+Nguy cơ tiềm ẩn sử dụng: Các nguy cơ tiềm ẩn trong sử dụng các kênh tiếp thị và truyền thông số.
+Phát triển nội dung số: Phát triển nội dung số và một số gợi ý về giải pháp.
+Mục tiêu nhận dạng thương hiệu: Tìm hiểu các thành phần quan trọng nhất của một bộ nhận dạng thương hiệu cho một tổ chức, doanh nghiệp.
+Vận dụng thiết kế đồ họa: Vận dụng các nguyên tắc của thiết kế đồ họa vào thiết kế các ấn phẩm quảng cáo và thương hiệu.
+Kỹ năng phần mềm thiết kế: Các kỹ năng sử dụng phần mềm thiết kế, sáng tạo các sản phẩm thiết kế.
+Kiến thức đồ họa, thiết kế: Biết được các nguyên lý cơ bản trong đồ họa và thiết kế.
+Đặc điểm font chữ, màu sắc: Biết được đặc điểm cấu tạo của font chữ và đặc điểm của màu sắc và các lược đồ màu.
+Sử dụng công cụ Adobe: Biết cách sử dụng các công cụ Adobe như Illustrator, Photoshop, Corel Draw, và Indesign.
+Vận dụng nguyên tắc thiết kế: Vận dụng các nguyên tắc thiết kế tạo các mẫu thiết kế phù hợp.
+Chọn font chữ, màu sắc: Giải thích về cách chọn font chữ cũng như việc lựa chọn màu sắc.
+Thiết kế sản phẩm quảng cáo: Vận dụng các công cụ Adobe như Illustrator, Photoshop, và Indesign vào thiết kế sản phẩm quảng cáo và bộ nhận dạng thương hiệu.
+Mục tiêu xã hội số: Cung cấp kiến thức tổng quát về công nghệ số – động lực chính của xã hội số – dựa trên sự tăng trưởng thông tin, dữ liệu nhanh chóng, làm thay đổi mọi khía cạnh của tổ chức xã hội, từ chính phủ, kinh tế cho tới người dân.
+Khái niệm xã hội số: Xem xét khái niệm xã hội số nghĩa hẹp (công dân số và văn hóa số) và theo nghĩa rộng (một trong ba trụ cột của một quốc gia số, bên cạnh chính phủ số và kinh tế số).
+Kiến thức công dân số: Cung cấp kiến thức về công dân số.
+Yếu tố công dân số: Chín yếu tố cấu thành công dân số là khả năng truy cập nguồn thông tin số, khả năng giao tiếp môi trường số, kỹ năng số cơ bản, mua bán hàng hóa trên mạng, chuẩn mực đạo đức môi trường số, bảo vệ thể chất và tâm lý trước ảnh hưởng từ môi trường số.
+Quyền và trách nhiệm số: Các yếu tố cấu thành công dân số bao gồm quyền và trách nhiệm trong môi trường số, định danh và xác thực, dữ liệu cá nhân và quyền riêng tư trong môi trường số.
+Kiến thức văn hóa số: Cung cấp kiến thức về văn hóa số.
+Văn hóa số hình thành: Văn hóa trong xã hội thực hình thành qua hàng trăm, nghìn năm. Xã hội số mới hình thành vài chục năm, do đó văn hóa số cũng mới hình thành, bao gồm các quy tắc ứng xử, chuẩn mực đạo đức của con người trong môi trường số.
+Công nghệ số tiên tiến: Cập nhật kiến thức và kỹ năng căn bản về các công nghệ số tiên tiến trên thế giới như trí tuệ nhân tạo (AI), khoa học dữ liệu, dữ liệu lớn (Big Data), điện toán đám mây (Cloud Computing), internet kết nối vạn vật (IoT), thực tế ảo/thực tế tăng cường (VR/AR), chuỗi khối (Blockchain), in ba chiều (3D Printing).
+Mục tiêu chuyển đổi số cộng đồng: Xác định mục tiêu xã hội của hoạt động chuyển đổi số cộng đồng.
+Nền tảng số xã hội: Tìm hiểu các nền tảng số quan trọng trong trụ cột xã hội số.
+Nền tảng số kinh tế gia đình: Tìm hiểu các nền tảng số quan trọng đối với kinh tế gia đình.
+Vận dụng mạng xã hội: Tìm hiểu cách thức vận dụng các nền tảng mạng xã hội và truyền thông số trong việc nối kết, vận động và tuyên truyền kiến thức.
+Kiến thức chuyển đổi số cộng đồng: Ý nghĩa, mục tiêu và cách thức tổ chức các tổ chuyển đổi số cộng đồng tại địa phương.
+Vai trò xã hội số: Vai trò và vị trí của xã hội số, công dân số trong bối cảnh chung.
+Nền tảng trụ cột xã hội số: Các nền tảng số quan trọng trong trụ cột xã hội số: công dân số, bảo hiểm, ngân hàng, dịch vụ thanh toán số, mạng xã hội.
+Thủ tục hành chính điện tử: Các kiến thức thực hiện thủ tục hành chính một cửa điện tử ở góc độ công dân.
+Nền tảng số kinh tế hộ: Các kiến thức về áp dụng các nền tảng số trong kinh tế hộ gia đình: Nông nghiệp thông minh.
+Kênh bán hàng trực tuyến: Cách thức xây dựng các kênh bán hàng và quảng cáo trực tuyến.
+Thanh toán thông minh: Thanh toán thông minh, cách thức tìm kiếm thông tin trên môi trường mạng.
+Hệ tư vấn tự động: Cách thức sử dụng các hệ tư vấn tự động (trợ lý ảo, chatbot).
+Kỹ năng thu thập thông tin: Các kỹ năng thu thập và chia sẻ thông tin trên môi trường mạng.
+Vận dụng mạng xã hội: Cách thức vận dụng các nền tảng mạng xã hội và truyền thông số trong việc nối kết, vận động và tuyên truyền kiến thức.
+Mục tiêu bảo mật dữ liệu: Cung cấp cho học viên kiến thức về nguy cơ mất dữ liệu, mất thông tin, kiến thức về an toàn an ninh thông tin. Cung cấp giải pháp cụ thể bảo vệ an toàn an ninh thông tin cá nhân, email, điện thoại, mạng xã hội.
+Chính sách bảo mật: Thiết lập các chính sách bảo mật cho thông tin trên máy tính, email cá nhân, tài khoản mạng xã hội và chế độ bảo mật thông tin trên thiết bị di động.
+Kiến thức bảo mật dữ liệu: Chương trình được xây dựng phù hợp với nhu cầu thực tế theo thông tư của Bộ Thông tin và Truyền thông về đẩy mạnh an toàn an ninh thông tin cho người dùng cuối và cho đơn vị.
+Cách thức hacker đánh cắp: Cung cấp kiến thức về cách thức hacker sử dụng để đánh cắp thông tin.
+Giải pháp an toàn thông tin: Đưa ra các giải pháp cụ thể cho từng trường hợp để đảm bảo an toàn an ninh thông tin.
+Thiết lập bảo mật thông tin: Cung cấp các bước thiết lập bảo mật thông tin trong các tình huống cụ thể: thông tin cá nhân, email, điện thoại, mạng xã hội.

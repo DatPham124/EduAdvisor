@@ -1,2 +1,0 @@
-Tiêu chí chấm điểm bài thi thực hành:
-Các bài thi thực hành giống nhau hoặc không có đủ tập tin để chạy chương trình sẽ bị chấm không điểm.

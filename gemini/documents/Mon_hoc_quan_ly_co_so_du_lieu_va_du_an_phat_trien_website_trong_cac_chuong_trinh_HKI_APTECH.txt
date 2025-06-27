@@ -1,2 +1,0 @@
-Môn học quản lý cơ sở dữ liệu và dự án phát triển website trong các chương trình HKI APTECH:
-Môn Database Management trong chương trình HKI APTECH OV-6648 tương đương với môn Database Management (SQL Server) trong chương trình HKI APTECH OV-6678. Môn Project (Website Development) trong chương trình HKI APTECH OV-6648 tương đương với môn eProject (Website Development) trong chương trình HKI APTECH OV-6678, với phạm vi thực hiện theo môn eProject.

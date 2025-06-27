@@ -1,0 +1,79 @@
+Giới thiệu khóa học: Tài liệu này là Hướng dẫn dành cho Giảng viên chính, được sử dụng cho chương trình ACCP Kỳ II. Chương trình học nhằm giới thiệu cho sinh viên các kiến thức cơ bản về XML, Core Java và C#.
+
+Mục tiêu học tập: Sau khi hoàn thành khóa học này, sinh viên sẽ có khả năng sử dụng XML và JSON để lưu trữ, trao đổi dữ liệu, thiết kế và phát triển ứng dụng máy tính để bàn bằng Java. Sinh viên cũng sẽ sử dụng các tính năng ngôn ngữ cốt lõi và giao diện lập trình ứng dụng của Java để thiết kế các ứng dụng hướng đối tượng, đồng thời phát triển các ứng dụng hướng đối tượng cơ bản và nâng cao bằng C#.
+
+Dự án cuối kỳ: Dự án trong kỳ này sẽ tập trung vào việc phát triển một ứng dụng sử dụng các công nghệ Java.
+
+Bảng sửa đổi tài liệu: Bản ghi sửa đổi tài liệu bao gồm phiên bản 1.0, có hiệu lực từ tháng 10 năm 2023, với thay đổi là "Mới".
+
+Thông tin chung về lịch học: Bảng dưới đây trình bày chi tiết các học phần, số giờ dành cho mỗi học phần, cùng với phân tích số giờ dành cho từng học phần. Mỗi buổi học có thời lượng hai giờ.
+
+Phân bổ giờ học theo học phần:
+*   **Xử lý dữ liệu với XML và JSON:** 0 giờ lý thuyết, 16 giờ trực tuyến, tổng 16 giờ, 6 giờ tự học, mã kỹ năng 17.
+*   **Lập trình Java-I:** 0 giờ lý thuyết, 36 giờ trực tuyến, tổng 36 giờ, 10 giờ tự học, mã kỹ năng 1338.
+*   **Lập trình Java-II:** 0 giờ lý thuyết, 40 giờ trực tuyến, tổng 40 giờ, 12 giờ tự học, mã kỹ năng 1338.
+*   **Dự án phát triển ứng dụng Java:** 2 giờ lý thuyết, 18 giờ trực tuyến, tổng 20 giờ, 0 giờ tự học, mã kỹ năng 1338.
+*   **Lập trình C#:** 0 giờ lý thuyết, 36 giờ trực tuyến, tổng 36 giờ, 12 giờ tự học, mã kỹ năng 1339.
+*   **Tổng cộng:** 2 giờ lý thuyết, 146 giờ trực tuyến, tổng 148 giờ, 40 giờ tự học.
+
+Lịch học theo tuần: Lịch học theo tuần chi tiết các buổi học cho từng học phần từ tuần 1 đến tuần 21. Các ký hiệu trong lịch bao gồm: D là Ngày, TL là Buổi học trực tuyến, E là Bài kiểm tra mô-đun (Mục tiêu-AoLEAP), R là Bài kiểm tra thực hành, và P là Dự án.
+
+Tài liệu cung cấp cho sinh viên: Các tài liệu được cung cấp cho sinh viên bao gồm:
+*   **Xử lý dữ liệu với XML và JSON:** Sách "Data Processing with XML and JSON", mã sách AINNXJSON11023E000.
+*   **Lập trình Java-I:** Sách "Java Programming-The Complete Guide for Beginners", mã sách AINNJAVP111023E000.
+*   **Lập trình Java-II:** Sách "JavaFX and Advanced Java", mã sách AINNJAVP211023E000.
+*   **Dự án phát triển ứng dụng Java:** Sách "PG-Developing JavaFX Applications", mã sách AINNPGJFX11023E000.
+*   **Lập trình ứng dụng với C#:** Sách "Developing Applications with Csharp", mã sách AINNCSPRG11023E000.
+*   Mã bộ tài liệu OV KIT cho sinh viên là OV-7091-KIT01-02-E, tên bộ tài liệu là "Kit of 5 titles for OV-7091 ACCP Term 2".
+
+Tài liệu cung cấp cho giảng viên: Các tài liệu được cung cấp cho giảng viên bao gồm:
+*   **Xử lý dữ liệu với XML và JSON:** Sách "Data Processing with XML and JSON", mã sách AINNXJSON11023E000.
+*   **Lập trình Java-I:** Sách "Java Programming-The Complete Guide for Beginners", mã sách AINNJAVP111023E000.
+*   **Lập trình Java-II:** Sách "JavaFX and Advanced Java", mã sách AINNJAVP211023E000.
+*   **Dự án phát triển ứng dụng Java:** Sách "PG-Developing JavaFX Applications", mã sách AINNPGJFX11023E000.
+*   **Lập trình ứng dụng với C#:** Sách "Developing Applications with Csharp", mã sách AINNCSPRG11023E000.
+*   **Khóa học:** Bao gồm Master PM, Module PMs, Hướng dẫn giảng viên (nếu có), và Bài thuyết trình trên lớp (nếu có).
+*   Mã bộ tài liệu OV KIT cho giảng viên là OV-7091-KIT01-02-E, tên bộ tài liệu là "Kit of 5 titles for OV-7091 ACCP Term 2".
+
+Các tính năng của OnlineVarsity: OnlineVarsity là một nền tảng truy cập nội dung số và cộng tác dành cho sinh viên Aptech, với nhiều tính năng thú vị nhằm nâng cao trải nghiệm học tập. Các tính năng bao gồm:
+*   **Tải sách:** Sinh viên có thể tải sách điện tử liên quan đến môn học và đọc ngoại tuyến.
+*   **Thuật ngữ:** Sinh viên có thể truy cập danh sách các từ chuyên ngành liên quan đến môn học cùng với định nghĩa của chúng.
+*   **Câu hỏi thường gặp:** Sinh viên có thể truy cập các câu hỏi thường gặp và câu trả lời của chúng.
+*   **Thực hành cho tôi:** Sinh viên có thể kiểm tra và đánh giá mức độ hiểu biết của mình về các chủ đề liên quan đến học phần.
+*   **Bài tập thực hành:** Sinh viên có thể giải các bài tập thực hành dựa trên kịch bản (thực hành). Giảng viên sẽ đánh giá và đưa ra phản hồi.
+*   **Tài liệu tham khảo:** Sinh viên có thể truy cập tài liệu bổ sung liên quan đến môn học để đọc.
+*   **Phản hồi:** Sinh viên có thể cung cấp phản hồi về tài liệu khóa học.
+*   **Hỏi để học:** Sinh viên có thể gửi các câu hỏi kỹ thuật liên quan đến môn học. Các câu hỏi đã gửi sẽ được chuyển đến điều phối viên/trưởng khóa học cụ thể.
+
+Chiến lược đánh giá khóa học: Chiến lược đánh giá cho khóa học này bao gồm: Bài kiểm tra mô-đun (Mục tiêu-AoLEAP), Bài kiểm tra thực hành và Dự án.
+
+Phân loại điểm:
+*   Tổng điểm có trọng số từ 40% đến dưới 60% đạt loại Đạt.
+*   Tổng điểm có trọng số từ 60% đến dưới 75% đạt loại Khá.
+*   Tổng điểm có trọng số từ 75% trở lên đạt loại Giỏi.
+
+Bài kiểm tra mô-đun (E1): Bài kiểm tra này có 20 điểm, thời lượng 40 phút, loại trắc nghiệm. Học phần được kiểm tra là Xử lý dữ liệu với XML và JSON.
+
+Bài kiểm tra mô-đun (R1): Bài kiểm tra này có 20 điểm, thời lượng 60 phút, loại thực hành. Học phần được kiểm tra là Xử lý dữ liệu với XML và JSON.
+
+Bài kiểm tra mô-đun (E2): Bài kiểm tra này có 20 điểm, thời lượng 40 phút, loại trắc nghiệm. Học phần được kiểm tra là Lập trình Java-I.
+
+Bài kiểm tra mô-đun (R2): Bài kiểm tra này có 20 điểm, thời lượng 60 phút, loại thực hành. Học phần được kiểm tra là Lập trình Java-I.
+
+Bài kiểm tra mô-đun (E3): Bài kiểm tra này có 20 điểm, thời lượng 40 phút, loại trắc nghiệm. Học phần được kiểm tra là Lập trình Java-II.
+
+Bài kiểm tra mô-đun (R3): Bài kiểm tra này có 20 điểm, thời lượng 60 phút, loại thực hành. Học phần được kiểm tra là Lập trình Java-II.
+
+Bài kiểm tra mô-đun (E4): Bài kiểm tra này có 20 điểm, thời lượng 40 phút, loại trắc nghiệm. Học phần được kiểm tra là Lập trình C#.
+
+Bài kiểm tra mô-đun (R4): Bài kiểm tra này có 20 điểm, thời lượng 60 phút, loại thực hành. Học phần được kiểm tra là Lập trình C#.
+
+Dự án cuối kỳ: Dự án cuối kỳ có 100 điểm, thời lượng 20 giờ, loại dự án. Học phần được kiểm tra là Dự án phát triển ứng dụng Java, chiếm 100% nội dung.
+
+Chi tiết đánh giá: Tổng điểm đánh giá được phân bổ như sau: OES chiếm 50%, Thực hành chiếm 30%, và Dự án chiếm 20%.
+
+Yêu cầu phần mềm: Các yêu cầu phần mềm để thực hiện các buổi học của khóa này bao gồm: Microsoft Windows 10 trở lên, Microsoft SQL Server 2019 Standard Edition, Microsoft Visual Studio 2022 Professional Edition, Apache NetBeans IDE, Java SE 19.x trở lên và JavaFX.
+
+Yêu cầu phần cứng đề xuất: Các yêu cầu phần cứng đề xuất bao gồm: Bộ xử lý Intel Core i3/i5 trở lên, RAM 8 GB trở lên, SVGA màu, dung lượng ổ cứng 500 GB, chuột và bàn phím.
+
+Các yêu cầu khác cho phòng học: Các yêu cầu khác cho phòng học bao gồm: Máy tính để trình chiếu (nếu có) và máy chiếu LCD.

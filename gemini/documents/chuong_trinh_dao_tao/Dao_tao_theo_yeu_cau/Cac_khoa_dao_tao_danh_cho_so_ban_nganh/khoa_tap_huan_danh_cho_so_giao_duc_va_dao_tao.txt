@@ -1,0 +1,379 @@
+Chương trình đào tạo CUSC: Chương trình đào tạo, bồi dưỡng, tập huấn chuyên môn về Công nghệ thông tin từ CUSC luôn bám sát theo chủ trương và kế hoạch của Chính phủ.
+
+Mục tiêu khóa tập huấn: Các khóa tập huấn được hệ thống thành 5 nhóm mục tiêu, đảm bảo thực hiện tốt các mục tiêu quan trọng cho công chức, viên chức và giáo viên.
+
+Nâng cao nhận thức chuyển đổi số: Khóa học giúp nâng cao nhận thức, phổ cập tư tưởng cho giáo viên, giảng viên, cán bộ quản lý về tầm quan trọng của chuyển đổi số. Việc bồi dưỡng kỹ năng ứng dụng công nghệ, khuyến khích sáng tạo giải pháp số trong dạy học thúc đẩy quá trình chuyển đổi số trong giáo dục.
+
+An toàn thông tin môi trường số: Khóa học đào tạo kỹ năng nhận diện, xử lý nguy cơ tấn công người dùng, phân tích mã độc, rà quét mạng cơ bản. Học viên được diễn tập thực chiến an toàn thông tin mạng, nâng cao công tác đảm bảo an toàn thông tin khi tiếp cận và sử dụng công cụ số/nền tảng, xây dựng môi trường số an toàn.
+
+Chuyển đổi số quản lý: Khóa học cung cấp kiến thức về số hóa công cụ vận hành, quảng bá giáo dục nhằm cải thiện chất lượng, mang đến trải nghiệm mới và quản lý hiệu quả trong lĩnh vực giáo dục.
+
+Chuyển đổi số dạy học: Khóa học phát triển nền tảng hỗ trợ dạy và học từ xa, ứng dụng công nghệ số trong quản lý, giảng dạy, học tập. Nội dung bao gồm số hóa tài liệu, giáo trình, xây dựng nền tảng chia sẻ tài nguyên giảng dạy trực tiếp và trực tuyến. Phát triển công nghệ phục vụ giáo dục, hướng tới đào tạo cá thể hóa, ứng dụng công nghệ số để giao bài tập về nhà, kiểm tra sự chuẩn bị của học sinh, nâng cao trải nghiệm người học, cải thiện phương pháp giảng dạy và tạo môi trường học tập thuận tiện.
+
+Nâng cao thành tích thi Tin học: Khóa học bồi dưỡng giáo viên kỹ năng hướng dẫn, ôn luyện học sinh tham gia các kỳ thi học sinh giỏi quốc gia, Olympic và Tin học trẻ toàn quốc. Nội dung bao gồm nhiều ngôn ngữ lập trình, cơ chế vận hành phần cứng như Arduino, Raspberry Pi để phát triển ứng dụng thông minh (Trí tuệ nhân tạo) và sáng chế đồ vật thông minh (STEM IoT).
+
+Khóa học Nhận thức chung chuyển đổi số: Khóa học kéo dài 32 giờ, dành cho đối tượng quản lý. Mục tiêu cung cấp kiến thức nền tảng về khái niệm, nhận thức chuyển đổi số và thông tin hệ thống về cách tiếp cận chuyển đổi số tại Việt Nam dựa trên ba trụ cột: Chính phủ số, Kinh tế số và Xã hội số.
+
+Kiến thức đạt được Nhận thức chuyển đổi số: Học viên được cung cấp định nghĩa thuật ngữ Chuyển đổi số, hiểu tác động đến con người, quy trình, công nghệ, rủi ro khi bỏ qua xu hướng chuyển đổi số và lợi ích khi tham gia. Khóa học giúp tìm hiểu các giai đoạn trưởng thành trên nền tảng số, cách lấy cảm hứng từ các công ty công nghệ hàng đầu như Google, Amazon, Netflix và cách tạo kế hoạch chuyển đổi số chiến lược cho tổ chức.
+
+Kiến thức đạt được Quan điểm chuyển đổi số: Khóa học giới thiệu các công nghệ định hình sự thay đổi xã hội và giải thích ý nghĩa đối với các tổ chức/đơn vị. Học viên được trang bị năng lực xác định nội dung, tính liên tục và cường độ của các thay đổi cần thiết trong tổ chức/đơn vị.
+
+Kiến thức đạt được Nền tảng chuyển đổi số: Khóa học cung cấp nền tảng về tất cả những điều cần xem xét để xây dựng một tổ chức hoạt động trong môi trường thay đổi liên tục. Học viên sẽ xây dựng kế hoạch chiến lược chuyển đổi số, cách kiểm tra kế hoạch theo phương pháp tối ưu và học hỏi từ thành công, thất bại của các tổ chức khác.
+
+Khóa học Kỹ năng chuyển đổi số lãnh đạo: Khóa học kéo dài 24 giờ, dành cho cán bộ lãnh đạo. Mục tiêu cung cấp kiến thức nền tảng về khái niệm, nhận thức chuyển đổi số, giúp cán bộ lãnh đạo hiểu bối cảnh lớn hơn cho nỗ lực chuyển đổi số, xác định mức độ trưởng thành và tìm hiểu cách duy trì chiến lược số lâu dài.
+
+Kiến thức đạt được Kỹ năng chuyển đổi số lãnh đạo: Học viên được cung cấp nội dung trọng tâm về chuyển đổi số như chiến lược chuyển đổi số, phát triển Chính phủ số, kinh tế số, xã hội số. Nội dung bao gồm tổ chức bộ máy theo mô hình dịch vụ số, hoạt động số, quản lý và theo dõi số trong tổ chức, cùng các nội dung liên quan cho đội ngũ lãnh đạo quản lý và cán bộ chủ chốt của các cơ quan, tổ chức nhà nước từ cấp xã trở lên.
+
+Công nghệ hỗ trợ chuyển đổi số: Khóa học giúp nắm bắt các công nghệ quan trọng hỗ trợ nhà lãnh đạo/quản lý định hướng chiến lược ứng dụng công nghệ số cho đơn vị. Nội dung giới thiệu tổng quan về điện toán đám mây, dữ liệu lớn, khoa học dữ liệu, máy học, trí tuệ nhân tạo, blockchain, IoT, quản lý dự án phần mềm và chính sách bảo mật. Học viên được cung cấp kiến thức, kỹ năng căn bản trong xây dựng chiến lược số cho đơn vị.
+
+Khóa học Kỹ năng chuyển đổi số kỹ thuật: Khóa học kéo dài 40 giờ, dành cho đội ngũ cán bộ kỹ thuật. Mục tiêu cung cấp kiến thức nền tảng về khái niệm, nhận thức chuyển đổi số, cùng các kiến thức công nghệ liên quan như công nghệ số trong cách mạng công nghiệp 4.0, AI, Blockchain, Big Data, Cloud computing.
+
+Kiến thức đạt được Kỹ năng chuyển đổi số kỹ thuật: Học viên được trang bị kiến thức về nền tảng số, ứng dụng và cách triển khai nền tảng, ứng dụng công nghệ số, quản lý nền tảng công nghệ số. Khóa học cũng bao gồm lập kế hoạch triển khai chuyển đổi số, quản lý dự án chuyển đổi số và các nội dung liên quan cho cán bộ kỹ thuật chuyên trách về công nghệ thông tin.
+
+Kiến thức nền tảng công nghiệp 4.0: Học viên được cung cấp kiến thức nền tảng về cuộc cách mạng công nghiệp lần thứ tư (Công nghiệp 4.0) và cách thức công nghệ làm biến đổi thế giới trong học tập, làm việc, di chuyển, giao tiếp và tương tác.
+
+Kiến thức về kiến trúc đám mây: Khóa học cung cấp kiến thức căn bản và chuyên sâu về các công nghệ số, kỹ thuật ứng dụng công nghệ số. Nội dung bao gồm định nghĩa, vai trò kiến trúc đám mây (Cloud) trong xây dựng hệ thống thông tin hiện đại, cách xây dựng kiến trúc điện toán đám mây bằng cách làm quen với khái niệm cơ bản liên quan đến hoạt động nghiệp vụ và nền tảng công nghệ.
+
+Kiến thức nâng cao kiến trúc đám mây: Khóa học cung cấp kiến thức nâng cao về kiến trúc đám mây (Cloud), bao gồm các mô hình và khái niệm kiến trúc mới đang xuất hiện có thể ảnh hưởng đến kiến trúc đám mây.
+
+Dữ liệu lớn và Trí tuệ nhân tạo: Học viên tìm hiểu kiến thức về trí tuệ nhân tạo, máy học và khoa học dữ liệu dựa trên dữ liệu lớn hoặc dữ liệu không thể dễ dàng lưu trữ hoặc phân tích bằng các phương pháp truyền thống.
+
+Công nghệ Blockchain và IoT: Khóa học giúp tìm hiểu khái niệm blockchain, sổ cái và ý nghĩa của chúng. Học viên cũng tìm hiểu khái niệm IoT (Internet of Things) và cách thức hoạt động.
+
+Thực tế ảo và tăng cường: Học viên tìm hiểu về khái niệm thực tế ảo/thực tế tăng cường (VR/AR) và các ứng dụng trong thực tế.
+
+Khóa học Kỹ năng chuyển đổi số đại trà: Khóa học kéo dài 40 giờ, dành cho cán bộ công chức, viên chức, người lao động. Mục tiêu cung cấp kiến thức, kỹ năng về chuyển đổi số, khai thác công nghệ số, dữ liệu số, nền tảng số, dịch vụ số, xử lý thông tin số, giao dịch điện tử, kỹ năng sử dụng công nghệ thông tin và chuyển đổi số.
+
+Kỹ năng số cho người lao động: Khóa học cung cấp các kỹ năng số khác cho cán bộ, công chức, viên chức và người lao động trong các cơ quan, tổ chức nhà nước. Nội dung nêu bật các phương thức chính để cộng tác, giao tiếp trong môi trường làm việc hiện đại, cách quản lý thời gian từ xa và truyền thông số.
+
+Kiến thức đạt được Kỹ năng chuyển đổi số đại trà: Học viên được cung cấp kiến thức nền tảng về khái niệm, nhận thức chuyển đổi số.
+
+Cộng tác làm việc môi trường số: Khóa học cung cấp kiến thức và kỹ năng cơ bản về cộng tác làm việc trong môi trường số. Học viên được hướng dẫn sử dụng công cụ cộng tác và giao tiếp dựa trên đám mây để hoàn thành công việc từ mọi nơi, kết nối với tổ chức. Nội dung giải thích cách cộng tác với đồng nghiệp từ xa, sử dụng cuộc họp ảo hiệu quả.
+
+Phương pháp cộng tác kỹ thuật số: Khóa học khám phá các phương pháp hay nhất để cộng tác trong môi trường làm việc kỹ thuật số. Nội dung bao gồm cách kết hợp công nghệ mới vào tổ chức, quản lý và bảo mật tập tin kỹ thuật số, chọn công cụ phù hợp, tối đa hóa hiệu quả, xây dựng lực lượng lao động di động và thúc đẩy học tập liên tục.
+
+Kỹ năng quản lý công việc số: Khóa học trang bị các kỹ năng cơ bản trên nền tảng số nhằm hỗ trợ kỹ năng quản lý công việc, thông tin liên lạc, xử lý dữ liệu. Học viên được giới thiệu cách truy cập thông tin trực tuyến an toàn, cộng tác và kết nối với người khác bằng công cụ tăng năng suất trực tuyến và nội dung chia sẻ.
+
+Truyền thông số hiệu quả: Khóa học giúp tìm hiểu cách tận dụng tối đa bộ công cụ truyền thông, từ hội nghị truyền hình trực tuyến đến nền tảng hiệu suất đám mây. Nội dung trình bày nguyên tắc cơ bản khi làm việc trực tuyến, bao gồm cách kết nối Internet, mua hàng, phòng lừa đảo trực tuyến, giả mạo và đánh giá tính xác thực thông tin trực tuyến.
+
+Kết nối và giao tiếp số: Khóa học hướng dẫn sử dụng công cụ để kết nối với người khác, giải thích cách làm việc với email, cộng tác trên tài liệu, sử dụng nhắn tin tức và thực hiện cuộc gọi video, âm thanh.
+
+Quản lý thời gian hiệu quả: Khóa học hướng dẫn cách xây dựng công cụ quản lý công việc từ xa và nối kết nhóm hiệu quả, tự do, linh hoạt nhằm hướng tới cuộc sống cân bằng hơn. Nội dung bao gồm cách theo dõi, quản lý thời gian khi làm việc tại nhà, từ xa và cách duy trì năng suất lao động trên môi trường phân tán.
+
+Thiết lập không gian làm việc: Khóa học hướng dẫn cách thiết lập không gian làm việc chuyên dụng để đạt năng suất tối đa, bao gồm mẹo thiết lập máy tính để đảm bảo người học luôn tập trung.
+
+Lập lịch trình hàng ngày: Khóa học hướng dẫn cách lập lịch trình hàng ngày để đạt năng suất cao nhất và lên kế hoạch cho khoảng thời gian nghỉ ngơi có ý nghĩa để tránh kiệt sức.
+
+Khóa học Hệ thống chỉ tiêu chuyển đổi số: Khóa học kéo dài 16 giờ, dành cho đối tượng đại trà. Mục tiêu nhận dạng và so sánh các nhóm chỉ tiêu liên quan đến chuyển đổi số. Nội dung phân tích mục tiêu của Quyết định 922/QĐ-BTTTT về phê duyệt Đề án “Xác định Bộ chỉ số đánh giá chuyển đổi số của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, các tỉnh, thành phố trực thuộc Trung ương và của quốc gia” (DTI).
+
+Kiến thức đạt được Chỉ số chuyển đổi số: Học viên được định nghĩa khái niệm Chỉ số chuyển đổi số (DTI) và các chỉ số liên quan như Chỉ số Chính phủ điện tử (EGDI), Chỉ số Công nghệ thông tin (IDI), Chỉ số An toàn thông tin mạng (GCI), Chỉ số Năng lực cạnh tranh (GCI), Chỉ số Đổi mới sáng tạo (GII).
+
+Đề án xác định chỉ số chuyển đổi số: Khóa học cung cấp kiến thức về Đề án “Xác định bộ chỉ số đánh giá chuyển đổi số của các bộ, cơ quan ngang bộ, cơ quan trực thuộc chính phủ, các tỉnh, thành phố trực thuộc trung ương và quốc gia”. Nội dung bao gồm mục tiêu, yêu cầu, phạm vi, đối tượng và cấu trúc DTI cấp tỉnh (Trụ cột chính quyền số, Trụ cột kinh tế số, Trụ cột xã hội số).
+
+Khóa học Nhận thức chung đô thị thông minh: Khóa học kéo dài 8 giờ, dành cho đối tượng đại trà. Mục tiêu cung cấp nhận thức chung về đô thị thông minh, phân tích các góc nhìn khác nhau về mục tiêu xây dựng đô thị thông minh và thông tin về các giải pháp đô thị thông minh tại Việt Nam và trên thế giới.
+
+Kiến thức đạt được Đô thị thông minh: Học viên được cung cấp khái niệm và cách tiếp cận đô thị thông minh tại Việt Nam và trên thế giới. Nội dung bao gồm Khung kiến trúc Chính phủ điện tử Việt Nam phiên bản 2.0 (Quyết định số 2323/QĐ-BTTTT), tiếp cận các đô thị thông minh tại địa phương và các vấn đề cần lưu ý.
+
+Chỉ số đánh giá đô thị thông minh: Khóa học giới thiệu các chỉ số đánh giá quan trọng như Chỉ số Chính phủ điện tử (EGDI) và Chỉ số chuyển đổi số (DTI). Học viên cũng được tham khảo một số khung kiến trúc đô thị thông minh như ASEAN Smart Cities Network (ASCN), IES-City Framework.
+
+Khóa học An toàn thông tin cho mọi người: Khóa học kéo dài 32 giờ, dành cho đối tượng đại trà. Mục tiêu cung cấp kiến thức về nguy cơ mất dữ liệu, mất thông tin, an toàn an ninh thông tin và giải pháp cụ thể để bảo vệ thông tin cá nhân, email, điện thoại, mạng xã hội. Học viên được hướng dẫn thiết lập chính sách bảo mật thông tin trên máy tính, email cá nhân, tài khoản mạng xã hội và thiết bị di động.
+
+Kiến thức đạt được An toàn thông tin: Chương trình được xây dựng phù hợp với nhu cầu thực tế theo thông tư của Bộ Thông tin và Truyền thông về đẩy mạnh an toàn an ninh thông tin cho người dùng cuối và cho đơn vị. Học viên được cung cấp kiến thức về cách hacker sử dụng để đánh cắp thông tin và các giải pháp cụ thể để đảm bảo an toàn an ninh thông tin.
+
+Thiết lập bảo mật thông tin: Khóa học cung cấp các bước thiết lập bảo mật thông tin trong các tình huống cụ thể như thông tin cá nhân, email, điện thoại, mạng xã hội.
+
+Khóa học Nhận thức tiêu chuẩn ISO 27001: Khóa học kéo dài 24 giờ, dành cho đối tượng đại trà. Mục tiêu giúp học viên hiểu phương pháp triển khai hệ thống an toàn thông tin (ISMS) theo ISO/IEC 27001:2013. Học viên tăng hiểu biết toàn diện về khái niệm, tiêu chuẩn, phương pháp và kỹ thuật cần thiết để quản lý hiệu quả hệ thống an toàn thông tin.
+
+Mối quan hệ thành phần ISMS: Khóa học giúp hiểu mối quan hệ giữa các thành phần của hệ thống quản lý an ninh thông tin, bao gồm quản lý rủi ro, kiểm soát và tuân thủ yêu cầu của các bên liên quan. Học viên có được chuyên môn cần thiết để hỗ trợ tổ chức thực hiện, quản lý và duy trì hệ thống ISMS theo tiêu chuẩn ISO/IEC 27001:2013.
+
+Yêu cầu cơ bản tiêu chuẩn ISO 27001: Học viên nắm được các yêu cầu/điều khoản cơ bản của tiêu chuẩn. Bước đầu nhận biết và xác định tài sản thông tin của tổ chức, cách phòng tránh, chấp nhận và xử lý rủi ro do rò rỉ, phá vỡ thông tin. Khóa học phát triển kiến thức và kỹ năng cần thiết để tư vấn cho các tổ chức về thực hành tốt nhất trong quản lý an toàn thông tin.
+
+Kiến thức đạt được ISO 27001: Chương trình mang đến khối lượng kiến thức đầy đủ để học viên tự tin làm việc trong môi trường chuyên nghiệp, có kiến thức chuyên sâu về đánh giá nội bộ ISO 27001, xây dựng chính sách An toàn thông tin, bảo mật hệ thống máy chủ, triển khai an toàn thông tin cho doanh nghiệp, tổ chức và duy trì hệ thống Quản lý An ninh thông tin. Học viên được học và thực hành dựa trên tình huống thực tế để tích lũy kinh nghiệm.
+
+Khóa học Nhiếp ảnh số và Xử lý ảnh: Khóa học kéo dài 48 giờ, dành cho cán bộ, công chức, viên chức liên quan đến chụp ảnh, thiết kế và đam mê chụp ảnh, xử lý ảnh. Mục tiêu giúp học viên hiểu căn bản về nhiếp ảnh số và thành thạo các phần mềm xử lý ảnh hậu kỳ.
+
+Kiến thức đạt được Nhiếp ảnh số: Học viên có kiến thức căn bản về nhiếp ảnh, vận dụng vào thực tế sáng tác ảnh nghệ thuật hoặc ảnh dịch vụ. Học viên có đủ kiến thức về xử lý ảnh.
+
+Khóa học Thiết kế đồ họa sự kiện: Khóa học kéo dài 40 giờ, dành cho chuyên viên phụ trách sự kiện, chuyên viên quản trị website tại các đơn vị. Mục tiêu nâng cao trình độ và kỹ năng thiết kế đồ họa.
+
+Kiến thức đạt được Thiết kế đồ họa: Học viên vận dụng các nguyên tắc thiết kế để tạo mẫu thiết kế phù hợp, giải thích cách chọn font chữ, màu sắc. Học viên vận dụng công cụ Corel Draw, Photoshop vào thiết kế sản phẩm và thiết kế được các sản phẩm như poster, bandroll, backdrop cho sự kiện của đơn vị.
+
+Khóa học Xử lý sự cố máy tính: Khóa học kéo dài 24 giờ, dành cho chuyên viên phụ trách Công nghệ thông tin các sở, ban ngành, huyện và thành phố. Mục tiêu giúp học viên hiểu rõ thành phần hệ điều hành, thông số kỹ thuật phần cứng máy tính, nắm được bước lắp ráp, cài đặt, sửa chữa hệ thống máy tính.
+
+Vận hành bảo trì hệ thống máy tính: Khóa học giúp học viên vận hành và bảo trì hệ thống máy tính của đơn vị. Học viên phân tích, đánh giá và đưa ra giải pháp xử lý sự cố, tình huống trong hệ thống máy tính và thiết bị ngoại vi.
+
+Chẩn đoán và sửa chữa máy tính: Học viên phân tích, đánh giá hiện trạng hệ thống máy tính, lập kế hoạch nâng cấp. Học viên nhận diện, chẩn đoán, sửa chữa máy tính, thành phần, thiết bị ngoại vi, và xử lý sự cố phần mềm. Học viên có thể tạo bản ghost (sao lưu), bung ghost (phục hồi) hệ điều hành và lắp ráp, nâng cấp thiết bị phần cứng.
+
+Khóa học Ứng dụng CNTT thư viện trường học: Khóa học kéo dài 32 giờ, dành cho cán bộ giáo viên Công nghệ thông tin, cán bộ thư viện Trung học phổ thông. Mục tiêu cung cấp kiến thức khái quát và tích hợp kỹ năng kỹ thuật cơ bản nhất cho cán bộ Công nghệ thông tin, giáo viên phụ trách công tác thư viện trường học.
+
+Nâng cao vai trò cán bộ thư viện: Học viên nhận thức trách nhiệm ứng dụng Công nghệ thông tin là nhiệm vụ hàng đầu, tự trang bị, cập nhật kiến thức liên tục để quản lý hiệu quả tài sản tri thức. Khóa học giúp nhận dạng xu thế công nghệ, nắm bắt tiến bộ Công nghệ thông tin để quản lý ứng dụng và làm tốt vai trò cán bộ thư viện trong thời đại toàn cầu hóa thông tin.
+
+Kiến thức đạt được Ứng dụng CNTT thư viện: Học viên nâng cao kiến thức và kỹ năng kỹ thuật Công nghệ thông tin, nâng cao vai trò vị thế cán bộ thư viện trong chiến lược phát triển hoạt động giáo dục. Học viên nhận thức rõ ứng dụng Công nghệ thông tin là mục tiêu chiến lược trong quản lý trường học hiệu quả.
+
+Tìm hiểu ứng dụng CNTT trường học: Học viên tìm hiểu khái quát các mảng kiến thức liên quan đến nhóm ứng dụng Công nghệ thông tin trong trường học, nắm được tiêu chuẩn, tiêu chí ứng dụng và cập nhật công nghệ, phương pháp tiếp cận vận dụng đặc tính kỹ thuật Công nghệ thông tin trong công tác thư viện nói riêng và trường học nói chung.
+
+Quản lý tài nguyên số thư viện: Học viên nắm bắt kiến thức liên quan các nhóm chủ đề dữ liệu và tin học hóa, xuất bản điện tử bản quyền, kỹ thuật phát triển quản lý nguồn tài nguyên số. Học viên được tìm hiểu mô hình ứng dụng, chia sẻ chuyên đề về số hóa, bản quyền và kỹ thuật xử lý đa phương tiện.
+
+Chuẩn kỹ thuật CNTT thư viện: Học viên hiểu và vận dụng chuẩn kỹ thuật Công nghệ thông tin chung, tiêu chuẩn đặc thù áp dụng cho thư viện quốc tế và trong nước. Học viên tiếp cận tiêu chuẩn mã hóa trong thư viện, chữ ký số và chứng chỉ số trong việc sử dụng, khai thác tài nguyên an toàn, đúng quy định chuẩn hóa dữ liệu dùng chung ngành giáo dục.
+
+Nâng cao năng lực ứng dụng CNTT: Thông qua các vấn đề ứng dụng Công nghệ thông tin, cán bộ sẽ nâng cao khả năng nhận biết, đánh giá việc áp dụng Công nghệ thông tin, phần mềm tin học hiệu quả. Cán bộ thư viện được củng cố, kiện toàn kiến thức về ứng dụng phần mềm tin học, giải pháp tin học cho công tác thư viện trường học.
+
+Phát triển kỹ năng quản lý tài nguyên số: Khóa học nâng cao kỹ năng phương pháp, xây dựng kế hoạch tham mưu đề xuất để áp dụng tiến bộ công nghệ mới vào công việc. Học viên tăng cường khả năng quản lý nguồn tài nguyên số, ứng dụng công cụ sẵn có của Google, ứng dụng trực tuyến, mạng xã hội để xây dựng (xuất bản) bài giảng, giáo án điện tử, tận dụng nguồn truy cập mở để tạo môi trường thông tin hữu hiệu cho bạn đọc.
+
+Khóa học Ứng dụng CNTT quản trị trường học: Khóa học kéo dài 36 giờ, dành cho lãnh đạo Sở, Phòng giáo dục, Ban giám hiệu các trường. Mục tiêu tập huấn nâng cao kiến thức ứng dụng Công nghệ thông tin trong quản lý Sở, Phòng ban và quản lý trường học. Khóa học giúp xây dựng các cơ quan, đơn vị đảm bảo an toàn an ninh thông tin.
+
+Kiến thức đạt được Quản trị trường học: Học viên được cung cấp hệ thống văn bản của Nhà nước về ứng dụng Công nghệ thông tin trong ngành giáo dục. Học viên ứng dụng Công nghệ thông tin trong điều hành, quản lý giáo dục, ứng dụng Bản đồ tư duy trong điều hành, quản lý giáo dục. Học viên ứng dụng Excel trong điều hành, quản lý giáo dục và ứng dụng Công nghệ thông tin trong quản lý tài sản.
+
+Khóa học Quản trị thi trắc nghiệm Moodle: Khóa học kéo dài 16 giờ, dành cho giáo viên, quản trị phòng máy của trường học. Mục tiêu giúp người học nắm được phương pháp biên soạn câu hỏi trắc nghiệm, tạo đề thi, trộn câu hỏi, lưu trữ và tổ chức thi trực tuyến.
+
+Kiến thức đạt được Quản trị Moodle: Học viên sử dụng hệ thống Moodle để lưu trữ đề và tổ chức thi. Học viên vận dụng hệ thống Moodle vào việc tổ chức thi trắc nghiệm.
+
+Khóa học Kỹ năng CNTT cơ bản: Khóa học kéo dài 40 giờ, dành cho giáo viên và cán bộ quản lý phòng máy có kiến thức cơ bản về tin học, yêu thích Công nghệ thông tin. Mục tiêu cung cấp kiến thức nền tảng về máy tính và hệ thống mạng máy tính.
+
+Khắc phục sự cố máy tính: Khóa học giúp cài đặt, khắc phục sự cố cơ bản của phần mềm văn phòng. Học viên khắc phục sự cố phần cứng máy tính và mạng nội bộ (kết nối mạng, chia sẻ dữ liệu, in tài liệu). Học viên xử lý sự cố trong quá trình triển khai bảo trì (sao lưu, phục hồi hệ điều hành) và hướng dẫn thiết kế, lắp đặt mạng LAN cơ bản.
+
+Kiến thức đạt được Kỹ năng CNTT cơ bản: Sau khóa học, học viên có khả năng hiểu rõ thành phần hệ điều hành, thông số kỹ thuật phần cứng máy tính. Học viên nắm được bước lắp ráp, cài đặt, sửa chữa hệ thống máy tính, vận hành và bảo trì hệ thống máy tính của cơ quan, sở ban ngành.
+
+Phân tích và xử lý sự cố CNTT: Học viên nắm được bước lắp ráp, cài đặt, sửa chữa hệ thống mạng của đơn vị. Học viên phân tích, đánh giá và đưa ra giải pháp xử lý sự cố, tình huống trong hệ thống máy tính, thiết bị ngoại vi. Học viên phân tích, đánh giá hiện trạng hệ thống máy tính, lập kế hoạch nâng cấp và xử lý sự cố, tình huống trong hệ thống mạng của đơn vị.
+
+Khóa học Cách mạng công nghiệp 4.0: Khóa học kéo dài 16 giờ, dành cho cán bộ quản lý Sở, Phòng ban, Trường học. Mục tiêu tập trung bồi dưỡng, cập nhật, nâng cao kiến thức và nhận thức rõ ràng, sâu sắc về vai trò, tác động của cuộc cách mạng công nghiệp 4.0 (CMCN 4.0) cả mặt tích cực và tiêu cực đối với đời sống xã hội.
+
+Định hướng theo CMCN 4.0: Khóa học giúp cán bộ lãnh đạo các sở ban ngành có góc nhìn tổng quan để có kế hoạch định hướng bám sát thực tế và thích ứng với đòi hỏi của CMCN 4.0 theo Chỉ thị số 16/CT-TTg của Thủ tướng Chính phủ về tăng cường năng lực tiếp cận cuộc Cách mạng công nghiệp lần thứ 4.
+
+Kiến thức đạt được CMCN 4.0: Học viên hiểu rõ hơn và có góc nhìn tổng quan về cuộc Cách mạng công nghiệp 4.0 để có định hướng, giải pháp thiết thực bám sát thực tế và thích ứng với đòi hỏi công nghệ theo Chỉ thị số 16/CT-TTg. Nội dung nhằm tận dụng lợi thế và giảm thiểu tác động tiêu cực của CMCN 4.0 đối với Việt Nam.
+
+Xu hướng công nghệ CMCN 4.0: Khóa học cung cấp kiến thức về các xu hướng công nghệ phục vụ cho cuộc CMCN 4.0, hiện trạng và thành tựu CMCN 4.0 của các quốc gia trên thế giới, cùng sự cấp thiết của CMCN 4.0 ở Việt Nam.
+
+Khóa học Nguyên lý vận hành chuyển đổi dữ liệu số: Khóa học kéo dài 40 giờ, dành cho cán bộ quản lý Sở, Phòng ban, Trường học. Mục tiêu cung cấp các vấn đề liên quan đến nhu cầu chuyển đổi số (Digital Transformation) và chuyển đổi hướng dữ liệu (Data-Driven Transformation) tại các cơ quan, doanh nghiệp.
+
+Giải pháp triển khai chuyển đổi dữ liệu: Khóa học đồng thời cung cấp các ngữ cảnh khác nhau trong thực tế liên quan đến nhu cầu chuyển đổi số và giải pháp triển khai cụ thể cho từng trường hợp.
+
+Kiến thức đạt được chuyển đổi dữ liệu số: Học viên nắm được chuyển đổi số và tính bức thiết của nhu cầu phát triển, các nguyên lý chuyển đổi hướng dữ liệu. Nội dung bao gồm các kiểu thức khác nhau trong chuyển đổi số như thay đổi mô hình nghiệp vụ, phát triển sản phẩm, tăng cường sử dụng dữ liệu (Data-Driven Transformation).
+
+Vấn đề công nghệ chuyển đổi số: Khóa học cung cấp kiến thức về các vấn đề công nghệ trong chuyển đổi số như công nghệ OCR, xây dựng hệ thống thông tin, dữ liệu lớn và các bài toán liên quan, lập và kiểm soát kế hoạch tự động, ISO điện tử.
+
+Khóa học Phân tích dữ liệu thông minh: Khóa học kéo dài 40 giờ, dành cho cán bộ quản lý Sở, Phòng ban, Trường học. Mục tiêu cung cấp kiến thức phân tích dữ liệu thông minh giúp doanh nghiệp hoặc cá nhân phân tích dữ liệu phức tạp nhằm đưa ra đánh giá có giá trị, nâng cao hiệu quả trong công tác quản lý.
+
+Kiến thức đạt được Phân tích dữ liệu: Học viên nắm vững các kỹ thuật khác nhau trong truy nhập và quản trị dữ liệu trên nhiều định dạng (CSV, Excel, RDBMS). Học viên biết cách mô phỏng dữ liệu, sắp xếp dữ liệu và thực hiện báo cáo thống kê theo cấp độ khác nhau (Mô tả, Dự báo, Gợi ý). Học viên sử dụng ngôn ngữ Excel/R/Python trong xây dựng biểu đồ và báo cáo thông minh phục vụ công tác ra quyết định.
+
+Khóa học Chuyển đổi số giáo dục đào tạo: Khóa học kéo dài 40 giờ, dành cho cán bộ quản lý Sở, Phòng ban, Trường học. Mục tiêu tập trung bồi dưỡng, cập nhật, nâng cao kiến thức và nhận thức về vai trò, tác động của xu hướng chuyển đổi số trong lĩnh vực giáo dục và đào tạo.
+
+Định hướng chuyển đổi số giáo dục: Khóa học giúp cán bộ lãnh đạo các sở ban ngành, trường học có góc nhìn tổng quan để có kế hoạch định hướng bám sát “Chương trình Chuyển đổi số Quốc gia đến năm 2025, định hướng đến năm 2030” theo Quyết định số 749/QĐ-TTg.
+
+Kiến thức đạt được Chuyển đổi số giáo dục: Học viên nắm được chuyển đổi số trong quản lý giáo dục, số hóa thông tin quản lý, tạo hệ thống cơ sở dữ liệu lớn liên thông, triển khai dịch vụ công trực tuyến. Học viên ứng dụng Công nghệ 4.0 (AI, blockchain, phân tích dữ liệu) để quản lý, điều hành, dự báo, hỗ trợ ra quyết định trong ngành Giáo dục và Đào tạo nhanh chóng, chính xác.
+
+Chuyển đổi số trong dạy học: Khóa học bao gồm chuyển đổi số trong dạy, học, kiểm tra, đánh giá, nghiên cứu khoa học. Nội dung bao gồm số hóa học liệu (sách giáo khoa điện tử, bài giảng điện tử, kho bài giảng e-learning, ngân hàng câu hỏi trắc nghiệm), thư viện số, phòng thí nghiệm ảo, triển khai hệ thống đào tạo trực tuyến, xây dựng trường đại học ảo (cyber university).
+
+Khóa học Ứng dụng CNTT soạn bài giảng e-Learning: Khóa học kéo dài 8 giờ, dành cho giáo viên các trường học và sinh viên ngành sư phạm. Mục tiêu trang bị và định hướng người học tiếp cận công nghệ dạy và học hiện đại là e-Learning, giúp làm chủ công nghệ soạn bài e-Learning, soạn giáo án điện tử.
+
+Kiến thức đạt được soạn bài giảng e-Learning: Học viên nâng cao kỹ năng soạn giảng theo chuẩn e-Learning bằng công cụ V-iSpring suite. Học viên sử dụng được phần mềm V-iSpring Suite, giải pháp soạn bài giảng theo chuẩn e-Learning.
+
+Khóa học Ứng dụng CNTT tạo trò chơi tương tác: Khóa học kéo dài 8 giờ, dành cho giáo viên các trường học và sinh viên ngành sư phạm. Mục tiêu giúp người học làm quen với phần mềm ActivInspire, tạo trò chơi tương tác như Trúc xanh, Định danh, Đuổi hình bắt chữ.
+
+Tăng tính tương tác dạy học: Khóa học giúp tăng tính tương tác giữa giáo viên và học sinh, giúp học sinh tiếp thu bài, nhớ bài tốt hơn, cảm thấy hứng thú trong việc học.
+
+Kiến thức đạt được trò chơi tương tác: Học viên làm quen và sử dụng phần mềm ActivInspire trong việc tạo các trò chơi tương tác.
+
+Khóa học Phát triển bài học trực tuyến MOOCs: Khóa học kéo dài 40 giờ, dành cho cán bộ phụ trách Công nghệ thông tin. Mục tiêu giúp học viên nắm được cách thức triển khai và quản lý hệ thống e-Learning.
+
+Kiến thức đạt được MOOCs: Học viên chuyển đổi bài giảng tĩnh sang dạng tài liệu điện tử với tính trực quan tăng cường qua dữ liệu đa phương tiện. Học viên được hướng dẫn cài đặt, triển khai hệ thống e-Learning, thiết lập bố cục, tạo chủ đề trong e-Learning và soạn bài học e-Learning bằng công cụ V-iSpring suite.
+
+Khóa học Xây dựng mô hình thực tế ảo, tăng cường: Khóa học kéo dài 40 giờ, dành cho cán bộ phụ trách Công nghệ thông tin. Mục tiêu xây dựng và ứng dụng mô hình thực tế ảo và thực tế tăng cường phục vụ công việc và đời sống.
+
+Kiến thức đạt được thực tế ảo, tăng cường: Học viên có kiến thức tổng quan về thực tế ảo (VR) và thực tế tăng cường (AR). Học viên nắm các cách thức xây dựng thực tế ảo khác nhau từ ảnh Panorama, mô hình 3D và triển khai mô hình thực tế tăng cường từ mô hình 3D.
+
+Khóa học Nâng cao năng lực giảng dạy STEM/STEAM: Khóa học kéo dài 40 giờ, dành cho giáo viên Trung học phổ thông. Mục tiêu giúp giáo viên hiểu sâu hơn về giáo dục STEM/STEAM để vận dụng vào tích hợp giảng dạy trong nhiều bộ môn trên lớp.
+
+Kiến thức đạt được STEM/STEAM: Học viên hiểu sâu về giáo dục STEM/STEAM và vận dụng, tích hợp vào giảng dạy. Học viên có thể vận dụng kỹ thuật, công nghệ vào giảng dạy trên lớp, vận dụng phương pháp giảng dạy mới để hấp dẫn học sinh. Học viên vận dụng kiến thức trong đánh giá, nhận xét học sinh và biết cách khơi gợi cảm hứng học tập, thúc đẩy quá trình tự học của học sinh.
+
+Khóa học Scratch – Giải pháp STEM/STEAM: Khóa học kéo dài 24 giờ, dành cho giáo viên, sinh viên, học sinh. Mục tiêu tìm hiểu và làm quen với phần mềm Scratch, xây dựng ứng dụng Scratch trong trường học.
+
+Kiến thức đạt được Scratch: Học viên biết các thành phần trên giao diện phần mềm Scratch, tìm hiểu hiệu ứng và nhân vật trong Scratch. Học viên có khả năng tư duy, sáng tạo ra trò chơi với Scratch.
+
+Khóa học Yenka – Giải pháp STEM/STEAM: Khóa học kéo dài 40 giờ, dành cho giáo viên, sinh viên, học sinh. Mục tiêu làm quen với Yenka, một giải pháp tích hợp mô hình, mô phỏng và thí nghiệm liên quan đến bốn ngành học: Kỹ thuật (Vật lý), Toán học, Khoa học (Hóa học) và máy tính (tư duy lập trình) một cách trực quan, sinh động.
+
+Thiết kế bài học tương tác Yenka: Khóa học giúp thiết kế bài học mang tính tương tác cao, hỗ trợ học sinh tự học và kiểm tra bài học qua mô hình trực quan, sinh động. Học viên vận dụng Yenka trong đổi mới phương pháp giảng dạy.
+
+Kiến thức đạt được Yenka: Học viên biết các thành phần trên giao diện phần mềm Yenka, tìm hiểu mô hình mô phỏng và thí nghiệm có độ chính xác cao với Yenka.
+
+Ứng dụng Yenka trong Toán học: Học viên hiểu và vận dụng mô hình 3D đa dạng để chứng minh định lý toán học, số liệu thống kê, xác suất, hình học và tọa độ.
+
+Ứng dụng Yenka trong Khoa học: Học viên khai thác thí nghiệm ảo của Yenka cho bài giảng khoa học, chứng minh khái niệm đầy màu sắc an toàn, mô phỏng chính xác.
+
+Ứng dụng Yenka trong Công nghệ: Học viên thiết kế và sử dụng mô hình mô phỏng để kiểm tra dự án điện tử, chương trình PIC, PICAE và tạo giao diện PCB 3D.
+
+Ứng dụng Yenka trong Máy tính: Học viên sử dụng Yenka trong dạy lập trình theo cách mới, hấp dẫn hơn, cho phép điều khiển nhân vật hoạt hình 3D bằng lệnh sơ đồ đơn giản.
+
+Khóa học STEM/STEAM – Phân tích xử lý dữ liệu: Khóa học kéo dài 24 giờ, dành cho giáo viên, học sinh, sinh viên. Mục tiêu tìm hiểu môn Khoa học dữ liệu mới mẻ, mang tính thực tiễn cao, kết hợp khai thác, phân tích và dự đoán khả năng xảy ra trên dữ liệu thống kê.
+
+Kiến thức đạt được Phân tích dữ liệu: Học viên nhận biết sự vật, hiện tượng đời sống thực tiễn trên cơ sở khai thác dữ liệu cơ bản để hiểu nguyên lý và tạo sản phẩm phục vụ cuộc sống hàng ngày. Học viên hình thành tư duy thu thập, phân tích và biểu diễn dữ liệu với công cụ phù hợp.
+
+Ứng dụng Excel trong STEM/STEAM: Học viên hiểu kiến thức về Khoa học dữ liệu và ứng dụng trong đời sống như thu thập, tổ chức, phân tích, biểu diễn dữ liệu học sinh, điểm số, thái độ học tập, chi tiêu, khí hậu, ánh sáng. Học viên có kỹ năng sử dụng công cụ cơ bản trong Excel để hỗ trợ môn học này: biểu đồ, xây dựng điều kiện.
+
+Giải quyết vấn đề thực tiễn STEM/STEAM: Học viên có kỹ năng áp dụng kiến thức tích hợp STEM/STEAM để giải quyết vấn đề thực tiễn. Học viên xây dựng dự án “Chương trình Quản lý học tập của học sinh” để giáo viên sử dụng trên lớp.
+
+Khóa học Ứng dụng CNTT tiếng Khmer: Khóa học kéo dài 40 giờ, dành cho giáo viên dạy tiếng Khmer tại các trường. Mục tiêu giúp giáo viên ứng dụng Công nghệ thông tin trong xây dựng và biên soạn giáo án điện tử, bài trình chiếu đa phương tiện.
+
+Kiến thức đạt được tiếng Khmer: Học viên biết cách cài đặt bộ font chữ, bộ gõ và sử dụng bàn phím để gõ chữ nguyên âm và phụ âm tiếng Khmer. Học viên xây dựng và biên soạn giáo án điện tử, bài trình chiếu đa phương tiện.
+
+Thiết kế bài giảng tương tác tiếng Khmer: Học viên khai thác phần mềm thiết kế bài giảng tương tác, tích hợp công cụ giảng dạy, công cụ đánh giá hiệu quả dạy học và thư viện đa phương tiện. Học viên thiết kế bài giảng tương tác, xây dựng thư viện tài nguyên dạy học để dễ dàng tích hợp tài nguyên Đa phương tiện vào bài giảng.
+
+Hỗ trợ giảng dạy tiếng Khmer: Học viên xây dựng nhiều hoạt động kiểm tra đánh giá phát triển toàn diện kỹ năng nghe-nói-đọc-viết. Khóa học hỗ trợ công cụ xây dựng kịch bản giảng dạy, triển khai nhanh việc giảng dạy, dành thời gian tối đa cho chuyên môn.
+
+Khóa học CNTT môn Khoa học Tự nhiên: Khóa học dành cho bậc Trung học phổ thông và Trung học cơ sở, có phần thực hành và nội dung riêng. Mục tiêu dựng mô hình trực quan hoặc xây dựng mô phỏng thí nghiệm phục vụ giảng dạy và học tập, tích hợp kết quả vào bài trình chiếu Đa phương tiện.
+
+Khóa học CNTT môn Khoa học Xã hội: Khóa học dành cho bậc Trung học phổ thông và Trung học cơ sở, có phần thực hành và nội dung riêng. Mục tiêu xây dựng bài trình chiếu Đa phương tiện, khai thác nguồn tài nguyên trên Internet, khai thác phần mềm xử lý hình ảnh, âm thanh, video và tích hợp vào bài trình chiếu.
+
+Khóa học Toán học: Khóa học kéo dài 36 giờ. Kiến thức đạt được bao gồm khai thác phần mềm Maple, GeoPlan-GeoSpace. Học viên sử dụng Maple để tìm, soạn bài tập, đề thi, kiểm tra kết quả bài toán, dự đoán chứng minh, vẽ đồ thị chính xác phục vụ giảng dạy, sinh hoạt chuyên môn, hỗ trợ bồi dưỡng học sinh giỏi.
+
+Mô hình hình học Toán học: Học viên dựng mô hình trực quan hình học phẳng và không gian với công cụ GeoPlan-GeoSpace. Học viên dựng hình dựa vào phương trình, tọa độ, tính toán trên đối tượng như tích vô hướng, tích có hướng của hai vectơ, diện tích tam giác, thể tích khối đa diện, vẽ đồ thị hàm số.
+
+Khóa học Văn học: Khóa học kéo dài 24 giờ. Kiến thức đạt được bao gồm thiết kế bài giảng sinh động, kiến thức thể hiện bằng hình ảnh, âm thanh, màu sắc sống động tạo môi trường tác động giác quan học sinh phù hợp với thể loại văn xuôi, truyện, thơ.
+
+Kiểm tra kiến thức Văn học: Học viên tạo bài kiểm tra kiến thức sử dụng phần mềm hỗ trợ, tạo trò chơi crossword, matching và bài kiểm tra trắc nghiệm. Học viên tự tạo tư liệu phục vụ giảng dạy, sinh hoạt chuyên môn như hình ảnh minh họa, mô hình trực quan, biên tập hình ảnh và âm thanh.
+
+Khóa học Vật lý: Khóa học kéo dài 32 giờ. Kiến thức đạt được bao gồm khai thác phần mềm Crocodile Physic. Học viên xây dựng mô phỏng thí nghiệm, mô hình giảng dạy và tích hợp vào bài trình chiếu Đa phương tiện.
+
+Thiết kế bài giảng Vật lý: Khóa học giúp giáo viên kết hợp yếu tố sư phạm để sử dụng phần mềm vào quá trình thiết kế bài giảng và bài trình chiếu Đa phương tiện đạt hiệu quả, hoàn thiện hơn, nâng cao chất lượng dạy và học.
+
+Khóa học Hóa học: Khóa học kéo dài 32 giờ. Kiến thức đạt được bao gồm khai thác phần mềm Chemsketch, Chemdraw Ultra, Hyper Chem, Crocodile Chemistry. Học viên xây dựng mô hình trực quan, biên tập âm thanh, phim thể hiện quá trình điều chế, các bước làm ra sản phẩm.
+
+Khóa học Sinh học: Khóa học kéo dài 32 giờ. Kiến thức đạt được bao gồm xây dựng mô phỏng thí nghiệm, đặc biệt thí nghiệm phức tạp, nguy hiểm không thể thực hiện trong phòng thí nghiệm. Học viên giúp giáo viên thể hiện kiến thức theo kịch bản nhằm đạt hiệu quả tối đa qua quá trình học đa giác.
+
+Mô phỏng giải phẫu Sinh học: Học viên khai thác phần mềm để mô phỏng giải phẫu động vật, thí nghiệm sinh lý. Học viên giúp giáo viên ứng dụng Công nghệ thông tin vào nội dung khó diễn đạt bằng đồ thị, biểu đồ, phim, hình ảnh minh họa. Học viên tạo mô hình trực quan động có hiệu ứng chuyển động, biến đổi, tạo hoạt động mô phỏng sinh động.
+
+Khóa học Lịch sử: Khóa học kéo dài 32 giờ. Kiến thức đạt được bao gồm ứng dụng Công nghệ thông tin để khai thác thông tin và tư liệu lịch sử như văn bản, hình ảnh, âm thanh, phim tư liệu.
+
+Mối liên hệ nội dung Lịch sử: Học viên tìm hiểu mối liên hệ giữa nội dung dạy học và tài nguyên trên Internet: nội dung lịch sử lấy sự kiện, nhân vật, địa danh làm trọng tâm. Học viên giúp giáo viên xử lý hình ảnh, bản đồ, biên tập âm thanh, phim để tự tạo tư liệu phục vụ dạy và học, tích hợp tư liệu vào bài trình chiếu Đa phương tiện.
+
+Khóa học Địa lý: Khóa học kéo dài 32 giờ. Kiến thức đạt được bao gồm khai thác phần mềm ENCARTA, GIS, PC Fact, sử dụng Google Map và Google Earth. Học viên giúp giáo viên tạo tranh ảnh động, bản đồ động, đoạn phim mô tả quá trình, hiện tượng địa lý sinh động, chính xác, hiệu quả.
+
+Chỉnh sửa tư liệu Địa lý: Học viên chỉnh sửa hay thiết kế lại tranh ảnh, bản đồ có sẵn để phù hợp với kiến thức phức tạp, nhiều mục đích dạy học. Học viên khai thác phần mềm hỗ trợ nội dung kiến thức về vấn đề kinh tế - xã hội, tôn giáo, nghệ thuật trong nước và dữ liệu của các quốc gia trên thế giới. Học viên tích hợp tư liệu vào bài trình chiếu Đa phương tiện.
+
+Khóa học Anh văn: Khóa học kéo dài 32 giờ. Kiến thức đạt được bao gồm ứng dụng kỹ thuật matching, networking, fill in the gaps, rub out and remember. Học viên xây dựng game phục vụ giảng dạy như trò chơi chiếc nón kỳ diệu, Crossword, Word search.
+
+Thiết kế bài giảng tương tác Anh văn: Học viên khai thác phần mềm thiết kế bài giảng tương tác, tích hợp công cụ giảng dạy, công cụ đánh giá hiệu quả dạy học và thư viện đa phương tiện. Học viên thiết kế bài giảng tương tác, xây dựng thư viện tài nguyên dạy học để dễ dàng tích hợp tài nguyên Đa phương tiện vào bài giảng, xây dựng hoạt động kiểm tra đánh giá phát triển toàn diện kỹ năng nghe-nói-đọc-viết.
+
+Hỗ trợ dạy học Anh văn: Khóa học hỗ trợ công cụ dạy học ảo và hiệu ứng tương tác, giúp xây dựng ý tưởng sư phạm phong phú và mô phỏng phương pháp, đạt hiệu quả cao. Khóa học hỗ trợ công cụ xây dựng kịch bản giảng dạy, triển khai nhanh việc giảng dạy, dành thời gian tối đa cho chuyên môn.
+
+Khóa học Ứng dụng CNTT tiếng Anh Tiểu học: Khóa học kéo dài 32 giờ. Kiến thức đạt được bao gồm cung cấp kiến thức sử dụng phần mềm và công cụ phục vụ giảng dạy môn tiếng Anh. Học viên khai thác phần mềm thiết kế bài giảng tương tác, tích hợp công cụ giảng dạy, công cụ đánh giá hiệu quả dạy học và thư viện đa phương tiện.
+
+Thiết kế bài giảng tiếng Anh Tiểu học: Học viên thiết kế bài giảng tương tác, xây dựng thư viện tài nguyên dạy học để dễ dàng tích hợp tài nguyên Đa phương tiện vào bài giảng. Học viên xây dựng hoạt động kiểm tra đánh giá phát triển toàn diện kỹ năng nghe-nói-đọc-viết. Khóa học hỗ trợ công cụ xây dựng kịch bản giảng dạy, triển khai nhanh việc giảng dạy, dành thời gian tối đa cho chuyên môn.
+
+Khóa học CNTT môn Tự nhiên Xã hội Tiểu học: Khóa học kéo dài 32 giờ. Kiến thức đạt được bao gồm cung cấp kiến thức và kỹ thuật sử dụng phần mềm, công cụ phục vụ giảng dạy của giáo viên Tiểu học. Học viên giúp giáo viên tạo bài giảng trực quan, sinh động.
+
+Ứng dụng phần mềm Tiểu học: Học viên giúp giáo viên ứng dụng phần mềm vào tổ chức hoạt động cho học sinh Tiểu học nhằm tạo môi trường lớp học thân thiện, mới lạ, kích thích trẻ tích cực hoạt động. Học viên sử dụng phần mềm MS PowerPoint 2007 từ căn bản đến nâng cao trong biên soạn dạng bài tập khác nhau.
+
+Thiết kế trò chơi Tiểu học: Học viên thiết kế trò chơi, khai thác hiệu quả tài nguyên trên mạng Internet. Học viên sử dụng phần mềm hỗ trợ để nâng cao tính hiệu quả đa phương tiện trong bài giảng. Học viên biết chọn lọc, chỉnh sửa và tạo mới bài giảng đa phương tiện, sử dụng phần mềm hỗ trợ trong quá trình biên soạn bài giảng.
+
+Khóa học Quản lý trò chơi bài giảng mẫu giáo: Khóa học kéo dài 40 giờ, dành cho giáo viên mầm non, mẫu giáo. Mục tiêu giúp giáo viên ứng dụng phần mềm vào tổ chức hoạt động cho trẻ mầm non nhằm tạo môi trường lớp học thân thiện, mới lạ, kích thích trẻ tích cực hoạt động. Học viên xây dựng ý tưởng cho việc thực hiện sản phẩm sáng tạo.
+
+Kiến thức đạt được trò chơi mẫu giáo: Học viên dựa vào ý tưởng trò chơi để sáng tạo trò chơi mới cho trẻ hoạt động nhằm củng cố, ôn luyện kiến thức theo chủ đề. Học viên tạo đồ chơi, học liệu mở để trẻ có cơ hội trải nghiệm, hình thành kỹ năng phân loại, phán đoán, tư duy logic, khái quát hóa sự vật hiện tượng.
+
+Biên tập bài giảng mẫu giáo: Giáo viên có thể tự chỉnh sửa tranh, ghép ảnh phù hợp nội dung câu chuyện, chèn hình ảnh minh họa, chọn hiệu ứng cho nhân vật, biên tập và chèn âm thanh, video để thể hiện bài trình chiếu Đa phương tiện.
+
+Quản lý khẩu phần ăn trẻ: Học viên sử dụng phần mềm để quản lý khẩu phần ăn của trẻ hàng ngày. Phần mềm cho phép giáo viên nuôi dưỡng, lập thực đơn và lưu thực đơn theo tuần. Học viên tính toán khẩu phần ăn cho trẻ hàng ngày để cân đối chất dinh dưỡng, đảm bảo lượng calo cần thiết.
+
+Khóa học Tập huấn giảng dạy tin học MOS: Khóa học kéo dài 40 giờ, dành cho tất cả giáo viên và cán bộ thuộc các trường. Mục tiêu cung cấp kiến thức cần thiết và sử dụng thành thạo tin học văn phòng theo chuẩn Microsoft. Học viên có thể tự tin thi lấy chứng chỉ tin học văn phòng của Microsoft có giá trị vĩnh viễn.
+
+Kiến thức đạt được Microsoft Word: Học viên thiết lập, tùy chỉnh văn bản, thiết kế văn bản nâng cao, tạo tham chiếu nâng cao, tạo phần tử Word tùy chỉnh.
+
+Kiến thức đạt được Microsoft Excel: Học viên thiết lập, tùy chỉnh nâng cao trong Excel, áp dụng bố cục và tùy chỉnh định dạng dữ liệu, tạo công thức nâng cao, tạo bảng và biểu đồ nâng cao.
+
+Kiến thức đạt được Microsoft PowerPoint: Học viên tạo và quản lý bài trình chiếu, chèn và định dạng văn bản, đối tượng hình và hình ảnh. Học viên chèn bảng, biểu đồ, SmartArt và đa phương tiện. Học viên áp dụng hiệu ứng cho đối tượng và hiệu ứng chuyển trang, quản lý nhiều bài trình chiếu.
+
+Khóa học Lập trình sáng tạo Scratch: Khóa học kéo dài 24 giờ, dành cho giáo viên, sinh viên, học sinh. Mục tiêu rèn luyện tư duy máy tính, tư duy logic, kỹ năng giải quyết vấn đề, kỹ năng thuyết trình. Học viên tìm hiểu, làm quen phần mềm Scratch, xây dựng ứng dụng Scratch phục vụ thi phần mềm sáng tạo và có khả năng tham gia kỳ thi lập trình quốc tế Wecode.
+
+Kiến thức đạt được Lập trình Scratch: Học viên biết các thành phần trên giao diện phần mềm Scratch, tìm hiểu hiệu ứng và nhân vật trong Scratch. Học viên có khả năng tư duy, sáng tạo trò chơi với Scratch, nắm vững và sử dụng thành thạo kiến thức lập trình Scratch.
+
+Sáng tạo dự án Scratch: Học viên sáng tạo khi tham gia dự án xây dựng ý tưởng game, phim hoạt hình với nhân vật yêu thích bằng ngôn ngữ lập trình Scratch. Học viên sử dụng thành thạo lệnh chuyển động, hội thoại, lồng ghép âm thanh, lệnh lặp, hiệu ứng đồ họa cho phim hoặc game. Học viên thuyết minh về thành phần và ý tưởng đoạn phim hoặc game, áp dụng kiến thức để giải quyết vấn đề trong cuộc sống hiện đại.
+
+Khóa học CNTT bồi dưỡng học sinh giỏi THCS: Khóa học kéo dài 40 giờ, dành cho giáo viên tin học hoặc giáo viên phụ trách ôn luyện. Mục tiêu tập huấn giáo viên kiến thức, kỹ năng, thái độ để triển khai hiệu quả lớp ôn luyện học sinh giỏi môn tin học bậc Trung học cơ sở.
+
+Kinh nghiệm tổ chức lớp học sinh giỏi THCS: Khóa học cung cấp kinh nghiệm tổ chức lớp, phân bố nội dung giảng dạy và chiến thuật làm bài cho giáo viên đứng lớp nhằm giúp học sinh đạt kết quả cao trong kỳ thi học sinh giỏi tin học cấp tỉnh/quốc gia, tin học trẻ không chuyên.
+
+Kiến thức đạt được học sinh giỏi THCS: Học viên nắm kỹ thuật xử lý tập tin cho các loại dữ liệu nhập, xuất khác nhau, kỹ thuật dò lỗi. Học viên học các giải thuật từ cơ bản đến nâng cao: số học, hình học, xử lý số nhị phân, xử lý bit và tập hợp, sinh và toán đại số, xử lý mảng và ma trận, xử lý chuỗi, lý thuyết Đồ thị, cây trò chơi và kỹ thuật duyệt BFS/DFS, thuật toán quy hoạch động.
+
+Khóa học CNTT bồi dưỡng học sinh giỏi THPT: Khóa học kéo dài 40 giờ, dành cho giáo viên tin học hoặc giáo viên phụ trách ôn luyện. Mục tiêu trang bị kiến thức, kỹ năng, thái độ để giáo viên triển khai hiệu quả lớp ôn luyện học sinh giỏi môn tin học bậc Trung học phổ thông.
+
+Kinh nghiệm tổ chức lớp học sinh giỏi THPT: Khóa học cung cấp kinh nghiệm tổ chức lớp, phân bố nội dung giảng dạy và chiến thuật làm bài cho giáo viên đứng lớp nhằm giúp học sinh đạt kết quả cao trong kỳ thi học sinh giỏi tin học cấp tỉnh/quốc gia, tin học trẻ không chuyên và Olympic tin học.
+
+Kiến thức đạt được học sinh giỏi THPT: Học viên nắm xử lý tập tin, kỹ thuật dò lỗi, các giải thuật sắp xếp, cấu trúc dữ liệu, tập hợp và kỹ thuật xử lý số nhị phân, ma trận và ứng dụng, cấu trúc cây, lý thuyết đồ thị, cây trò chơi và kỹ thuật duyệt BFS/DFS, giải thuật sinh và Đại số tổ hợp, thuật toán quy hoạch động.
+
+Khóa học Thiết kế phần mềm Web PHP MySQL: Khóa học kéo dài 40 giờ, dành cho giáo viên tin học hoặc giáo viên phụ trách ôn luyện. Mục tiêu trang bị kiến thức để giáo viên hỗ trợ học sinh phát triển sản phẩm sáng tạo dạng Web.
+
+Kiến thức đạt được phần mềm Web: Học viên được cung cấp kiến thức về thiết kế và phát triển ứng dụng web đa thiết bị. Học viên phát triển phần mềm sáng tạo dạng Web, có tương tác mạnh với cơ sở dữ liệu.
+
+Thiết kế ứng dụng Web: Học viên thiết kế ứng dụng web sử dụng HTML5 và CSS3. Học viên lập trình ứng dụng cho web tương tác sử dụng JavaScript. Học viên thiết kế ứng dụng web đa thiết bị. Học viên phát triển ứng dụng web tương tác chuyên nghiệp với cơ sở dữ liệu sử dụng PHP và MySQL theo tình huống cụ thể.
+
+Khóa học Thiết kế phần mềm Web MongoDB: Khóa học kéo dài 40 giờ, dành cho giáo viên tin học hoặc giáo viên phụ trách ôn luyện. Mục tiêu giúp học viên cập nhật kiến thức mới trong lĩnh vực khoa học dữ liệu và tiếp cận việc lưu trữ, truy xuất nguồn dữ liệu lớn.
+
+Kiến thức đạt được phần mềm Web MongoDB: Học viên nắm các khái niệm cơ bản về dữ liệu, nguồn dữ liệu (tập tin, RDBMS, NoSQL), cách thức lưu trữ dữ liệu. Học viên được giới thiệu dữ liệu phi cấu trúc (JSON) và dữ liệu có cấu trúc (MySQL, SQL), đọc tập tin JSON trên web browser bằng JavaScript.
+
+Quản trị cơ sở dữ liệu MongoDB: Học viên được giới thiệu hệ quản trị cơ sở dữ liệu phi cấu trúc MongoDB. Học viên phân tích hệ thống, tạo lập collection và document, các câu lệnh để truy xuất, thay đổi dữ liệu phi cấu trúc. Học viên nắm ánh xạ giữa NoSQL và SQL, hướng dẫn kết nối, thêm, cập nhật và xóa dữ liệu phi cấu trúc bằng ngôn ngữ PHP.
+
+Khóa học Ứng dụng Windows Form: Khóa học kéo dài 40 giờ, dành cho giáo viên tin học hoặc giáo viên phụ trách ôn luyện. Mục tiêu trang bị kiến thức để giáo viên hỗ trợ học sinh phát triển sản phẩm sáng tạo dạng Ứng dụng Windows Form.
+
+Kiến thức đạt được Windows Form: Học viên nắm cơ sở dữ liệu SQL Server. Học viên thiết kế và phát triển ứng dụng Windows Form. Học viên xây dựng ứng dụng phục vụ nhu cầu thực tế như quản lý học sinh, tài sản, khách sạn, kho, bệnh viện.
+
+Khóa học Thiết kế phần mềm Android di động: Khóa học kéo dài 40 giờ, dành cho giáo viên tin học hoặc giáo viên phụ trách ôn luyện. Mục tiêu trang bị kiến thức để giáo viên hỗ trợ học sinh phát triển sản phẩm sáng tạo di động trên hệ điều hành Android.
+
+Kiến thức đạt được Android di động: Học viên xây dựng ứng dụng di động trên hệ điều hành Android, xuất bản ứng dụng lên Google Play. Học viên sử dụng công cụ Android Studio mới nhất để phát triển ứng dụng. Nội dung đào tạo hướng tới ứng dụng thực tế.
+
+Thiết kế giao diện Android: Học viên thành thạo việc thiết kế và tùy biến thành phần giao diện ứng dụng. Học viên được trang bị kiến thức đầy đủ để hướng dẫn học sinh tạo ứng dụng di động khi tham gia kỳ thi thiết kế phần mềm sáng tạo. Mỗi học viên có thể tự xây dựng hoàn chỉnh ứng dụng di động và upload lên Google Play Store.
+
+Khóa học Lập trình Arduino với Scratch: Khóa học kéo dài 40 giờ, dành cho giáo viên, sinh viên, học sinh. Mục tiêu cung cấp kiến thức cơ bản về lập trình Arduino với Scratch, xây dựng ý tưởng trong sản phẩm sáng tạo với Scratch Arduino.
+
+Kiến thức đạt được Arduino Scratch: Học viên nắm kỹ năng và phương pháp trong lập trình Arduino Scratch, kỹ thuật trong thiết kế và xây dựng sản phẩm sáng tạo trên nền Arduino Scratch. Học viên nắm kiến thức về lập trình Arduino Scratch, kiến thức cơ bản về phần cứng và điện tử, nguyên tắc hoạt động trên sản phẩm thực tế, hướng dẫn thực hiện sản phẩm sáng tạo hoàn chỉnh.
+
+Khóa học Lập trình C/C++ cơ bản nâng cao: Khóa học kéo dài 40 giờ, dành cho giáo viên, sinh viên, học sinh. Mục tiêu cung cấp kiến thức từ cơ bản đến nâng cao về ngôn ngữ lập trình C/C++. Học viên được giúp tư duy và lập trình hướng đối tượng với ngôn ngữ C++. Học viên xây dựng chương trình hoàn chỉnh với ngôn ngữ C/C++.
+
+Kiến thức đạt được Lập trình C/C++: Học viên được cung cấp kiến thức về lập trình C/C++. Học viên tạo, biên dịch và thực thi chương trình C/C++. Học viên lập trình cơ bản: sử dụng biến, kiểu dữ liệu, cấu trúc điều khiển, vòng lặp, mảng, hàm, con trỏ. Học viên lập trình hướng đối tượng: lớp, kế thừa, đa hình.
+
+Khóa học Lập trình Java cơ bản nâng cao: Khóa học kéo dài 40 giờ, dành cho tất cả đối tượng có kiến thức căn bản về tin học. Mục tiêu cung cấp kiến thức nền tảng căn bản về ngôn ngữ Java, kỹ năng lập trình hướng đối tượng, công cụ hỗ trợ lập trình và quản lý mã nguồn của ứng dụng Java.
+
+Kiến thức đạt được Lập trình Java: Sau khóa học, học viên nắm vững kiến thức căn bản của ngôn ngữ Java làm nền tảng để tự nghiên cứu hoặc tham gia chuyên sâu các mảng như Web và Mobile bằng ngôn ngữ Java.
+
+Khóa học Lập trình C# cơ bản nâng cao: Khóa học kéo dài 40 giờ, dành cho tất cả đối tượng có kiến thức căn bản về tin học. Mục tiêu cung cấp kỹ thuật cơ bản và nâng cao trong ngôn ngữ lập trình hướng đối tượng C#. Học viên nắm được kỹ năng lập trình cơ bản và xây dựng chương trình ứng dụng với ngôn ngữ C#.
+
+Kiến thức đạt được Lập trình C#: Học viên có kiến thức cơ bản về lập trình, phương pháp lập trình hướng đối tượng bằng ngôn ngữ C#. Môn học mang đến kiến thức cơ bản và nền tảng về lập trình, giúp học viên dễ dàng tiếp cận ngôn ngữ lập trình khác. Môn học rèn luyện kỹ năng lập trình và vận dụng C# để xây dựng ứng dụng tiện ích. Môn học cung cấp kỹ năng nâng cao để học viên tiếp cận kỹ thuật lập trình của Microsoft .Net như ASP.Net MVC hay Windows Form.
+
+Khóa học Lập trình Python Trí tuệ nhân tạo: Khóa học kéo dài 40 giờ, dành cho giáo viên tin học hoặc giáo viên phụ trách ôn luyện. Mục tiêu cung cấp kiến thức từ cơ bản đến nâng cao giúp học viên tự tin sử dụng Python trong phát triển ứng dụng.
+
+Kiến thức đạt được Python AI: Với kiến thức này, học viên hoàn toàn có thể ứng dụng trong phát triển dự án IoT đòi hỏi xử lý chuyên sâu: machine learning, AI. Học viên có tổng quan về Python, giới thiệu công cụ lập trình Python và cấu hình cài đặt. Học viên được giới thiệu cấu trúc trong ngôn ngữ lập trình Python để xây dựng ứng dụng.
+
+Kiến thức Python nâng cao: Học viên nắm các kiểu dữ liệu, toán tử, cấu trúc điều khiển, cấu trúc lặp trong Python. Học viên tìm hiểu thư viện dựng sẵn trong Python, lưu trữ và xử lý danh sách phần tử. Học viên học phương thức, module/package, làm việc với tập tin và thư mục, lập trình hướng đối tượng trong Python, xử lý đa luồng trong Python. Học viên xây dựng ứng dụng với cơ sở dữ liệu và xây dựng ứng dụng Python với Machine learning/AI.
+
+Khóa học IoT Arduino cơ bản: Khóa học kéo dài 40 giờ, dành cho giáo viên tin học hoặc giáo viên phụ trách ôn luyện (Trung học cơ sở – Trung học phổ thông) có kiến thức cơ bản về lập trình C/C++ hoặc ngôn ngữ lập trình khác, yêu thích Công nghệ thông tin và lập trình nhúng.
+
+Mục tiêu IoT Arduino cơ bản: Khóa học cung cấp kiến thức cơ bản về hệ thống IoT, lập trình nhúng, board mạch Arduino và ứng dụng của Arduino trong thực tế. Khóa học còn cung cấp nguyên lý thiết kế, lắp đặt và lập trình module điện tử thông qua Arduino nhằm tạo sản phẩm có tính thực tế cao.
+
+Kiến thức đạt được IoT Arduino cơ bản: Học viên được cung cấp kiến thức cơ bản về board mạch Arduino và phương pháp lập trình trên mạch. Học viên được cung cấp nguyên lý thiết kế, lắp đặt mạch. Học viên được cung cấp kỹ năng tích hợp module và xây dựng ứng dụng hoàn chỉnh với Arduino. Học viên được cung cấp kiến thức về mạch điện tử, phương pháp thiết kế mạch với phần mềm Proteus. Học viên truyền nhận dữ liệu và đăng ký hệ thống qua cổng Serial, truyền nhận và điều khiển hệ thống với Bluetooth.
+
+Khóa học IoT Arduino nâng cao: Khóa học kéo dài 44 giờ, dành cho giáo viên tin học hoặc giáo viên phụ trách ôn luyện (Trung học cơ sở – Trung học phổ thông) có kiến thức cơ bản về lập trình C/C++ hoặc ngôn ngữ lập trình khác, có kiến thức lập trình Arduino cơ bản, yêu thích Công nghệ thông tin và lập trình nhúng.
+
+Mục tiêu IoT Arduino nâng cao: Khóa học cung cấp kiến thức về lập trình hệ thống IoT, giao tiếp không dây với Arduino, ESP8266 và các module khác trong giao tiếp không dây. Khóa học còn cung cấp kiến thức phát triển ứng dụng IoT với board mạch Raspberry Pi mới nhất nhằm bắt kịp thời đại Cách mạng Công nghiệp 4.0.
+
+Nội dung IoT Arduino nâng cao: Nội dung khóa học được thiết kế dựa trên ứng dụng thực tiễn đang triển khai hoặc dự án nghiên cứu. Học viên có thể tự xây dựng hệ thống IoT hoàn chỉnh tùy thuộc nhu cầu từng dự án.
+
+Kiến thức đạt được IoT Arduino nâng cao: Học viên được cung cấp kiến thức về lập trình hệ thống IoT với board mạch Arduino và Raspberry Pi, xây dựng hệ thống giao tiếp không dây với Wifi, SMS. Học viên xây dựng hệ thống giám sát, điều khiển và biểu diễn dữ liệu thời gian thực thông qua giao tiếp không dây: Website, ứng dụng trên di động.
+
+Kiến thức chuyên sâu IoT Arduino: Học viên được cung cấp kiến thức về lập trình Arduino nâng cao, phát triển hệ thống IoT với Raspberry Pi. Học viên nắm kiến thức về quá trình truyền nhận dữ liệu thông qua mạng không dây, SMS. Học viên nắm kiến thức tích hợp và sử dụng thư viện mã nguồn mở trong xây dựng ứng dụng thực tế. Học viên nắm kiến thức phát triển hệ thống giám sát, điều khiển và biểu diễn dữ liệu.
+
+Khóa học Lập trình Python Trí tuệ nhân tạo: Khóa học kéo dài 40 giờ, dành cho giáo viên tin học hoặc giáo viên phụ trách ôn luyện (Trung học cơ sở – Trung học phổ thông) có kiến thức cơ bản về lập trình C/C++ hoặc ngôn ngữ lập trình khác, yêu thích Công nghệ thông tin và lập trình.
+
+Mục tiêu Lập trình Python AI: Khóa học cung cấp kiến thức từ cơ bản đến nâng cao và kỹ năng cần thiết để lập trình ngôn ngữ Python. Môn học cung cấp kiến thức cần thiết để xây dựng giao diện ứng dụng bằng Python. Học viên xây dựng nền tảng vững chắc về ngôn ngữ lập trình Python để tạo tiền đề cho việc học kiến thức nâng cao về lập trình Trí tuệ nhân tạo (AI).
+
+Kiến thức đạt được Lập trình Python AI: Học viên được cung cấp kiến thức từ cơ bản đến nâng cao. Học viên rèn luyện kỹ năng lập trình, tư duy logic và kỹ năng xây dựng ứng dụng. Học viên được cung cấp kiến thức và kỹ năng lập trình hướng đối tượng với Python. Học viên hiểu và vận dụng ngôn ngữ Python để xây dựng ứng dụng thông minh. Học viên nắm vững kiến thức lập trình Python và thư viện dùng để phát triển ứng dụng trong lĩnh vực trí tuệ nhân tạo.
+
+Khóa học Lập trình IoT Raspberry PI: Khóa học kéo dài 40 giờ, dành cho giáo viên tin học hoặc giáo viên phụ trách ôn luyện (Trung học cơ sở – Trung học phổ thông) có kiến thức cơ bản về lập trình C/C++, python hoặc ngôn ngữ lập trình khác, có kiến thức lập trình Arduino cơ bản, yêu thích Công nghệ thông tin và lập trình nhúng.
+
+Mục tiêu Lập trình IoT Raspberry PI: Khóa học cung cấp kiến thức cơ bản về hệ thống IoT, lập trình nhúng, board mạch Raspberry Pi và ứng dụng của Raspberry Pi trong thực tế. Khóa học còn cung cấp nguyên lý thiết kế, lắp đặt và lập trình các module điện tử thông qua Raspberry Pi nhằm tạo sản phẩm có tính thực tế cao.
+
+Kiến thức đạt được IoT Raspberry PI: Học viên được cung cấp kiến thức về phần cứng máy tính nhúng Raspberry Pi, cách giao tiếp với thiết bị cảm biến, thiết bị input (pím ấn), thiết bị chấp hành (relay). Học viên biết cách cài đặt hệ điều hành, cấu hình và lập trình cho Raspberry bằng ngôn ngữ python và node-red.
+
+Hệ thống giám sát IoT Raspberry PI: Học viên hiểu, thiết kế và xây dựng hệ thống giám sát, điều khiển thông minh sử dụng máy tính nhúng Raspberry trên nền tảng công nghệ IoTs thông qua môi trường web.
+
+Kỹ năng IoT Raspberry PI: Học viên có kỹ năng hiểu và thiết kế phần cứng hệ thống. Học viên có kỹ năng cấu hình và lập trình hệ thống dùng công cụ khác nhau tùy yêu cầu thực tế. Học viên có kỹ năng tự phân tích, phát hiện vấn đề và thiết kế ứng dụng IoT trên nền tảng máy tính nhúng Raspberry. Học viên có kỹ năng làm việc nhóm và khả năng tự học.
+
+Thái độ IoT Raspberry PI: Học viên có đạo đức nghề nghiệp, niềm đam mê và sáng tạo.

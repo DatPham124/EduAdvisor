@@ -1,5 +1,0 @@
-Thời gian đào tạo: Tổng thời gian đào tạo là 292 giờ, bao gồm 146 giờ cho chương trình Nền tảng Khoa học Dữ liệu (Foundation in Data Science) và 146 giờ cho chương trình Kiểm thử Phần mềm (Software Testing).
-
-Nội dung chương trình đào tạo: Chương trình đào tạo bao gồm các nội dung chính sau: Phân tích dữ liệu tài chính với MS Excel, SMAC, lập trình hướng đối tượng, lập trình Python, phát triển ứng dụng Web với Python, quản trị dữ liệu lớn, lập trình R, đồ án R, cơ bản Java, xác minh và kiểm tra phần mềm, Agile và DevOps, kiểm tra chức năng với Selenium, kiểm tra trên di động, và dự án kiểm thử tự động.
-
-Bằng cấp và cơ hội nghề nghiệp: Sau khi hoàn thành khóa học, học viên sẽ nhận được bằng cấp Chứng chỉ Chuyên nghiệp về Kiểm thử Phần mềm (Certification Professional Diploma in Software Testing). Cơ hội nghề nghiệp cho học viên là trở thành Chuyên gia kiểm thử phần mềm.

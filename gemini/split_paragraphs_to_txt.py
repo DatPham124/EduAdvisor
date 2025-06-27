@@ -25,7 +25,7 @@ api_key = dotenv.get_key(dotenv.find_dotenv(), "GEMINI_API_KEY")
 client = genai.Client(api_key=api_key)
 
 input_dir = "input_pdfs"
-output_root = "../gemini/documents"
+output_root = "../gemini/documents/tuyen_sinh/cho_ban_nganh"
 os.makedirs(output_root, exist_ok=True)
 
 prompt = """
@@ -63,7 +63,7 @@ Nội dung miêu tả của mỗi đoạn phải thể hiện trọn vẹn m�
 
 Xử lý bảng
 
-Nếu có bảng dữ liệu, hãy diễn giải lại thành đoạn văn đầy đủ và liệt kê theo dạng danh sách các mục trong bảng.
+Nếu có bảng dữ liệu, hãy diễn giải lại thành đoạn văn đầy đủ theo dòng và liệt kê theo dạng danh sách các mục trong bảng.
 
 Trình bày bằng câu hoàn chỉnh, rõ ràng, dễ hiểu.
 
@@ -91,7 +91,9 @@ Chú ý hạn chế viết tắt như HS-SV là học sinh-sinh viên
 
 Chỉ xuất kết quả theo đúng yêu cầu trên. Không thêm bất kỳ bình luận hoặc lời giải thích nào.
 
-Hãy chuyển sang tiếng Việt nếu file pdf không phải 
+Hãy chuyển sang tiếng Việt nếu file pdf không phải
+
+Nếu chuyển từ file excel sang pdf thì chuyển theo dòng và liệt kê theo dạng danh sách các mục trong bảng
 """
 
 

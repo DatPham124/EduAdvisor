@@ -1,0 +1,49 @@
+Đối tượng khóa học: Khóa học dành cho học sinh trung học cơ sở và trung học phổ thông.
+
+Chứng nhận hoàn thành: Học viên sẽ được Trung tâm Công nghệ Phần mềm Đại học Cần Thơ cấp chứng nhận hoàn thành khóa học.
+
+Hình thức đào tạo: Khóa học được triển khai giảng dạy theo hình thức kết hợp trực tiếp và trực tuyến trên toàn vùng Đồng bằng Sông Cửu Long.
+
+Mục tiêu tổng quát: Khóa học Thiết kế Web Sáng tạo nhằm trang bị kiến thức và kỹ năng về Khoa học, Công nghệ, Kỹ thuật, Nghệ thuật và Toán học cho học sinh.
+
+Phát triển tư duy: Trong quá trình học, học sinh sẽ được rèn luyện tư duy lập trình và kỹ năng thiết kế website, đồng thời nâng cao khả năng mô hình hóa đối tượng và nghiệp vụ thực tế để giải quyết vấn đề bằng hệ thống phần mềm.
+
+Kỹ năng cốt lõi: Khóa học giúp học sinh phát triển tư duy sáng tạo, hỗ trợ học tập và phát triển, với kỹ năng cốt lõi là lập trình và thiết kế website chuyên nghiệp, giao diện đẹp, thu hút, chức năng xử lý hiệu quả và tối ưu.
+
+Tiếp cận giáo dục: Học viên có cơ hội học trực tuyến các chương trình đào tạo tiên tiến, tiếp cận công bằng với môi trường hiện đại dù ở địa phương có điều kiện hạn chế.
+
+Phát triển STEAM: Giáo dục STEAM trong khóa học trang bị kiến thức đa chiều, kích thích năng lực sáng tạo và tư duy phản biện, giúp học sinh hình thành khả năng mở rộng vấn đề theo nhiều chiều sâu.
+
+Tham gia các cuộc thi: Học sinh trung học cơ sở và trung học phổ thông tham gia các khóa học tại CUSC STEAM có thể vận dụng kiến thức để tham gia các kỳ thi Tin học trẻ, phần mềm sáng tạo và các cuộc thi sáng tạo khác.
+
+Phương pháp giảng dạy: Phương pháp học lý thuyết kết hợp với thực hành giúp học viên hiểu sâu về nền tảng kiến thức và kỹ năng vận dụng tư duy logic vào thiết kế web sáng tạo, với sự hướng dẫn cụ thể và chi tiết từ giáo viên.
+
+Nội dung chương trình: Chương trình học được chia thành bốn chặng chính.
+
+Chặng 1: Khởi động (Station 1.1): Học viên sẽ học thiết kế các trang web tĩnh với HTML5, xử lý và định dạng cơ bản các nội dung như văn bản, hình ảnh, đa phương tiện (âm thanh, video), siêu liên kết, bảng biểu và biểu mẫu trong 24 giờ.
+
+Chặng 1: Khởi động (Station 1.2): Học viên sẽ sử dụng CSS3 để định dạng màu sắc, kiểu thể hiện, nền, bố cục và canh lề cho trang web, nhằm tăng tính hấp dẫn và chuyên nghiệp. Nội dung bao gồm định dạng văn bản, màu sắc, font, nền, kích thước, đường viền, margin và padding trong 24 giờ.
+
+Chặng 2: Chạy (Station 2.1): Học viên sẽ học xử lý trang web với ngôn ngữ lập trình Javascript cơ bản trong 24 giờ, bao gồm các phương pháp nhúng Javascript, sử dụng biến, kiểu dữ liệu, toán tử, câu lệnh điều kiện, vòng lặp và câu lệnh nhảy trong vòng lặp.
+
+Chặng 2: Chạy (Station 2.2): Học viên sẽ học lập trình Javascript nâng cao trong 24 giờ, bao gồm biểu thức quy tắc, các hàm toán học và thời gian có sẵn, xây dựng hàm, làm việc với mảng một chiều và đa chiều.
+
+Chặng 2: Thiết kế game Javascript: Học viên sẽ được hướng dẫn thiết kế game với Javascript, bao gồm vẽ giao diện game, hiển thị các nội dung trên game và di chuyển trong game.
+
+Chặng 2: Nâng cao giao diện web: Học viên sẽ tiếp tục học định dạng liên kết, danh sách, bảng biểu, biểu mẫu, các hiệu ứng Animation và Transition. Khóa học cũng hướng dẫn sử dụng bảng kiểu xếp chồng để định dạng nâng cao, tạo menu đa dạng, thiết kế bố cục, phân bố vùng chứa nội dung và tích hợp các trang web vào website, nhằm hoàn thiện website chuyên nghiệp.
+
+Chặng 2: Xử lý trong game: Học viên sẽ học cách xử lý các trạng thái trong game như bắt đầu, đang chơi, kết thúc, tính điểm, lưu điểm và xếp hạng.
+
+Chặng 3: Tăng tốc (Station 3.1): Học viên sẽ học lập trình web cơ bản với PHP trong 24 giờ, bao gồm sử dụng thư viện Bootstrap để khai báo, định dạng văn bản, hình ảnh, bảng, lưới (Grid), biểu mẫu và các thành phần như Carousel, Collapse, Dropdown, Modal.
+
+Chặng 3: Tăng tốc (Station 3.2): Học viên sẽ học thiết kế trang web tương thích đa thiết bị trong 24 giờ, bao gồm khái niệm web tương thích, cấu hình viewport, thiết kế bảng kiểu với Media Queries, định dạng cột/Grid, văn bản, hình ảnh/video, thanh điều hướng, bố cục và thiết kế web tương thích đa thiết bị với Bootstrap.
+
+Chặng 4: Cất cánh (Station 4.1): Học viên sẽ học lập trình web PHP nâng cao trong 24 giờ, bao gồm cài đặt và cấu hình, cú pháp, biến, kiểu dữ liệu, toán tử, câu lệnh điều kiện, vòng lặp, mảng, các hàm xây dựng sẵn và xây dựng hàm.
+
+Chặng 4: Tương tác cơ sở dữ liệu PHP: Học viên sẽ học cách tương tác cơ sở dữ liệu với PHP, bao gồm xử lý biểu mẫu, kiến thức về cơ sở dữ liệu (database, table, record), thiết kế cơ sở dữ liệu, kết nối, truy vấn cơ bản và cập nhật dữ liệu (thêm/sửa/xóa).
+
+Chặng 4: Cất cánh (Station 4.2): Học viên sẽ học các kỹ thuật lập trình PHP nâng cao chuyên sâu trong 24 giờ như truy vấn dữ liệu từ nhiều bảng, lọc và sắp xếp dữ liệu, tải lên/tải xuống hình ảnh và tập tin, gửi email, quản lý phiên giao dịch (Session) và quản lý Cookie.
+
+Thông tin liên hệ: Trung tâm Công nghệ Phần mềm Đại học Cần Thơ có địa chỉ tại Khu III - Đại học Cần Thơ, Số 01, Đường Lý Tự Trọng, Quận Ninh Kiều, Thành phố Cần Thơ.
+
+Kênh liên lạc: Để liên hệ, có thể gọi số điện thoại 0292.3835.581, qua Zalo số 058 262 1345 hoặc truy cập website steam.cusc.vn.

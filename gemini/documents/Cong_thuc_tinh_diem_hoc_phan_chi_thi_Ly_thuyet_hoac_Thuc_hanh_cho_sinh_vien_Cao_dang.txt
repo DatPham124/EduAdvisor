@@ -1,1 +1,0 @@
-Công thức tính điểm học phần chỉ thi Lý thuyết hoặc Thực hành cho sinh viên Cao đẳng: Đối với các học phần chỉ thi Lý thuyết hoặc Thực hành, điểm học phần được tính theo công thức. Nếu không thi trên Portal, điểm được tính bằng ((điểm thi Lý thuyết hoặc điểm thi Thực hành) nhân trọng số cộng (điểm giữa kỳ nhân trọng số)).

@@ -1,0 +1,43 @@
+﻿1. GIỚI THIỆU
+ 
+Khóa học cung cấp cho học viên các khái niệm về Trí tuệ nhân tạo (Artificial Intelligence - AI), Khóa trang bị cho học viên kiến thức vững chắc về lập trình Python và các thuật toán AI; giúp nắm vững các khái niệm và cơ chế hoạt động của các thuật toán, cách đánh giá hiệu quả mô hình và triển khai bằng các thư viện của Python. Áp dụng các kiến thức đã học vào bài toán Computer vision thông qua các dự án liên quan. 
+Ngoài ra, học viên còn được rèn luyện kỹ năng lập trình, phân tích dữ liệu và tư duy giải quyết vấn đề một cách logic và sáng tạo; áp dụng kiến thức đã học để xây dựng các mô hình AI giải quyết những bài toán thực tiễn.
+ 
+2. MỤC TIÊU
+ 
+- Hiểu được các định nghĩa, khái niệm và ứng dụng của AI đặc biệt là học sâu trong lĩnh vực Computer vision.
+- Nắm vững và sử dụng thành thạo Python cơ bản. Sử dụng các thư viện Python để làm quen và thao tác với các loại dữ liệu khác nhau.
+- Có khả năng áp dụng các giải thuật cơ bản cho máy học thông qua thư viện có sẵn của Python.
+- Nắm vững kiến thức nền tảng cho lĩnh vực Deep learning. Hiểu rõ các thành phần, cách xây dựng và huấn luyện mô hình học sâu vào bài toán Object Detection.
+- Xây dựng và huấn luyện thành công mô hình YOLOv10 cho bài toán phát hiện đối tượng trong ảnh.
+ 
+3. ĐIỂM NỔI BẬT CỦA KHÓA HỌC
+ 
+- Khóa học trang bị cho học viên kiến thức và khả năng ứng dụng các mô hình AI vào việc giải quyết các bài toán thực tế. 
+- Học viên có thể áp dụng kiến thức học được để xử lý các thách thức trong nhiều lĩnh vực khác nhau.
+- Phát triển khả năng nghiên cứu, tự tìm hiểu và xây dựng các mô hình mạng. 
+- Bạn sẽ học cách ứng dụng các mô hình AI có sẵn để giải quyết các vấn đề thực tế, từ đó tự tin phát triển và cải tiến các giải pháp AI cho riêng mình.
+ 
+4. THỜI GIAN ĐÀO TẠO: 60 giờ
+ 
+5. CHỨNG NHẬN: Học viên được Trung tâm Công nghệ Phần mềm Đại học Cần Thơ cấp chứng nhận hoàn thành khóa học “Trí tuệ nhân tạo ứng dụng”
+ 
+6. ĐỐI TƯỢNG: Sinh viên các ngành kỹ thuật có kiến thức cơ bản về lập trình và toán kỹ thuật.
+ 
+7. NỘI DUNG CHƯƠNG TRÌNH
+ 
+- Chương 1: Tổng quan về trí tuệ nhân tạo
+- Chương 2: Các khái niệm trong lĩnh vực AI
+- Chương 3: Lập trình căn bản với Python
+- Chương 4: Thực hành lập trình Python
+- Chương 5: Các thuật toán máy học cơ bản
+- Chương 6: Thực hành các thuật toán máy học
+- Chương 7: Neural Network
+- Chương 8: Thị giác máy tính và bài toán phát hiện đối tượng
+- Chương 9: Thực hành Phát hiện đối tượng trong ảnh với YOLOv10
+- Chương 10: Giới thiệu Point Cloud và các kỹ thuật cơ bản
+- Chương 11: Thực hành Point Cloud cơ bản
+- Chương 12: Mô hình máy học với Point Cloud
+- Chương 13: Thực hành xây dựng PointNet phân loại các vật thể 3D trong tập ShapeNet
+- Đồ án cuối khóa
+

@@ -1,0 +1,127 @@
+Giới thiệu chương trình: Chương trình Advanced Diploma in Software Engineering (ADSE) là một khóa học nghề nghiệp được thiết kế dựa trên các kỹ năng chuyên môn mà ngành công nghiệp yêu cầu và các xu hướng tương lai sẽ ảnh hưởng đến thế giới công nghệ thông tin.
+
+Mục tiêu ADSE 2025: ADSE 2025 trang bị cho sinh viên các kỹ năng và sự thành thạo trong nhiều lĩnh vực công nghệ thông qua cái nhìn toàn diện về yêu cầu của ngành và một chương trình giảng dạy đầy đủ.
+
+Nội dung khóa học: Khóa học đào tạo về kỹ năng thiết kế trang web đáp ứng, phát triển PHP, lập trình Java và JavaFX, lập trình Python, và phát triển phía máy chủ với NodeJS. Ngoài ra, khóa học còn khám phá phát triển ứng dụng web với .NET và phát triển di động, kết thúc với các kỹ năng về công nghệ Java EE và AI.
+
+Nhu cầu chuyên gia IT: Mọi lĩnh vực và dịch vụ đều cần các chuyên gia công nghệ thông tin. Theo khảo sát của TopDev, dưới đây là 12 lĩnh vực và dịch vụ IT trọng tâm: Thương mại điện tử, Fintech, Đặt xe/đồ ăn, Gia công phần mềm, Nội dung số/truyền thông trực tuyến, Du lịch trực tuyến, Vận tải, Gia công quy trình kinh doanh (BPO), Công nghệ cao (AI/ML, IoT, Blockchain...), Dịch vụ kinh doanh (SAAS,...), Công nghệ giáo dục (Edtech), và Chăm sóc sức khỏe.
+
+Việt Nam điểm đến IT: Việt Nam đang trở thành điểm đến cho các tập đoàn công nghệ thông tin đa quốc gia. Các công ty như AWS, Google và Qualcomm đang đầu tư và phát triển các chương trình hỗ trợ khởi nghiệp và đổi mới công nghệ tại đây.
+
+Chương trình AWS tại Việt Nam: Chương trình Tăng tốc AI tạo sinh của AWS sẽ hỗ trợ 80 công ty khởi nghiệp giai đoạn đầu trên toàn thế giới sử dụng AI tạo sinh để giải quyết các vấn đề phức tạp.
+
+Sáng kiến Google tại Việt Nam: "Google for Startups Accelerator Đông Nam Á: Tập trung vào Việt Nam, AI" cung cấp cho các công ty khởi nghiệp quyền truy cập vào khoản tín dụng Google Cloud lên đến 350.000 USD.
+
+Thử thách Qualcomm Việt Nam: "Thử thách Đổi mới Qualcomm Việt Nam" được khởi xướng để xác định và nuôi dưỡng các công ty khởi nghiệp đổi mới hoạt động trong lĩnh vực công nghệ tiềm năng của Việt Nam, bao gồm hỗ trợ kỹ thuật, huấn luyện kinh doanh và đào tạo kiến thức sở hữu trí tuệ.
+
+Triển vọng ngành công nghệ: Trong các phân khúc thị trường, gia công phần mềm IT được dự báo sẽ chiếm ưu thế với khối lượng thị trường 0,79 tỷ USD trong cùng năm.
+
+Tăng trưởng thị trường IT: Thị trường dịch vụ IT tại Việt Nam dự kiến sẽ tăng đáng kể về doanh thu, đạt 2,21 tỷ USD vào năm 2025. Thị trường được dự báo sẽ tăng trưởng mạnh mẽ hàng năm 8,92% (CAGR 2025-2029), đạt khối lượng thị trường 3,11 tỷ USD vào năm 2029.
+
+Chính sách phát triển công nghệ: Chính phủ Việt Nam đang tích cực thúc đẩy chuyển đổi số, với việc ra mắt Giải thưởng "Sản phẩm Công nghệ số Make in Vietnam", một sáng kiến nhằm công nhận các sản phẩm công nghệ số xuất sắc được phát triển và sản xuất trong nước.
+
+Việt Nam trung tâm công nghệ: Việt Nam đã thực sự nổi lên như một điểm đến toàn cầu cho các công ty công nghệ và kỹ thuật số.
+
+Vai trò của Viettel: Viettel, một công ty công nghệ hàng đầu tại Việt Nam, đã đóng vai trò quan trọng trong việc thúc đẩy các lĩnh vực IT-viễn thông và phần mềm. Ngành công nghiệp IT Việt Nam đang trải qua sự tăng trưởng đáng kể, với thị trường ICT dự kiến đạt giá trị 32,54 tỷ USD vào năm 2028.
+
+Netflix tại Việt Nam: Gã khổng lồ phát trực tuyến của Mỹ đang nhắm đến thị trường bùng nổ của Việt Nam, đánh giá sự tuân thủ các quy định phát trực tuyến mới và xem xét mở văn phòng đầu tiên tại quốc gia này.
+
+FPT và chuyển đổi số: FPT, một nhân tố chủ chốt trong chuyển đổi số của Việt Nam, nhấn mạnh các công nghệ như Điện toán đám mây, IoT, AI và Blockchain, được thiết lập để cách mạng hóa sản xuất từ năm 2023 đến 2025.
+
+Boeing và hợp tác: Tập đoàn đa quốc gia của Mỹ là một phần của phái đoàn kinh doanh đến Việt Nam, tập trung vào việc tăng cường quan hệ đối tác và nâng cao năng lực hàng không và quốc phòng của đất nước.
+
+So sánh chương trình ACCP: So sánh giữa ACCP Việt Nam 2023 (OV-7091) và ACCP ADSE 2025 (OV-7195) cho thấy các nâng cấp về công nghệ. Cụ thể, SQL Server được nâng cấp từ MS SQL Server 2019 Standard Edition lên MS SQL Server 2022 Standard Edition.
+
+Nâng cấp công nghệ ACCP: Trong PHP & Laravel Framework, phiên bản được nâng cấp từ PHP 8.0 & Laravel FW lên PHP 8.2 hoặc mới hơn, Laravel Framework. Các công cụ mới được thêm vào bao gồm Git và GitHub, CI/CD Tools, Python SDK 3.x, Django 3.x, NodeJS v22.11.0, và Visual Studio Code.
+
+Công nghệ AI và di động mới: ACCP ADSE 2025 bổ sung Generative AI cho các nhà phát triển .NET với Google AI (Vertex AI SDK, Visual Studio 2022 Professional Edition, Google Cloud Platform (GCP) Account, Google Cloud SDK). Flutter Framework được nâng cấp lên Flutter 3.24, Dart 3.6, Android Studio Koala hoặc mới hơn. Các ứng dụng AI của NLP (Python, Jupyter Notebook, Google Colab) và hệ thống triển khai/container hóa với Docker và Kubernetes cũng được thêm vào.
+
+Cấu trúc khóa học: Chương trình ACCP (ADSE) kéo dài hai năm. Năm 1 bao gồm Học kỳ 1 (212 giờ) và Học kỳ 2 (220 giờ). Năm 2 bao gồm Học kỳ 3 (206 giờ) và Học kỳ 4 (208 giờ). Thời gian học là 2 giờ mỗi ngày, 4 ngày mỗi tuần.
+
+Chứng nhận ACCP mới: Chương trình ACCP mới cung cấp nhiều cấp độ chứng nhận. Sau Học kỳ 1, sinh viên nhận Chứng chỉ Năng lực Quản lý Hệ thống Thông tin (CPISM). Hoàn thành Học kỳ 1 và 2 nhận Bằng Quản lý Hệ thống Thông tin (DISM).
+
+Các cấp độ chứng nhận: Hoàn thành Học kỳ 1 đến 3 nhận Bằng Cao đẳng Kỹ thuật Phần mềm (HDSE). Hoàn thành toàn bộ Học kỳ 1 đến 4 nhận Bằng Cao đẳng Nâng cao Kỹ thuật Phần mềm (ADSE). Mã khóa học cho các chứng nhận này là OV-7195-CPISM, OV-7195-DISM, OV-7195-HDSE và OV-7195-ADSE.
+
+Học kỳ 1: Lập trình: Học kỳ 1 tập trung vào lập trình với tổng cộng 212 giờ học. Các mô-đun bao gồm Nền tảng lập trình với C (40 giờ), Xây dựng trang web động thế hệ tiếp theo (40 giờ), Chiến lược UI/UX đáp ứng (16 giờ), React cho phát triển web hiện đại (24 giờ), Quản lý dữ liệu với SQL Server (32 giờ), Ứng dụng PHP hiện đại với Laravel (40 giờ), và eProject - Phát triển ứng dụng Laravel và PHP + Thiết kế web đáp ứng (20 giờ).
+
+Kỹ năng đạt được Học kỳ 1: Trong Học kỳ 1, sinh viên sẽ học các kỹ năng về C, HTML, CSS, JS, Figma, ReactJS, SQL, PHP và Laravel.
+
+Kết quả học tập Học kỳ 1: Sinh viên sẽ giải quyết các vấn đề lập trình bằng lưu đồ và mã giả, sử dụng HTML5/CSS3/JavaScript để phát triển trang web và ứng dụng tương tác, học các nguyên tắc cơ bản về thiết kế UX/UI web hiệu quả, thiết kế và phát triển trang web động và đáp ứng bằng ReactJS.
+
+Quản lý dữ liệu và phát triển web: Sinh viên sẽ chuẩn hóa dữ liệu thô thành các bảng cơ sở dữ liệu có tổ chức trong SQL Server và thực hiện các thao tác cơ sở dữ liệu nâng cao. Họ cũng sẽ học cách làm việc với Laravel Framework để xây dựng các ứng dụng web dựa trên PHP và phát triển một ứng dụng đáp ứng thực tế dựa trên nghiên cứu điển hình sử dụng PHP và các công nghệ front-end.
+
+Hồ sơ đầu ra Học kỳ 1: Sau Học kỳ 1, sinh viên có thể trở thành Nhà phát triển trang web đáp ứng và Nhà phát triển PHP.
+
+Công cụ phần mềm Học kỳ 1: Các công cụ và phần mềm được sử dụng trong Học kỳ 1 bao gồm Apache NetBeans 16.x hoặc mới hơn, CoffeeCup Free HTML5 Editor hoặc Notepad++, Figma Toolkit, React 18.x hoặc mới hơn, MS SQL Server 2022 Standard Edition, PHP 8.2 hoặc mới hơn, Laravel Framework và các công cụ thiết kế trang web.
+
+Học kỳ 2: Lập trình: Học kỳ 2 tập trung vào lập trình với tổng cộng 220 giờ học. Các mô-đun bao gồm Xử lý dữ liệu với XML và JSON (12 giờ), Kiểm soát phiên bản phân tán (8 giờ), Các khái niệm và kỹ thuật Core Java (32 giờ), Xây dựng ứng dụng Java phong phú với JavaFX (32 giờ), Lập trình thành thạo với C# (32 giờ), Lập trình với Python (24 giờ), Django Framework cho Python (24 giờ), Phát triển phía máy chủ với NodeJS (36 giờ), và Dự án phát triển ứng dụng máy tính để bàn Java (20 giờ).
+
+Kỹ năng đạt được Học kỳ 2: Trong Học kỳ 2, sinh viên sẽ học các kỹ năng về XML & JSON, Git, CI/CD, Core Java, JavaFX, C#, Python, Django FW, Express.js, NodeJS, MongoDB.
+
+Kết quả học tập Học kỳ 2: Sinh viên sẽ sử dụng XML và JSON để lưu trữ và trao đổi dữ liệu, học các kiến thức cơ bản về Git để theo dõi, phân nhánh, hợp nhất và quản lý các bản sửa đổi mã. Họ cũng sẽ thiết kế và phát triển các ứng dụng dựa trên console bằng Java, phát triển các ứng dụng hướng đối tượng bằng Java và JavaFX.
+
+Phát triển ứng dụng đa ngôn ngữ: Sinh viên sẽ phát triển các ứng dụng hướng đối tượng cơ bản và nâng cao bằng C#, xây dựng các ứng dụng web với framework Django và ngôn ngữ Python, xây dựng ứng dụng web với NodeJS và framework đơn giản ExpressJS, và phát triển một ứng dụng máy tính để bàn thực tế bằng Java và JavaFX.
+
+Hồ sơ đầu ra Học kỳ 2: Sau Học kỳ 2, sinh viên có thể trở thành Lập trình viên Java, Nhà phát triển web Python, Lập trình viên C# và Lập trình viên Node.js.
+
+Công cụ phần mềm Học kỳ 2: Các công cụ và phần mềm được sử dụng trong Học kỳ 2 bao gồm Apache NetBeans 16.x hoặc mới hơn, Git và GitHub, Java SE 19.x hoặc mới hơn, JavaFX, Microsoft Visual Studio 2022 Professional Edition, Python SDK 3.x, Django 3.x, NodeJS v22.11.0 và Visual Studio Code.
+
+Học kỳ 3: .NET và Di động: Học kỳ 3 tập trung vào .NET và Di động với tổng cộng 206 giờ học. Các mô-đun bao gồm ASP.NET Core MVC (42 giờ), Ứng dụng mạnh mẽ và phong phú với Microsoft Azure (48 giờ), AI Primer (12 giờ), AI tạo sinh cho nhà phát triển .NET với Google AI (24 giờ), Giới thiệu lập trình Dart (20 giờ), Phát triển ứng dụng bằng Flutter và Dart (40 giờ), và eProject - Xây dựng ứng dụng .NET (20 giờ).
+
+Kỹ năng đạt được Học kỳ 3: Trong Học kỳ 3, sinh viên sẽ học các kỹ năng về ASP.NET Core, Microsoft Azure, Google AI, Vertex AI, Dart và Flutter FW.
+
+Kết quả học tập Học kỳ 3: Sinh viên sẽ phát triển các ứng dụng web triển khai lập trình phía máy chủ bằng ASP.NET MVC, phát triển các ứng dụng doanh nghiệp và dịch vụ web bằng công nghệ .NET sử dụng nền tảng đám mây Microsoft Azure.
+
+Tích hợp AI và phát triển di động: Sinh viên sẽ tận dụng Google Vertex AI để tích hợp các tính năng AI tạo sinh vào các ứng dụng .NET, sử dụng framework Flutter và ngôn ngữ lập trình Dart để phát triển các ứng dụng di động đa nền tảng, và phát triển một ứng dụng web thực tế sử dụng các công nghệ .NET mới nhất.
+
+Hồ sơ đầu ra Học kỳ 3: Sau Học kỳ 3, sinh viên có thể trở thành Nhà phát triển ứng dụng web & doanh nghiệp .NET và Nhà phát triển ứng dụng di động.
+
+Công cụ phần mềm Học kỳ 3: Các công cụ và phần mềm được sử dụng trong Học kỳ 3 bao gồm Microsoft Visual Studio 2022 Professional Edition, Vertex AI SDK, Google Cloud Platform (GCP) Account, Google Cloud SDK, Flutter 3.24, Dart 3.6, Android Studio Koala hoặc mới hơn.
+
+Học kỳ 4: Java EE và AI: Học kỳ 4 tập trung vào Java EE và AI với tổng cộng 208 giờ học. Các mô-đun bao gồm Các thành phần web hiện đại với Jakarta EE (36 giờ), Ứng dụng web Java với Spring và Spring Boot (24 giờ), Phát triển ứng dụng doanh nghiệp trong Jakarta EE (40 giờ), Tạo dịch vụ cho web (16 giờ), Ứng dụng AI của NLP (36 giờ), Hệ thống triển khai và container hóa với Docker và Kubernetes (36 giờ), và Dự án - Ứng dụng Java mạnh mẽ cho doanh nghiệp (20 giờ).
+
+Kỹ năng đạt được Học kỳ 4: Trong Học kỳ 4, sinh viên sẽ học các kỹ năng về JSP & Servlets, Spring Boot, EJB, JWS, NLP với AI, Docker và Kubernetes, và các công nghệ Jakarta EE.
+
+Kết quả học tập Học kỳ 4: Sinh viên sẽ thiết kế và phát triển các thành phần web bằng JSP và Servlets, sử dụng microservices Spring trong các ứng dụng web Java, phát triển các ứng dụng doanh nghiệp bằng Jakarta Enterprise Beans, tạo và sử dụng các dịch vụ web Jakarta trong các ứng dụng doanh nghiệp.
+
+Kiến thức AI và triển khai: Sinh viên sẽ có kiến thức về NLP và học cách sử dụng AI trong NLP, học cách xây dựng, kiểm thử và triển khai bằng các công nghệ như Docker và Kubernetes, và thiết kế và phát triển một ứng dụng doanh nghiệp bằng các công nghệ Jakarta EE.
+
+Hồ sơ đầu ra Học kỳ 4: Sau Học kỳ 4, sinh viên có thể trở thành Nhà phát triển ứng dụng web & doanh nghiệp Java và Nhà phát triển NLP.
+
+Công cụ phần mềm Học kỳ 4: Các công cụ và phần mềm được sử dụng trong Học kỳ 4 bao gồm Jakarta EE Platform 10, Python, JupyterNotebook, Google Colab, Docker và Kubernetes.
+
+Yêu cầu kỹ năng giảng viên: Giảng viên cần nắm vững các công cụ và kỹ năng sau: Lập trình C với Apache NetBeans, HTML, CSS, JS, Figma Toolkit, ReactJS 18 hoặc mới hơn, SQL Server 2022, PHP 8.2 hoặc mới hơn, Laravel Framework.
+
+Kỹ năng giảng viên Học kỳ 2: Giảng viên cần có kỹ năng về XML và JSON với Xampp, Git và GitHub (với GitHub Copilot), kỹ năng CI/CD, Java 19 hoặc mới hơn và JavaFX, C# 12 hoặc mới hơn, Python 3.x, Django Framework, Express.js, NodeJS, MongoDB.
+
+Kỹ năng giảng viên Học kỳ 3: Giảng viên cần nắm vững Microsoft ASP.NET và Microsoft Azure với Visual Studio 2022, Google AI, Vertex AI và các công cụ liên quan, Flutter 3.24 và Dart 3.6 với Android Studio Koala hoặc mới hơn.
+
+Kỹ năng giảng viên Học kỳ 4: Giảng viên cần có kỹ năng về JSP & Servlets, Spring Boot 6.0, Jakarta Enterprise Beans, Jakarta Web Services (tất cả với Jakarta EE Platform 10/9 nếu áp dụng), NLP và AI với Python, Jupyter Notebook, Google Colab, Docker và Kubernetes.
+
+Yêu cầu tự học của giảng viên: Giảng viên cũng phải thể hiện khả năng tự học khi cần thiết để bắt kịp với ngành công nghệ thông tin (IT) thay đổi nhanh chóng.
+
+Yêu cầu phần cứng trung tâm: Đối với máy tính để bàn/máy tính xách tay, cần Windows 11 64 Bit, Intel i5 hoặc AMD Ryzen 5 trở lên. Đối với MacOS, cần Intel-Core i5 2.8 GHZ trở lên, 8GB RAM trở lên, Radeon Pro 560 với 4GB bộ nhớ trở lên, và ít nhất 500GB dung lượng trống.
+
+Máy tính thi cử: Đối với máy tính dùng cho kỳ thi cuối kỳ, cần Intel i5 hoặc AMD Ryzen 5 trở lên, 16 GB RAM trở lên, ít nhất 1 TB dung lượng ổ cứng trống, tất cả các trình duyệt được hỗ trợ và kết nối Internet tốc độ cao.
+
+Yêu cầu phần mềm trung tâm: Các phần mềm cần thiết bao gồm Apache NetBeans 16.x hoặc mới hơn, CoffeeCup Free HTML5 Editor hoặc Notepad++, Figma Toolkit, React 18.x hoặc mới hơn, MS SQL Server 2022 Standard Edition, PHP 8.2 hoặc mới hơn, Laravel Framework, Git SDK.
+
+Phần mềm bổ sung: Các phần mềm khác bao gồm Java SE 19.x hoặc mới hơn, JavaFX, Microsoft Visual Studio 2022 Professional Edition, Python SDK 3.x, Django 3.x, NodeJS v22.11.0, Vertex AI SDK, Google Cloud Platform (GCP) Account, Google Cloud SDK, Flutter 3.24, Dart 3.6, Android Studio Koala hoặc mới hơn, Jakarta EE Platform 10 và các thư viện liên quan, Python, JupyterNotebook, Google Colab, Docker và Kubernetes.
+
+Lợi thế khi học tại Aptech: Aptech mang lại nhiều lợi thế như chương trình giảng dạy phù hợp với ngành, học tập theo cấp độ, sử dụng các công cụ và kỹ thuật mới nhất, chương trình định hướng việc làm, phát triển hồ sơ năng lực cho sinh viên và Onlinevarsity – học mọi lúc, mọi nơi.
+
+Giới thiệu Onlinevarsity: Onlinevarsity là cổng học tập mới đáng chú ý của Aptech với quyền truy cập 24/7 cho sinh viên. Đây là nền tảng nội dung và cộng tác giúp sinh viên Aptech học các chương trình và công nghệ mới.
+
+Lợi ích của Onlinevarsity: Sinh viên Aptech sẽ nhận được nội dung khóa học qua Onlinevarsity. Họ có thể tham khảo sách bất cứ lúc nào, ở bất cứ đâu và trên bất kỳ hệ điều hành nào (Windows, iOS, Android). Các lợi ích bao gồm Bài giảng video trực tuyến, Truy cập 24/7, Học mọi lúc mọi nơi, Chứng nhận và Hướng dẫn.
+
+Du học và lộ trình bằng cấp: Aptech đã hợp tác với các viện giáo dục và trường đại học tốt nhất trên thế giới để mang lại lợi ích cho sinh viên. Aptech cho phép sinh viên đạt được bằng cấp quốc tế thông qua Cơ sở chuyển đổi tín chỉ (CTF) tại các điểm đến như Anh, Malaysia, Dubai hoặc Việt Nam.
+
+Lộ trình bằng cấp ACCP: Lộ trình từ ACCP đến bằng cấp bao gồm các bước: Đến trung tâm Aptech, Đăng ký ADSE, Nhận chứng nhận Bằng cao đẳng nâng cao của Aptech, Nhận chứng chỉ được xác nhận và Thư chấp nhận nhập học tạm thời từ Đại học, Học năm cuối tại uCLAN, LUC hoặc MDX University, và Nhận bằng Cử nhân (Danh dự) về IT.
+
+Tổng quan lộ trình đối tác: Đối với đối tác NCC Education, yêu cầu là ADSE từ Aptech và L5DC từ NCC Education. Địa điểm học là 18 trường đại học khác nhau ở Anh, Ireland hoặc Úc. Chương trình học là bằng Cử nhân (được vào thẳng năm cuối). Yêu cầu khác bao gồm IELTS 6.0 (tối thiểu 5.5 cho cả bốn kỹ năng) và các yêu cầu về thị thực sinh viên theo quốc gia tương ứng.
+
+Lộ trình Đại học Middlesex: Đối với Đại học Middlesex, yêu cầu là ADSE từ Aptech. Địa điểm học là Anh hoặc Dubai. Chương trình học là Cử nhân (Danh dự) Công nghệ Thông tin Kinh doanh, Cử nhân (Danh dự) Mạng máy tính / Khoa học máy tính (được vào thẳng năm cuối). Yêu cầu khác bao gồm IELTS 6.0 (tối thiểu 5.5 cho cả bốn kỹ năng) và các yêu cầu về thị thực sinh viên theo quốc gia tương ứng.
+
+Lộ trình UCLan: Đối với UCLan, yêu cầu là ADSE từ Aptech và L5DC từ NCC Education. Địa điểm học là Anh hoặc Việt Nam. Chương trình học là Cử nhân (Danh dự) Máy tính Kinh doanh và Hệ thống Thông tin (được vào thẳng năm cuối). Yêu cầu khác bao gồm IELTS 6.0 (tối thiểu 5.5 cho cả bốn kỹ năng) và các yêu cầu về thị thực sinh viên tại Anh.
+
+Lộ trình Đại học Lincoln: Đối với Đại học Lincoln, yêu cầu là ADSE từ Aptech. Địa điểm học là Malaysia hoặc Việt Nam. Chương trình học là Cử nhân (Danh dự) Công nghệ Thông tin / Cử nhân (Danh dự) Khoa học Máy tính (được vào thẳng năm cuối). Yêu cầu khác bao gồm IELTS 6.0 hoặc thư xác nhận từ Cao đẳng/Trung tâm về việc theo học bằng tiếng Anh và yêu cầu thị thực sinh viên Malaysia.

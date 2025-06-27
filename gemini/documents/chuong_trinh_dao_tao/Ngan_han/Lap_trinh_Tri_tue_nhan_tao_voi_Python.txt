@@ -1,0 +1,62 @@
+﻿Khóa học Lập trình Trí tuệ nhân tạo với PythonCập nhật vào ngày:Số lần xem: 4942Tác giả: Mai Mai ,Theo nguồn: CUSC
+Khóa học Lập trình Trí tuệ nhân tạo với Python được Trung tâm Công nghệ Phần mềm Đại học Cần Thơ (CUSC) triển khai với mục tiêu đón đầu xu hướng công nghệ. Tham gia khóa học để sẵn sàng tham gia các lĩnh vực thú vị như: Trí tuệ nhân tạo (AI), máy học (Machine Learning), học sâu (Deep Learning).
+
+Khóa học bao gồm tất cả các kiến thức về mô hình máy học và mô hình mạng nơ-ron. Hiểu về cách thức hoạt động của máy học và các thuật toán về máy học phổ biến (học có giám sát, hồi quy tuyến tính, cây quyết định, SVM,...), lịch sử của mạng nơ-ron và mạng học sâu, kiến trúc của một mô hình mạng học sâu, gradient, truyền chuyển tiếp, các hàm tối ưu lỗi,... Ngoài ra khóa học còn trang bị kiến thức cho học viên cách thức để huấn luyện mô hình mạng trên nhiều loại dữ liệu khác nhau như: tập dữ liệu ở dạng văn bản, tập dữ liệu dạng hình ảnh.
+
+Bên cạnh đó, người học được tiếp cận với các ứng dụng của học máy/ học sâu với nhiều ví dụ minh họa, dữ liệu. Từ đó có thể vận dụng để giải quyết các bài bài toán thực tế như dự đoán/dự báo giá cả, nhận dạng và phân loại thông tin. Người học còn được hướng dẫn để làm chủ về ngôn ngữ Lập trình Python và các nền tảng về học sâu như Tensorflow, Keras để cài đặt cho ứng dụng máy học và học sâu. 
+
+ 
+
+ 
+Mục tiêu khóa học:
+ 
+- Xây dựng và huấn luyện mạng nơ-ron sâu (CNN), xác định các tham số của mô hình mạng, cài đặt mạng nơ-ron và học sâu cho các ứng dụng.
+ 
+- Xây dựng CNN và áp dụng nó cho các bài toán: phát hiện và nhận dạng, và dự báo trên các tập dữ liệu dạng bảng (textual table) và ảnh.
+ 
+- Huấn luyện trên các tập dữ liệu, phân tích phương sai cho các ứng dụng CNN, sử dụng các kỹ thuật tiêu chuẩn và thuật toán tối ưu hóa.
+ 
+Chứng nhận: Sau khi hoàn thành khóa học, học viên nhận chứng nhận Lập trình Trí tuệ nhân tạo với Python do CUSC cấp.
+ 
+Đối tượng: 
+ 
+- Đã tham dự khóa học Phân tích và trực quan hóa dữ liệu với Python.
+ 
+- Hoặc có kiến thức tương đương.
+ 
+Điểm nổi bật:
+ 
+- Khóa học giúp học viên xây dựng và huấn luyện mô hình máy học, mạng nơ-ron sâu, xác định các tham số của mô hình mạng, cài đặt mạng nơ-ron được vectơ hóa và học sâu cho các ứng dụng.
+ 
+- Biết cách xây dựng mạng CNN cho các ứng dụng với tập dữ liệu dạng hình ảnh và dữ liệu dạng văn bản. Ứng dụng để giải quyết các bài toán về dò tìm, nhận dạng, và dự đoán dự báo.
+ 
+- Tìm hiểu các thuật toán để tối ưu quá trình huấn luyện một mô hình mạng.
+ 
+- Phương pháp dạy học: 
+  + Thuyết giảng kết hợp thực hành.
+
+  + Học tập dựa trên vấn đề.
+
+- Phương tiện dạy học: Máy tính, máy ảnh, bảng, viết,…
+ 
+- Mỗi học viên được học trên một máy tính.
+ 
+- Giáo viên hướng dẫn cụ thể và chi tiết đối với từng học viên.
+ 
+Nội dung khóa học: 
+ 
+- Chương 1: Tổng quan về trí tuệ nhân tạo
+ 
+- Chương 2: Nguyên lý và các thuật toán máy học 
+ 
+- Chương 3: Các khái niệm về mạng nơ-ron và học sâu
+- Chương 4: Các phép toán của mạng học sâu
+
+- Chương 5: Xây dựng mạng CNN cho bài toán nhận dạng, phân lớp
+
+- Chương 6: Xây dựng mạng CNN cho bài toán dự báo, dự đoán
+
+- Chương 7: Cách thức đánh giá hiệu quả của một mô hình mạng
+
+- Hoàn thiện đồ án môn học
+

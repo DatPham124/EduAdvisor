@@ -1,1 +1,0 @@
-Bắt đầu Project-Analyzing Data with R: Tuần 25, từ 08/07/2024 đến 13/07/2024, có buổi Application Based Programming in Python vào Thứ Ba (TL12). Học phần Project-Analyzing Data with R bắt đầu vào Thứ Năm (TL01) và Thứ Bảy (TL02). Các ngày còn lại trong tuần là làm việc nhóm.

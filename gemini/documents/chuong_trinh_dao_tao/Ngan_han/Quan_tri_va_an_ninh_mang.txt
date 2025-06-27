@@ -1,0 +1,57 @@
+﻿1. Giới thiệu:
+
+Khóa học "Quản trị và an ninh Mạng" cung cấp kiến thức giúp học viên hiểu và áp dụng các nguyên lý của mạng máy tính và hệ thống an ninh vào công việc, cuộc sống. Học viên sẽ được tiếp cận các khái niệm về phân loại mạng và mô hình mạng, cũng như những thiết bị và hệ thống cáp phổ biến. Bên cạnh đó, khóa học tập trung vào việc trang bị kiến thức về hệ điều hành Windows 11 và hệ thống Windows Server 2019, phục vụ cho nhu cầu quản trị và bảo mật hệ thống mạng trong doanh nghiệp và cơ quan. Đặc biệt, chương trình đào tạo giúp học viên hiểu và áp dụng các kỹ thuật phòng chống tấn công từ hacker, tạo nền tảng vững chắc cho việc xây dựng hệ thống mạng an toàn và hiệu quả.
+
+2. Mục tiêu:
+- Có kiến thức về hệ thống mạng máy tính.
+- Nắm được mô hình mạng và các giao thức trong mạng.
+- Có kiến thức về địa chỉ IPv4, IPv6 và phương pháp phân hoạch địa chỉ IP.
+- Biết cách cấu hình trên một số thiết bị phần cứng: router, switch, modem – Access Point Wifi, Repeater, …
+- Biết cách thiết kế và cấu hình hệ thống mạng trên phần mềm mô phỏng.
+- Cung cấp cách cấu hình các chính sách bảo mật nâng cao, thiết lập các chính sách an toàn truy cập mạng trên hệ điều hành Windows 11.
+- Cung cấp cho học viên kiến thức về hệ thống Windows Server 2019. Từ đó giúp học viên quản trị hiệu quả hệ thống mạng và xây dựng cơ sở hạ tầng mạng cho doanh nghiệp và cơ quan.
+- Cung cấp cho học viên kiến thức về những nguy cơ mất dữ liệu, mất thông tin, kiến thức về an toàn an ninh thông tin, cung cấp những giải pháp cụ thể trong việc bảo vệ an toàn  an ninh thông tin bao gồm thông tin cá nhân, email, điện thoại, mạng xã hội,...
+
+3. Điểm nổi bật của khóa học:
+
+- Chương trình được xây dựng phù hợp với nhu cầu thực tế về quản trị mạng của các doanh nghiệp trên nền công nghệ tiên tiến của Microsoft.
+- Tích lũy kinh nghiệm thực tế qua đồ án cuối khoá.
+- Trang thiệt bị hiện đại, đội ngũ giảng viên có nhiều kinh nghiệm.
+- Miễn phí giáo trình và các tài liệu học tập từ CUSC.
+4. Thời gian đào tạo: 56 giờ.
+
+5. Chứng nhận: Học viên được Trung tâm Công nghệ Phần mềm Đại học Cần Thơ cấp chứng nhận hoàn thành khóa học “Quản trị và an ninh mạng”.
+
+6. Đối tượng:
+
+­ Học viên có kiến thức về tin học.
+
+­ Những người yêu thích công nghệ thông tin.
+
+7. Nội dung chương trình
+
+Chương 1. Mạng căn bản.
+
+Chương 2. Giới thiệu và khai thác Windows 11.
+
+Chương 3. Quản trị hệ thống mạng với Windows Server 2019.
+Tổng quan về quản trị Windows Server 2019.
+Dịch vụ Windows Server Active Directory Domain Service (AD DS).
+Dịch vụ cơ sở hạ tầng mạng trong Windows Server 2019.
+Máy chủ tập tin và quản lý lưu trữ trong Windows Server 2019.
+Ảo hóa và vùng chứa Hyper-V trong Windows Server 2019.
+Tính sẵn sàng cao trong Windows Server 2019.
+Khắc phục sự cố nghiệm trọng trong Windows Server 2019.
+Bảo mật Windows Server 2019.
+
+Chương 4. An ninh mạng.
+Nguy cơ và rủi ro đánh mất thông tin.
+Footprinting and Reconnaissance.
+Quét hệ thống – Scanning.
+Trojans và Backdoors, Viruses và Worms.
+Kỹ thuật đánh lừa - Social Engineering.
+Nghe lén – Sniffer.
+Tấn công từ chối dịch vụ - Denial Service.
+Tấn công mạng không dây.
+Đồ án cuối khóa.
+

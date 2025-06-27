@@ -1,0 +1,7 @@
+﻿Học vị: Tiến sĩ. Chức vụ: Phó Bộ phận Phần mềm. Phụ trách: Giảng dạy và hướng dẫn thực tập thực tế.
+Năm bắt đầu dạy: 2001
+Năm bắt đầu dạy tại CUSC: 2001
+Chứng chỉ sư phạm: Kỹ năng giảng dạy chuẩn quốc tế.
+Chứng chỉ Aptech: C#, Advanced dotNET 2003, Dream Weaver MX, HTML/ DHTML, RH133-RH Limux System Administration
+Chứng chỉ khác: Lập và Quản lý dự án CNTT
+Đã tham gia các khóa đào tạo: Lập trình Web với DHTML và JS, Webservices với ASPX, Lập trình C#,...

@@ -1,0 +1,29 @@
+1. Nhóm kiến thức và kỹ năng CNTT cơ bản và nâng cao gồm:
+
+Khóa học Biên tập trang thông tin: Khóa học "Biên tập trang thông tin điện tử" có thời lượng đào tạo là 24 giờ. Đối tượng tham gia là cán bộ, công chức, viên chức liên quan đến lĩnh vực công nghệ thông tin.
+
+Khóa học Thiết kế đồ họa: Khóa học "Thiết kế đồ họa cho quảng cáo" có thời lượng đào tạo là 66 giờ. Đối tượng tham gia là cán bộ, công chức, viên chức liên quan đến lĩnh vực công nghệ thông tin.
+
+Khóa học Nhiếp ảnh số: Khóa học "Nhiếp ảnh số và xử lý ảnh hậu kỳ" có thời lượng đào tạo là 48 giờ. Đối tượng tham gia là cán bộ, công chức, viên chức liên quan đến lĩnh vực công nghệ thông tin.
+
+Khóa học Điện toán đám mây: Khóa học "Ứng dụng điện toán đám mây trong nghiệp vụ" có thời lượng đào tạo là 24 giờ. Đối tượng tham gia là cán bộ, công chức, viên chức liên quan đến lĩnh vực công nghệ thông tin.
+
+2. Nhóm kiến thức và kỹ năng về an toàn an ninh thông tin gồm:
+
+Khóa học An toàn thông tin người dùng: Khóa học "An toàn, an ninh thông tin cho người dùng" có thời lượng đào tạo là 24 giờ. Đối tượng tham gia là cán bộ, công chức, viên chức liên quan đến lĩnh vực an toàn thông tin.
+
+Khóa học An toàn thông tin doanh nghiệp: Khóa học "An toàn và an ninh thông tin doanh nghiệp" có thời lượng đào tạo là 80 giờ. Đối tượng tham gia là cán bộ, công chức, viên chức liên quan đến lĩnh vực an toàn thông tin.
+
+Khóa học Bảo mật ứng dụng Web: Khóa học "Bảo mật ứng dụng Web" có thời lượng đào tạo là 24 giờ. Đối tượng tham gia là cán bộ, công chức, viên chức liên quan đến lĩnh vực an toàn thông tin.
+
+3. Nhóm kiến thức chuyển đổi số doanh nghiệp gồm: 
+
+Khóa học Phân tích dữ liệu thông minh 1: Khóa học "Phân tích và xử lý dữ liệu thông minh" có thời lượng đào tạo là 32 giờ. Đối tượng tham gia là cán bộ, viên chức thuộc khối doanh nghiệp.
+
+Khóa học Phân tích dữ liệu thông minh 2: Khóa học "Phân tích và xử lý dữ liệu thông minh" có thời lượng đào tạo là 16 giờ. Đối tượng tham gia là cán bộ, viên chức thuộc khối doanh nghiệp.
+
+Khóa học Phân tích dữ liệu thông minh 3: Khóa học "Phân tích và xử lý dữ liệu thông minh" có thời lượng đào tạo là 24 giờ. Đối tượng tham gia là cán bộ, viên chức thuộc khối doanh nghiệp.
+
+Khóa học Giải pháp tiếp thị bán hàng: Khóa học "Giải pháp phát triển kênh tiếp thị và bán hàng" có thời lượng đào tạo là 24 giờ. Đối tượng tham gia là cán bộ, viên chức thuộc khối doanh nghiệp.
+
+Đối tượng tham gia chung: Các khóa học được thiết kế cho chuyên viên phụ trách công nghệ thông tin tại các đơn vị và các học viên nói chung. Yêu cầu đối với học viên là phải có kiến thức cơ bản về tin học.

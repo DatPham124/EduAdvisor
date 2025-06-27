@@ -1,1 +1,0 @@
-Môn học thay thế và ghi chú cho Web Animation & Interactivity : Môn học "Web Animation & Interactivity" thuộc chương trình OV-6824 được thay thế bằng môn "Web Animation using Animate CC" thuộc chương trình OV-6841. Sinh viên cần tự bổ sung thêm phần ActionScript.

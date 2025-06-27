@@ -1,0 +1,29 @@
+An ninh thông tin cơ bản: Khóa học "An toàn, an ninh thông tin cho mọi người" có thời lượng 32 giờ, dành cho những người yêu thích Công nghệ thông tin (CNTT).
+
+Nhận thức tiêu chuẩn ISO 27001: Khóa học "Nhận thức về Tiêu chuẩn ISO: 27001" kéo dài 24 giờ, được thiết kế cho đối tượng giảng viên.
+
+Phân tích an ninh hệ thống: Khóa học "analysis)" có thời lượng 32 giờ, dành cho cán bộ phụ trách Công nghệ thông tin các cấp.
+
+Phân tích mã độc nâng cao: Khóa học "Phân tích mã độc nâng cao" kéo dài 40 giờ, dành cho cán bộ phụ trách Công nghệ thông tin các cấp.
+
+An toàn bảo mật thông tin chuyên sâu: Khóa học "An toàn an ninh và bảo mật thông tin" có thời lượng 40 giờ, ưu tiên cho những người có nền tảng về hacking.
+
+Điều tra tội phạm máy tính: Khóa học "Điều tra tội phạm máy tính (CHFI)" kéo dài 40 giờ, dành cho cán bộ phụ trách Công nghệ thông tin các cấp.
+
+Triển khai chuyển đổi IPv6: Khóa học "Nhận thức và triển khai chuyển đổi IPv6" có thời lượng 24 giờ, dành cho cán bộ phụ trách Công nghệ thông tin các cấp.
+
+Trung tâm điều hành an ninh (SOC): Khóa học "(SOC)" kéo dài 32 giờ, dành cho cán bộ phụ trách Công nghệ thông tin các cấp.
+
+Ảo hóa với Windows Server Hyper-V: Khóa học "Ảo hóa với Windows Server Hyper-V" có thời lượng 40 giờ, dành cho cán bộ Công nghệ thông tin các cấp và tổ chức Đảng yêu thích Công nghệ thông tin.
+
+Quản trị Windows Server 2019: Khóa học "2019" có thời lượng 40 giờ, dành cho cán bộ Công nghệ thông tin các cấp và tổ chức Đảng yêu thích Công nghệ thông tin.
+
+Khắc phục sự cố thiết bị mạng: Khóa học "Troubleshooting)" có thời lượng 24 giờ, dành cho cán bộ Công nghệ thông tin các cấp và tổ chức Đảng yêu thích Công nghệ thông tin.
+
+Mạng và định tuyến: Khóa học "Network and Routing" kéo dài 24 giờ, dành cho cán bộ Công nghệ thông tin các cấp và tổ chức Đảng yêu thích Công nghệ thông tin.
+
+Cài đặt thiết bị mạng: Khóa học "Installation)" có thời lượng 24 giờ, dành cho cán bộ Công nghệ thông tin các cấp và tổ chức Đảng yêu thích Công nghệ thông tin.
+
+Quản trị chia sẻ dữ liệu cấp độ: Khóa học "độ" có thời lượng 16 giờ, dành cho cán bộ Công nghệ thông tin các cấp và tổ chức Đảng yêu thích Công nghệ thông tin.
+
+Quản trị dữ liệu theo 3 cấp độ: Khóa học "dữ liệu theo 3 cấp độ" kéo dài 40 giờ, dành cho cán bộ Công nghệ thông tin các cấp và tổ chức Đảng yêu thích Công nghệ thông tin.

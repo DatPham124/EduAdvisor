@@ -1,7 +1,0 @@
-Thời lượng khóa học: Tổng thời lượng khóa học là 346 giờ, trong đó có 146 giờ dành cho Nền tảng Khoa học Dữ liệu và 200 giờ cho Trí tuệ Nhân tạo và Học máy.
-
-Nội dung chương trình học: Chương trình học bao gồm các nội dung chính như Nền tảng Trí tuệ Nhân tạo, xử lý ngôn ngữ tự nhiên, học máy, học sâu, và phát triển các dự án thực tế như chatbot và hệ thống gợi ý.
-
-Bằng cấp đạt được: Sau khi hoàn thành khóa học, học viên sẽ nhận được bằng Professional Diploma in AI and Machine Learning.
-
-Cơ hội nghề nghiệp: Các cơ hội nghề nghiệp sau khi tốt nghiệp bao gồm vị trí Chuyên gia Trí tuệ Nhân tạo và Kỹ sư máy học.

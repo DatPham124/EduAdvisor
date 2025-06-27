@@ -1,1 +1,0 @@
-Thi Data Analysis và tiếp tục Data handling using T-SQL: Tuần 4, từ 26/02/2024 đến 02/03/2024, có buổi Thi Data Analysis with MS Excel vào Thứ Ba. Các buổi học Data handling using T-SQL tiếp tục vào Thứ Năm (TL03) và Thứ Bảy (TL04).

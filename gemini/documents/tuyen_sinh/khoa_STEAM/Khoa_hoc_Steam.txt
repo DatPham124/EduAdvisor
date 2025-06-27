@@ -1,0 +1,14 @@
+Khóa học lập trình Arduino: Khóa học Phát triển tư duy lập trình Arduino có thời gian đào tạo là 2 giai đoạn, tương đương 48 giờ học.
+Đối tượng khóa học Arduino: Khóa học Phát triển tư duy lập trình Arduino dành cho đối tượng học sinh Trung học cơ sở và Trung học phổ thông.
+Chứng chỉ khóa học Arduino: Sau khi hoàn thành khóa học Phát triển tư duy lập trình Arduino, học viên sẽ nhận được chứng nhận hoàn thành khóa học do CUSC cấp.
+Mục tiêu khóa học Arduino: Khóa học Phát triển tư duy lập trình Arduino giúp học viên lập trình kéo thả và mô phỏng trên TinkerCAD, học qua các dự án thực tiễn, từ đó phát triển tư duy logic.
+
+Khóa học tư duy Python: Khóa học Phát triển tư duy với Python có thời gian đào tạo là 4 giai đoạn, tương đương 96 giờ học.
+Đối tượng khóa học Python: Khóa học Phát triển tư duy với Python dành cho đối tượng học sinh Trung học cơ sở và Trung học phổ thông.
+Chứng chỉ khóa học Python: Sau khi hoàn thành khóa học Phát triển tư duy với Python, học viên sẽ nhận được chứng nhận hoàn thành khóa học do CUSC cấp.
+Mục tiêu khóa học Python: Khóa học Phát triển tư duy với Python giúp học viên rèn luyện tư duy lập trình, tiếp cận giải thuật và trí tuệ nhân tạo (AI), tham gia các kỳ thi Tin học trẻ và ứng dụng lập trình vào thực tế.
+
+Khóa học thiết kế Web: Khóa học Thiết kế Web sáng tạo có thời gian đào tạo là 4 giai đoạn, tương đương 96 giờ học.
+Đối tượng khóa học Web: Khóa học Thiết kế Web sáng tạo dành cho đối tượng học sinh Trung học cơ sở và Trung học phổ thông.
+Chứng chỉ khóa học Web: Sau khi hoàn thành khóa học Thiết kế Web sáng tạo, học viên sẽ nhận được chứng nhận hoàn thành khóa học do CUSC cấp.
+Mục tiêu khóa học Web: Khóa học Thiết kế Web sáng tạo giúp học viên thiết kế web sử dụng HTML, CSS, JS, PHP, jQuery, thực hành xây dựng website thực tế và ứng dụng các kiến thức đã học.

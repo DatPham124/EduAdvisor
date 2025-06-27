@@ -1,0 +1,76 @@
+﻿Giới thiệu
+Khóa học "Phân tích dữ liệu thông minh với Power BI và GenAI" được thiết kế nhằm trang bị cho học viên những kỹ năng thiết yếu trong việc khai thác, trực quan hóa và phân tích dữ liệu một cách hiệu quả, kết hợp giữa nền tảng Power BI mạnh mẽ và khả năng hỗ trợ từ các công cụ Trí tuệ nhân tạo thế hệ mới (GenAI).
+
+Thông qua khóa học, học viên sẽ học cách xây dựng báo cáo tương tác, trực quan hóa thông tin từ nguồn dữ liệu đa dạng, đồng thời tận dụng sức mạnh của GenAI để phân tích, tóm tắt, dự đoán và hỗ trợ ra quyết định nhanh chóng. Đây là giải pháp toàn diện dành cho những ai đang tìm kiếm phương pháp tiếp cận dữ liệu hiện đại, chính xác và mang tính chiến lược trong công việc.
+
+Mục tiêu
+Hiểu rõ các khái niệm cơ bản về phân tích dữ liệu và các công cụ phân tích dữ liệu phổ biến như Excel, Power BI, GenAI và Looker Studio, cùng các ứng dụng quan trọng trong môi trường văn phòng.
+Nắm vững nguyên lý hoạt động, quy trình làm việc và các kỹ thuật xử lý, kết nối và mô hình hóa dữ liệu, từ đó biết cách chuẩn bị và tổ chức dữ liệu hiệu quả cho phân tích.
+Thành thạo các kỹ năng trực quan hóa dữ liệu bằng biểu đồ và dashboard, sử dụng slicer và filter để tạo ra các báo cáo tương tác và dễ hiểu.
+Ứng dụng thành thạo GenAI để hỗ trợ phân tích dữ liệu, đặt câu hỏi phân tích, tạo mô tả dữ liệu và tìm kiếm thông tin liên quan đến phân tích dữ liệu.
+Đối tượng tham dự:
+Nhân viên văn phòng thuộc mọi ngành nghề.
+Những người có nhu cầu trang bị kiến thức và kỹ năng về phân tích dữ liệu.
+4. Thời gian đào tạo: 18 giờ.
+
+5. Chứng nhận khóa học: Sau khi hoàn thành khóa học học viên sẽ nhận được chứng nhận “Phân tích dữ liệu thông minh với Power BI và GenAI” do Trung tâm Công nghệ Phần mềm Đại học Cần Thơ cấp.
+
+6. Nội dung
+
+Chuyên đề 1: Giới thiệu về phân tích dữ liệu
+
+Phân tích dữ liệu là gì? Tại sao quan trọng đối với công việc văn phòng?
+Các loại và nguồn dữ liệu trong môi trường văn phòng.
+Các công cụ phân tích dữ liệu: Excel, Power BI Desktop, GenAI.
+Thực hành thảo luận tương tác, các ví dụ thực tế liên quan đến môi trường văn phòng.
+
+Chuyên đề 2: Kết nối và xử lý dữ liệu
+
+Giao diện Excel và các thao tác cơ bản.
+Các hàm cơ bản, sắp xếp và lọc dữ liệu.
+Giới thiệu Power BI Query Editor.
+Các nguồn dữ liệu kết nối đến Power BI: Excel, SQL Server, …
+Kết nối dữ liệu từ Excel vào Power BI.
+Chuyển đổi dữ liệu cơ bản.
+Chuyên đề 3: Xây dựng mô hình quan hệ dữ liệu
+
+Giới thiệu về mô hình dữ liệu, tạo mối quan hệ giữa các bảng.
+Chuẩn hóa cơ sở dữ liệu.
+Sơ đồ Star và snowflake.
+Mối quan hệ Active và Inactive.
+Quản lý các relationship của mô hình.
+Kết nối nhiều bảng Fact.
+Filtering & Cross-Filtering.
+Thực hành khởi tạo và thiết kế model với Dataset của AdventureWorks
+
+Chuyên đề 4: Trực quan hóa dữ liệu và xây dựng Dashboard tương tác
+
+Trực quan hóa dữ liệu là gì?
+Các loại biểu đồ cơ bản: Cột, đường, tròn.
+Sử dụng Slicer và Filter để tương tác với dữ liệu.
+Thiết kế Dashboard: Bố cục, các thành phần.
+Tùy chỉnh tương tác giữa các thành phần.
+
+Chuyên đề 5: Phân tích dữ liệu với GenAI
+
+Tổng quan về GenAI và tư duy viết prompt.
+Sử dụng GenAI để tạo câu hỏi phân tích.
+Đặt câu hỏi với GenAI dựa trên tập dữ liệu AdventureWorks.
+Kiểm tra kết quả phân tích bằng Power BI.
+Thực hành dùng GenAI để sinh đoạn mô tả dữ liệu.
+Tổng quan về giao diện Looker Studio, kết nối với Google Sheets.
+Tạo các báo cáo và trực quan hóa cơ bản.
+
+Chuyên đề 6: Bài tập dữ liệu theo thực tế
+
+Kết nối và transform dữ liệu.
+Xây dựng mô hình dữ liệu.
+Khởi tạo Calculated Column và measures.
+Xây dựng Report.
+Xây dựng Dashboard.
+
+7. Đánh giá kết quả học tập:
+
+Đánh giá thông qua tương tác, đặt câu hỏi.
+Bài tập lớn cuối khóa.
+

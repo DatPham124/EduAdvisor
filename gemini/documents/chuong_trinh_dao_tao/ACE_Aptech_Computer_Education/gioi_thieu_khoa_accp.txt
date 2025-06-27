@@ -1,0 +1,127 @@
+Chương trình ACCP 2023: Chương trình ACCP 2023 có mã chương trình là OV-7091.
+
+Tổng quan ngành công nghệ: Năm 2022, Việt Nam có 67.300 công ty công nghệ và 3.800 công ty khởi nghiệp, đạt doanh thu 77 tỷ USD. Việt Nam hiện là nhà cung cấp dịch vụ công nghệ thông tin lớn thứ 8 trên toàn cầu.
+
+Nhu cầu nhân lực công nghệ: Việt Nam sẽ cần khoảng 1 triệu nhân lực công nghệ thông tin và con số này dự kiến tăng lên 1,35 triệu vào năm 2025. Việt Nam đứng thứ 5 về quốc gia tốt nhất cho các công ty khởi nghiệp ở Đông Nam Á và thứ 54 trên toàn thế giới.
+
+Ngôn ngữ lập trình lương cao: JavaScript, C#, Python, Java và C/C++ nằm trong số 5 ngôn ngữ lập trình có mức lương cao nhất. Chi phí thuê ngoài phát triển phần mềm tại Việt Nam thấp hơn khoảng 90% so với thuê lao động tại Hoa Kỳ, tiết kiệm 50% so với Trung Quốc và 30% so với Ấn Độ, thu hút các nhà đầu tư lớn và các đơn vị thuê ngoài công nghệ thông tin đến Việt Nam.
+
+Lý do chọn lập trình: Hầu hết các ứng viên chọn lập trình làm nghề nghiệp dựa trên sở thích và đam mê. Các yếu tố chính đáp ứng sự hài lòng của ứng viên bao gồm lộ trình sự nghiệp, mức lương và cơ hội phát triển kỹ năng.
+
+Động lực chọn lập trình: 78% ứng viên có niềm đam mê công nghệ, lập trình và máy tính. 63% quan tâm đến mức lương hấp dẫn. 54% có tư duy logic và nền tảng máy tính tốt. 42% nhìn thấy triển vọng phát triển sự nghiệp.
+
+Nhu cầu nhân lực phần mềm: Nhu cầu nhân lực công nghệ thông tin tại Việt Nam (chỉ ngành phần mềm) từ năm 2018 đến 2024 cho thấy sự tăng trưởng liên tục. Năm 2018, nhu cầu là 320.000, thiếu 150.000. Năm 2024, nhu cầu dự kiến là 800.000, thiếu 195.000.
+
+Thực trạng đào tạo nhân lực: Hàng năm, hơn 55.000 sinh viên công nghệ thông tin tốt nghiệp tại Việt Nam nhưng chỉ khoảng 30% đáp ứng được nhu cầu của ngành công nghiệp và doanh nghiệp.
+
+Giới thiệu ACCP 2023: Chương trình Chuyên gia Máy tính được Chứng nhận Aptech (ACCP) là một chương trình nghề nghiệp được thiết kế dựa trên các kỹ năng chuyên môn mà ngành công nghiệp yêu cầu và các xu hướng tương lai sẽ ảnh hưởng đến thế giới công nghệ thông tin.
+
+Lợi ích của ACCP 2023: ACCP 2023 trang bị cho sinh viên các kỹ năng và sự thành thạo trong nhiều lĩnh vực công nghệ thông qua cái nhìn toàn diện về các yêu cầu của ngành và một chương trình học đầy đủ. Khóa học giúp sinh viên đào tạo về lập trình C, kỹ năng thiết kế trang web đáp ứng, ứng dụng web với PHP và Laravel, phát triển ứng dụng đa nền tảng, ứng dụng web Java và nhiều hơn nữa.
+
+So sánh ACCP cũ và mới: Phiên bản ACCP mới (OV-7091) đã cập nhật nhiều công nghệ so với phiên bản cũ (OV-7023). Cụ thể, về UI/UX cho thiết kế trang web, OV-7091 sử dụng Figma Toolkit. Về phát triển web Front-end, OV-7091 sử dụng React 18.x trở lên, trong khi OV-7023 sử dụng AngularJs và Angular 9.
+
+Cập nhật công nghệ ACCP: Đối với Java, OV-7091 sử dụng Java Development Kit (JDK) 19.x so với Java 15 của OV-7023. Về Java EE, OV-7091 sử dụng Jakarta EE 10, Spring 6.x, Spring Boot 3.0.x so với Java EE 8, Spring 5.1 trở lên của OV-7023. OV-7091 bổ sung NoSQL Database với MongoDB 6.0 trở lên và Python với Python SDK 3.x.
+
+Cập nhật công nghệ .NET và Node.js: Về .NET, OV-7091 sử dụng Microsoft Visual Studio 2022 Professional so với Microsoft Visual Studio 2019 Professional của OV-7023. Đối với Node.js, OV-7091 sử dụng NodeJS 18.x so với NodeJS 13.x của OV-7023.
+
+Cấu trúc khóa học ACCP: Chương trình ACCP có tổng thời lượng 748 giờ, được phân bổ thành 2 năm học, mỗi năm 2 kỳ. Thời gian học là 2 giờ mỗi buổi, 4 ngày một tuần.
+
+Các kỳ học ACCP: Năm 1 bao gồm Kỳ 1 (Lập trình) và Kỳ 2 (Lập trình). Năm 2 bao gồm Kỳ 3 (.NET) và Kỳ 4 (JAVA EE).
+
+Chứng chỉ ACCP: Chương trình ACCP (OV-7091-ACCP) cung cấp ba cấp độ chứng chỉ. Hoàn thành Kỳ 1 sẽ nhận được Chứng chỉ Năng lực Quản lý Hệ thống Thông tin (CPISM) với mã OV-7091-CPISM.
+
+Các chứng chỉ ACCP: Hoàn thành Kỳ 1 và Kỳ 2 sẽ nhận được Bằng cấp Quản lý Hệ thống Thông tin (DISM) với mã OV-7091-DISM. Hoàn thành tất cả các kỳ từ 1 đến 4 sẽ nhận được Bằng cấp Nâng cao về Kỹ thuật Phần mềm (ADSE) với mã OV-7091-ADSE.
+
+Cấu trúc Kỳ 1: Kỳ 1 tập trung vào lập trình. Các module bao gồm Xây dựng Logic và Lập trình Cơ bản (40 giờ), Xây dựng Trang web Hiện đại (40 giờ), UI/UX cho Thiết kế Web Đáp ứng (16 giờ), Phát triển Web Front-end với React (24 giờ), eProject-Phát triển Web Đáp ứng (20 giờ), Quản lý Dữ liệu với SQL Server (32 giờ), và Phát triển PHP với Laravel Framework (48 giờ). Tổng thời lượng Kỳ 1 là 220 giờ.
+
+Công cụ và phần mềm Kỳ 1: Các công cụ và phần mềm cần thiết cho Kỳ 1 bao gồm NetBeans 8.1 trở lên, CoffeeCup Free HTML5 Editor hoặc Notepad++, Figma Toolkit, React 18.x trở lên, MS SQL Server 2019 Standard Edition, PHP 8.0 và Laravel FW.
+
+Cơ hội nghề nghiệp Kỳ 1: Sau khi hoàn thành Kỳ 1, sinh viên có thể trở thành Nhà phát triển Trang web Đáp ứng và Nhà phát triển PHP.
+
+Kết quả học tập Kỳ 1: Kỳ 1 tập trung phát triển tư duy lập trình và kỹ năng phát triển web. Sau khi hoàn thành, sinh viên có thể sử dụng các cấu trúc lập trình C, phát triển trang web và ứng dụng tương tác với HTML5/CSS3/JavaScript, học phát triển web front-end với React, và nắm vững các nguyên tắc cơ bản về thiết kế UI/UX web hiệu quả và đáp ứng.
+
+Kỹ năng dữ liệu và ứng dụng Kỳ 1: Sinh viên sẽ học cách chuẩn hóa dữ liệu thô thành các bảng cơ sở dữ liệu có tổ chức trong SQL Server và tạo các ứng dụng web động bằng PHP và Laravel Framework. Dự án cuối kỳ sẽ là thiết kế một trang web đáp ứng.
+
+Cấu trúc Kỳ 2: Kỳ 2 tập trung vào lập trình. Các module bao gồm Xử lý Dữ liệu với XML và JSON (16 giờ), Lập trình Java - I (36 giờ), Lập trình Java - II (40 giờ), Dự án Phát triển Ứng dụng Java (20 giờ), và Lập trình C# (36 giờ). Tổng thời lượng Kỳ 2 là 148 giờ.
+
+Công cụ và phần mềm Kỳ 2: Các công cụ và phần mềm cần thiết cho Kỳ 2 bao gồm Apache NetBeans 16.x, Java SE 19.x trở lên và JavaFX, Microsoft Visual Studio 2022 Professional.
+
+Cơ hội nghề nghiệp Kỳ 2: Sau khi hoàn thành Kỳ 2, sinh viên có thể trở thành Nhà phát triển Java và Lập trình viên C#.
+
+Kết quả học tập Kỳ 2: Kỳ 2 tập trung vào việc truyền đạt các kỹ năng phát triển ứng dụng bằng Java và C#. Sau khi hoàn thành, sinh viên có thể sử dụng XML và JSON để lưu trữ và trao đổi dữ liệu, thiết kế và phát triển các ứng dụng máy tính để bàn bằng Java.
+
+Kỹ năng lập trình Kỳ 2: Sinh viên sẽ sử dụng các tính năng ngôn ngữ cốt lõi và Giao diện Lập trình Ứng dụng (API) của Java để thiết kế các ứng dụng hướng đối tượng, cũng như phát triển các ứng dụng hướng đối tượng cơ bản và nâng cao bằng C#. Dự án cuối kỳ sẽ là xây dựng một ứng dụng thực tế với các công nghệ Java bao gồm JavaFX.
+
+Cấu trúc Kỳ 3: Kỳ 3 tập trung vào .NET. Các module bao gồm Quản lý Dữ liệu Lớn (MongoDB) (32 giờ), Kiến thức cơ bản về NodeJS (36 giờ), Phát triển Ứng dụng với Python (36 giờ), Phát triển Ứng dụng ASP.NET Core MVC (40 giờ), Phát triển Giải pháp Microsoft Azure (40 giờ), eProject - Phát triển Ứng dụng Web .NET (24 giờ), và Các Lĩnh vực Việc làm Mới nổi-SMAC (8 giờ). Tổng thời lượng Kỳ 3 là 216 giờ.
+
+Công cụ và phần mềm Kỳ 3: Các công cụ và phần mềm cần thiết cho Kỳ 3 bao gồm MongoDB 6.0 trở lên, NodeJS 18.x, Python SDK 3.x, Microsoft Visual Studio 2022 Professional và Cloud Tools.
+
+Cơ hội nghề nghiệp Kỳ 3: Thông tin về cơ hội nghề nghiệp cụ thể không được áp dụng trực tiếp cho kỳ này.
+
+Kết quả học tập Kỳ 3: Kỳ 3 tập trung vào xây dựng kỹ năng phát triển ứng dụng doanh nghiệp. Sau khi hoàn thành, sinh viên có thể làm việc với các tập dữ liệu lớn bằng cơ sở dữ liệu MongoDB, phát triển, kiểm thử và triển khai các ứng dụng web Node.js.
+
+Kỹ năng phát triển ứng dụng Kỳ 3: Sinh viên sẽ học cách phát triển ứng dụng bằng ngôn ngữ Python, phát triển các ứng dụng ASP.NET MVC nâng cao bằng các công cụ và công nghệ .NET Framework, phát triển các ứng dụng doanh nghiệp và dịch vụ web bằng nền tảng đám mây Microsoft Azure.
+
+Kỹ năng thiết kế và công nghệ mới Kỳ 3: Sinh viên sẽ thiết kế và phát triển một ứng dụng doanh nghiệp thực tế bằng công nghệ .NET, và xác định các công nghệ mới nổi của đám mây và tìm hiểu về SMAC. Dự án cuối kỳ sẽ là phát triển một ứng dụng doanh nghiệp thực tế bằng công nghệ .NET.
+
+Cấu trúc Kỳ 4: Kỳ 4 tập trung vào JAVA EE. Các module bao gồm Giới thiệu về Lập trình Dart (16 giờ), Phát triển Ứng dụng bằng Flutter và Dart (40 giờ), Phát triển Thành phần Web bằng Jakarta EE (40 giờ), Xây dựng Ứng dụng Web Java với Spring Framework (24 giờ), Phát triển Ứng dụng Doanh nghiệp trong Jakarta EE (40 giờ), Tạo Dịch vụ cho Web (16 giờ), và Dự án Phát triển Ứng dụng Doanh nghiệp Java (24 giờ). Tổng thời lượng Kỳ 4 là 200 giờ.
+
+Công cụ và phần mềm Kỳ 4: Các công cụ và phần mềm cần thiết cho Kỳ 4 bao gồm Flutter SDK 1.22 với Dart 2.10.x trở lên, Jakarta EE Platform 10, Spring 6.x và Spring Boot 3.0.x.
+
+Cơ hội nghề nghiệp Kỳ 4: Sau khi hoàn thành Kỳ 4, sinh viên có thể trở thành Nhà phát triển Full-Stack, Nhà phát triển Ứng dụng Đa Nền tảng, Nhà phát triển Ứng dụng Web và Nhà phát triển Ứng dụng Doanh nghiệp.
+
+Kết quả học tập Kỳ 4: Kỳ 4 tập trung vào phát triển tư duy lập trình và kỹ năng phát triển web. Sau khi hoàn thành, sinh viên có thể xây dựng các ứng dụng đa nền tảng bằng Flutter Framework và ngôn ngữ Dart.
+
+Kỹ năng phát triển ứng dụng Java EE Kỳ 4: Sinh viên sẽ phát triển các ứng dụng web phù hợp với bất kỳ máy chủ ứng dụng Jakarta EE nào bằng JSP và Servlet APIs, hiểu và làm việc với Spring Framework và Spring Boot.
+
+Kỹ năng thiết kế ứng dụng doanh nghiệp Kỳ 4: Sinh viên sẽ phát triển các ứng dụng doanh nghiệp bằng Jakarta Enterprise Beans, và thiết kế và phát triển các ứng dụng doanh nghiệp bằng Jakarta Web Services APIs. Dự án cuối kỳ sẽ là xây dựng một ứng dụng doanh nghiệp thực tế bằng công nghệ Jakarta EE.
+
+Yêu cầu kỹ năng giảng viên: Giảng viên cần nắm vững Lập trình C, các công nghệ web như HTML5, CSS3, JavaScript và ReactJS, hệ thống quản lý cơ sở dữ liệu quan hệ SQL Server, và ngôn ngữ phát triển web PHP cùng framework PHP mã nguồn mở Laravel.
+
+Kỹ năng giảng viên Kỳ 2: Giảng viên cần có kiến thức về ngôn ngữ đánh dấu XML và JSON, kỹ năng lập trình Java cơ bản và nâng cao, và ngôn ngữ lập trình C#.
+
+Kỹ năng giảng viên Kỳ 3: Giảng viên cần thành thạo chương trình cơ sở dữ liệu NoSQL MongoDB, môi trường máy chủ đa nền tảng và mã nguồn mở NodeJS, ngôn ngữ lập trình Python, và phát triển ứng dụng web và doanh nghiệp với ASP.NET Core MVC và Azure.
+
+Kỹ năng giảng viên Kỳ 4: Giảng viên cần có kiến thức về các công nghệ phát triển ứng dụng đa nền tảng như Flutter và Dart, chuyên môn về các công nghệ Jakarta EE như JSP, Servlets, JWS và EJB, và phát triển ứng dụng dựa trên Spring.
+
+Khả năng tự học của giảng viên: Giảng viên cũng cần thể hiện khả năng tự học khi cần thiết để bắt kịp với ngành công nghệ thông tin đang thay đổi nhanh chóng.
+
+Yêu cầu phần cứng: Đối với máy tính để bàn/xách tay chạy Windows 11 64-bit, yêu cầu bộ xử lý Intel i5 hoặc cao hơn; AMD Ryzen 5 hoặc cao hơn, 8 GB RAM hoặc cao hơn, và ít nhất 500 GB dung lượng ổ cứng trống.
+
+Yêu cầu phần cứng MacOS: Đối với MacOS, yêu cầu bộ xử lý Intel-Corei5 2.8 GHZ hoặc cao hơn, 8 GB RAM hoặc cao hơn, Radeon Pro 560 với 4 GB bộ nhớ hoặc cao hơn, và ít nhất 500 GB dung lượng trống.
+
+Yêu cầu phần mềm: Hệ điều hành Windows 11 (64-bit), MS SQL Server 2019 trở lên, Apache NetBeans IDE (13 trở lên), Visual Studio 2022 Professional Edition với .NET Framework 4.8, Figma Toolkit, React 18.x trở lên, Java Development Kit (JDK) 19.x, Jakarta EE 10, Spring 6.x, Spring Boot 3.0.x, Apache Tomcat 10.x và WildFly 26+.
+
+Phần mềm bổ sung: Các phần mềm khác bao gồm MongoDB 6.0 trở lên, Python SDK 3.x, NodeJS 18.x, Android Studio với Flutter và Dart SDK ổn định mới nhất, Laravel Framework (Homestead hoặc cao hơn), PHP 8.x và MySQL 8.x.
+
+Các sản phẩm bàn giao Kỳ 1: Bản giao Master PM vào ngày 15 tháng 3 năm 2023. Các sản phẩm bàn giao cho 3 module đầu tiên vào ngày 20 tháng 3 năm 2023. Sách điện tử cho 3 module đầu tiên cũng vào ngày 20 tháng 3 năm 2023. T3 sẽ được thực hiện theo yêu cầu.
+
+Lợi thế khi học tại Aptech: Aptech cung cấp chương trình học phù hợp với ngành, học tập theo cấp độ, công cụ và kỹ thuật mới nhất, chương trình định hướng việc làm, phát triển hồ sơ năng lực sinh viên, và học trực tuyến mọi lúc mọi nơi với Onlinevarsity.
+
+Học trực tuyến Onlinevarsity: Onlinevarsity là cổng học tập mới của Aptech, cung cấp quyền truy cập 24/7 cho sinh viên. Đây là nền tảng nội dung và cộng tác giúp sinh viên Aptech học các chương trình và công nghệ mới.
+
+Lợi ích Onlinevarsity: Sinh viên Aptech sẽ nhận được nội dung khóa học qua Onlinevarsity. Họ có thể tham khảo sách bất cứ lúc nào, ở bất cứ đâu và trên bất kỳ hệ điều hành nào (Windows, iOS, Android). Các lợi ích bao gồm video bài giảng trực tuyến, truy cập 24/7, học tập linh hoạt và hướng dẫn chứng nhận.
+
+Hợp tác du học và bằng cấp: Aptech đã hợp tác với các tổ chức giáo dục và trường đại học hàng đầu thế giới để mang lại lợi ích cho sinh viên. Aptech cho phép sinh viên đạt được bằng cấp quốc tế thông qua Cơ sở Chuyển đổi Tín chỉ (CTF).
+
+Các đối tác giáo dục: Các đối tác giáo dục của Aptech bao gồm Đại học Middlesex, NCC Education và Đại học Lincoln.
+
+Lộ trình bằng cấp ACCP: Sinh viên có thể bắt đầu bằng cách đến trung tâm Aptech, sau đó đăng ký học ADSE. Sau khi được chứng nhận với Bằng cấp Nâng cao Aptech, sinh viên sẽ nhận được Chứng chỉ Xác nhận và Thư chấp nhận nhập học tạm thời từ trường đại học.
+
+Hoàn thành bằng cấp: Sinh viên sẽ học năm cuối tại uCLAN, LUC hoặc Đại học MDX để nhận bằng Cử nhân Khoa học (Danh dự) về Công nghệ thông tin.
+
+Tổng quan lộ trình học: Đối với NCC Education Partners, yêu cầu là ADSE từ Aptech và L5DC từ NCC Education, học tại 18 trường đại học khác nhau ở Anh, Ireland hoặc Úc, nhận bằng Cử nhân (trực tiếp vào năm cuối).
+
+Yêu cầu tiếng Anh NCC: Yêu cầu tiếng Anh là IELTS 6.0 (tối thiểu 5.5 ở tất cả bốn kỹ năng) và các yêu cầu về thị thực sinh viên theo quốc gia tương ứng.
+
+Lộ trình Đại học Middlesex: Yêu cầu là ADSE từ Aptech, học tại Anh, Dubai, Malta hoặc Mauritius, nhận bằng Cử nhân Khoa học (Danh dự) Công nghệ Thông tin, Cử nhân Khoa học (Danh dự) Mạng Máy tính / Khoa học Máy tính (trực tiếp vào năm cuối).
+
+Yêu cầu tiếng Anh Middlesex: Yêu cầu tiếng Anh là IELTS 6.0 (tối thiểu 5.5 ở tất cả bốn kỹ năng) và các yêu cầu về thị thực sinh viên theo quốc gia tương ứng.
+
+Lộ trình UCLan: Yêu cầu là ADSE từ Aptech và L5DC từ NCC Education, học tại Anh hoặc trực tuyến, nhận bằng Cử nhân Khoa học (Danh dự) Máy tính Kinh doanh và Hệ thống Thông tin (trực tiếp vào năm cuối).
+
+Yêu cầu tiếng Anh UCLan: Yêu cầu tiếng Anh là IELTS 6.0 (tối thiểu 5.5 ở tất cả bốn kỹ năng) và các yêu cầu về thị thực sinh viên tại Anh.
+
+Lộ trình Đại học Lincoln: Yêu cầu là ADSE từ Aptech, học tại Malaysia hoặc Việt Nam, nhận bằng Cử nhân Công nghệ Thông tin (Danh dự) / Cử nhân Khoa học Máy tính (Danh dự) (trực tiếp vào năm cuối).
+
+Yêu cầu tiếng Anh Lincoln: Yêu cầu tiếng Anh là IELTS 6.0 hoặc thư xác nhận từ Cao đẳng/Trung tâm về việc theo học bằng tiếng Anh và yêu cầu thị thực sinh viên Malaysia. Lưu ý: Để có được L5DC, sinh viên cần học và hoàn thành thành công các module bổ sung của NCC Education.

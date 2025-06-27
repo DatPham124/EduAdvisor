@@ -1,0 +1,49 @@
+Tổng quan chuyển đổi số Việt Nam: Khóa học "Việt Nam" cung cấp kiến thức tổng quan về chuyển đổi số, có thời lượng 32 giờ. Đối tượng tham gia là các cán bộ lãnh đạo và quản lý.
+
+Kỹ năng chuyển đổi số lãnh đạo: Khóa học "Kỹ năng chuyển đổi số cho cán bộ lãnh đạo" kéo dài 24 giờ, được thiết kế dành riêng cho đối tượng lãnh đạo.
+
+Kỹ năng chuyển đổi số kỹ thuật: Khóa học "Kỹ năng chuyển đổi số cho cán bộ kỹ thuật" có thời lượng 40 giờ, dành cho các cán bộ kỹ thuật.
+
+Chuyển đổi số cho người lao động: Khóa học về chuyển đổi số dành cho người lao động có thời lượng 40 giờ, tập trung vào đối tượng người lao động.
+
+Chuyển đổi số thông minh: Khóa học "thông minh" (có thể là Chuyển đổi số thông minh) kéo dài 16 giờ, dành cho các cơ quan nhà nước.
+
+Chính phủ điện tử (CPĐT): Khóa học về Chính phủ điện tử (CPĐT) có thời lượng 8 giờ, được thiết kế cho các cơ quan nhà nước.
+
+Phân tích dữ liệu và AI quản lý: Khóa học "Phân tích dữ liệu & AI trong quản lý" kéo dài 32 giờ, dành cho chuyên viên phân tích và dự báo.
+
+Hạ tầng số chuyển đổi số quốc gia: Khóa học "Hạ tầng số & nền tảng số trong chuyển đổi số quốc gia" có thời lượng 16 giờ, dành cho chuyên viên công nghệ thông tin.
+
+Kỹ năng chuyển đổi số lãnh đạo CNTT: Khóa học "Kỹ năng chuyển đổi số cho lãnh đạo quản lý CNTT" có thời lượng 24 giờ, dành cho lãnh đạo và chuyên viên công nghệ thông tin.
+
+Kỹ năng chuyển đổi số cán bộ kỹ thuật CNTT: Khóa học "Kỹ năng chuyển đổi số cho cán bộ kỹ thuật CNTT" kéo dài 40 giờ, dành cho chuyên viên kỹ thuật.
+
+Đô thị thông minh phát triển bền vững: Khóa học "Đô thị thông minh và phát triển bền vững" có thời lượng 16 giờ, dành cho lãnh đạo và quản lý.
+
+Giải pháp xây dựng kho dữ liệu mở: Khóa học "Giải pháp xây dựng kho dữ liệu mở" kéo dài 24 giờ, dành cho lãnh đạo và chuyên viên công nghệ thông tin.
+
+Xây dựng hệ thống tích hợp dữ liệu: Khóa học "Xây dựng hệ thống tích hợp dữ liệu" có thời lượng 24 giờ, dành cho chuyên viên dữ liệu.
+
+Kinh tế số và quản trị: Khóa học "Kinh tế số và quản trị kinh tế số" có thời lượng 40 giờ, dành cho đối tượng doanh nghiệp.
+
+Nguyên lý vận hành chuyển đổi dữ liệu số: Khóa học "Nguyên lý và vận hành chuyển đổi dữ liệu số" kéo dài 32 giờ, dành cho quản lý khối kinh tế - xã hội và doanh nghiệp.
+
+Phân tích dữ liệu thông minh quản lý: Khóa học "Phân tích dữ liệu thông minh phục vụ quản lý" có thời lượng 80 giờ, dành cho quản lý khối kinh tế - xã hội và doanh nghiệp.
+
+Tiếp thị truyền thông môi trường số: Khóa học "Tiếp thị & truyền thông trên môi trường số" kéo dài 24 giờ, dành cho doanh nghiệp và chuyên gia truyền thông.
+
+Thiết kế quảng cáo nhận diện thương hiệu: Khóa học "Thiết kế quảng cáo & bộ nhận diện thương hiệu" có thời lượng 32 giờ, dành cho đối tượng doanh nghiệp.
+
+Nền tảng số doanh nghiệp vừa nhỏ: Khóa học "Các nền tảng số cho doanh nghiệp vừa và nhỏ" kéo dài 16 giờ, dành cho đối tượng doanh nghiệp.
+
+Quản trị doanh nghiệp thời đại số: Khóa học "Quản trị doanh nghiệp trong thời đại số" có thời lượng 16 giờ, dành cho đối tượng doanh nghiệp.
+
+Thanh toán số doanh nghiệp người dân: Khóa học "Thanh toán số cho doanh nghiệp và người dân" có thời lượng 16 giờ, dành cho cộng đồng.
+
+Xã hội số và quản trị: Khóa học "Xã hội số và quản trị xã hội số" có thời lượng 40 giờ, dành cho công dân số và quản lý khối kinh tế - xã hội.
+
+Tập huấn chuyển đổi số cộng đồng: Khóa học "Tập huấn chuyển đổi số cộng đồng" kéo dài 24 giờ, dành cho người dân.
+
+Bảo mật dữ liệu cá nhân: Khóa học "Bảo mật dữ liệu cá nhân trên môi trường số" có thời lượng 24 giờ, dành cho doanh nghiệp và người dân.
+
+Kỹ năng cần thiết công dân số: Khóa học "Kỹ năng cần thiết cho công dân số" có thời lượng 24 giờ, dành cho công dân.

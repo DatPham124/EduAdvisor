@@ -1,0 +1,58 @@
+Trung tâm Công nghệ Phần mềm Đại học Cần Thơ
+Đối tượng khóa học: Học sinh trung học cơ sở và học sinh trung học phổ thông.
+
+Bằng cấp khóa học: Học viên sẽ được Trung tâm Công nghệ Phần mềm Đại học Cần Thơ (CUSC) cấp chứng nhận hoàn thành khóa học.
+
+Hình thức đào tạo: Giảng dạy kết hợp trực tiếp và trực tuyến trên toàn vùng Đồng bằng Sông Cửu Long.
+
+Mục tiêu khóa học: Khóa học trang bị kiến thức tổng hợp về tư duy toán và lập trình, giúp học sinh mô hình hóa bài toán thành các giải thuật phần mềm.
+
+Phát triển tư duy khoa học: Việc tiếp nhận ngôn ngữ lập trình từ sớm giúp học sinh khai phá tư duy khoa học đa chiều, tập giải quyết các bài toán thực tế từ góc nhìn của máy tính.
+
+Python và AI: Python là ngôn ngữ lập trình được Bộ Giáo dục và Đào tạo ưu tiên trong các cuộc thi tin học trẻ, đồng thời là ngôn ngữ dẫn đầu trong nhóm các công cụ trí tuệ nhân tạo.
+
+STEAM và chuyển đổi số: Khóa học STEAM hướng đến xây dựng nền tảng vững chắc cho việc đào tạo nguồn nhân lực chất lượng cao, phục vụ công cuộc chuyển đổi số tại Việt Nam và trên toàn cầu.
+
+Rèn luyện tư duy lập trình: Rèn luyện tư duy lập trình từ nhỏ là xu hướng giáo dục của các quốc gia có nền giáo dục phát triển như Mỹ, Châu Âu, Nhật Bản, Singapore.
+
+Ngôn ngữ lập trình phù hợp: Học sinh tiểu học cần các ngôn ngữ hình họa như Scratch, MS Logo; học sinh trung học có đủ tư duy để tiếp cận các ngôn ngữ lập trình cao cấp, trong đó Python là ngôn ngữ tiêu biểu.
+
+Năng lực mô hình hóa: Một trong các năng lực khác biệt của học sinh có tư duy lập trình là khả năng mô hình hóa, trừu tượng hóa và trình tự hóa các bài toán. Điều này giúp các em khai mở các góc nhìn khác nhau về khoa học ngay từ rất sớm.
+
+Thi tin học trẻ: Các đề thi tin học trẻ, chẳng hạn Olympic Tin học, được lồng ghép nhẹ nhàng vào chương trình đào tạo, giúp học sinh làm quen với môi trường cạnh tranh học đường.
+
+Điểm nổi bật: Học trực tuyến: Học viên có điều kiện học trực tuyến các chương trình đào tạo tiên tiến, tiếp cận công bằng với các môi trường hiện đại ngay trong điều kiện hạn chế của địa phương mình.
+
+Điểm nổi bật: Giáo dục STEAM: Giáo dục STEAM hướng đến việc trang bị kiến thức đa chiều, kích thích năng lực sáng tạo và tư duy phản biện. Học sinh sẽ dần hình thành năng lực mở rộng vấn đề theo các chiều sâu khác nhau.
+
+Điểm nổi bật: Vận dụng kiến thức: Học sinh trung học cơ sở và học sinh trung học phổ thông tham gia các khóa học tại CUSC STEAM có thể vận dụng tốt kiến thức để tham gia các kỳ thi Tin học trẻ, phần mềm sáng tạo và các cuộc thi sáng tạo khác.
+
+Điểm nổi bật: Phương pháp học: Phương pháp học lý thuyết kết hợp với thực hành giúp học viên hiểu sâu về nền tảng kiến thức và kỹ năng vận dụng kiến thức vào rèn luyện tư duy logic, lập trình Python. Giáo viên hướng dẫn cụ thể và chi tiết đối với từng học viên.
+
+Nội dung chương trình: Chương trình được chia thành bốn chặng chính.
+
+Chặng 1: Khởi động (Station 1.1): Nội dung bao gồm tìm hiểu môi trường và ngôn ngữ Python, chương trình nhập xuất đơn giản, làm việc với con số và ký tự, làm quen chương trình mã hóa đơn giản. Học viên sẽ tạo cảm hứng bằng đồ họa trong Python, làm quen khái niệm giải thuật, kiểu dữ liệu và ý nghĩa của chúng, câu lệnh điều kiện và vòng lặp, khái niệm dãy số, tìm kiếm và sắp xếp dữ liệu trong Python. Thời lượng cho phần này là 24 giờ.
+
+Chặng 1: Khởi động (Station 1.2): Nội dung bao gồm dữ liệu, xử lý dữ liệu và thông tin, các kiểu dữ liệu nâng cao, bước đầu xử lý dữ liệu trên nhiều định dạng. Học viên sẽ học cách xử lý câu lệnh vòng lặp nâng cao, khái niệm về đường dẫn, giải thuật trong phân tích dữ liệu, trình bày dữ liệu cơ bản và giải thuật đệ quy. Thời lượng cho phần này là 24 giờ.
+
+Chặng 2: Chạy (Station 2.1): Nội dung bao gồm làm việc với đồ họa và âm thanh, làm quen các dạng tập tin ảnh và âm thanh. Học viên sẽ tìm hiểu khái niệm về phần mềm đồ họa, phần mềm và ứng dụng. Đặc biệt, học viên sẽ phát triển Game với thư viện PyGame, bao gồm các trò chơi như One-Two-Three, Cá săn mồi, Flappy Bird và Sudoku. Thời lượng cho phần này là 24 giờ.
+
+Chặng 2: Chạy (Station 2.2): Nội dung bao gồm lập trình phần mềm có giao diện người dùng với thư viện Tkinter. Học viên sẽ tìm hiểu các thành phần chính trong giao diện đồ họa, bố cục giao diện ứng dụng đồ họa. Sau đó, học viên sẽ phát triển ứng dụng có giao diện đồ họa như Máy tính tay (Calculator) và Quản lý lịch (Calendar). Thời lượng cho phần này là 24 giờ.
+
+Chặng 3: Tăng tốc (Station 3.1): Nội dung bao gồm khái niệm về Hàm số, cách tạo hàm trong Python, khái niệm về thư viện và các thư viện cơ bản. Học viên sẽ học về đồ thị trong Python, màu sắc và cách mã hóa màu sắc trên máy tính. Ngoài ra, học viên sẽ tìm hiểu khái niệm về ma trận và ứng dụng của ma trận trong thực tế. Thời lượng cho phần này là 24 giờ.
+
+Chặng 3: Tăng tốc (Station 3.2): Nội dung bao gồm lập trình hướng đối tượng với các khái niệm về lớp và đối tượng, kế thừa và tính đa hình, lớp trừu tượng và Interface. Học viên sẽ thao tác với hệ quản trị cơ sở dữ liệu MySQL trong Python, làm quen với thao tác phân tích dữ liệu và xử lý file Excel trên nền tảng Python. Thời lượng cho phần này là 24 giờ.
+
+Chặng 4: Cất cánh (Station 4.1): Nội dung bao gồm lập trình Python trên nền Web với căn bản về HTML5/CSS3, Web tĩnh và Web động, ứng dụng Python trên nền web. Học viên sẽ tìm hiểu hệ thống các thư viện phổ biến trên Python, khái niệm về trí tuệ nhân tạo và trí tuệ nhân tạo đơn giản như hồi quy tuyến tính, hồi quy phi tuyến tính. Thời lượng cho phần này là 24 giờ.
+
+Chặng 4: Cất cánh (Station 4.2): Nội dung bao gồm trí tuệ nhân tạo nâng cao với các giải thuật phân loại (Classification) và các giải thuật nhận diện với Học sâu (Deep Learning). Thời lượng cho phần này là 24 giờ.
+
+Thông tin liên hệ: Trung tâm Công nghệ Phần mềm Đại học Cần Thơ.
+
+Địa chỉ liên hệ: Khu III - Đại học Cần Thơ, Số 01, Đường Lý Tự Trọng, Quận Ninh Kiều, Thành phố Cần Thơ.
+
+Điện thoại liên hệ: 0292.3835.581.
+
+Zalo liên hệ: 058 262 1345.
+
+Website liên hệ: steam.cusc.vn.

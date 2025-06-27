@@ -1,2 +1,0 @@
-Tiếp tục các buổi học Project-Analyzing Data with R và buổi báo cáo cuối khóa:
-Môn Project-Analyzing Data with R tiếp tục với mã TL04 vào Thứ Bảy, ngày 26 tháng 07 năm 2025, TL05 vào Thứ Ba, ngày 29 tháng 07 năm 2025, TL06 vào Thứ Bảy, ngày 02 tháng 08 năm 2025, TL07 vào Thứ Ba, ngày 05 tháng 08 năm 2025 và TL08 vào Thứ Bảy, ngày 09 tháng 08 năm 2025. Buổi báo cáo cuối khóa sẽ diễn ra vào Thứ Bảy, ngày 16 tháng 08 năm 2025.

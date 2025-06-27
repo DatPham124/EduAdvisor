@@ -1,2 +1,0 @@
-Chuyển đổi sang môn Data handling using T-SQL và thi Data Analysis with MS Excel:
-Môn Data handling using T-SQL, mã TL02, bắt đầu vào Thứ Bảy, ngày 22 tháng 02 năm 2025. Tiếp theo là TL03 vào Thứ Ba, ngày 25 tháng 02 năm 2025. Kỳ thi môn Data Analysis with MS Excel được tổ chức vào Thứ Năm, ngày 27 tháng 02 năm 2025. Buổi học Data handling using T-SQL TL04 diễn ra vào Thứ Bảy, ngày 01 tháng 03 năm 2025.

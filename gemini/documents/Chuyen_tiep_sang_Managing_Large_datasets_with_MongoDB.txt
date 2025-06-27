@@ -1,1 +1,0 @@
-Chuyển tiếp sang Managing Large datasets with MongoDB: Tuần 5, từ 04/03/2024 đến 09/03/2024, bao gồm các buổi Data handling using T-SQL vào Thứ Ba (TL05) và Thứ Năm (TL06, 18:00-19:00). Học phần Managing Large datasets with MongoDB bắt đầu vào Thứ Bảy (TL01).

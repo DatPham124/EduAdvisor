@@ -1,1 +1,0 @@
-Thông tin tổng quan khóa học quản lý cơ sở dữ liệu SQL Server: Khóa học Quản lý cơ sở dữ liệu với SQL Server có mã lớp CP2397M12. Thời gian học hàng ngày là từ 18 giờ 00 phút đến 21 giờ 00 phút. Khóa học bắt đầu vào ngày 09 tháng 01 năm 2024. Các buổi học thực hành sẽ diễn ra tại phòng Thực hành 2.2.

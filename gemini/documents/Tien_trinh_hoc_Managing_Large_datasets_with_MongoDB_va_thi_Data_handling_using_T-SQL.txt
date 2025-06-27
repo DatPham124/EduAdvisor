@@ -1,2 +1,0 @@
-Tiến trình học Managing Large datasets with MongoDB và thi Data handling using T-SQL:
-Môn Managing Large datasets with MongoDB tiếp tục với mã TL02 vào Thứ Ba, ngày 11 tháng 03 năm 2025. Kỳ thi môn Data handling using T-SQL được tổ chức vào Thứ Năm, ngày 13 tháng 03 năm 2025. Các buổi học MongoDB tiếp theo là TL03 vào Thứ Bảy, ngày 15 tháng 03 năm 2025, TL04 vào Thứ Ba, ngày 18 tháng 03 năm 2025, TL05 vào Thứ Năm, ngày 20 tháng 03 năm 2025 và TL06 vào Thứ Bảy, ngày 22 tháng 03 năm 2025.

@@ -1,2 +1,0 @@
-Các loại hình chương trình đào tạo:
-Chương trình đào tạo được triển khai theo khung chương trình do Trung tâm ban hành dựa trên Master Presenter's Manual của tập đoàn CNTT Aptech Ấn Độ, chương trình đào tạo của đối tác khác, và chương trình đào tạo do Trung tâm tự phát triển.

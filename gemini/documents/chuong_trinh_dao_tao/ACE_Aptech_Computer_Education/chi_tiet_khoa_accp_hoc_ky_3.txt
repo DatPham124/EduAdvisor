@@ -1,0 +1,101 @@
+Giới thiệu tài liệu hướng dẫn: Tài liệu hướng dẫn này được sử dụng cho chương trình ACCP Kỳ 3. Chương trình học nhằm giới thiệu sinh viên về MongoDB, Python, NodeJS, ASP.NET MVC CORE, MS Azure và SMAC.
+
+Các mô-đun khóa học: Sinh viên sẽ học các mô-đun sau trong khóa học này: Quản lý dữ liệu lớn (MongoDB), Kiến thức cơ bản về NodeJS, Phát triển ứng dụng với Python, Phát triển ứng dụng ASP.NET Core MVC, Phát triển giải pháp Microsoft Azure, eProject - Phát triển ứng dụng web .NET, Các lĩnh vực việc làm mới nổi - SMAC.
+
+Mục tiêu khóa học: Sau khi hoàn thành khóa học này, sinh viên sẽ có khả năng: Làm việc với các tập dữ liệu lớn bằng cơ sở dữ liệu MongoDB, Phát triển, kiểm thử và triển khai ứng dụng web Node.js, Phát triển ứng dụng bằng ngôn ngữ Python, Phát triển ứng dụng ASP.NET MVC nâng cao sử dụng các công cụ và công nghệ .NET Framework, Phát triển ứng dụng doanh nghiệp và dịch vụ web sử dụng nền tảng đám mây Microsoft Azure, Thiết kế và phát triển ứng dụng doanh nghiệp thực tế sử dụng công nghệ .NET, Xác định các công nghệ mới nổi của đám mây và tìm hiểu về SMAC.
+
+Dự án kỳ học: Dự án trong kỳ học này sẽ bao gồm việc phát triển một ứng dụng sử dụng công nghệ .NET.
+
+Thông tin chung lịch trình: Bảng dưới đây trình bày chi tiết các mô-đun, số giờ dành cho mỗi mô-đun cùng với phân tích số giờ dành cho từng mô-đun. Một buổi học có thời lượng hai giờ. Vui lòng tham khảo tài liệu hướng dẫn của từng giảng viên mô-đun để hiểu thêm chi tiết về mỗi buổi học.
+
+Phân bổ giờ học mô-đun: Bảng phân bổ giờ học theo mô-đun như sau:
+*   Quản lý dữ liệu lớn (MongoDB): 0 giờ lý thuyết, 32 giờ trực tuyến, tổng 32 giờ, 10 giờ tự học, mã kỹ năng 399.
+*   Kiến thức cơ bản về NodeJS: 0 giờ lý thuyết, 36 giờ trực tuyến, tổng 36 giờ, 12 giờ tự học, mã kỹ năng 396.
+*   Phát triển ứng dụng với Python: 0 giờ lý thuyết, 36 giờ trực tuyến, tổng 36 giờ, 12 giờ tự học, mã kỹ năng 1258.
+*   Phát triển ứng dụng ASP.NET Core MVC: 0 giờ lý thuyết, 40 giờ trực tuyến, tổng 40 giờ, 16 giờ tự học, mã kỹ năng 1340.
+*   Phát triển giải pháp Microsoft Azure: 0 giờ lý thuyết, 40 giờ trực tuyến, tổng 40 giờ, 16 giờ tự học, mã kỹ năng 1341.
+*   eProject - Phát triển ứng dụng web .NET: 2 giờ lý thuyết, 22 giờ trực tuyến, tổng 24 giờ, 0 giờ tự học, mã kỹ năng 1341.
+*   Các lĩnh vực việc làm mới nổi - SMAC: 8 giờ lý thuyết, 0 giờ trực tuyến, tổng 8 giờ, 4 giờ tự học, mã kỹ năng 125.
+*   Tổng cộng: 10 giờ lý thuyết, 206 giờ trực tuyến, tổng 216 giờ, 70 giờ tự học.
+
+Lịch trình học tập hàng tuần: Lịch trình học tập hàng tuần chi tiết các buổi học trực tuyến (TL), các buổi lý thuyết (T), các kỳ thi mô-đun (E), các kỳ thi thực hành (R) và các buổi dự án (P) cho từng mô-đun trong suốt 28 tuần của khóa học. Các mô-đun bao gồm: Quản lý dữ liệu lớn (MongoDB), Kiến thức cơ bản về NodeJS, Phát triển ứng dụng với Python, Phát triển ứng dụng ASP.NET Core MVC, Phát triển giải pháp Microsoft Azure, eProject - Phát triển ứng dụng web .NET, và Các lĩnh vực việc làm mới nổi - SMAC.
+
+Các tài liệu cung cấp: Các tài liệu cung cấp cho sinh viên và giảng viên được liệt kê chi tiết dưới đây.
+
+Tài liệu cung cấp cho sinh viên:
+*   Quản lý dữ liệu lớn (MongoDB): Sách "Quản lý cơ sở dữ liệu lớn bằng MongoDB" (Mã sách: AINNMNGDB10823E000).
+*   Kiến thức cơ bản về NodeJS: Sách "Phát triển phía máy chủ với NodeJS" (Mã sách: AINNNDEJS10124E000).
+*   Phát triển ứng dụng với Python: Sách "Học Python qua ví dụ" (Mã sách: AINNLPYTE10124E000).
+*   Phát triển ứng dụng ASP.NET Core MVC: Sách "Lập trình web sử dụng ASPNET CORE và MVC" (Mã sách: AINNASPCR10224E000).
+*   Phát triển giải pháp Microsoft Azure: Sách "Xây dựng ứng dụng đám mây doanh nghiệp với MS Azure" (Mã sách: AINNENTAZ10324E000).
+*   eProject - Phát triển ứng dụng web .NET: Sách "ePG-Ứng dụng đám mây doanh nghiệp với Azure" (Mã sách: AINNEPCLD10424E000).
+*   Các lĩnh vực việc làm mới nổi - SMAC: Sách "Chuyển đổi số với SMAC" (Mã sách: AINNDSMAC11223E000).
+*   Mã bộ công cụ OV: OV-7091-KIT01-03-G, tên bộ công cụ: Bộ 7 tài liệu cho OV-7091 ACCP Kỳ 3.
+
+Tài liệu cung cấp cho giảng viên:
+*   Quản lý dữ liệu lớn (MongoDB): Sách "Quản lý cơ sở dữ liệu lớn bằng MongoDB" (Mã sách: AINNMNGDB10823E000).
+*   Kiến thức cơ bản về NodeJS: Sách "Phát triển phía máy chủ với NodeJS" (Mã sách: AINNNDEJS10124E000).
+*   Phát triển ứng dụng với Python: Sách "Học Python qua ví dụ" (Mã sách: AINNLPYTE10124E000).
+*   Phát triển ứng dụng ASP.NET Core MVC: Sách "Lập trình web sử dụng ASPNET CORE và MVC" (Mã sách: AINNASPCR10224E000).
+*   Phát triển giải pháp Microsoft Azure: Sách "Xây dựng ứng dụng đám mây doanh nghiệp với MS Azure" (Mã sách: AINNENTAZ10324E000).
+*   eProject - Phát triển ứng dụng web .NET: Sách "ePG-Ứng dụng đám mây doanh nghiệp với Azure" (Mã sách: AINNEPCLD10424E000).
+*   Các lĩnh vực việc làm mới nổi - SMAC: Sách "Chuyển đổi số với SMAC" (Mã sách: AINNDSMAC11223E000).
+*   Khóa học: Tài liệu hướng dẫn giảng viên chính, tài liệu hướng dẫn mô-đun, tài liệu hướng dẫn giảng viên (nếu có), bài thuyết trình trên lớp (nếu có).
+*   Mã bộ công cụ OV: OV-7091-KIT01-03-G, tên bộ công cụ: Bộ 7 tài liệu cho OV-7091 ACCP Kỳ 3.
+
+Các tài liệu OnlineVarsity: OnlineVarsity là một nền tảng truy cập nội dung số và cộng tác dành cho sinh viên Aptech. Các tính năng thú vị của nền tảng này sẽ nâng cao trải nghiệm học tập của sinh viên. Giảng viên có thể truy cập sách điện tử và các thành phần khác trong OnlineVarsity thông qua Aptrack.
+
+Tài nguyên OnlineVarsity: Các tài nguyên có sẵn trên OnlineVarsity (nếu áp dụng) bao gồm:
+*   Tải sách: Sinh viên có tùy chọn tải sách điện tử liên quan đến môn học và đọc ngoại tuyến.
+*   Thuật ngữ: Sinh viên có thể truy cập danh sách các từ chuyên ngành liên quan đến môn học và định nghĩa của chúng.
+*   Câu hỏi thường gặp: Sinh viên có thể truy cập các câu hỏi thường gặp và câu trả lời của chúng.
+*   Thực hành cho tôi: Sinh viên có thể kiểm tra và đánh giá sự hiểu biết của mình về các chủ đề liên quan đến mô-đun.
+*   Bài tập thực hành: Sinh viên có thể giải các bài tập thực hành dựa trên kịch bản (thực hành). Giảng viên sẽ đánh giá và đưa ra phản hồi.
+*   Tài liệu tham khảo: Sinh viên có thể truy cập tài liệu bổ sung liên quan đến môn học để đọc.
+*   Phản hồi: Sinh viên có thể cung cấp phản hồi về tài liệu khóa học.
+*   Hỏi để học: Sinh viên có thể gửi các câu hỏi kỹ thuật liên quan đến môn học. Các câu hỏi đã gửi sẽ được chuyển đến điều phối viên/trưởng bộ môn khóa học cụ thể.
+
+Chiến lược đánh giá: Chiến lược đánh giá cho khóa học này bao gồm: Kỳ thi mô-đun (Mục tiêu - AoLEAP), Kỳ thi mô-đun (Thực hành), và Dự án.
+
+Tiêu chí xếp loại:
+*   Tổng điểm trung bình có trọng số từ 40% đến dưới 60% đạt loại Đạt.
+*   Tổng điểm trung bình có trọng số từ 60% đến dưới 75% đạt loại Khá.
+*   Tổng điểm trung bình có trọng số từ 75% trở lên đạt loại Giỏi.
+*   Lưu ý: Để đạt loại Đạt, Khá hoặc Giỏi, sinh viên phải đạt ít nhất 40% ở mỗi phần thi, nếu không sẽ bị đánh giá là "Chưa đạt".
+
+Kỳ thi mô-đun: Dưới đây là danh sách các mô-đun sẽ được kiểm tra cùng với trọng số của chúng:
+*   Kỳ thi mô-đun E1 (Mục tiêu): 20 điểm, 40 phút. Bao gồm: Quản lý dữ liệu lớn (MongoDB).
+*   Kỳ thi mô-đun R1 (Thực hành): 20 điểm, 60 phút. Bao gồm: Quản lý dữ liệu lớn (MongoDB).
+*   Kỳ thi mô-đun E2 (Mục tiêu): 20 điểm, 40 phút. Bao gồm: Kiến thức cơ bản về NodeJS.
+*   Kỳ thi mô-đun R2 (Thực hành): 20 điểm, 60 phút. Bao gồm: Kiến thức cơ bản về NodeJS.
+*   Kỳ thi mô-đun E3 (Mục tiêu): 20 điểm, 40 phút. Bao gồm: Phát triển ứng dụng với Python.
+*   Kỳ thi mô-đun R3 (Thực hành): 20 điểm, 60 phút. Bao gồm: Phát triển ứng dụng với Python.
+*   Kỳ thi mô-đun E4 (Mục tiêu): 20 điểm, 40 phút. Bao gồm: Phát triển ứng dụng ASP.NET Core MVC.
+*   Kỳ thi mô-đun R4 (Thực hành): 20 điểm, 60 phút. Bao gồm: Phát triển ứng dụng ASP.NET Core MVC.
+*   Kỳ thi mô-đun E5 (Mục tiêu): 20 điểm, 40 phút. Bao gồm: Phát triển giải pháp Microsoft Azure.
+*   Kỳ thi mô-đun R5 (Thực hành): 20 điểm, 60 phút. Bao gồm: Phát triển giải pháp Microsoft Azure.
+*   Kỳ thi mô-đun E6 (Mục tiêu): 20 điểm, 40 phút. Bao gồm: Các lĩnh vực việc làm mới nổi - SMAC.
+
+Dự án cuối kỳ: Dự án cuối kỳ có 100 điểm, thời lượng 24 giờ. Bao gồm: eProject - Phát triển ứng dụng web .NET, chiếm 100% nội dung.
+
+Chi tiết đánh giá: Chi tiết đánh giá bao gồm: OES chiếm 50%, Thực hành chiếm 30%, và Dự án chiếm 20%.
+
+Yêu cầu phần mềm: Các yêu cầu để tiến hành các buổi học của kỳ này như sau:
+*   Microsoft Windows 11
+*   Microsoft SQL Server 2022 Standard Edition
+*   Visual Studio 2022 Professional Edition
+*   NodeJS
+*   MongoDB 6.0 hoặc cao hơn
+*   Python SDK 3.x
+
+Yêu cầu phần cứng: Các yêu cầu phần cứng được khuyến nghị bao gồm:
+*   Bộ xử lý Intel Core i3/i5 hoặc cao hơn
+*   RAM 8 GB hoặc cao hơn
+*   Màn hình SVGA màu
+*   Ổ cứng 500 GB
+*   Chuột
+*   Bàn phím
+
+Yêu cầu khác phòng học: Các yêu cầu khác cho phòng học bao gồm:
+*   Máy tính để trình diễn (nếu áp dụng)
+*   Máy chiếu LCD

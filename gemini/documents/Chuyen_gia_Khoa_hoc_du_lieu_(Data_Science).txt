@@ -1,7 +1,0 @@
-Thời lượng khóa học: Tổng thời gian học là 346 giờ, bao gồm 146 giờ cho phần Nền tảng Khoa học Dữ liệu và 200 giờ cho phần Khoa học Dữ liệu chuyên sâu.
-
-Nội dung chương trình học: Chương trình bao gồm các kiến thức về Nền tảng Big Data, xử lý Big Data với các công cụ như Hadoop, MapReduce, Hive, PigLatin. Học viên cũng sẽ được học về phân tích trực quan sử dụng Tableau, phân tích Web và Social Media với Google Analytics và SAS, cùng với việc thực hiện dự án Big Data.
-
-Bằng cấp đạt được: Sau khi hoàn thành khóa học, học viên sẽ nhận được bằng Professional Diploma in Data Science.
-
-Cơ hội nghề nghiệp: Khóa học mở ra các cơ hội nghề nghiệp như chuyên gia phát triển dữ liệu, chuyên gia nghiên cứu dữ liệu, và chuyên gia đánh giá và phân tích dữ liệu.

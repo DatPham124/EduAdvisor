@@ -1,0 +1,99 @@
+Giới thiệu tài liệu hướng dẫn: Tài liệu hướng dẫn này dành cho Kỳ 1 của khóa học ACCP, tập trung phát triển tư duy lập trình và kỹ năng phát triển Web cho sinh viên.
+
+Các học phần của khóa học: Sinh viên sẽ học các học phần sau: Logic Building and Elementary Programming, Building Modern Websites, UI/UX for Responsive Web Design, Frontend Web Development with React, eProject-Responsive Web Development, Data Management with SQL Server, và PHP Development with Laravel Framework.
+
+Kỹ năng đạt được sau khóa: Sau khi hoàn thành Kỳ 1, sinh viên có thể: Sử dụng các cấu trúc lập trình để viết chương trình bằng C. Phát triển các trang Web và ứng dụng tương tác bằng HTML5/CSS3/JavaScript. Học phát triển Web giao diện người dùng với React. Học các nguyên tắc cơ bản của thiết kế giao diện người dùng Web hiệu quả và đáp ứng. Chuẩn hóa dữ liệu thô thành các bảng cơ sở dữ liệu có tổ chức trong SQL Server. Tạo các ứng dụng Web động bằng PHP và Laravel Framework.
+
+Dự án cuối kỳ: Dự án cuối kỳ trong Kỳ này sẽ bao gồm việc thiết kế một trang Web đáp ứng.
+
+Thông tin chung về lịch học: Bảng dưới đây trình bày chi tiết các học phần, số giờ dành cho mỗi học phần cùng với phân tích các giờ học. Vui lòng tham khảo các tài liệu hướng dẫn của từng học phần để hiểu rõ hơn về chi tiết mỗi buổi học.
+
+Phân bổ thời gian học phần:
+*   Học phần Logic Building and Elementary Programming có 40 giờ hướng dẫn, 12 giờ tự học, mã kỹ năng 75.
+*   Học phần Building Modern Websites có 40 giờ hướng dẫn, 12 giờ tự học, mã kỹ năng 177.
+*   Học phần UI/UX for Responsive Web Design có 16 giờ hướng dẫn, 8 giờ tự học, mã kỹ năng 368.
+*   Học phần Frontend Web Development with React có 24 giờ hướng dẫn, 10 giờ tự học, mã kỹ năng 1337.
+*   Học phần eProject-Responsive Web Development có 20 giờ hướng dẫn, 0 giờ tự học, mã kỹ năng 177.
+*   Học phần Data Management with SQL Server có 32 giờ hướng dẫn, 10 giờ tự học, mã kỹ năng 1291.
+*   Học phần PHP Development with Laravel Framework có 48 giờ hướng dẫn, 16 giờ tự học, mã kỹ năng 1274.
+*   Tổng số giờ hướng dẫn là 220, tổng số giờ tự học là 68.
+
+Lịch trình học tập hàng tuần: Lịch trình hàng tuần chi tiết các buổi học trực tuyến (TL), các buổi tự học (S), các kỳ thi theo học phần (E) và các kỳ thi thực hành (R) cho từng học phần trong suốt 31 tuần của khóa học.
+
+Các sản phẩm bàn giao khóa học: Các sản phẩm bàn giao cho sinh viên và giảng viên đã được lập bảng dưới đây.
+
+Sản phẩm bàn giao cho sinh viên:
+*   Học phần Logic Building and Elementary Programming có mã sách OV-C0056, tên sách Elementary Programming in C-INTL.
+*   Học phần Building Modern Websites có mã sách AINNFENDT10323E000, tên sách FrontEnd Technologies for Beginners.
+*   Học phần UI/UX for Responsive Web Design có mã sách AINNEUIUX10721E000, tên sách Elegant and Effective Web Design with UI and UX.
+*   Học phần Frontend Web Development with React có mã sách AINNREACT10423E000, tên sách Frontend Web Development with ReactJS.
+*   Học phần eProject-Responsive Web Development có mã sách AINNEPRWB10323E000, tên sách ePG-Build Responsive NextGen Websites.
+*   Học phần Data Management with SQL Server có mã sách AINNSQLSR10920E000, tên sách Intelligent Data Management with SQL Server.
+*   Học phần PHP Development with Laravel Framework có mã sách AINNPHPLV10821E000, tên sách PHP Web Development with Laravel.
+*   Bộ tài liệu cho sinh viên có mã OV-7091-KIT01-01-G, tên bộ tài liệu là Kit of 7 titles for OV-7091 ACCP Term 1.
+
+Sản phẩm bàn giao cho giảng viên:
+*   Các học phần Logic Building and Elementary Programming, Building Modern Websites, UI/UX for Responsive Web Design, Frontend Web Development with React, eProject-Responsive Web Development, Data Management with SQL Server, PHP Development with Laravel Framework có các mã sách và tên sách tương tự như của sinh viên.
+*   Ngoài ra, giảng viên còn nhận được Master PM, Module PMs, Classroom Presentations, Trainer Guide, và eProject Supplement cho Kỳ 1.
+
+Các sản phẩm OnlineVarsity: Để hỗ trợ quá trình giảng dạy, các sản phẩm bàn giao sau đây được cung cấp.
+
+Sản phẩm bàn giao cho giảng viên: Sản phẩm bàn giao cho giảng viên bao gồm Sổ tay Giảng viên (PM).
+
+Sản phẩm bàn giao cho sinh viên: Sản phẩm bàn giao cho sinh viên bao gồm Hướng dẫn học viên (eBook).
+
+Tài nguyên trên OnlineVarsity: Các tài nguyên có sẵn trên OnlineVarsity cho sinh viên bao gồm:
+*   **Tải sách điện tử:** Sinh viên có thể tải sách điện tử liên quan đến môn học và đọc ngoại tuyến.
+*   **Thuật ngữ:** Sinh viên có thể truy cập danh sách các từ chuyên ngành liên quan đến môn học cùng với định nghĩa của chúng.
+*   **Câu hỏi thường gặp:** Sinh viên có thể truy cập các câu hỏi thường gặp và câu trả lời của chúng.
+*   **Hướng dẫn thực hiện:** Sinh viên có thể xem mô phỏng/minh họa từng bước các chủ đề liên quan đến học phần.
+*   **Thực hành:** Sinh viên có thể kiểm tra và đánh giá mức độ hiểu biết của mình về các chủ đề liên quan đến học phần.
+*   **Bài tập thực hành:** Sinh viên có thể giải các bài tập thực hành dựa trên kịch bản (thực hành). Giảng viên sẽ đánh giá và đưa ra phản hồi.
+*   **Tải mã nguồn/tệp:** Sinh viên có thể tải các tệp nguồn liên quan đến giáo trình.
+*   **Tài liệu tham khảo:** Sinh viên có thể truy cập tài liệu bổ sung liên quan đến môn học để đọc.
+*   **Phản hồi:** Sinh viên có thể cung cấp phản hồi về tài liệu khóa học.
+*   **Hỏi để học:** Sinh viên có thể gửi các câu hỏi kỹ thuật liên quan đến môn học. Các câu hỏi đã gửi sẽ được chuyển đến điều phối viên/trưởng bộ môn khóa học cụ thể.
+
+Chiến lược đánh giá: Chiến lược đánh giá cho khóa học này như sau: Kỳ thi theo học phần (Mục tiêu - AoLEAP), Kỳ thi thực hành, và Dự án cuối kỳ.
+
+Quy định về xếp loại:
+*   Tổng điểm có trọng số từ 40% đến dưới 60% đạt loại PASS.
+*   Tổng điểm có trọng số từ 60% đến dưới 75% đạt loại CREDIT.
+*   Tổng điểm có trọng số từ 75% trở lên đạt loại DISTINCTION.
+*   Lưu ý: Để đạt loại PASS/CREDIT/DISTINCTION, sinh viên phải đạt ít nhất 40% trong Kỳ thi theo học phần, nếu không sẽ bị coi là 'Referred'.
+
+Tổng quan kỳ thi học phần: Dưới đây là danh sách các học phần sẽ được kiểm tra cùng với trọng số của chúng.
+
+Kỳ thi học phần E1: Kỳ thi học phần E1 (AoLEAP) có 20 điểm, thời lượng 40 phút, loại hình trắc nghiệm. Học phần được kiểm tra là Logic Building and Elementary Programming, với 20 điểm.
+
+Kỳ thi học phần E2: Kỳ thi học phần E2 (AoLEAP) có 20 điểm, thời lượng 40 phút, loại hình trắc nghiệm. Học phần được kiểm tra là Building Modern Websites, với 20 điểm.
+
+Kỳ thi học phần E3: Kỳ thi học phần E3 (AoLEAP) có 20 điểm, thời lượng 40 phút, loại hình trắc nghiệm. Học phần được kiểm tra là UI/UX for Responsive Web Design, với 20 điểm.
+
+Kỳ thi học phần E4: Kỳ thi học phần E4 (AoLEAP) có 20 điểm, thời lượng 40 phút, loại hình trắc nghiệm. Học phần được kiểm tra là Frontend Web Development with React, với 20 điểm.
+
+Kỳ thi học phần E5: Kỳ thi học phần E5 (AoLEAP) có 20 điểm, thời lượng 40 phút, loại hình trắc nghiệm. Học phần được kiểm tra là Data Management with SQL Server, với 20 điểm.
+
+Kỳ thi học phần E6: Kỳ thi học phần E6 (AoLEAP) có 20 điểm, thời lượng 40 phút, loại hình trắc nghiệm. Học phần được kiểm tra là PHP Development with Laravel Framework, với 20 điểm.
+
+Kỳ thi học phần R1: Kỳ thi học phần R1 có 20 điểm, thời lượng 60 phút, loại hình thực hành. Học phần được kiểm tra là Logic Building and Elementary Programming, với 20 điểm.
+
+Kỳ thi học phần R2: Kỳ thi học phần R2 có 20 điểm, thời lượng 60 phút, loại hình thực hành. Học phần được kiểm tra là Building Modern Websites, với 20 điểm.
+
+Kỳ thi học phần R3: Kỳ thi học phần R3 có 20 điểm, thời lượng 60 phút, loại hình thực hành. Học phần được kiểm tra là Frontend Web Development with React, với 20 điểm.
+
+Kỳ thi học phần R4: Kỳ thi học phần R4 có 20 điểm, thời lượng 60 phút, loại hình thực hành. Học phần được kiểm tra là Data Management with SQL Server, với 20 điểm.
+
+Kỳ thi học phần R5: Kỳ thi học phần R5 có 20 điểm, thời lượng 60 phút, loại hình thực hành. Học phần được kiểm tra là PHP Development with Laravel Framework, với 20 điểm.
+
+Chi tiết dự án cuối kỳ: Dự án cuối kỳ có 100 điểm, thời lượng 20 giờ, loại hình thực hành. Học phần được kiểm tra là eProject-Responsive Web Development, với 100 điểm.
+
+Chi tiết đánh giá: Chi tiết đánh giá bao gồm: OES (AoLEAP) chiếm 50%, Thực hành chiếm 30%, và Dự án cuối kỳ chiếm 20%.
+
+Yêu cầu phòng học và phòng thí nghiệm: Các yêu cầu để tiến hành các buổi học của chương trình giảng dạy mới đã được mô tả như sau.
+
+Yêu cầu phần mềm: Các yêu cầu phần mềm bao gồm: Microsoft Windows 11, CoffeeCup Free HTML5 Editor, MS SQL Server 2019 Standard Edition, Microsoft Office Standard 2019 hoặc cao hơn, thư viện jQuery, plugin và jQuery 1.1.2.4 stable release, React 18.x hoặc cao hơn, Figma ToolKit, PHP 8.0 và Laravel FW.
+
+Yêu cầu phần cứng đề xuất: Các yêu cầu phần cứng đề xuất bao gồm: Bộ xử lý Intel Core i5 hoặc cao hơn, 8 GB RAM hoặc cao hơn, Color SVGA, 500 GB dung lượng đĩa cứng, Chuột, Bàn phím.
+
+Yêu cầu khác cho phòng học: Các yêu cầu khác cho phòng học bao gồm: Máy tính để trình diễn khi cần thiết, Máy chiếu LCD.

@@ -1,2 +1,0 @@
-Xử lý bài thi giống nhau:
-Bài thi giống nhau toàn bộ hoặc một phần sẽ bị trừ 50% điểm đối với bài thi của thí sinh cho người khác chép, và ghi nhận 0 điểm đối với bài thi của thí sinh sao chép.

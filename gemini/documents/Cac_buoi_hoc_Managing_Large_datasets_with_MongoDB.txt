@@ -1,1 +1,0 @@
-Các buổi học Managing Large datasets with MongoDB: Từ Tuần 9 đến Tuần 10, tức từ 18/03/2024 đến 30/03/2024, các buổi học Managing Large datasets with MongoDB tiếp tục vào Thứ Ba (TL04, TL07), Thứ Năm (TL05, TL08) và Thứ Bảy (TL06, TL09).

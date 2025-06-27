@@ -1,0 +1,61 @@
+Giới thiệu khóa học: Tài liệu hướng dẫn này được sử dụng cho Kỳ 4 của chương trình ACCP, nhằm giới thiệu cho sinh viên về lập trình và phát triển ứng dụng.
+
+Mục tiêu khóa học: Sinh viên sẽ học các mô-đun sau trong kỳ này: Giới thiệu lập trình Dart, Phát triển ứng dụng sử dụng Flutter và Dart, Phát triển thành phần web sử dụng Jakarta EE, Xây dựng ứng dụng web Java với Spring Framework, Phát triển ứng dụng doanh nghiệp trong Jakarta EE, Tạo dịch vụ cho web, và Dự án phát triển ứng dụng doanh nghiệp Java.
+
+Mục tiêu nghề nghiệp: Nội dung khóa học được thiết kế đặc biệt cho những người muốn theo đuổi sự nghiệp trong lĩnh vực lập trình ứng dụng và phát triển di động.
+
+Năng lực sau khóa học: Sau khi hoàn thành Kỳ 4, sinh viên sẽ có khả năng: Xây dựng ứng dụng đa nền tảng bằng Flutter Framework và ngôn ngữ Dart; Phát triển ứng dụng web phù hợp với bất kỳ máy chủ ứng dụng Jakarta EE nào sử dụng JSP và Servlet API; Hiểu và làm việc với Spring Framework và Spring Boot; Phát triển ứng dụng doanh nghiệp sử dụng Jakarta Enterprise Beans; Thiết kế và phát triển ứng dụng doanh nghiệp sử dụng Jakarta Web Services API.
+
+Dự án cuối kỳ: Dự án trong kỳ này sẽ bao gồm việc xây dựng một ứng dụng doanh nghiệp thực tế sử dụng các công nghệ Jakarta EE.
+
+Thông tin chung lịch học: Bảng dưới đây trình bày chi tiết các mô-đun, số giờ dành cho mỗi mô-đun cùng với phân bổ giờ học. Kỳ này dựa trên các buổi học lý thuyết và thực hành tại phòng lab. Mỗi buổi học kéo dài hai giờ.
+
+Phân bổ giờ học: Tổng số giờ học cho các mô-đun như sau: Giới thiệu lập trình Dart (16 giờ trực tuyến, 0 giờ lý thuyết, 16 giờ tổng cộng, 8 giờ tự học, mã kỹ năng 1306); Phát triển ứng dụng sử dụng Flutter và Dart (40 giờ trực tuyến, 0 giờ lý thuyết, 40 giờ tổng cộng, 16 giờ tự học, mã kỹ năng 1307); Phát triển thành phần web sử dụng Jakarta EE (40 giờ trực tuyến, 0 giờ lý thuyết, 40 giờ tổng cộng, 16 giờ tự học, mã kỹ năng 1342); Xây dựng ứng dụng web Java với Spring Framework (24 giờ trực tuyến, 0 giờ lý thuyết, 24 giờ tổng cộng, 6 giờ tự học, mã kỹ năng 1343); Phát triển ứng dụng doanh nghiệp trong Jakarta EE (40 giờ trực tuyến, 0 giờ lý thuyết, 40 giờ tổng cộng, 16 giờ tự học, mã kỹ năng 1342); Tạo dịch vụ cho web (16 giờ trực tuyến, 0 giờ lý thuyết, 16 giờ tổng cộng, 6 giờ tự học, mã kỹ năng 1342); Dự án phát triển ứng dụng doanh nghiệp Java (2 giờ trực tuyến, 22 giờ lý thuyết, 24 giờ tổng cộng, 0 giờ tự học, mã kỹ năng 1342). Tổng cộng có 178 giờ trực tuyến, 22 giờ lý thuyết, 200 giờ tổng cộng và 68 giờ tự học.
+
+Lịch trình học theo tuần: Lịch trình chi tiết theo tuần của Kỳ 4 bao gồm các buổi học trực tuyến (TL), kiểm tra mô-đun (E), kiểm tra thực hành (R), tự học (S) và dự án (P) được phân bổ theo từng ngày (D) cho các mô-đun khác nhau. Các mô-đun bao gồm Giới thiệu lập trình Dart, Phát triển ứng dụng sử dụng Flutter và Dart, Phát triển thành phần web sử dụng Jakarta EE, Xây dựng ứng dụng web Java với Spring Framework, Phát triển ứng dụng doanh nghiệp trong Jakarta EE, Tạo dịch vụ cho web, và Dự án phát triển ứng dụng doanh nghiệp Java.
+
+Tài liệu cung cấp cho sinh viên: Các tài liệu được cung cấp cho sinh viên bao gồm: Sách "Giới thiệu lập trình Dart" (mã AINNDARTP10322E000); Sách "Phát triển ứng dụng sử dụng Flutter và Dart" (mã AINNFLUTR10322E000); Sách "Trang máy chủ Jakarta và Servlets" (mã AINNJKJSP10424E000); Sách "Spring và Spring Boot với ứng dụng web Jakarta EE" (mã AINNSPRBT10424E000); Sách "Jakarta Enterprise Beans trong thực tế" (mã AINNJKEJB10522E000); Sách "Dịch vụ web Jakarta" (mã JAINNJKSER1052E000); Sách "Phát triển ứng dụng web doanh nghiệp Java" (mã AINNPGJEE10324E000). Tất cả các tài liệu này thuộc bộ Kit OV-7091-KIT01-04-G, bao gồm 7 đầu sách cho ACCP Kỳ 4.
+
+Tài liệu cung cấp cho giảng viên: Các tài liệu được cung cấp cho giảng viên bao gồm: Sách "Giới thiệu lập trình Dart" (mã AINNDARTP10322E000); Sách "Phát triển ứng dụng sử dụng Flutter và Dart" (mã AINNFLUTR10322E000); Sách "Trang máy chủ Jakarta và Servlets" (mã AINNJKJSP10424E000); Sách "Spring và Spring Boot với ứng dụng web Jakarta EE" (mã AINNSPRBT10424E000); Sách "Jakarta Enterprise Beans trong thực tế" (mã AINNJKEJB10522E000); Sách "Dịch vụ web Jakarta" (mã JAINNJKSER1052E000); Sách "Phát triển ứng dụng web doanh nghiệp Java" (mã AINNPGJEE10324E000). Ngoài ra còn có Tài liệu hướng dẫn chính (Master PM), Tài liệu hướng dẫn mô-đun (Module PMs), Bài thuyết trình trên lớp và Hướng dẫn giảng viên. Tất cả các tài liệu này thuộc bộ Kit OV-7091-KIT01-04-G, bao gồm 7 đầu sách cho ACCP Kỳ 4.
+
+Tài liệu OnlineVarsity: Để hỗ trợ quá trình học tập, các tài liệu OnlineVarsity bao gồm Hướng dẫn học viên (sách điện tử) và các tài nguyên trực tuyến.
+
+Tài nguyên OnlineVarsity: Các tài nguyên có sẵn trên OnlineVarsity cho sinh viên bao gồm: Tải sách (sinh viên có thể tải sách điện tử liên quan đến môn học và đọc ngoại tuyến); Thuật ngữ (sinh viên có thể truy cập danh sách các từ chuyên ngành liên quan đến môn học cùng với định nghĩa của chúng); Câu hỏi thường gặp (sinh viên có thể truy cập các câu hỏi thường gặp và câu trả lời của chúng); Hướng dẫn thực hiện (sinh viên có thể xem mô phỏng/minh họa từng bước các chủ đề liên quan đến mô-đun); Thực hành cho tôi (sinh viên có thể kiểm tra và đánh giá mức độ hiểu biết của mình về các chủ đề liên quan đến mô-đun); Bài tập thực hành (sinh viên có thể giải các bài tập lab dựa trên kịch bản thực tế, giảng viên sẽ đánh giá và đưa ra phản hồi); Tài liệu tham khảo (sinh viên có thể truy cập tài liệu bổ sung liên quan đến môn học để đọc); Phản hồi (sinh viên có thể cung cấp phản hồi về tài liệu khóa học); Hỏi để học (sinh viên có thể gửi các câu hỏi kỹ thuật liên quan đến môn học, các câu hỏi sẽ được chuyển đến điều phối viên/trưởng phòng khóa học cụ thể).
+
+Chiến lược đánh giá: Chiến lược đánh giá cho kỳ này bao gồm: Kiểm tra mô-đun (Mục tiêu - AoLEAP), Kiểm tra thực hành, và Dự án.
+
+Tiêu chí xếp loại: Điểm tổng trọng số từ 40% đến dưới 60% đạt loại Đạt; từ 60% đến dưới 75% đạt loại Khá; từ 75% trở lên đạt loại Giỏi. Để đạt được loại Đạt, Khá hoặc Giỏi, sinh viên phải đạt ít nhất 40% ở mỗi phần của Kiểm tra mô-đun, nếu không sẽ bị xếp loại "Referred".
+
+Kiểm tra mô-đun 1 (E1): Bài kiểm tra này có 20 điểm, thời lượng 40 phút, loại trắc nghiệm. Nội dung bao gồm môn "Giới thiệu lập trình Dart".
+
+Kiểm tra mô-đun 2 (E2): Bài kiểm tra này có 20 điểm, thời lượng 40 phút, loại trắc nghiệm. Nội dung bao gồm môn "Phát triển ứng dụng sử dụng Flutter và Dart".
+
+Kiểm tra mô-đun 3 (E3): Bài kiểm tra này có 20 điểm, thời lượng 40 phút, loại trắc nghiệm. Nội dung bao gồm môn "Phát triển thành phần web sử dụng Jakarta EE".
+
+Kiểm tra mô-đun 4 (E4): Bài kiểm tra này có 20 điểm, thời lượng 40 phút, loại trắc nghiệm. Nội dung bao gồm môn "Xây dựng ứng dụng web Java với Spring Framework".
+
+Kiểm tra mô-đun 5 (E5): Bài kiểm tra này có 20 điểm, thời lượng 40 phút, loại trắc nghiệm. Nội dung bao gồm môn "Phát triển ứng dụng doanh nghiệp trong Jakarta EE".
+
+Kiểm tra mô-đun 6 (E6): Bài kiểm tra này có 20 điểm, thời lượng 40 phút, loại trắc nghiệm. Nội dung bao gồm môn "Tạo dịch vụ cho web".
+
+Kiểm tra thực hành 1 (R1): Bài kiểm tra này có 20 điểm, thời lượng 60 phút, loại thực hành. Nội dung bao gồm môn "Giới thiệu lập trình Dart".
+
+Kiểm tra thực hành 2 (R2): Bài kiểm tra này có 20 điểm, thời lượng 60 phút, loại thực hành. Nội dung bao gồm môn "Phát triển ứng dụng sử dụng Flutter và Dart".
+
+Kiểm tra thực hành 3 (R3): Bài kiểm tra này có 20 điểm, thời lượng 60 phút, loại thực hành. Nội dung bao gồm môn "Phát triển thành phần web sử dụng Jakarta EE".
+
+Kiểm tra thực hành 4 (R4): Bài kiểm tra này có 20 điểm, thời lượng 60 phút, loại thực hành. Nội dung bao gồm môn "Xây dựng ứng dụng web Java với Spring Framework".
+
+Kiểm tra thực hành 5 (R5): Bài kiểm tra này có 20 điểm, thời lượng 60 phút, loại thực hành. Nội dung bao gồm môn "Phát triển ứng dụng doanh nghiệp trong Jakarta EE".
+
+Kiểm tra thực hành 6 (R6): Bài kiểm tra này có 20 điểm, thời lượng 60 phút, loại thực hành. Nội dung bao gồm môn "Tạo dịch vụ cho web".
+
+Dự án cuối kỳ: Dự án cuối kỳ có 100 điểm, thời lượng 24 giờ, loại dự án. Nội dung bao gồm môn "Dự án phát triển ứng dụng doanh nghiệp Java".
+
+Chi tiết đánh giá: Tỷ lệ đánh giá tổng thể là: Kiểm tra trắc nghiệm (OES) chiếm 50%, Thực hành chiếm 30%, và Dự án chiếm 20%.
+
+Yêu cầu phần mềm: Các yêu cầu phần mềm để thực hiện các buổi học bao gồm: Microsoft Windows 11, Apache NetBeans 16 trở lên, Eclipse 2021 trở lên, Android Studio Bumblebee, Flutter SDK 1.22 với Dart 2.10.x trở lên, Jakarta EE Platform 10, Spring 6.x, Spring Boot 3.0.x.
+
+Yêu cầu phần cứng: Các yêu cầu phần cứng được khuyến nghị bao gồm: Bộ xử lý Intel Core i3/i5 trở lên, RAM 8 GB trở lên, Màn hình SVGA màu, Dung lượng ổ cứng 500 GB, Chuột, Bàn phím.
+
+Yêu cầu khác cho lớp học: Các yêu cầu khác cho lớp học bao gồm: Máy tính để trình diễn khi cần thiết, Máy chiếu LCD.

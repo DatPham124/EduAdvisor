@@ -1,0 +1,31 @@
+Đối tượng khóa học: Khóa học lập trình Arduino được thiết kế dành cho học sinh trung học cơ sở và học sinh trung học phổ thông.
+
+Chứng nhận hoàn thành: Sau khi hoàn thành khóa học, học viên sẽ được Trung tâm Công nghệ Phần mềm Đại học Cần Thơ (CUSC) cấp chứng nhận.
+
+Hình thức đào tạo: Khóa học được triển khai giảng dạy theo hình thức kết hợp trực tiếp (offline) và trực tuyến (online) trên toàn vùng Đồng bằng Sông Cửu Long.
+
+Mục tiêu lập trình kéo thả: Khóa học giúp học viên làm quen và thành thạo ngôn ngữ lập trình kéo thả, tạo nền tảng vững chắc để tiếp cận các ngôn ngữ lập trình phức tạp hơn trong tương lai.
+
+Mục tiêu kỹ năng mạch điện: Học viên sẽ phát triển kỹ năng vẽ mạch điện bằng phần mềm mô phỏng Tinkercad, hiểu rõ cách hoạt động của linh kiện điện tử trong dự án thực tế.
+
+Mục tiêu tư duy logic: Khóa học rèn luyện khả năng tư duy logic và giải quyết vấn đề thông qua lập trình và thiết kế mạch điện, từ đó nâng cao khả năng phân tích và sáng tạo.
+
+Mục tiêu ứng dụng thực tiễn: Khóa học khuyến khích học viên áp dụng kiến thức đã học vào các dự án thực tế, từ đơn giản đến phức tạp, tăng cường hiểu biết và khả năng thực hành.
+
+Mục tiêu phát triển ý tưởng: Khóa học tạo môi trường học tập linh hoạt, khuyến khích học viên tự do sáng tạo và phát triển ý tưởng cá nhân, nhằm thúc đẩy tinh thần sáng tạo và niềm đam mê công nghệ.
+
+Điểm nổi bật phương pháp học: Khóa học sử dụng ngôn ngữ lập trình kéo thả và phần mềm mô phỏng TinkerCAD trực quan, giúp học viên dễ dàng tiếp cận và nắm bắt kiến thức một cách thú vị, dễ hiểu.
+
+Điểm nổi bật thực hành: Khóa học kết hợp lý thuyết và thực hành với nhiều bài tập, dự án thực tế, giúp học viên áp dụng ngay kiến thức đã học.
+
+Điểm nổi bật rèn luyện tư duy: Thông qua các bài tập lập trình và thiết kế mạch điện, học viên được rèn luyện kỹ năng tư duy logic và giải quyết vấn đề hiệu quả.
+
+Điểm nổi bật sáng tạo: Môi trường học tập linh hoạt khuyến khích sáng tạo, giúp học viên tự do phát triển ý tưởng cá nhân và khám phá tiềm năng sáng tạo.
+
+Điểm nổi bật ứng dụng: Kiến thức và kỹ năng từ khóa học có thể áp dụng vào nhiều dự án thực tế, từ mô hình đơn giản đến phức tạp, giúp học viên thấy rõ giá trị thực tiễn.
+
+Cấu trúc chương trình: Chương trình học được chia thành một chặng duy nhất (STAGE 1), bao gồm hai trạm học chính là Station 1.1 và Station 1.2, mỗi trạm kéo dài 24 giờ.
+
+Nội dung Station 1.1: Station 1.1 của khóa học bao gồm: Giới thiệu chung về Arduino và phần mềm mô phỏng; Làm quen với TinkerCAD; Tìm hiểu về LED đơn, LED RGB, LED 7 đoạn; Thực hành lập trình LED đơn, LED RGB, LED 7 đoạn với Arduino Uno; Công nghệ màn hình LCD và ứng dụng; Thực hành lập trình LCD với Arduino Uno; Lý thuyết và lập trình động cơ DC; Lý thuyết và lập trình động cơ Servo.
+
+Nội dung Station 1.2: Station 1.2 của khóa học bao gồm: Tìm hiểu nút nhấn và cách đọc dữ liệu bằng Arduino Uno; Nguyên lý hoạt động cảm biến và phương pháp đọc dữ liệu; Tìm hiểu chi tiết về cảm biến chuyển động, ánh sáng, nhiệt độ, độ ẩm đất; Thực hành đọc dữ liệu từ các loại cảm biến; Hàm điều kiện và ứng dụng tự động hóa.

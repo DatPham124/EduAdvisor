@@ -1,1 +1,0 @@
-Tiêu chí đánh giá tính chuyên cần học tập qua mức độ hoàn thành bài tập thực hành và bài tập về nhà : Việc đánh giá kết quả buổi thực hành có thể được thực hiện bằng cách chọn ngẫu nhiên sinh viên hoặc nhóm sinh viên. Sinh viên sẽ được cộng điểm khi hoàn thành bài tập thực hành trên lớp và hoàn thành các bài tập về nhà.

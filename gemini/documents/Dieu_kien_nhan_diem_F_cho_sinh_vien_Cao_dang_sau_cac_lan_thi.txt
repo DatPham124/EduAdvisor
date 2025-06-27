@@ -1,1 +1,0 @@
-Điều kiện nhận điểm F cho sinh viên Cao đẳng sau các lần thi: Nếu sau hai lần thi, sinh viên Cao đẳng không đạt một trong hai phần thi lý thuyết hoặc thực hành của học phần, sinh viên sẽ nhận điểm F.
