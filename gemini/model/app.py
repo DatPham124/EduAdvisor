@@ -12,7 +12,14 @@ import re
 
 dotenv.load_dotenv()
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
-gemini_model = genai.GenerativeModel(model_name="gemini-2.5-flash")
+generation_config = genai.GenerationConfig(
+    temperature=1,
+    top_p=0.95,
+    max_output_tokens=1024,
+    top_k=40,
+    stop_sequences=["\n\n"]
+)
+gemini_model = genai.GenerativeModel(model_name="gemini-2.5-flash", generation_config=generation_config)
 
 # === KẾT NỐI MONGODB ===
 client = MongoClient("mongodb://localhost:27017/")
@@ -20,7 +27,7 @@ db = client["eduadvisor"]
 collection = db["documents"]
 
 app = Flask(__name__)
-history = []
+chat_history = []
 
 def normalize_text(text):
     text = unidecode(text)
@@ -29,44 +36,16 @@ def normalize_text(text):
     text = re.sub(r"\s+", " ", text).strip()
     return text
 
-def find_intents(question, intent_list, user_info=None, faq_text=None):
+def find_intents(question, intent_list, user_info=None, faq_text=None, chat_session=None):
     start = time.time()
-
-    last_turn = history[-1] if history else None
-    last_q = last_turn["question"] if last_turn else ""
-    last_a = last_turn["answer"] if last_turn else ""
-    last_intent = last_turn["intent"] if last_turn else ""
-
-    # Nếu giống phản hồi trước (fuzzy match)
-    if fuzz.partial_ratio(question.lower(), last_a.lower()) > 85:
-        return last_intent or "no"
-    
-    faq_pairs = re.findall(r"Q:\s*(.*?)\s*A:\s*(.*?)(?=\nQ:|\Z)", faq_text, re.DOTALL)
-    similarity = 0
-
-    for q, _ in faq_pairs:
-        similarity = fuzz.partial_ratio(
-            normalize_text(question),
-            normalize_text(q)
-        )
-        if similarity >= 80:  # Ngưỡng tùy chỉnh
-            print(f"[Match] Giống FAQ: {q} ({similarity}%)")
-            return "cau_hoi_thuong_gap"
-    
-    print('[Unmatched] Độ tương tự chỉ: {:.2f}%'.format(similarity))
     
     prompt = f"""
     Bạn là chuyên gia phân tích ngữ cảnh cho chatbot tại Trung tâm CUSC.
     Dựa trên câu hỏi người dùng, sở thích của họ và lịch sử hội thoại, bạn cần xác định ngữ cảnh phù hợp nhất.
-    Từ chối trả lời câu hỏi không liên quan đến Trung tâm CUSC.
     Dưới đây là thông tin cần thiết:
 
     Câu hỏi người dùng: "{question}"
     Sở thích của người dùng: {user_info or "(Không có thông tin)"}
-    Lịch sử gần nhất:
-    - Người dùng: {last_q}
-    - Chatbot: {last_a}
-    - Ngữ cảnh trước: {last_intent or "(chưa có)"}
 
     Danh sách ngữ cảnh: {intent_list}
 
@@ -78,7 +57,7 @@ def find_intents(question, intent_list, user_info=None, faq_text=None):
     Trả về 1 intent liên quan nhất, cách nhau bằng dấu chấm `.`, không giải thích.
     """
 
-    response = gemini_model.generate_content(prompt)
+    response = chat_session.send_message(prompt)
     print(f"[Time] Find intents took: {time.time() - start} giây")
     return response.text.strip()
 
@@ -112,39 +91,43 @@ def get_data_from_metadata(intents):
     return combined_content.strip() if combined_content else None
 
 
-def get_limited_history(max_chars=500):
-    history_text = ""
-    for entry in reversed(history):
-        turn = f"Người dùng: {entry['question']}\nchatbot: {entry['answer']}\n"
-        if len(history_text) + len(turn) > max_chars:
-            break
-        history_text = turn + history_text
-    return history_text
-
-# def count_tokens(text, model="gpt-3.5-turbo"):
-#     encoding = tiktoken.encoding_for_model(model)
-#     tokens = encoding.encode(text)
-#     return len(tokens)
-
-def generate_answer(question, context, user_info=None):
+def generate_answer(question, context, user_info=None, chat_session=None):
     start = time.time()
-    chat_history = get_limited_history()
 
     prompt = f"""
-    Bạn là một người tư vấn thông minh, thân thiện và chuyên nghiệp của Trung tâm phần mềm CUSC.
+    Luôn nhấn mạnh rằng bạn là một trợ lý AI của Trung tâm công nghệ phần mềm CUSC.
+    Bạn chỉ tư vấn các thông tin về Trung tâm, các câu hỏi không liên quan đến trung tâm hãy trả lời là "Xin lỗi, tôi không thể giúp về vấn đề này.".
 
+    Thông tin dùng để trả lời:
     Thông tin người dùng: {user_info or "(Không có thông tin)"}
-    Hội thoại trước: {chat_history}
-
     Câu hỏi: "{question}"
     Ngữ cảnh: {context or "(Không có ngữ cảnh cụ thể)"}
+    Bên cạnh ngữ cảnh được cung cấp, bạn hãy chủ động tìm kiếm các thông tin liên quan mới nhất ở các trang web chính thức của trung tâm:
+    - https://cusc.ctu.edu.vn/
+    - https://acnpro.cusc.vn/
+    - https://arenacantho.cusc.vn/
+    - https://aptechcantho.cusc.vn/
+    - https://aptech.cusc.vn/
+    - http://www.cuscsoft.com/
 
-    Trả lời ngắn gọn, chính xác và thân thiện bằng tiếng Việt.
-    Không quá 200 từ.
-    Nếu không có thông tin dù đã xác định được ngữ cảnh, hãy tìm kiếm thông tin trên internet và các trang web uy tín để trả lời.
+    Trả lời ngắn gọn, chính xác và thân thiện bằng tiếng Việt. 
+    Các từ về chuyên ngành, chức vụ vị trí, tên người phải được giữ nguyên.
+    
+    Nếu không tìm được trả lời, hãy gợi ý người dùng tư vấn với nhân viên tư vấn của trung tâm ở phần chatbot ngay bên dưới hoặc tư vấn qua các thông tin liên hệ.
+
+
+    Định dạng câu trả lời với Markdown, bao gồm:
+    - Sử dụng in đậm cho các từ khóa quan trọng.
+    - Sử dụng in nghiêng cho các từ khóa hoặc tên riêng.
+    - Sử dụng tiêu đề h4 cho các tiêu đề chính.
+    - Liệt kê dữ liệu theo dạng danh sách nếu có thể.
+    - Trình bày dữ liệu dạng bảng nếu dữ liệu có 2 trường trở lên.
+    - Dùng các icon để câu trả lời trở nên thú vị hơn.
+    - Nếu câu trả lời là danh sách hay liệt kê, trình bày nội dung dưới dạng danh sách.
+
     Nếu có thể, gợi ý câu hỏi tiếp theo.
     """
-    response = gemini_model.generate_content(prompt)
+    response = chat_session.send_message(prompt)
     print(f"[Time] Generate answer took: {time.time() - start} giây")
     return response.text.strip()
 
@@ -156,6 +139,10 @@ def chat():
     data = request.get_json()
     question = data.get("question")
     user_info = data.get("user_info", "")
+
+    chat_session = gemini_model.start_chat(
+        history = chat_history,
+    )
 
     if not question:
         return jsonify({"answer": "Vui lòng nhập câu hỏi."})
@@ -172,20 +159,17 @@ def chat():
     all_relevant_terms = list(set(all_domains + all_subdomains + all_topics + all_intents_from_db))
     intent_list = ". ".join(filter(None, all_relevant_terms)) # Lọc bỏ các giá trị None
     
-    intents = find_intents(question, intent_list , user_info, faq)
+    intents = find_intents(question, intent_list , user_info, faq, chat_session)
     print(f"[Intent] Nhận diện ngữ cảnh: {intents}")
     context = None
     if intents != "no":
         # Sử dụng hàm mới để lấy dữ liệu dựa trên metadata
         context = get_data_from_metadata(intents)
     
-    answer = generate_answer(question, context, user_info)
+    answer = generate_answer(question, context, user_info, chat_session)
 
-    history.append({
-        "question": question,
-        "answer": answer,
-        "intent": intents if intents != "no" else None,
-    })
+    chat_history.append({"role": "user", "parts": question})
+    chat_history.append({"role": "model", "parts": answer})
     print(f"[Time] Total processing time: {time.time() - start} giây")
     print(f"--------------------------------------------")
     return jsonify({"answer": answer})

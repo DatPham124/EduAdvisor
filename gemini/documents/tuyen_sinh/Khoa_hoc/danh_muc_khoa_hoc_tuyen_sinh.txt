@@ -1,0 +1,46 @@
+Trung tâm hiện có hơn 30 khóa học đã, sẽ và đang giảng dạy. 
+
+I. Các khóa học dài hạn là chương trình giảng dạy chính của trung tâm
+Khóa học Kỹ sư phần mềm quốc tế APTECH(Aptech Certified Computer Professional - ACCP) 
+Khóa học Kỹ thuật phần mềm nâng cao APTECH (Advanced Diploma in Software Engineering – ADSE)
+Khóa học Chuyên viên Mỹ thuật Đa phương tiện Arena (Arena Multimedia Specialist Program -AMSP) 
+Khóa học Chuyên viên Phân tích Dữ liệu ACN PRO (Certificate of Proficiency in Data Analysis - ACNPro)
+
+II. Bên cạnh đó trung tâm còn định kỳ mở các khóa học dưới đây:
+    1. Khóa học STEAM cho học sinh THCS và THPT:
+        Khóa học Phát triển tư duy lập trình Arduino
+        Khóa học Phát triển tư duy với Python 
+        Khóa học Thiết kế Web sáng tạo
+    2. Khóa học ngắn hạn cho những ai có nhu cầu:
+        Khóa học An toàn, an ninh thông tin (Hacker mũ trắng)
+        Khóa học Thiết kế web và lập trình Front-end
+        Khóa học Phát triển ứng dụng di động đa nền tảng với Flutter 
+        Khóa học Kiểm thử Phần mềm chuyên nghiệp (AGEST Certified Test Professional - ACTP) 
+        Khóa học Quản trị mạng doanh nghiệp
+        Khóa học Lập trình Back-end với PHP & MySQL 
+        Khóa học Điều Tra Tội phạm Máy tính (Ethical Hacking and Forensic Investigation)
+        Khóa học Phát triển ứng dụng Web với Laravel và AngularJS
+        Khóa học Lập trình Trí tuệ nhân tạo với Python 
+        Khóa học Phân tích và trực quan hóa dữ liệu với Python 
+        Khóa học Thiết kế đồ họa cho quảng cáo 
+        Khóa học Nhiếp ảnh số - Xử lý ảnh kỹ thuật 
+        Khóa học Thiết kế giao diện (UI/UX) Website bằng Figma 
+        Khóa học Quản trị và an ninh mạng 
+        Khóa học Trí tuệ nhân tạo 
+        Khóa học Xây dựng Ứng dụng Web với Node.js và Express.js Framework 
+        Khóa học Thiết kế đồ họa cho quảng cáo (Online)
+        Khóa học Trí tuệ nhân tạo cho nhân viên văn phòng (Online) 
+        Khóa học Phân tích dữ liệu thông minh với Power BI và GenAI (Online) 
+    3. Các đào tạo theo yêu cầu cho doanh nghiệp
+        a. Nhóm kiến thức và kỹ năng CNTT cơ bản và nâng cao gồm:
+            Khóa học "Biên tập trang thông tin điện tử"  
+            Khóa học "Thiết kế đồ họa cho quảng cáo" 
+            Khóa học "Nhiếp ảnh số và xử lý ảnh hậu kỳ"  
+            Khóa học "Ứng dụng điện toán đám mây trong nghiệp vụ" 
+        b. Nhóm kiến thức và kỹ năng về an toàn an ninh thông tin gồm:
+            Khóa học "An toàn, an ninh thông tin cho người dùng"
+            Khóa học "An toàn và an ninh thông tin doanh nghiệp" 
+            Khóa học "Bảo mật ứng dụng Web" 
+        c. Nhóm kiến thức chuyển đổi số doanh nghiệp gồm: 
+            Khóa học "Phân tích và xử lý dữ liệu thông minh 1, 2, 3"
+            Khóa học "Giải pháp phát triển kênh tiếp thị và bán hàng"
