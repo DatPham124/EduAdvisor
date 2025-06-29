@@ -11,45 +11,70 @@ exports.chat = async (req, res, next) => {
     return res.json({ answer: "Vui lòng nhập câu hỏi" });
   }
 
+  // Tìm người dùng
+  const user = await User.findById(user_id);
+  if (!user) {
+    return res.status(404).json({ error: "Người dùng không tồn tại" });
+  }
+
+  const userInfo = `Thông tin học sinh: ${user.name}, sở thích: ${user.favorite}`;
+
+  // Tìm hoặc tạo lịch sử
+  let historyRecord = await HistoryConversation.findOne({ userId: user_id });
+  if (!historyRecord) {
+    historyRecord = new HistoryConversation({
+      userId: user_id,
+      conversations: [], // 🟢 Đúng tên field theo schema
+    });
+    await historyRecord.save();
+  }
+
+  // 🟢 Chuyển đổi conversations sang định dạng Gemini yêu cầu
+  const formattedHistory = historyRecord.conversations.flatMap(item => [
+    { role: "user", parts: item.question },
+    { role: "model", parts: item.answer }
+  ]);
+
+  // Gọi Flask
+  let answer;
   try {
-    const user = await User.findById(user_id);
-    if (!user) {
-      return res.status(404).json({ error: "Người dùng không tồn tại" });
-    }
-
-    const userInfo = `Thông tin học sinh: ${user.name}, sở thích: ${user.favorite}`;
-
     const response = await axios.post("http://localhost:5000/chat", {
       question,
       user_info: userInfo,
+      history: formattedHistory,
     });
-
-    const answer = response.data.answer;
-
-    // Tạo đoạn hội thoại mới
-    const newConversation = {
-      question,
-      answer,
-      timestamp: new Date(),
-    };
-
-    // Tìm hoặc tạo mới lịch sử hội thoại
-    try {
-      await HistoryConversation.findOneAndUpdate(
-        { userId: user_id },
-        { $push: { conversations: newConversation } },
-        { upsert: true, new: true }
-      );
-    } catch (err) {
-      console.error("Lỗi khi update hoặc tạo mới lịch sử:", err);
-    }
-
-    return res.json({ answer });
-  } catch (error) {
-    return next(new ApiError(500, `Không thể trả lời câu hỏi: ${error}`));
+    answer = response.data.answer;
+  } catch (err) {
+    console.error("Lỗi gọi API Flask:", err.message);
+    return res.status(500).json({ error: "Lỗi khi kết nối chatbot" });
   }
+
+  // Lưu lại vào lịch sử
+  try {
+    await HistoryConversation.findOneAndUpdate(
+      { userId: user_id },
+      {
+        $push: {
+          conversations: [
+            { question: question, answer: answer }
+          ],
+        },
+      },
+      { new: true }
+    );
+  } catch (err) {
+    console.error("Lỗi khi cập nhật lịch sử:", err);
+    return res.status(500).json({ error: "Không thể lưu lịch sử hội thoại" });
+  }
+
+  return res.json({ answer });
 };
 
+
+
+
+
+// Lấy lịch sử hội thoại
 exports.getConversation = catchAsync(async (req, res, next) => {
   const { id } = req.params;
 
