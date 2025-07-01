@@ -8,3 +8,4 @@ unidecode
 filetype
 rapidfuzz
 python-docx
+tiktoken

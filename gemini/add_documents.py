@@ -20,7 +20,7 @@ for domain_name in os.listdir(base_folder):
 
     # Xoá các document cũ thuộc domain này
     delete_result = collection.delete_many({"domain": domain_name})
-    print(f"🧹 Đã xóa {delete_result.deleted_count} documents của domain '{domain_name}'.")
+    print(f"Đã xóa {delete_result.deleted_count} documents của domain '{domain_name}'.")
 
     # Duyệt tất cả file .txt bên trong domain và các thư mục con
     for root, dirs, files in os.walk(domain_path):
@@ -57,4 +57,4 @@ for domain_name in os.listdir(base_folder):
 
                 # Lưu vào MongoDB
                 collection.insert_one(document)
-                print(f"✅ Đã thêm: {filepath}")
+                print(f"Đã thêm: {filepath}")
