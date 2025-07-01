@@ -1,6 +1,107 @@
 Giới thiệu chương trình AMSP:
 Chương trình Chuyên gia Đa phương tiện Arena (AMSP) với mã chương trình OV-6899-AMSP được giới thiệu bởi Arena Multimedia.
 
+
+Cấu trúc khóa học AMSP:
+Khóa học AMSP được chia thành bốn kỳ, với tổng thời lượng 752 giờ.
+*   Kỳ 1: Bộ thiết kế đồ họa.
+*   Kỳ 2: Bộ thiết kế web & kỹ thuật số.
+*   Kỳ 3: Làm phim & thiết kế game.
+*   Kỳ 4: Hoạt hình 3D.
+
+Chi tiết khóa học trong APTRACK:
+Chương trình AMSP (OV-6899-AMSP) cung cấp các chứng chỉ và bằng cấp khác nhau tùy theo số kỳ học.
+*   Chứng chỉ Đa phương tiện (CIM): Mã khóa học OV-6899-CIM, hoàn thành Kỳ 1.
+*   Bằng Đa phương tiện (DIM): Mã khóa học OV-6899-DIM, hoàn thành Kỳ 1 & 2.
+*   Bằng Cao đẳng Đa phương tiện Nâng cao (ADIM): Mã khóa học OV-6899-ADIM, hoàn thành Kỳ 1 đến 4.
+
+Chứng nhận khóa học AMSP:
+Học viên sẽ nhận được các chứng nhận sau khi hoàn thành các kỳ học:
+*   Kỳ 1: Chứng chỉ Đa phương tiện (CIM).
+*   Kỳ 1 - 2: Bằng Đa phương tiện (DIM).
+*   Kỳ 1 - 4: Bằng Cao đẳng Đa phương tiện Nâng cao (ADIM).
+
+Kỳ 1: Bộ thiết kế đồ họa:
+Kỳ 1 tập trung vào thiết kế đồ họa với tổng thời lượng 176 giờ, bao gồm 86 giờ lý thuyết và 90 giờ thực hành.
+*   Các mô-đun: Khái niệm đồ họa và minh họa, Thiết kế kiểu chữ, Nghệ thuật kỹ thuật số, Phép thuật với hình ảnh, Lightroom cho nhiếp ảnh gia, Thiết kế cho in ấn và quảng cáo, Xuất bản cho truyền thông, Danh mục đầu tư in ấn (Dự án).
+*   Công cụ/Phần mềm: Adobe Illustrator, Adobe Photoshop, Adobe Lightroom, Adobe InDesign & InCopy.
+*   Cơ hội nghề nghiệp: Nhà thiết kế đồ họa, Họa sĩ minh họa, Nhà thiết kế bố cục, Người hình dung, Biên tập viên ảnh.
+
+Kỳ 1: Kết quả học tập:
+Học viên sẽ học cách tạo ra ý tưởng sáng tạo và chuyển đổi chúng thành các thiết kế đồ họa hiệu quả.
+*   Hiểu các khái niệm cơ bản về đồ họa và minh họa.
+*   Học các yếu tố vẽ, loại hình vẽ, bố cục vẽ để vẽ từ đầu.
+*   Học các kỹ thuật cơ bản về kiểu chữ, theo dõi sự phát triển và các khía cạnh khác nhau của kiểu chữ.
+*   Học cách tạo minh họa bằng Adobe Illustrator.
+*   Học cách tạo đồ họa mạnh mẽ bằng Adobe Photoshop.
+*   Học các công cụ và quy tắc của nhiếp ảnh kỹ thuật số.
+*   Hiểu các kỹ thuật hậu kỳ bằng Lightroom.
+*   Hiểu các khái niệm về Thiết kế cho in ấn và Quảng cáo.
+*   Mô tả khía cạnh chức năng của quảng cáo in ấn.
+*   Thiết kế và xuất bản bố cục trang cho tạp chí và tài liệu quảng cáo.
+
+Kỳ 2: Bộ thiết kế web & kỹ thuật số:
+Kỳ 2 tập trung vào thiết kế web và kỹ thuật số với tổng thời lượng 126 giờ, bao gồm 78 giờ lý thuyết và 48 giờ thực hành.
+*   Các mô-đun: Khái niệm thiết kế web, Xây dựng trang web thế hệ tiếp theo, Thiết kế trang web, Hoạt hình web, UI và UX cho thiết kế web đáp ứng, Thiết kế UI, Bootstrap, Danh mục đầu tư web (Dự án điện tử).
+*   Công cụ/Phần mềm: HTML, CSS và JavaScript, Adobe Dreamweaver, Adobe Animate, Figma, Bootstrap.
+*   Cơ hội nghề nghiệp: Hoạt hình viên web, Nhà thiết kế web, Nhà phát triển web, Nhà thiết kế UI/UX.
+
+Kỳ 2: Kết quả học tập:
+Kỳ 2 tập trung vào việc truyền đạt kỹ năng thiết kế sản phẩm kỹ thuật số và hoạt hình web bằng cách sử dụng các công nghệ, công cụ và khuôn khổ web khác nhau.
+*   Giải thích các nguyên tắc thiết kế web tốt, kết hợp đồ họa và siêu liên kết, tạo nội dung web phong phú.
+*   Học cách sử dụng JavaScript hiệu quả để làm cho các trang web năng động và chức năng hơn.
+*   Thiết kế, mã hóa và phát triển trang web.
+*   Tạo hoạt hình 2D với nội dung tương tác cơ bản cho web.
+*   Hiểu và tạo thiết kế giao diện người dùng tương tác.
+*   Học cách thiết kế trang web bằng Dreamweaver CC.
+*   Tạo wireframe, prototype và thiết kế màn hình cho các sản phẩm kỹ thuật số.
+*   Dự án điện tử trong kỳ này sẽ liên quan đến việc xây dựng một ứng dụng thực tế bằng các công nghệ web đã học.
+
+Kỳ 3: Làm phim & thiết kế game:
+Kỳ 3 tập trung vào làm phim và thiết kế game với tổng thời lượng 242 giờ, bao gồm 110 giờ lý thuyết và 132 giờ thực hành.
+*   Các mô-đun: Khái niệm làm phim kỹ thuật số, Kịch bản phân cảnh, Nhạc phim kỹ thuật số, Chỉnh sửa video kỹ thuật số, Tạo đồ họa chuyển động, Ý tưởng và hình dung game, Giới thiệu Blender, Mô hình hóa tài sản game, Retopology tài sản game, Tạo kết cấu tài sản game, Thiết kế cấp độ, Danh mục đầu tư thiết kế game 3D (Dự án).
+*   Công cụ/Phần mềm: Adobe Audition, Adobe Premier Pro, Adobe After Effects, Blender, Substance Painter, Unity 3D.
+*   Cơ hội nghề nghiệp: Không có cơ hội nghề nghiệp riêng biệt được liệt kê cho kỳ này.
+
+Kỳ 3: Kết quả học tập:
+Kỳ 3 tập trung vào việc truyền đạt các kỹ năng chỉnh sửa âm thanh-video, đồ họa chuyển động, thiết kế tài sản/nội dung 3D và game bằng cách sử dụng các công cụ được sử dụng rộng rãi trong ngành.
+*   Hiểu các khái niệm làm phim và toàn bộ quy trình làm phim kỹ thuật số.
+*   Giải thích các kỹ thuật và tầm quan trọng của kịch bản phân cảnh.
+*   Tạo, ghi và chỉnh sửa video/âm thanh.
+*   Chỉnh sửa và ghép video, tạo đồ họa chuyển động.
+*   Học các cách khác nhau để kể chuyện cho game.
+*   Hiểu giao diện người dùng, công cụ điều hướng, bảng điều khiển và tính năng của Blender.
+*   Hướng dẫn cách mô hình hóa tài sản 3D trong Blender.
+*   Học và hướng dẫn cách UV map tài sản 3D của bạn trong Blender.
+*   Tạo và vẽ kết cấu nhân vật và tài sản 3D trong Substance Painter.
+*   Học thiết kế cấp độ với Unity 3D.
+
+Kỳ 4: Hoạt hình 3D:
+Kỳ 4 tập trung vào hoạt hình 3D với tổng thời lượng 208 giờ, bao gồm 104 giờ lý thuyết và 104 giờ thực hành.
+*   Các mô-đun: Tiền sản xuất kỹ thuật số, Mô hình hóa đối tượng 3D với Maya, Tạo kết cấu đối tượng 3D với Maya, Chiếu sáng và kết xuất đối tượng 3D với Maya, Rigging đối tượng 3D với Maya, Hoạt hình nhân vật với Maya, Ghép ảnh kỹ thuật số, Phát triển danh mục đầu tư với Demo Reel (Dự án điện tử).
+*   Công cụ/Phần mềm: MAYA Unlimited, Arnold Renderer, NUKE.
+*   Cơ hội nghề nghiệp: Người ghép ảnh, Nghệ sĩ game 3D, Hoạt hình viên 3D, Người tạo mô hình 3D, Nghệ sĩ tạo kết cấu, Nghệ sĩ chiếu sáng, Nghệ sĩ rigging, Biên tập viên âm thanh/video, Nghệ sĩ kết xuất.
+
+Kỳ 4: Kết quả học tập:
+Khóa học Kỳ 4 cung cấp cho học viên nền tảng vững chắc về kỹ thuật mô hình hóa và hoạt hình 3D, ghép ảnh kỹ thuật số nâng cao.
+*   Trang bị kỹ năng và kiến thức cần thiết để tạo hoạt hình 3D, hình dung và ghép ảnh dựa trên nút, hoàn hảo đến từng pixel bằng Maya và Nuke.
+*   Hiểu quy trình tiền sản xuất phức tạp cho hoạt hình.
+*   Chuẩn bị mô hình 3D bằng công cụ mô hình hóa.
+*   Tạo và chỉnh sửa kết cấu cho mô hình 3D trong Maya.
+*   Hiểu các kỹ thuật chiếu sáng để tạo hình ảnh chân thực.
+*   Thiết lập và tạo hoạt hình cho nhân vật.
+*   Kết xuất hình ảnh chất lượng cao với Arnold renderer trong Maya.
+*   Học ghép ảnh nâng cao với Nuke.
+*   Dự án điện tử sẽ liên quan đến việc tạo một dự án hoạt hình thực tế với phần mềm đã học trong kỳ này.
+
+Tổng thời lượng khóa học AMSP:
+Tổng thời lượng của khóa học AMSP là 752 giờ, được phân bổ như sau:
+*   Kỳ 1 (Thiết kế đồ họa): 86 giờ lý thuyết, 90 giờ thực hành, tổng 176 giờ.
+*   Kỳ 2 (Thiết kế web và kỹ thuật số): 78 giờ lý thuyết, 48 giờ thực hành, tổng 126 giờ.
+*   Kỳ 3 (Làm phim & thiết kế game): 110 giờ lý thuyết, 132 giờ thực hành, tổng 242 giờ.
+*   Kỳ 4 (Hoạt hình 3D): 104 giờ lý thuyết, 104 giờ thực hành, tổng 208 giờ.
+*   Tổng cộng: 378 giờ lý thuyết, 374 giờ thực hành, tổng 752 giờ.
+
 Tổng quan ngành M&E toàn cầu:
 Thị trường Hoạt hình, VFX và Game toàn cầu dự kiến đạt 517.040 triệu USD vào năm 2027, tăng từ 419.300 triệu USD vào năm 2020. Khoảng 90% hoạt hình truyền hình Mỹ được sản xuất tại châu Á. Chi phí sản xuất mỗi bộ phim hoạt hình dao động từ 20 triệu USD đến 300 triệu USD.
 
@@ -18,25 +119,25 @@ Trong suốt khóa học, học viên sẽ phát triển danh mục đầu tư h
 
 So sánh chương trình AMSP cũ và mới:
 Chương trình AMSP mới (OV-6899) có những thay đổi đáng chú ý so với phiên bản cũ (OV-6878).
-*   **Thiết kế giao diện người dùng (UI Design):** Chuyển từ Adobe XD sang Figma.
-*   **Ghép ảnh kỹ thuật số (Digital Compositing):** Chuyển từ Blackmagic Fusion sang Nuke.
-*   **Lightroom cho nhiếp ảnh gia:** Hai mô-đun riêng biệt (Khái niệm nhiếp ảnh và Hậu kỳ) được gộp thành một mô-đun duy nhất.
-*   **Chiếu sáng và kết xuất đối tượng 3D với Maya:** Mô-đun làm việc với Arnold Renderer trước đây là riêng biệt, nay được gộp vào mô-đun Chiếu sáng và kết xuất đối tượng 3D với Maya.
+*   Thiết kế giao diện người dùng (UI Design): Chuyển từ Adobe XD sang Figma.
+*   Ghép ảnh kỹ thuật số (Digital Compositing): Chuyển từ Blackmagic Fusion sang Nuke.
+*   Lightroom cho nhiếp ảnh gia: Hai mô-đun riêng biệt (Khái niệm nhiếp ảnh và Hậu kỳ) được gộp thành một mô-đun duy nhất.
+*   Chiếu sáng và kết xuất đối tượng 3D với Maya: Mô-đun làm việc với Arnold Renderer trước đây là riêng biệt, nay được gộp vào mô-đun Chiếu sáng và kết xuất đối tượng 3D với Maya.
 
 Phương pháp đánh giá mới AMSP:
 Phương pháp đánh giá mới của chương trình AMSP được chia đều thành bốn phần, mỗi phần chiếm 25% tổng điểm.
-*   **Bài kiểm tra lý thuyết mô-đun (MET):** 25%
-*   **Bài kiểm tra thực hành mô-đun (MEP):** 25%
-*   **Bài tập nội bộ:** 25%
-*   **Dự án điện tử/Dự án:** 25%
+*   Bài kiểm tra lý thuyết mô-đun (MET): 25%
+*   Bài kiểm tra thực hành mô-đun (MEP): 25%
+*   Bài tập nội bộ: 25%
+*   Dự án điện tử/Dự án: 25%
 
 Chiến lược đánh giá dự án điện tử:
 Dự án điện tử được đánh giá với tổng 100 điểm, chia thành hai phần chính.
-*   **Đánh giá bởi APTECH HO (50 điểm):**
+*   Đánh giá bởi APTECH HO (50 điểm):
     *   Tài liệu: 10 điểm
     *   Trực quan hóa: 10 điểm
     *   Thực hiện: 30 điểm
-*   **Đánh giá bởi TRUNG TÂM ARENA (50 điểm):**
+*   Đánh giá bởi TRUNG TÂM ARENA (50 điểm):
     *   Tham gia: 15 điểm
     *   Vấn đáp: 20 điểm
     *   Báo cáo: 15 điểm
@@ -57,106 +158,6 @@ Chương trình AMSP là một chương trình định hướng nghề nghiệp 
 *   Ứng dụng thực tế các công cụ và phần mềm.
 *   Phát triển showreel và danh mục đầu tư có hướng dẫn.
 *   Trải nghiệm học tập điện tử với Onlinevarsity.
-
-Cấu trúc khóa học AMSP:
-Khóa học AMSP được chia thành bốn kỳ, với tổng thời lượng 752 giờ.
-*   **Kỳ 1:** Bộ thiết kế đồ họa.
-*   **Kỳ 2:** Bộ thiết kế web & kỹ thuật số.
-*   **Kỳ 3:** Làm phim & thiết kế game.
-*   **Kỳ 4:** Hoạt hình 3D.
-
-Chi tiết khóa học trong APTRACK:
-Chương trình AMSP (OV-6899-AMSP) cung cấp các chứng chỉ và bằng cấp khác nhau tùy theo số kỳ học.
-*   **Chứng chỉ Đa phương tiện (CIM):** Mã khóa học OV-6899-CIM, hoàn thành Kỳ 1.
-*   **Bằng Đa phương tiện (DIM):** Mã khóa học OV-6899-DIM, hoàn thành Kỳ 1 & 2.
-*   **Bằng Cao đẳng Đa phương tiện Nâng cao (ADIM):** Mã khóa học OV-6899-ADIM, hoàn thành Kỳ 1 đến 4.
-
-Chứng nhận khóa học AMSP:
-Học viên sẽ nhận được các chứng nhận sau khi hoàn thành các kỳ học:
-*   **Kỳ 1:** Chứng chỉ Đa phương tiện (CIM).
-*   **Kỳ 1 - 2:** Bằng Đa phương tiện (DIM).
-*   **Kỳ 1 - 4:** Bằng Cao đẳng Đa phương tiện Nâng cao (ADIM).
-
-Kỳ 1: Bộ thiết kế đồ họa:
-Kỳ 1 tập trung vào thiết kế đồ họa với tổng thời lượng 176 giờ, bao gồm 86 giờ lý thuyết và 90 giờ thực hành.
-*   **Các mô-đun:** Khái niệm đồ họa và minh họa, Thiết kế kiểu chữ, Nghệ thuật kỹ thuật số, Phép thuật với hình ảnh, Lightroom cho nhiếp ảnh gia, Thiết kế cho in ấn và quảng cáo, Xuất bản cho truyền thông, Danh mục đầu tư in ấn (Dự án).
-*   **Công cụ/Phần mềm:** Adobe Illustrator, Adobe Photoshop, Adobe Lightroom, Adobe InDesign & InCopy.
-*   **Cơ hội nghề nghiệp:** Nhà thiết kế đồ họa, Họa sĩ minh họa, Nhà thiết kế bố cục, Người hình dung, Biên tập viên ảnh.
-
-Kỳ 1: Kết quả học tập:
-Học viên sẽ học cách tạo ra ý tưởng sáng tạo và chuyển đổi chúng thành các thiết kế đồ họa hiệu quả.
-*   Hiểu các khái niệm cơ bản về đồ họa và minh họa.
-*   Học các yếu tố vẽ, loại hình vẽ, bố cục vẽ để vẽ từ đầu.
-*   Học các kỹ thuật cơ bản về kiểu chữ, theo dõi sự phát triển và các khía cạnh khác nhau của kiểu chữ.
-*   Học cách tạo minh họa bằng Adobe Illustrator.
-*   Học cách tạo đồ họa mạnh mẽ bằng Adobe Photoshop.
-*   Học các công cụ và quy tắc của nhiếp ảnh kỹ thuật số.
-*   Hiểu các kỹ thuật hậu kỳ bằng Lightroom.
-*   Hiểu các khái niệm về Thiết kế cho in ấn và Quảng cáo.
-*   Mô tả khía cạnh chức năng của quảng cáo in ấn.
-*   Thiết kế và xuất bản bố cục trang cho tạp chí và tài liệu quảng cáo.
-
-Kỳ 2: Bộ thiết kế web & kỹ thuật số:
-Kỳ 2 tập trung vào thiết kế web và kỹ thuật số với tổng thời lượng 126 giờ, bao gồm 78 giờ lý thuyết và 48 giờ thực hành.
-*   **Các mô-đun:** Khái niệm thiết kế web, Xây dựng trang web thế hệ tiếp theo, Thiết kế trang web, Hoạt hình web, UI và UX cho thiết kế web đáp ứng, Thiết kế UI, Bootstrap, Danh mục đầu tư web (Dự án điện tử).
-*   **Công cụ/Phần mềm:** HTML, CSS và JavaScript, Adobe Dreamweaver, Adobe Animate, Figma, Bootstrap.
-*   **Cơ hội nghề nghiệp:** Hoạt hình viên web, Nhà thiết kế web, Nhà phát triển web, Nhà thiết kế UI/UX.
-
-Kỳ 2: Kết quả học tập:
-Kỳ 2 tập trung vào việc truyền đạt kỹ năng thiết kế sản phẩm kỹ thuật số và hoạt hình web bằng cách sử dụng các công nghệ, công cụ và khuôn khổ web khác nhau.
-*   Giải thích các nguyên tắc thiết kế web tốt, kết hợp đồ họa và siêu liên kết, tạo nội dung web phong phú.
-*   Học cách sử dụng JavaScript hiệu quả để làm cho các trang web năng động và chức năng hơn.
-*   Thiết kế, mã hóa và phát triển trang web.
-*   Tạo hoạt hình 2D với nội dung tương tác cơ bản cho web.
-*   Hiểu và tạo thiết kế giao diện người dùng tương tác.
-*   Học cách thiết kế trang web bằng Dreamweaver CC.
-*   Tạo wireframe, prototype và thiết kế màn hình cho các sản phẩm kỹ thuật số.
-*   Dự án điện tử trong kỳ này sẽ liên quan đến việc xây dựng một ứng dụng thực tế bằng các công nghệ web đã học.
-
-Kỳ 3: Làm phim & thiết kế game:
-Kỳ 3 tập trung vào làm phim và thiết kế game với tổng thời lượng 242 giờ, bao gồm 110 giờ lý thuyết và 132 giờ thực hành.
-*   **Các mô-đun:** Khái niệm làm phim kỹ thuật số, Kịch bản phân cảnh, Nhạc phim kỹ thuật số, Chỉnh sửa video kỹ thuật số, Tạo đồ họa chuyển động, Ý tưởng và hình dung game, Giới thiệu Blender, Mô hình hóa tài sản game, Retopology tài sản game, Tạo kết cấu tài sản game, Thiết kế cấp độ, Danh mục đầu tư thiết kế game 3D (Dự án).
-*   **Công cụ/Phần mềm:** Adobe Audition, Adobe Premier Pro, Adobe After Effects, Blender, Substance Painter, Unity 3D.
-*   **Cơ hội nghề nghiệp:** Không có cơ hội nghề nghiệp riêng biệt được liệt kê cho kỳ này.
-
-Kỳ 3: Kết quả học tập:
-Kỳ 3 tập trung vào việc truyền đạt các kỹ năng chỉnh sửa âm thanh-video, đồ họa chuyển động, thiết kế tài sản/nội dung 3D và game bằng cách sử dụng các công cụ được sử dụng rộng rãi trong ngành.
-*   Hiểu các khái niệm làm phim và toàn bộ quy trình làm phim kỹ thuật số.
-*   Giải thích các kỹ thuật và tầm quan trọng của kịch bản phân cảnh.
-*   Tạo, ghi và chỉnh sửa video/âm thanh.
-*   Chỉnh sửa và ghép video, tạo đồ họa chuyển động.
-*   Học các cách khác nhau để kể chuyện cho game.
-*   Hiểu giao diện người dùng, công cụ điều hướng, bảng điều khiển và tính năng của Blender.
-*   Hướng dẫn cách mô hình hóa tài sản 3D trong Blender.
-*   Học và hướng dẫn cách UV map tài sản 3D của bạn trong Blender.
-*   Tạo và vẽ kết cấu nhân vật và tài sản 3D trong Substance Painter.
-*   Học thiết kế cấp độ với Unity 3D.
-
-Kỳ 4: Hoạt hình 3D:
-Kỳ 4 tập trung vào hoạt hình 3D với tổng thời lượng 208 giờ, bao gồm 104 giờ lý thuyết và 104 giờ thực hành.
-*   **Các mô-đun:** Tiền sản xuất kỹ thuật số, Mô hình hóa đối tượng 3D với Maya, Tạo kết cấu đối tượng 3D với Maya, Chiếu sáng và kết xuất đối tượng 3D với Maya, Rigging đối tượng 3D với Maya, Hoạt hình nhân vật với Maya, Ghép ảnh kỹ thuật số, Phát triển danh mục đầu tư với Demo Reel (Dự án điện tử).
-*   **Công cụ/Phần mềm:** MAYA Unlimited, Arnold Renderer, NUKE.
-*   **Cơ hội nghề nghiệp:** Người ghép ảnh, Nghệ sĩ game 3D, Hoạt hình viên 3D, Người tạo mô hình 3D, Nghệ sĩ tạo kết cấu, Nghệ sĩ chiếu sáng, Nghệ sĩ rigging, Biên tập viên âm thanh/video, Nghệ sĩ kết xuất.
-
-Kỳ 4: Kết quả học tập:
-Khóa học Kỳ 4 cung cấp cho học viên nền tảng vững chắc về kỹ thuật mô hình hóa và hoạt hình 3D, ghép ảnh kỹ thuật số nâng cao.
-*   Trang bị kỹ năng và kiến thức cần thiết để tạo hoạt hình 3D, hình dung và ghép ảnh dựa trên nút, hoàn hảo đến từng pixel bằng Maya và Nuke.
-*   Hiểu quy trình tiền sản xuất phức tạp cho hoạt hình.
-*   Chuẩn bị mô hình 3D bằng công cụ mô hình hóa.
-*   Tạo và chỉnh sửa kết cấu cho mô hình 3D trong Maya.
-*   Hiểu các kỹ thuật chiếu sáng để tạo hình ảnh chân thực.
-*   Thiết lập và tạo hoạt hình cho nhân vật.
-*   Kết xuất hình ảnh chất lượng cao với Arnold renderer trong Maya.
-*   Học ghép ảnh nâng cao với Nuke.
-*   Dự án điện tử sẽ liên quan đến việc tạo một dự án hoạt hình thực tế với phần mềm đã học trong kỳ này.
-
-Tổng thời lượng khóa học AMSP:
-Tổng thời lượng của khóa học AMSP là 752 giờ, được phân bổ như sau:
-*   **Kỳ 1 (Thiết kế đồ họa):** 86 giờ lý thuyết, 90 giờ thực hành, tổng 176 giờ.
-*   **Kỳ 2 (Thiết kế web và kỹ thuật số):** 78 giờ lý thuyết, 48 giờ thực hành, tổng 126 giờ.
-*   **Kỳ 3 (Làm phim & thiết kế game):** 110 giờ lý thuyết, 132 giờ thực hành, tổng 242 giờ.
-*   **Kỳ 4 (Hoạt hình 3D):** 104 giờ lý thuyết, 104 giờ thực hành, tổng 208 giờ.
-*   **Tổng cộng:** 378 giờ lý thuyết, 374 giờ thực hành, tổng 752 giờ.
 
 Yêu cầu kỹ năng giảng viên Kỳ 1:
 Giảng viên cần có kiến thức vững chắc về các chi tiết của kỳ học.
@@ -197,15 +198,15 @@ Giảng viên cần có kiến thức vững chắc về các chi tiết của k
 *   Khả năng rigging các nhân vật phức tạp, bao gồm các rig khuôn mặt và kỹ thuật biến dạng nâng cao trong Maya.
 *   Kinh nghiệm tạo hoạt hình cho nhân vật với chuyển động và cảm xúc chân thực bằng Maya.
 *   Thành thạo phần mềm Nuke, bao gồm hiểu biết sâu sắc về các công cụ, kỹ thuật và quy trình làm việc ghép ảnh của nó.
-*   **Kỹ năng mềm cần thiết:** Kỹ năng giao tiếp và giảng dạy tốt: Giảng viên phải có khả năng truyền đạt các khái niệm phức tạp một cách rõ ràng, súc tích và có khả năng thu hút, động viên học viên.
+*   Kỹ năng mềm cần thiết: Kỹ năng giao tiếp và giảng dạy tốt: Giảng viên phải có khả năng truyền đạt các khái niệm phức tạp một cách rõ ràng, súc tích và có khả năng thu hút, động viên học viên.
 
 Yêu cầu phần cứng:
 Để đáp ứng yêu cầu của chương trình, cần có cấu hình phần cứng sau:
-*   **Bộ xử lý:** Intel i7/ AMD Ryzen 7 trở lên.
-*   **Bộ nhớ RAM:** 16 GB (khuyến nghị 32 GB DDR4).
-*   **Ổ cứng SSD:** 256 GB (ổ đĩa hệ điều hành).
-*   **Ổ cứng HDD:** 1 TB (ổ đĩa dữ liệu).
-*   **Card đồ họa/DirectX:** Phiên bản 4 GB rời (khuyến nghị 8 GB, ưu tiên dòng NVIDIA RTX).
+*   Bộ xử lý: Intel i7/ AMD Ryzen 7 trở lên.
+*   Bộ nhớ RAM: 16 GB (khuyến nghị 32 GB DDR4).
+*   Ổ cứng SSD: 256 GB (ổ đĩa hệ điều hành).
+*   Ổ cứng HDD: 1 TB (ổ đĩa dữ liệu).
+*   Card đồ họa/DirectX: Phiên bản 4 GB rời (khuyến nghị 8 GB, ưu tiên dòng NVIDIA RTX).
 
 Yêu cầu công cụ phần mềm:
 Chương trình yêu cầu sử dụng các công cụ phần mềm sau:
@@ -263,12 +264,12 @@ Arena Multimedia tạo điều kiện cho học viên tiếp cận bằng cấp 
 
 Lộ trình AMSP đến bằng cấp:
 Lộ trình từ AMSP đến bằng cấp được thực hiện qua các bước sau:
-*   **Bước 1:** Đến trung tâm Arena Multimedia.
-*   **Bước 2:** Đăng ký AMSP/ADIM.
-*   **Bước 3:** Nhận chứng nhận Cao đẳng Nâng cao Arena.
-*   **Bước 4:** Nhận chứng chỉ được xác nhận và Thư chấp nhận tạm thời từ trường đại học.
-*   **Bước 5:** Học năm cuối tại Đại học Lincoln (LUC) hoặc Đại học Middlesex (MDX).
-*   **Bước 6:** Nhận bằng Cử nhân (Danh dự) về Hoạt hình / Hoạt hình 3D & Game.
+*   Bước 1: Đến trung tâm Arena Multimedia.
+*   Bước 2: Đăng ký AMSP/ADIM.
+*   Bước 3: Nhận chứng nhận Cao đẳng Nâng cao Arena.
+*   Bước 4: Nhận chứng chỉ được xác nhận và Thư chấp nhận tạm thời từ trường đại học.
+*   Bước 5: Học năm cuối tại Đại học Lincoln (LUC) hoặc Đại học Middlesex (MDX).
+*   Bước 6: Nhận bằng Cử nhân (Danh dự) về Hoạt hình / Hoạt hình 3D & Game.
 
 Tại sao nói Arena là chương trình đào tạo Multimedia tiên tiến của châu Á? 
 Chương trình ưu tú của Arena hiện nay đã vươn ra ngoài phạm vi châu Á. Hiện tại Arena có mặt ở 15 quốc gia toàn cầu với hơn 300 trung tâm đào tạo. Arena Multimedia là một nhánh đào tạo quan trọng của tập đoàn đào tạo công nghệ thông tin Aptech Ấn Độ, đất nước được đánh giá là phát triển mạnh nhất châu Á về công nghệ thông tin. Từ khi ra đời, Arena có được sự ủng hộ rộng lớn. Đáp ứng nhu cầu công nghệ trong lĩnh vực mỹ thuật, giải trí, Arena trở thành đơn vị tiên phong trong đào tạo Multimedia. Sau hơn 10 năm, Arena nổi tiếng toàn châu Á về việc chuyên đào tạo các chuyên gia cho lĩnh vực Multimedia. Chính vì vậy Trường Đào tạo Mỹ thuật Đa phương tiện Arena Multimedia đã được chọn để hợp tác chuyển giao chương trình đào tạo cho sinh viên Việt Nam.
