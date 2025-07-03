@@ -8,4 +8,6 @@ unidecode
 filetype
 rapidfuzz
 python-docx
+gspread 
+google-auth
 tiktoken

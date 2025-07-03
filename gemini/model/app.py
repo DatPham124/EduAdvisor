@@ -9,6 +9,9 @@ from unidecode import unidecode
 import time
 import re
 import tiktoken
+import gspread
+from google.oauth2.service_account import Credentials
+from datetime import datetime
 
 dotenv.load_dotenv()
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
@@ -21,26 +24,50 @@ collection = db["documents"]
 app = Flask(__name__)
 chat_history = []
 
-def normalize_text(text):
-    text = unidecode(text)
-    text = text.lower()
-    text = re.sub(r"[^\w\s]", "", text)
-    text = re.sub(r"\s+", " ", text).strip()
-    return text
-
 def count_tokens_tiktoken(text):
-    encoding = tiktoken.get_encoding("cl100k_base")  # gần giống tokenizer của GPT-4/Gemini
-    tokens = encoding.encode(text)
-    return len(tokens)
+    encoding = tiktoken.get_encoding("cl100k_base")
+    return len(encoding.encode(text))
 
-def find_intents(question, intent_list, user_info=None, faq_text=None, chat_session=None):
-    start = time.time()
+def append_to_google_sheet(question, answer, time_taken, count_token):
+    try:
+        scope = ["https://www.googleapis.com/auth/spreadsheets"]
+        creds = Credentials.from_service_account_file("../credentials.json", scopes=scope)
+        client = gspread.authorize(creds)
 
+        spreadsheet_id = os.getenv("GOOGLE_SHEET_ID")
+        sheet = client.open_by_key(spreadsheet_id).worksheet("test_v1")  # <-- đổi thành tên sheet của bạn
+
+        # Kiểm tra xem có tiêu đề chưa
+        header = sheet.row_values(1)
+        if not header or "Ngày test" not in header:
+            sheet.insert_row(["STT", "Ngày test", "Câu hỏi", "Câu trả lời", "Điểm", "Thời gian xử lý", "Số token"], index=1)
+
+        # Xác định số thứ tự (STT)
+        num_rows = len(sheet.get_all_values())  # bao gồm cả dòng tiêu đề
+        stt = num_rows  # vì dòng tiêu đề là hàng 1 → STT thực tế bắt đầu từ 1
+
+        timestamp = datetime.now().strftime("%d-%m-%Y")
+        sheet.append_row([
+            stt,              # STT
+            timestamp,        # Ngày test
+            question,         # Câu hỏi
+            answer,           # Câu trả lời
+            "",               # Điểm (để trống)
+            f"{time_taken:.2f} giây",  # Thời gian xử lý
+            count_token       # Số token
+        ])
+        print(f"[GGSheet] Saved row STT {stt} to Google Sheet.")
+    except Exception as e:
+        print("[GGSheet] Error saving to Google Sheet:", e)
+
+
+
+def find_intents(question, intent_list, user_info=None, chat_session=None):
     prompt = f"""
         Bạn là chuyên gia phân tích ngữ cảnh cho chatbot tại Trung tâm CUSC.
         Bạn luôn xem lại toàn bộ đoạn hội thoại giữa người dùng và trợ lý AI để nhận diện ngữ cảnh của câu hỏi hiện tại.
         Bạn sẽ nhận được một đoạn hội thoại và câu hỏi mới từ người dùng. 
-        Nhiệm vụ của bạn là xác định intent phù hợp nhất với câu hỏi mới dựa trên ngữ cảnh đã có.
+        Nhiệm vụ của bạn là xác định intent phù hợp nhất với câu hỏi mới dựa trên ngữ cảnh đã có, sở thích người dùng và lịch sử hội thoại.
 
         Bây giờ, người dùng vừa hỏi: "{question}"
 
@@ -52,27 +79,23 @@ def find_intents(question, intent_list, user_info=None, faq_text=None, chat_sess
         - Xem lại toàn bộ đoạn hội thoại.
         - Nếu thấy người dùng đang **hỏi sâu hơn** về một nội dung nào đã được đề cập → giữ lại intent tương ứng.
         - Nếu câu hỏi mới có thể **liên kết mạch nội dung** từ câu trước → giữ lại intent đó.
-        - Nếu hoàn toàn không liên quan → trả về "no".
+        - Nếu câu hỏi mới **không liên quan** đến bất kỳ intent nào trong danh sách → trả về "no".
+        - Nếu câu hỏi liên quan đến các lĩnh vực khác như ăn uống, giải trí, du lịch, sức khỏe, v.v. và không liên quan đến trung tâm CUSC → trả lời "no".
 
         Trả về duy nhất 1 intent phù hợp nhất. KHÔNG giải thích.
     """
+    intent_tokens = count_tokens_tiktoken(prompt)
+
     try:
         response = chat_session.send_message(prompt)
         if response.candidates:
             candidate = response.candidates[0]
             if candidate.finish_reason == 1 and candidate.content.parts:
-                return response.text.strip()
-            else:
-                print(f"[LỖI] Gemini từ chối trả lời. finish_reason: {candidate.finish_reason}")
-                return "no"
-        else:
-            print("[LỖI] Không có candidate nào được trả về trong find_intents.")
-            return "no"
+                return response.text.strip(), intent_tokens
+        return "no", intent_tokens
     except Exception as e:
-        print("[LỖI] Exception trong find_intents:", e)
-        return "no"
-    finally:
-        print(f"[Time] Find intents took: {time.time() - start} giây")
+        print("[ERR] Exception in find_intents:", e)
+        return "no", intent_tokens
 
 def get_data_from_metadata(intents):
     list_intents = [i.strip() for i in intents.split('.') if i.strip()]
@@ -98,52 +121,51 @@ def get_data_from_metadata(intents):
     return combined_content.strip() if combined_content else None
 
 def generate_answer(question, context, user_info=None, chat_session=None):
-    start = time.time()
     prompt = f"""
     Luôn nhấn mạnh sau lời chào rằng bạn là một trợ lý AI hỗ trợ việc tư vấn tuyển sinh của Trung tâm công nghệ phần mềm CUSC.
-    Bạn chỉ tư vấn các thông tin về Trung tâm, các câu hỏi không liên quan đến trung tâm hãy trả lời là "Xin lỗi, tôi không thể giúp về vấn đề này. Bạn hãy liên hệ với nhân viên tư vấn để được hỗ trợ.".
-    Nếu người dùng khen hay chê bạn, hãy trả lời là "Cảm ơn bạn đã phản hồi. Tôi sẽ cố gắng cải thiện hơn nữa.".
-    Nếu người dùng cảm ơn, hãy trả lời "Không có gì đâu ạ, mình rất vui được hỗ trợ bạn".
     
-    Thông tin dùng để trả lời:
+    Bạn chỉ tư vấn các thông tin về Trung tâm. 
+    Các câu hỏi liên quan đến các lĩnh vực khác như ăn uống, giải trí, du lịch, sức khỏe, v.v. và không liên quan đến trung tâm CUSC, 
+    hãy trả lời là "Xin lỗi, tôi không thể giúp về vấn đề này. Bạn hãy liên hệ với nhân viên tư vấn để được hỗ trợ.".
+    
+    Chỉ đưa thông tin liên hệ khi bạn không thể trả lời câu hỏi của người dùng và đặt nó trên câu hỏi gợi ý.
+    Nếu người dùng khen, chê hay cảm ơn bạn, hãy trả lời là "Cảm ơn bạn đã phản hồi. Tôi sẽ cố gắng cải thiện hơn nữa.".
+
     Thông tin người dùng: {user_info or "(Không có thông tin)"}
     Câu hỏi: "{question}"
-    Ngữ cảnh: {context}. Nếu khôn có ngữ cảnh, hãy trả về kết quả là "Xin lỗi, tôi không thể trả lời câu hỏi này.".
+    Ngữ cảnh: {context}
 
-    Nếu có ngữ cảnh thì trả lời theo hướng dẫn sau: 
-    - Bạn luôn trả lời ngắn gọn, chính xác, dễ hiểu và đúng trọng tâm với câu hỏi của người dùng.
-    - Các từ về chuyên ngành, chức vụ vị trí, tên người phải được giữ nguyên.   
-    - Khi người dùng hỏi về số lượng, hãy tính toán và trả lời chính xác.
+    Liên hệ với chúng tôi nếu cần hỗ trợ thêm thông tin về CUSC:
+    - Địa chỉ: Khu III, Đại học Cần Thơ, 01 Lý Tự Trọng, Q. Ninh Kiều, TP. Cần Thơ.
+    - Điện thoại: +84 292 383 5581
+    - Hotline: 0901990665, 0911204994
+    - Zalo: 0868 952 535, 0868 952 545
+    - Fanpage: https://www.facebook.com/CUSC.CE
+    Chúng tôi làm việc từ 7h30 đến 17h30, thứ 2 đến thứ 6, nghỉ thứ 7 và chủ nhật. Hãy liên hệ để chúng tôi hỗ trợ bạn tốt nhất!
 
-    - Nếu người dùng hỏi về học phí, hãy hướng dẫn họ liên hệ với với tư vấn viên qua các phương thức sau:
-        - Gọi điện thoại: 0292 383 5581 
-        - Liên hệ Hotline: 0901990665 - 0911204994
-        - Kết bạn qua Zalo: 0868 952 535 - 0868 952 545
-  
-   - Trình bày dạng danh sách nếu dữ liệu nhiều mục.
-   - Trình bày dạng bảng khi so sánh.
+    Bên cạnh đó, bạn có thể tham khảo thêm thông tin về CUSC tại các liên kết sau kết với với dữ liệu từ ngữ cảnh để trả lời câu hỏi:
+    - https://cusc.ctu.edu.vn/
+    - https://aptechcantho.cusc.vn/
+    - https://arenacantho.cusc.vn/
+    - https://acnpro.cusc.vn/
 
-    Nếu có thể, gợi ý câu hỏi tiếp theo ở cuối phần trả lời và cách biệt bằng dấu gạch ngang "---".
+    Nhiệm vụ của bạn:
+    - Trả lời ngắn gọn, rõ ràng, đúng trọng tâm.
+    - Giữ nguyên các từ về chức vụ.
+    - Nếu được, gợi ý câu hỏi tiếp theo sau cùng, cách biệt bằng dấu "---".
     """
-    count_token = count_tokens_tiktoken(prompt)
-    print(f"[Token] Tổng số token trong prompt generate_answer: {count_token}")
+    answer_tokens = count_tokens_tiktoken(prompt)
+
     try:
         response = chat_session.send_message(prompt)
         if response.candidates:
             candidate = response.candidates[0]
             if candidate.finish_reason == 1 and candidate.content.parts:
-                return response.text.strip()
-            else:
-                print(f"[LỖI] Gemini từ chối trả lời. finish_reason: {candidate.finish_reason}")
-                return "Xin lỗi, hiện tại tôi chưa thể trả lời câu hỏi này. Bạn vui lòng liên hệ nhân viên tư vấn nhé!"
-        else:
-            print("[LỖI] Không có candidate nào được trả về trong generate_answer.")
-            return "Không thể sinh câu trả lời từ hệ thống."
+                return response.text.strip(), answer_tokens
+        return "Xin lỗi, tôi chưa thể trả lời câu hỏi này.", answer_tokens
     except Exception as e:
-        print("[LỖI] Exception trong generate_answer:", e)
-        return "Đã xảy ra lỗi. Vui lòng thử lại sau."
-    finally:
-        print(f"[Time] Generate answer took: {time.time() - start} giây")
+        print("[ERR] Exception in generate_answer:", e)
+        return "Đã xảy ra lỗi. Vui lòng thử lại sau.", answer_tokens
 
 @app.route("/chat", methods=["POST"])
 def chat():
@@ -161,14 +183,10 @@ def chat():
         if model_a:
             chat_history.append({"role": "model", "parts": model_a})
 
-    chat_session = gemini_model.start_chat(
-        history=chat_history,
-    )
+    chat_session = gemini_model.start_chat(history=chat_history)
 
     if not question:
         return jsonify({"answer": "Vui lòng nhập câu hỏi."})
-
-    faq = get_data_from_metadata("cau_hoi_thuong_gap")
 
     all_domains = collection.distinct("domain")
     all_subdomains = collection.distinct("subdomain")
@@ -177,18 +195,18 @@ def chat():
     all_relevant_terms = list(set(all_domains + all_subdomains + all_topics + all_intents_from_db))
     intent_list = ". ".join(filter(None, all_relevant_terms))
 
-    intents = find_intents(question, intent_list, user_info, faq, chat_session)
-    print(f"[Intent] Nhận diện ngữ cảnh: {intents}")
-    context = "Không có ngữ cảnh cụ thể."
-    if intents != "no":
-        context = get_data_from_metadata(intents)
+    intents, intent_tokens = find_intents(question, intent_list, user_info, chat_session)
+    context = get_data_from_metadata(intents) if intents != "no" else "Không có ngữ cảnh cụ thể."
 
-    answer = generate_answer(question, context, user_info, chat_session)
+    answer, answer_tokens = generate_answer(question, context, user_info, chat_session)
 
     chat_history.append({"role": "user", "parts": question})
     chat_history.append({"role": "model", "parts": answer})
-    print(f"[Time] Total processing time: {time.time() - start} giây")
-    print(f"--------------------------------------------")
+
+    time_taken = time.time() - start
+    total_tokens = intent_tokens + answer_tokens
+    append_to_google_sheet(question, answer, time_taken, total_tokens)
+
     return jsonify({"answer": answer})
 
 if __name__ == "__main__":

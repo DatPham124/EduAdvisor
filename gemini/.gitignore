@@ -3,6 +3,8 @@ qdrant_storage
 model/__pycache__
 __pycache__
 pdf/
-model/summarize_slides.py
 text.py
 .env
+credentials.json
+model/test_questions.json
+model/app-old.py
