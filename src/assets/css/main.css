@@ -2764,3 +2764,30 @@ p+p {
   border-color: var(--input-color);
   box-shadow: 0 1px var(--input-color) inset, 0 -1px oklch(100% 0 0 / calc(var(--depth) * 0.1)) inset;
 }
+
+.resgister-input {
+  color: #000;
+  border: 1px solid rgb(162, 162, 162);
+  border-radius: 6px;
+  padding: 8px;
+  margin: 5px 0;
+
+}
+
+.btn-primary {
+  background-color: #3d63dd;
+  color: #fff;
+}
+
+form .btn-primary {
+  margin-top: 8px;
+}
+
+.chat-input {
+  padding: 10px;
+  border: 1px solid rgb(162, 162, 162);
+}
+
+.chat-send-btn {
+  padding: 11px;
+}

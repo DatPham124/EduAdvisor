@@ -63,14 +63,7 @@ const Footer = () => {
                     Chuyên ngành đào tạo
                   </a>
                 </li>
-                <li>
-                  <a
-                    href="javascript:void(0)"
-                    class="mb-3 inline-block text-body-dark-11 hover:text-primary"
-                  >
-                    Tư vấn trực tuyến
-                  </a>
-                </li>
+                
               </ul>
             </div>
           </div>
