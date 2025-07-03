@@ -1,10 +1,11 @@
 import lineClamp from '@tailwindcss/line-clamp';
+import typography from '@tailwindcss/typography';
 
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: ['./index.html', './src/**/*.{js,jsx,ts,tsx}'], // Đường dẫn đến các file sử dụng Tailwind
+  content: ['./index.html', './src/**/*.{js,jsx,ts,tsx}'],
   theme: {
-    extend: {}, // Tùy chỉnh theme nếu cần
+    extend: {},
   },
-  plugins: [lineClamp],
+  plugins: [lineClamp, typography],
 };
