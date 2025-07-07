@@ -12,6 +12,7 @@ import tiktoken
 import gspread
 from google.oauth2.service_account import Credentials
 from datetime import datetime
+from flask_cors import CORS
 
 dotenv.load_dotenv()
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
@@ -22,6 +23,7 @@ db = client["eduadvisor"]
 collection = db["documents"]
 
 app = Flask(__name__)
+CORS(app) 
 chat_history = []
 
 def count_tokens_tiktoken(text):
@@ -173,6 +175,7 @@ def chat():
     data = request.get_json()
     question = data.get("question")
     user_info = data.get("user_info", "")
+    print(f"User info: ",user_info )
     db_history = data.get("history", [])
 
     for entry in db_history:
@@ -199,6 +202,7 @@ def chat():
     context = get_data_from_metadata(intents) if intents != "no" else "Không có ngữ cảnh cụ thể."
 
     answer, answer_tokens = generate_answer(question, context, user_info, chat_session)
+    print(f"[History]", chat_history)
 
     chat_history.append({"role": "user", "parts": question})
     chat_history.append({"role": "model", "parts": answer})
@@ -209,5 +213,16 @@ def chat():
 
     return jsonify({"answer": answer})
 
+@app.route("/user_info", methods=["POST"])
+def save_user_info():
+    try:
+        data = request.get_json()
+        print("[User Info Received]", data)
+        # Ở đây bạn có thể lưu vào MongoDB nếu cần thiết
+        return jsonify({"message": "Thông tin đã nhận"}), 200
+    except Exception as e:
+        print("[ERR] Error saving user info:", e)
+        return jsonify({"message": "Lỗi server"}), 500
+    
 if __name__ == "__main__":
     app.run(port=5000)
